@@ -21,14 +21,5 @@ header {
 	padding-left: 20px;
 	padding-top: 20px;
 	padding-bottom:20px;
-}
-@media projection{
-  body{ background-color:#FFFFFF; }
-  #heading{ font-size:28px; }
-}
-@media print{
-  body{ background-color:#FFFFFF; background-image:none; color:#000000 }
-  #ad{ display:none;}
-  #leftbar{ display:none;}
-  #contentarea{ width:100%;}
+	padding-right: 10px;
 }

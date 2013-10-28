@@ -1,19 +1,12 @@
-/* Remove unwanted elements */
+
 
 header.noprint{
 	display:none;
 }
-/* Ensure the content spans the full width */
 #content{
-width: 100%; 
+width: 95%; 
 margin: 0; 
 float: none;
-}
-.lighttext
-{
-color: #000 
-}
-a:link, a:visited
-{
-color: #781351
+font-family:times,serif;
+font-size: 12px;
 }
