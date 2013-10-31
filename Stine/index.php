@@ -29,7 +29,7 @@
 			.overlay{
 				height: 480px;
 				width: 480px;
-				background-color: teal;
+				background-color:  	rgba(240,240,240,50)  ;
 				position: absolute;
 				top:0;
 				right:0;
@@ -41,8 +41,7 @@
 		$(document).ready(function(){
 
 			$('.lenke').hover(function(){
-				$(this).children('.overlay').fadeIn('slow');
-				console.log(this);					
+				$(this).children('.overlay').fadeIn('slow');					
 				},function(){
 				$(this).children('.overlay').fadeOut('slow'); 
 			});
