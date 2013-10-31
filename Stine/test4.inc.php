@@ -2,6 +2,6 @@
 	<img class="fargefelt" id="felt4" src="./felter/felt4.jpg" alt="feltNr4"> 
 </div>
 
-<p>tilbake</p>		
+<p><a href="index.php">tilbake</a></p>		
 
 <p>tekst tekst tekst</p>
