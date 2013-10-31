@@ -9,6 +9,7 @@
 				display: block;
 			}
 			nav {
+				width:100%;
 				float:left;
 				padding: 0 0;
 				margin: 0 0;
@@ -20,42 +21,34 @@
 			#navliste li{
 				list-style: none;
 				float : left;
-				position: relative;		
+				width:50%;
+				height:	50%;			
 			}
+			#navliste li#meny1 {
+
+				background:url("../felter/felt1.jpg");
+				background-size:cover;
+			}
+			#navliste li#meny2 {
+				background:url("../felter/felt2.jpg");
+				background-size:cover;
+			}
+			#navliste li#meny3 {
+				background:url("../felter/felt3.jpg");
+				background-size:cover;
+			}
+			#navliste li#meny4 {
+				
+				background:url("../felter/felt4.jpg");
+				background-size:cover;
+			}
+
 			body{
 				padding: 0 0;
 				margin: 0 0;
-			}
-			.overlay{
-				height: 480px;
-				width: 480px;
-				background-color: teal;
-				position: absolute;
-				top:0;
-				right:0;
-				display: none;
-			}
+			}						
+
 		</style>
-		<script>
-
-		$(document).ready(function(){
-
-			$('.lenke').hover(function(){
-				$(this).children('.overlay').fadeIn('slow');
-				console.log(this);					
-				},function(){
-				$(this).children('.overlay').fadeOut('slow'); 
-			});
-		});
-
-/*		$(document).ready(function(){ 
-				$(".knapp").hover(function(){
-					 $(this).animate({height:'55px',width:'55px',margin:'0px' });
-				},function(){
-					 $(this).animate({height:'35px', width:'35px',margin: '10px'});						
-						});
-					});*/
-		</script>
 	</head>
 	<body>
 		<?php
@@ -74,6 +67,8 @@
 				include 'meny.inc.php';
 				}
 		?>
-
+		<script>
+		$('ul').css('height', $(window).height()+'px').css('width', $(window).width()+'px');
+		</script>
 	</body>
 </html>
