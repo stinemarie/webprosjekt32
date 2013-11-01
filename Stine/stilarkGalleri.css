@@ -1,0 +1,40 @@
+.oppskrift body{
+	padding: 0 0;
+	margin: 0 0;
+}
+.oppskrift .fargefelt{
+	display: block;
+}
+.oppskrift #oppskriftnav {
+	float:left;
+	padding: 0 0;
+	margin: 0 0;
+}
+.oppskrift #navliste {
+	padding: 0 0;
+	margin: 0 0;
+}
+.oppskrift #navliste li{
+	list-style: none;
+	float : left;
+	position: relative;		
+}
+
+.oppskrift .overlay{
+	height: 480px;
+	width: 480px;
+	background-color: rgba(240,240,240,0.5);
+	position: absolute;
+	top:0;
+	right:0;
+	display: none;
+}
+
+.oppskrift .tekst{
+	color: white;
+	font-size: 30px;
+	font-family: "Gill Sans", sans-serif;
+	font-weight: heavy;
+	margin: 20px;
+	overflow: hidden;
+}

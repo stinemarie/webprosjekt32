@@ -1,85 +1,46 @@
+<?php  error_reporting(E_ALL) ?>
+
 <!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
+		<link charset="UTF-8" rel="stylesheet" title="stilark" type="text/css" href="stilarkGalleri.css">
 		<title>galleri</title>
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-		<style>	
-			body{
-				padding: 0 0;
-				margin: 0 0;
-			}
-			.fargefelt{
-				display: block;
-			}
-			#oppskriftnav {
-				float:left;
-				padding: 0 0;
-				margin: 0 0;
-			}
-			#navliste {
-				padding: 0 0;
-				margin: 0 0;
-			}
-			#navliste li{
-				list-style: none;
-				float : left;
-				position: relative;		
-			}
-	
-			.overlay{
-				height: 480px;
-				width: 480px;
-				background-color: rgba(240,240,240,0.5);
-				position: absolute;
-				top:0;
-				right:0;
-				display: none;
-			}
-
-			.tekst{
-				color: white;
-				font-size: 30px;
-				font-family: "Gill Sans", sans-serif;
-				font-weight: heavy;
-				margin: 20px;
-				overflow: hidden;
-			}
-
-		</style>
-		<script>
-
-			$(document).ready(function(){
-				$('.lenke').hover(function(){
-					$(this).children('.overlay').fadeIn('slow');					
-				},function(){
-					$(this).children('.overlay').fadeOut('fast'); 
-				});
-			});
-
-		</script>
+		<script charset="UTF=8" src="galleri.js"></script>
 	</head>
+
 	<body>
+		<h1> VELKOMMEN! </h1>
 
-		<a href=?meny> meny for oppskrifter
-
-		meny for hovedsiden
+		<p>jeg vil vise deg noe!</p>
 
 		<?php
-			if (isset($_GET['side'])){
-
-				if ($_GET['side'] == 'felt1'){
-					include 'test1.inc.php';
-				}else if($_GET['side'] == 'felt2'){
-					include 'test2.inc.php';
-				}else if($_GET['side'] == 'felt3'){
-					include 'test3.inc.php';
-				}else if($_GET['side'] == 'felt4'){
-					include 'test4.inc.php';
+			if(isset($_GET['side'])){
+				if($_GET['side']  == 'oppskrift')
+				{
+					if (isset($_GET['oppskrift'])){
+						if ($_GET['oppskrift'] == 'felt1'){
+							include 'test1.inc.php';
+						}else if($_GET['oppskrift'] == 'felt2'){
+							include 'test2.inc.php';
+						}else if($_GET['oppskrift'] == 'felt3'){
+							include 'test3.inc.php';
+						}else if($_GET['oppskrift'] == 'felt4'){
+							include 'test4.inc.php';
+						}
+					}else{
+						include 'oppskrifter.inc.php';
+					}
+				}else if($_GET['side'] == 'karusell'){
+					include 'karusell.inc.php';
+				}else if ($_GET['side'] == 'kommer' ){
+					include 'kommer.inc.php';
 				}
-			}else{
-				include 'meny.inc.php';
-				}
+			}
+			else{
+				include "meny0.inc.php";
+			}				
 		?>
 
 	</body>
