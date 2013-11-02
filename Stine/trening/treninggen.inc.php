@@ -17,7 +17,7 @@ styrketrening -->
 <nav class="treningssider">
 	<ul>
 		<li>
-			<a href="?trening=yoga og pilates">
+			<a class="lenke" href="?trening=yogaogpilates">
 				<img src="../felter/placeholderKvadrat.jpg" alt="Yoga og Pilates">
 				<div class="overlay">
 					<p>les om yoga og pilates</p>
@@ -25,7 +25,7 @@ styrketrening -->
 			</a>
 		</li>
 		<li>
-			<a href="?trening=kondisjonstrening">
+			<a class="lenke" href="?trening=kondisjonstrening">
 				<img src="../felter/placeholderKvadrat.jpg" alt="Kondisjonstrening">
 				<div class="overlay"> 
 					<p>les om Kondisjonstrening</p>
@@ -33,7 +33,7 @@ styrketrening -->
 			</a>
 		</li>
 		<li>
-			<a href="?trening=langløping">
+			<a class="lenke" href="?trening=langloping">
 				<img src="../felter/placeholderKvadrat.jpg" alt="Langløping">
 				<div class="overlay">
 					<p>les om Langløping</p>
@@ -41,7 +41,7 @@ styrketrening -->
 			</a>
 		</li>
 		<li>
-			<a href="?trening=spinning">
+			<a class="lenke" href="?trening=spinning">
 				<img src="../felter/placeholderKvadrat.jpg" alt="Spinning">
 				<div class="overlay">
 					<p>les om Spinning</p>
@@ -49,12 +49,11 @@ styrketrening -->
 			</a>
 		</li>
 		<li>
-			<a href="?trening=styrketrening">
+			<a class="lenke" href="?trening=styrketrening">
 				<img src="../felter/placeholderKvadrat.jpg" alt="Styrketrening">
 				<div class="overlay">
 					<p>les Styrketrening</p>
 				</div>
 			</a>
 		</li>
-
 </nav>

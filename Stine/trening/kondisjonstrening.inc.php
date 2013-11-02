@@ -26,4 +26,4 @@
 	arbeidsperiodene.
 </p>
 
-<a href="">tilbake</a>
+<a href="index.php">tilbake</a>

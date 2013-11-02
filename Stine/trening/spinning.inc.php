@@ -5,4 +5,4 @@
 	Ved langkjøring, så holder man en jevn intensitet, hvor det varierer mellom å ”stå” og ”sitte” på setet, og variasjon mellom bakke (høy motstand, sakte tråkk) og sletter (lavere motstand, raske tråkk)
 </p>
 
-<a href="">tilbake</a>
+<a href="index.php">tilbake</a>

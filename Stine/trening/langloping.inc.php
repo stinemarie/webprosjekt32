@@ -5,4 +5,4 @@
 	For hver økt, om man øker intensiteten, så vil man da få en lengre distanse for hver gang.
 </p>
 
-<a href="">tilbake</a>
+<a href="index.php">tilbake</a>

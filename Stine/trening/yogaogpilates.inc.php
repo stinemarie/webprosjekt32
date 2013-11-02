@@ -1,3 +1,3 @@
-<h2>Yoga og Pilates<h2>
+<h2>Yoga og Pilates</h2>
 
-<a href="">tilbake</a>
+<a href="index.php">tilbake</a>
