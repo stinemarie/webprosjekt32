@@ -46,7 +46,8 @@ header{
 	text-shadow: 1px 1px 1px black;
 }
 
-body nav div{
+#hovednavigering div{
+	position: relative;
 	float: left;
 	border: 2px solid #9EB728;
 	border-right: 0;
@@ -62,19 +63,53 @@ body nav div{
 	cursor: pointer;
 }
 
-body nav div:hover{
+#hovednavigering div:hover{
 	background: #9EB728;
 	color: #ECEDA2;
 }
 
-#pt{
+#hovednavigering #pt{
 	padding-top: 8px;
 	height: 52px;
 	font-size: 18px;
 }
 
-#om{
-	border-right: 1px solid black;
+#hovednavigering #om{
+	border-right: 1px solid #9EB728;
+}
+
+#hovednavigering #treningsNav{
+
+	visibility: hidden;
+	width: 796px;
+	border: 0px;
+	left: -2px;
+	top: 21px;
+	padding-top: 0px;
+	height: 10px;
+}
+
+#hovednavigering #treningsNav div{
+	visibility: visible;
+	width: 157px;
+	margin: 0px;
+	height: 24px;
+	font-size: 16px;
+	padding-top: 6px;
+	background: #9EB728;
+	color: #ECEDA2;
+	text-shadow: 0px 1px 0px black;
+	box-shadow: 0px 0px 6px #ECEDA2 inset;
+}
+
+#hovednavigering #treningsNav div:hover{
+	background: #ECEDA2;
+	color: #9EB728;
+}
+
+
+#hovednavigering #treningsNav #treningSisteKnapp{
+	border-right: 1px solid #9EB728;
 }
 
 #content{
