@@ -32,7 +32,8 @@
 					</div>
 			</a>
 		</li>
+		<li><a href="index.php"><p>tilbake</p></a></li>
 	</ul>
+
 </nav>
 
-<p><a href="index.php">tilbake</a></p>	
