@@ -1,35 +1,12 @@
-  <?php  error_reporting(E_ALL) ?>
 
 <!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
-	<!-- 	<link charset="UTF-8" rel="stylesheet" title="stilark" type="text/css" href="stilarkGalleri.css"> -->
 		<title>galleri</title>
 		<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 		
 		<style>
-			.karusell img, div{
-				height: 200px;
-				width: 200px;
-			}
-			.karusell li{
-				list-style:none;
-				float:left;
-			}
-			.karusell .rute{
-				width: 600px;
-				height:400px;
-				/*overflow: hidden;*/
-			}
-
-			.karusell .midten{
-				width:120%;
-				height:120%;
-				box-shadow: 5px, 5px, 5px, 8px, teal;
-				z-index:1;
-			}
-
 			.kar div{
 				width:200px;
 				height:200px;
@@ -90,30 +67,50 @@
 			}
 		</style>
 		<script>
-		$(document).ready(
-			function(){
-				$("#beta").addClass('midten');
-			},function(){
-				$("#alpha").addClass('left');
-			},function(){
+		$(document).ready(function(){
+
+				$("#alpha").addClass('left'); 
+				$("#beta").addClass('midten'); 
 				$("#ceta").addClass('right');
-		});
+				$("#delta").addClass('hide');
+
+				$('.right').click(function(){
+					$( ".right" ).addClass('hide');	
+					$( ".right" ).removeClass('right');
+					$( ".midten").addClass('right');
+					$( ".midten" ).removeClass('midten');
+					$( ".left").addClass('midten');
+					$( ".left").removeClass('left');
+					$( ".hide").addClass('left');	
+					$( ".hide").removeClass('hide');
+				});
+
+				$('.left').click(function(){
+					$( ".left").addClass('hide');
+					$( ".left").removeClass('left');
+					$( ".midten").addClass('left');
+					$( ".midten").removeClass('midten');
+					$( ".right").addClass('midten');
+					$( ".right").removeClass('right');
+					$( ".hide").addClass('right');
+					$( ".hide" ).removeClass( 'hide');
+				});
+			});
 		</script>
 
 	</head>
 
 	<body>
-
-	<nav class="kar">
-		<div id="ramme">
-			<ul>
-				<li><div id="alpha">teal</div></li>
-				<li><div id="beta">silver</div></li>
-				<li><div id="ceta">rosa</div></li>
-				<li><div class="hide" id="delta">gold</div></li>
-			</ul>
-		</div><!--  slutt på ramme -->
-	</nav>	
+		<nav class="kar">
+			<div id="ramme">
+				<ul>
+					<li><div id="alpha">teal</div></li>
+					<li><div id="beta">silver</div></li>
+					<li><div id="ceta">rosa</div></li>
+					<li><div id="delta">gold</div></li>
+				</ul>
+			</div><!--  slutt på ramme -->
+		</nav>	
 
 <!-- 	<nav class="karusell">
 		<ul>

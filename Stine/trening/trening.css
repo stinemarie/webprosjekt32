@@ -2,13 +2,11 @@
 	height: 200px;
 	width: 200px;
 }
-
 .treningssider li{
 	position:relative;
 	float:left;
 	list-style:none;	
 }
-
 .treningssider .overlay{
 	position:absolute;
 	right:0;
@@ -16,11 +14,9 @@
 	background-color:rgba(220,220,220,0.7);
 	display:none;
 }
-
 .treningssider p{
 	margin: 10px;
 	color: white;
 	font-family: "Gill Sans", sans-serif;
 	overflow: hidden;
 }
-
