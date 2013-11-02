@@ -45,7 +45,9 @@ header{
 	text-shadow: 1px 1px 1px black;
 }
 
+
 #hovednavigering div{
+	width: 157px;
 	position: relative;
 	float: left;
 	border: 2px solid #9EB728;
@@ -53,7 +55,6 @@ header{
 	background: #ECEDA2;
 	color: #9EB728;
 	height: 45px;
-	width: 157px;
 	text-align: center;
 	padding-top: 15px;
 	font-size: 20px;
@@ -77,20 +78,17 @@ header{
 	border-right: 1px solid #9EB728;
 }
 
-#hovednavigering #treningsNav{
+#hovednavigering .undersideNav{
 
 	visibility: hidden;
 	width: 796px;
 	border: 0px;
-	left: -2px;
-	top: 21px;
 	padding-top: 0px;
 	height: 10px;
 }
 
-#hovednavigering #treningsNav div{
+#hovednavigering .undersideNav div{
 	visibility: visible;
-	width: 157px;
 	margin: 0px;
 	height: 24px;
 	font-size: 16px;
@@ -101,14 +99,58 @@ header{
 	box-shadow: 0px 0px 6px #ECEDA2 inset;
 }
 
-#hovednavigering #treningsNav div:hover{
+#hovednavigering .undersideNav div:hover{
 	background: #ECEDA2;
 	color: #9EB728;
 }
 
 
-#hovednavigering #treningsNav #treningSisteKnapp{
+#hovednavigering .undersideNav .undersideSisteKnapp{
 	border-right: 1px solid #9EB728;
+}
+
+#treningsNav{
+	display: none;
+	left: -2px;
+	top: 21px;
+}
+
+#kostholdsNav{
+	display: none;
+	left: -161px;
+	top: 21px;
+}
+
+#ptNav{
+	display: none;
+	left: -320px;
+	top: 9px;
+}
+
+#hovednavigering #pt #ptNav div{
+	width: 263px;
+}
+
+#lenkeNav{
+	display: none;
+	top: 21px;
+	left: -479px;
+}
+
+#hovednavigering #lenker #lenkeNav div{
+	width: 793px;
+}
+
+#omNav{
+	/*display: none;*/
+	top: 21px;
+	left: -638px;
+}
+
+#hovednavigering #om #omNav div{
+	width: 395px;
+	border-right: 1px solid #9EB728;
+
 }
 
 #content{
