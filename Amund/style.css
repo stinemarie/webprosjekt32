@@ -14,7 +14,6 @@ body{
 
 header{
 	height: 220px;
-
 }
 
 #logo{
@@ -134,9 +133,10 @@ footer{
 	margin-right: auto;
 }
 
-#ttest{
-	width: 100px;
-	height: 1000px;
-	background: purple;
-	margin: 0 auto;
+.marginSide {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+h2{
+	text-align:center;
 }
