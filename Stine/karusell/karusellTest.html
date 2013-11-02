@@ -1,0 +1,159 @@
+  <?php  error_reporting(E_ALL) ?>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+	<!-- 	<link charset="UTF-8" rel="stylesheet" title="stilark" type="text/css" href="stilarkGalleri.css"> -->
+		<title>galleri</title>
+		<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+		
+		<style>
+			.karusell img, div{
+				height: 200px;
+				width: 200px;
+			}
+			.karusell li{
+				list-style:none;
+				float:left;
+			}
+			.karusell .rute{
+				width: 600px;
+				height:400px;
+				/*overflow: hidden;*/
+			}
+
+			.karusell .midten{
+				width:120%;
+				height:120%;
+				box-shadow: 5px, 5px, 5px, 8px, teal;
+				z-index:1;
+			}
+
+			.kar div{
+				width:200px;
+				height:200px;
+			}
+			.kar{
+				position: relative;
+			}
+			.kar div{
+				position: absolute;
+			} 
+			.kar *{
+				margin: 0;
+				padding: 0;
+			}
+
+			.kar #alpha{
+				background-color: teal;
+			}
+
+			.kar #beta{
+				background-color: silver;
+			}
+
+			.kar #ceta{
+				background-color: pink;
+			}
+			.kar #delta{
+				background-color: gold;
+			}
+
+			.kar li{
+				display:block;
+				float:left;
+			}
+			.kar .midten{
+				height: 230px;
+				width: 230px;
+				margin-top: 20px;
+				left: 160px;
+				z-index: 1;
+			}
+			.kar .left{
+				margin-top: 40px;
+				left:0
+				
+			}
+			.kar .right{
+				margin-top: 40px;
+				left:360px;
+			}
+			.kar .hide{
+				display:none;
+			}
+			.kar #ramme{
+				height: 300px;
+				width: 600px;
+				overflow: hidden;
+			}
+		</style>
+		<script>
+		$(document).ready(
+			function(){
+				$("#beta").addClass('midten');
+			},function(){
+				$("#alpha").addClass('left');
+			},function(){
+				$("#ceta").addClass('right');
+		});
+		</script>
+
+	</head>
+
+	<body>
+
+	<nav class="kar">
+		<div id="ramme">
+			<ul>
+				<li><div id="alpha">teal</div></li>
+				<li><div id="beta">silver</div></li>
+				<li><div id="ceta">rosa</div></li>
+				<li><div class="hide" id="delta">gold</div></li>
+			</ul>
+		</div><!--  slutt på ramme -->
+	</nav>	
+
+<!-- 	<nav class="karusell">
+		<ul>
+			<li> 
+				<a href="">
+					<img class="midten" src="../felter/felt1.jpg" alt="Trening">
+					<div class="midten">
+						<p>her er en tekst1</p>
+					</div>
+				</a>
+			</li>
+			<li>
+				<a href="">
+					<img src="../felter/felt2.jpg" alt="Kosthold">
+					<div>
+						<p>her er en tekst2</p>
+					</div>
+				</a>
+			</li>
+			<li> 
+				<a href="">
+					<img src="../felter/felt3.jpg" alt="Personlig Trener">
+					<div>
+						<p>her er en tekst3</p>
+					</div>
+				</a>
+			</li>
+			<li>
+				<a href="">
+					<img src="../felter/felt4.jpg" alt="Lenker">
+					<div>
+						<p>her er en tekst3</p>
+					</div>
+				</a>
+			</li>
+			<li><a href="index.php"><p>tilbake</p></a>
+		</li>
+	</ul> -->
+
+</nav>
+
+	</body>
+</html>
