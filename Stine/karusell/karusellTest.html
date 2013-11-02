@@ -47,18 +47,21 @@
 				margin-top: 20px;
 				left: 160px;
 				z-index: 1;
+				box-shadow: 0px 10px 30px #777777;
 			}
 			.kar .left{
 				margin-top: 40px;
-				left:0
-				
+				left:0;
+				box-shadow: 0px 10px 20px #888888;			
 			}
 			.kar .right{
 				margin-top: 40px;
 				left:360px;
+				box-shadow: 0px 10px 20px #888888;	
 			}
 			.kar .hide{
-				display:none;
+				margin-top: 40px;
+				left:180px;
 			}
 			.kar #ramme{
 				height: 300px;
@@ -69,15 +72,15 @@
 		<script>
 		$(document).ready(function(){
 
-				$("#alpha").addClass('left'); 
-				$("#beta").addClass('midten'); 
-				$("#ceta").addClass('right');
-				$("#delta").addClass('hide');
+				 $("#alpha").addClass('left'); 
+				 $("#beta").addClass('midten'); 
+				 $("#ceta").addClass('right');
+				 $("#delta").addClass('hide');
 
-				$('.right').click(function(){
-					$( ".right" ).addClass('hide');	
-					$( ".right" ).removeClass('right');
-					$( ".midten").addClass('right');
+				$('#tilbake').click(function(){
+					$( '.right' ).addClass('hide');	
+					$( '.right' ).removeClass('right');
+					$( ".midten" ).addClass('right');
 					$( ".midten" ).removeClass('midten');
 					$( ".left").addClass('midten');
 					$( ".left").removeClass('left');
@@ -85,14 +88,14 @@
 					$( ".hide").removeClass('hide');
 				});
 
-				$('.left').click(function(){
-					$( ".left").addClass('hide');
-					$( ".left").removeClass('left');
-					$( ".midten").addClass('left');
-					$( ".midten").removeClass('midten');
-					$( ".right").addClass('midten');
-					$( ".right").removeClass('right');
-					$( ".hide").addClass('right');
+				$( "#neste" ).click(function(){
+					$( '.left' ).addClass('hide');
+					$( '.left' ).removeClass('left');
+					$( ".midten" ).addClass('left');
+					$( ".midten" ).removeClass('midten');
+					$( ".right" ).addClass('midten');
+					$( ".right" ).removeClass('right');
+					$( ".hide" ).addClass('right');
 					$( ".hide" ).removeClass( 'hide');
 				});
 			});
@@ -104,53 +107,13 @@
 		<nav class="kar">
 			<div id="ramme">
 				<ul>
-					<li><div id="alpha">teal</div></li>
-					<li><div id="beta">silver</div></li>
-					<li><div id="ceta">rosa</div></li>
-					<li><div id="delta">gold</div></li>
+					<li><div  id="alpha">teal</div></li>
+					<li><div  id="beta">silver</div></li>
+					<li><div  id="ceta">rosa</div></li>
+					<li><div  id="delta">gold</div></li>
 				</ul>
+				<p id=tilbake>tilbake</p> <p id="neste">neste</p>
 			</div><!--  slutt på ramme -->
 		</nav>	
-
-<!-- 	<nav class="karusell">
-		<ul>
-			<li> 
-				<a href="">
-					<img class="midten" src="../felter/felt1.jpg" alt="Trening">
-					<div class="midten">
-						<p>her er en tekst1</p>
-					</div>
-				</a>
-			</li>
-			<li>
-				<a href="">
-					<img src="../felter/felt2.jpg" alt="Kosthold">
-					<div>
-						<p>her er en tekst2</p>
-					</div>
-				</a>
-			</li>
-			<li> 
-				<a href="">
-					<img src="../felter/felt3.jpg" alt="Personlig Trener">
-					<div>
-						<p>her er en tekst3</p>
-					</div>
-				</a>
-			</li>
-			<li>
-				<a href="">
-					<img src="../felter/felt4.jpg" alt="Lenker">
-					<div>
-						<p>her er en tekst3</p>
-					</div>
-				</a>
-			</li>
-			<li><a href="index.php"><p>tilbake</p></a>
-		</li>
-	</ul> -->
-
-</nav>
-
 	</body>
 </html>
