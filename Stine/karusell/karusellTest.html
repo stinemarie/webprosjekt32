@@ -30,7 +30,7 @@
 				background-color: silver;
 			}
 
-			.kar #ceta{
+			.kar #gamma{
 				background-color: pink;
 			}
 			.kar #delta{
@@ -74,30 +74,66 @@
 
 				 $("#alpha").addClass('left'); 
 				 $("#beta").addClass('midten'); 
-				 $("#ceta").addClass('right');
+				 $("#gamma").addClass('right');
 				 $("#delta").addClass('hide');
 
-				$('#tilbake').click(function(){
-					$( '.right' ).addClass('hide');	
-					$( '.right' ).removeClass('right');
+				 $("#neste").click(function(){
+				 	var rrr = $("div").index( $(".right") );
+				 	var mmm = $("div").index( $(".midten") );
+				 	var lll = $("div").index( $(".left") );
+				 	var hhh = $("div").index( $(".hide") );
+
+
+				 	$( "div").eq(rrr).addClass('hide');
+				 	$( "div" ).eq(rrr).removeClass('right');
+					$( "div").eq(mmm).addClass('right');
+				 	$( "div" ).eq(mmm).removeClass('midten');
+				 	$( "div" ).eq(lll).addClass('midten');
+				 	$( 'div' ).eq(lll).removeClass('left');
+				 	$( "div" ).eq(hhh).addClass('left');
+				 	$( 'div' ).eq(hhh).removeClass('hide');					 			
+				 });
+
+				 	$("#tilbake").click(function(){
+				 	var rrr = $("div").index( $(".right") );
+				 	var mmm = $("div").index( $(".midten") );
+				 	var lll = $("div").index( $(".left") );
+				 	var hhh = $("div").index( $(".hide") );
+
+
+				 	$( "div").eq(rrr).addClass('midten');
+				 	$( "div" ).eq(rrr).removeClass('right');
+					$( "div").eq(mmm).addClass('left');
+				 	$( "div" ).eq(mmm).removeClass('midten');
+				 	$( "div" ).eq(lll).addClass('hide');
+				 	$( 'div' ).eq(lll).removeClass('left');
+				 	$( "div" ).eq(hhh).addClass('right');
+				 	$( 'div' ).eq(hhh).removeClass('hide');					 			
+				 });
+/*
+				$('.right').click(function(){
+					console.log( this );
+					$( ".hide").addClass('left');	
+					$( ".hide").removeClass('hide');
+					$( this ).addClass('hide');	
+					$( this ).removeClass('right');
 					$( ".midten" ).addClass('right');
 					$( ".midten" ).removeClass('midten');
 					$( ".left").addClass('midten');
 					$( ".left").removeClass('left');
-					$( ".hide").addClass('left');	
-					$( ".hide").removeClass('hide');
+					
 				});
-
-				$( "#neste" ).click(function(){
-					$( '.left' ).addClass('hide');
-					$( '.left' ).removeClass('left');
+				$( ".left" ).click(function(){
+					$( '.hide' ).addClass('right');
+					$( ".hide" ).removeClass( 'hide');
+					$( this ).addClass('hide');
+					$( this ).removeClass('left');
 					$( ".midten" ).addClass('left');
 					$( ".midten" ).removeClass('midten');
 					$( ".right" ).addClass('midten');
 					$( ".right" ).removeClass('right');
-					$( ".hide" ).addClass('right');
-					$( ".hide" ).removeClass( 'hide');
-				});
+									
+				});*/
 			});
 		</script>
 
@@ -109,10 +145,10 @@
 				<ul>
 					<li><div  id="alpha">teal</div></li>
 					<li><div  id="beta">silver</div></li>
-					<li><div  id="ceta">rosa</div></li>
+					<li><div  id="gamma">rosa</div></li>
 					<li><div  id="delta">gold</div></li>
 				</ul>
-				<p id=tilbake>tilbake</p> <p id="neste">neste</p>
+				<p id="tilbake">tilbake</p> <p id="neste">neste</p>
 			</div><!--  slutt på ramme -->
 		</nav>	
 	</body>
