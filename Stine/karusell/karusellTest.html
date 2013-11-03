@@ -44,39 +44,50 @@
 			.kar .midten{
 				height: 230px;
 				width: 230px;
-				margin-top: 20px;
+				/*margin-top: 20px;*/
 				/*left: 160px;*/
 				/*z-index: 1;*/
 				box-shadow: 0px 10px 30px #777777;
 			}
 			.kar .left{
-				margin-top: 40px;
+		/*		margin-top: 40px;*/
 				left:0;
 				box-shadow: 0px 10px 20px #888888;			
 			}
 			.kar .right{
-				margin-top: 40px;
+				/*margin-top: 40px;*/
 			/*	left:360px;*/
 				box-shadow: 0px 10px 20px #888888;	
 			}
 			.kar .hide{
-				margin-top: 40px;
+				/*margin-top: 40px;*/
 				/*left:180px;*/
 
 			}
 			.kar #ramme{
-				height: 300px;
+				height: 400px;
 				width: 600px;
 				overflow: hidden;
+			}
+
+			.kar #tilbake{
+				position:absolute;
+				top:300px;
+				left:100px;
+			}
+			.kar #neste{
+				position:absolute;
+				top:300px;
+				left:200px;
 			}
 		</style>
 		<script>
 		$(document).ready(function(){
 
-				 $("#alpha").css("width","200px").css("height","200px").css("z-index","-1").css("left","0px").addClass('left'); 
-				 $("#beta").css("width","230px").css("height","230px").css("z-index","1").css("left","160px").addClass('midten'); 
-				 $("#gamma").css("width","200px").css("height","200px").css("z-index","-2").css("left","360px").addClass('right');
-				 $("#delta").css("width","200px").css("height","200px").css("z-index","-3").css("left","180px").addClass('hide');
+				 $("#alpha").css("width","200px").css("height","200px").css("z-index","-1").css("left","0px").css("top","20px").addClass('left'); 
+				 $("#beta").css("width","230px").css("height","230px").css("z-index","1").css("left","160px").css("top","10px").addClass('midten'); 
+				 $("#gamma").css("width","200px").css("height","200px").css("z-index","-2").css("left","360px").css("top","20px").addClass('right');
+				 $("#delta").css("width","200px").css("height","200px").css("z-index","-3").css("left","180px").css("top","20px").addClass('hide');
 
 				 $("#neste").click(function(){
 				 	var rrr = $("div").index( $(".right") );
@@ -102,19 +113,19 @@
 				 	var hhh = $("div").index( $(".hide") );
 
 
-				 	$( "div").eq(rrr).css("z-index","1").animate({left:'160px', width:'230px', height:'230px'},"slow").addClass('midten');
+				 	$( "div").eq(rrr).css("z-index","1").animate({left:'160px', width:'230px', height:'230px', top:'10px'},"slow").addClass('midten');
 				 	$( "div" ).eq(rrr).removeClass('right');
-					$( "div").eq(mmm).css("z-index","-1").animate({left:'0px', height:"200px", width:"200px"},"slow").addClass('left');
+					$( "div").eq(mmm).css("z-index","-1").animate({left:'0px', height:"200px", width:"200px", top:'20px'},"slow").addClass('left');
 				 	$( "div" ).eq(mmm).removeClass('midten');
-				 	$( "div" ).eq(lll).css("z-index","-3").css("left","180px").addClass('hide');
+				 	$( "div" ).eq(lll).css("z-index","-3").animate({left:"180px", top:'20px'}).addClass('hide');
 				 	$( 'div' ).eq(lll).removeClass('left');
-				 	$( "div" ).eq(hhh).css("z-index","-2").animate({left:'360px'}).addClass('right');
+				 	$( "div" ).eq(hhh).css("z-index","-2").animate({left:'360px', top:'20px'},"slow").addClass('right');
 				 	$( 'div' ).eq(hhh).removeClass('hide');					 			
 				 });
 
 
 /*
-				 	.animate({
+	.animate({
       left:'250px',
       opacity:'0.5',
       height:'150px',
