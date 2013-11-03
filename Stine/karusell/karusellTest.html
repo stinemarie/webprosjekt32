@@ -95,14 +95,13 @@
 				 	var lll = $("div").index( $(".left") );
 				 	var hhh = $("div").index( $(".hide") );
 
-
-				 	$( "div").eq(rrr).addClass('hide');
+				 	$( "div").eq(rrr).css("z-index","-3").animate({left:"160px", top:'20px'}).addClass('midten');
 				 	$( "div" ).eq(rrr).removeClass('right');
-					$( "div").eq(mmm).addClass('right');
+					$( "div").eq(mmm).css("z-index","-2").animate({left:'0px', top:'20px', width:'200px', height:'200px'},"slow").addClass('left');
 				 	$( "div" ).eq(mmm).removeClass('midten');
-				 	$( "div" ).eq(lll).addClass('midten');
+				 	$( "div" ).eq(lll).css("z-index","1").animate({left:'180px', width:'230px', height:'230px', top:'10px'},"slow").addClass('hide');
 				 	$( 'div' ).eq(lll).removeClass('left');
-				 	$( "div" ).eq(hhh).addClass('left');
+				 	$( "div" ).eq(hhh).css("z-index","-1").animate({left:'360px', height:"200px", width:"200px", top:'20px'},"slow").addClass('right');
 				 	$( 'div' ).eq(hhh).removeClass('hide');					 			
 				 });
 
