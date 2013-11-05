@@ -77,14 +77,14 @@ $(document).ready(function(){
 	 	$( "#tilbake" ).animate({width: "0px"}).animate({width: "170" });
 	 	$( "#neste" ).animate({width: "0px", left: "570px"}).animate({width: "170px", left: "400"});
 	 	
-	 	$( "div" ).eq(rrr).css("z-index","4").animate({left:'170px', width:'230px', height:'230px', top:'10px'},"slow").addClass('midten');
-	 	$( "div" ).eq(rrr).removeClass('right');
-		$( "div" ).eq(mmm).css("z-index","3").animate({left:'10px', height:"200px", width:"200px", top:'20px'},"slow").addClass('left');
-	 	$( "div" ).eq(mmm).removeClass('midten');
-	 	$( "div" ).eq(lll).css("z-index","2").animate({left:"160px", top:'20px',  width:'200px', height:'200px'}).addClass('hide');
-	 	$( 'div' ).eq(lll).removeClass('left');
-	 	$( "div" ).eq(hhh).css("z-index","1").animate({left:'370px', top:'20px',  width:'200px', height:'200px'},"slow").addClass('right');
-	 	$( 'div' ).eq(hhh).removeClass('hide');					 			
+	 	$( "div img" ).eq(rrr).css("z-index","4").animate({left:'170px', width:'230px', height:'230px', top:'10px'},"slow").addClass('midten');
+	 	$( "div img" ).eq(rrr).removeClass('right');
+		$( "div img" ).eq(mmm).css("z-index","3").animate({left:'10px', height:"200px", width:"200px", top:'20px'},"slow").addClass('left');
+	 	$( "div img" ).eq(mmm).removeClass('midten');
+	 	$( "div img" ).eq(lll).css("z-index","2").animate({left:"160px", top:'20px',  width:'200px', height:'200px'}).addClass('hide');
+	 	$( 'div img' ).eq(lll).removeClass('left');
+	 	$( "div img" ).eq(hhh).css("z-index","1").animate({left:'370px', top:'20px',  width:'200px', height:'200px'},"slow").addClass('right');
+	 	$( 'div img' ).eq(hhh).removeClass('hide');					 			
 	 });
 });
 

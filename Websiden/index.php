@@ -9,9 +9,9 @@
 	</head>
 	<body>
 		<img id="bakgrunn" src="img/bakgrunn.jpg" alt="">
+		<img id="superhemmelig" src="img/superhemmeligkapp.png" alt="">
 
 		<div id="frame">
-
 			<header>
 				<a href="index.php?page=hjem">
 					<img id="logo" src="img/logogul.png" width="260px" alt="Websidens logo">
@@ -41,7 +41,6 @@
 							<a href="index.php?page=hvor">Trene hvor?</a>
 						</div>
 					</div>
-
 				</div>
 
 
