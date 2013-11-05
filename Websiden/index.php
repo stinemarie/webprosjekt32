@@ -8,6 +8,7 @@
 		<script type="text/javascript" src="script.js"></script>
 	</head>
 	<body>
+		<img id="bakgrunn" src="img/bakgrunn.jpg" alt="">
 
 		<div id="frame">
 

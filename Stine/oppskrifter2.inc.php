@@ -24,13 +24,13 @@
 	}
 
 	.oppskrift .tekst{
-	color: white;
-	/*color: #9eb728;*/
-	font-size: 30px;
-	font-family: "Gill Sans", sans-serif;
-	margin: 20px;
-	overflow: hidden;
-	text-shadow: 1px 1px #4C4C4C;
+		color: white;
+		/*color: #9eb728;*/
+		font-size: 30px;
+		font-family: "Gill Sans", sans-serif;
+		margin: 20px;
+		overflow: hidden;
+		text-shadow: 1px 1px #4C4C4C;
 }
 
 
