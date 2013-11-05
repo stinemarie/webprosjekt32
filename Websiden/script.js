@@ -1,23 +1,23 @@
 $(document).ready(function() {	
 
 	$("#trening").hover(function(){
-  		$("#treningsNav").toggle('fast');
+  		$("#treningsNav").toggle(10);
 	});
 
 	$("#kosthold").hover(function(){
-  		$("#kostholdsNav").toggle('fast');
+  		$("#kostholdsNav").toggle(10);
 	});
 
 	$("#pt").hover(function(){
-  		$("#ptNav").toggle('fast');
+  		$("#ptNav").toggle(10);
 	});
 
 	$("#lenker").hover(function(){
-  		$("#lenkeNav").toggle('fast');
+  		$("#lenkeNav").toggle(10);
 	});
 
 	$("#om").hover(function(){
-  		$("#omNav").toggle('fast');
+  		$("#omNav").toggle(10);
 	});
 	
 });
