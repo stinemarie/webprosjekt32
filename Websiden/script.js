@@ -22,7 +22,6 @@ $(document).ready(function() {
 	
 });
 
-
 /*Kode for bildekarusell på førstesiden*/
 		$(document).ready(function(){
 
@@ -88,3 +87,13 @@ $(document).ready(function() {
 				 	$( 'div' ).eq(hhh).removeClass('hide');					 			
 				 });
 			});
+
+/*Skript for bildegallerier*/
+
+$(document).ready(function(){
+	$('.lenke').hover(function(){
+		$(this).children('.overlay').fadeIn('slow');					
+		},function(){
+			$(this).children('.overlay').fadeOut('fast'); 
+		});
+	});
