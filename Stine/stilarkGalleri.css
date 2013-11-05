@@ -7,20 +7,20 @@
 	display: block;
 }
 
-.oppskrift #navliste li{
+.oppskrift ul li{
 	list-style: none;
 	float : left;
 	position: relative;		
 }
 
 .oppskrift .overlay{
-	height: 220px;
+/*	height: 220px;
 	width: 220px;
 	background-color: rgba(240,240,240,0.5);
 	position: absolute;
 	top:0;
 	right:0;
-	display: none;
+	display: none;*/
 }
 
 .oppskrift .tekst{
