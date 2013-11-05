@@ -19,13 +19,13 @@
 		if(isset($_GET['trening'])) {
 			if ($_GET['trening'] == 'yogaogpilates'){
 				include 'yogaogpilates.inc.php';
-			}else if($_GET['trening'] == 'kondisjonstrening'){
+			}elseif($_GET['trening'] == 'kondisjonstrening'){
 				include 'kondisjonstrening.inc.php';
-			}else if($_GET['trening'] == 'langloping'){
+			}elseif($_GET['trening'] == 'langloping'){
 				include 'langloping.inc.php';
-			}else if($_GET['trening'] == 'spinning'){
+			}elseif($_GET['trening'] == 'spinning'){
 				include 'spinning.inc.php';
-			}else if($_GET['trening'] == 'styrketrening'){
+			}elseif($_GET['trening'] == 'styrketrening'){
 				include 'styrketrening.inc.php';
 			}
 		}else{

@@ -1,19 +1,12 @@
-.oppskrift body{
-	padding: 0 0;
-	margin: 0 0;
+.oppskrift *{
+	padding: 0;
+	margin: 0;
 }
+
 .oppskrift .fargefelt{
 	display: block;
 }
-.oppskrift #oppskriftnav {
-	float:left;
-	padding: 0 0;
-	margin: 0 0;
-}
-.oppskrift #navliste {
-	padding: 0 0;
-	margin: 0 0;
-}
+
 .oppskrift #navliste li{
 	list-style: none;
 	float : left;
@@ -21,8 +14,8 @@
 }
 
 .oppskrift .overlay{
-	height: 480px;
-	width: 480px;
+	height: 220px;
+	width: 220px;
 	background-color: rgba(240,240,240,0.5);
 	position: absolute;
 	top:0;
@@ -37,56 +30,3 @@
 	margin: 20px;
 	overflow: hidden;
 }
-
-
-
-.karusellen *{
-	padding:0; margin:0;
-}
-.karusellen ul {
-
-}
-.karusellen ul li {
-	float:left; 
-	list-style:none; 
-	position:relative; 
-}
-.karusellen ul li a.next {
-	position:absolute; 
-	left:100px;
-}
-.karusellen ul li a.previous{
-	position:absolute; 
-	left:0px;
-}
-.karusellen ul li a.startover{
-	position:absolute; 
-	left:200px;
-}
-
-.karusellen ul li a.next{
-	background:url(./felter/knappRight.png); 
-	width:67px; 
-	height:100px; 
-	position:
-	absolute; 
-	top:286px; 
-	left:486px; 
-}
-.karusellen ul li a.previous{
-	background:url(./felter/knappLeft.png); 
-	width:67px; 
-	height:100px; 
-	position:absolute; 
-	top:286px; 
-	left:105px;
-}
-/*ul li a.{
-	background:url(./felter/knappRight.png); 
-	width:57px; 
-	height:73px; 
-	position:absolute; 
-	left:560px; 
-	top:237px;
-}
-*/
