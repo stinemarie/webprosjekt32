@@ -25,24 +25,19 @@
 
 					<div id="treningsNav" class="undersideNav">
 						<div class="clickable">
-							Hvorfor trene?
-							<a href="index.php?page=hvorfortrene"></a>
+							<a href="index.php?page=hvorfortrene">Hvorfor trene?</a>
 						</div>
 						<div class="clickable">
-							Øvelser
-							<a href="index.php?page=ovelser"></a>
+							<a href="index.php?page=ovelser">Øvelser</a>
 						</div>
 						<div class="clickable">
-							Før/etter-prosjekt
-							<a href="index.php?page=treningsprosjekt"></a>
+							<a href="index.php?page=treningsprosjekt">Før/etter-prosjekt</a>
 						</div>
 						<div class="clickable">
-							Treningstips!
-							<a href="index.php?page=treningstips"></a>
+							<a href="index.php?page=treningstips">Treningstips!</a>
 						</div>
 						<div class=" clickable undersideSisteKnapp">
-							Trene hvor?
-							<a href="index.php?page=hvor"></a>
+							<a href="index.php?page=hvor">Trene hvor?</a>
 						</div>
 					</div>
 
@@ -53,24 +48,19 @@
 
 					<div id="kostholdsNav" class="undersideNav">
 						<div class="clickable">
-							Om kosthold
-							<a href="index.php?page=kosthold"></a>
+							<a href="index.php?page=kosthold">Om kosthold</a>
 						</div>
 						<div class="clickable">
-							Oppskrifter
-							<a href="index.php?page=oppskrifter"></a>
+							<a href="index.php?page=oppskrifter">Oppskrifter</a>
 						</div>
 						<div class="clickable">
-							Ukesmeny
-							<a href="index.php?page=ukesmeny"></a>
+							<a href="index.php?page=ukesmeny">Ukesmeny</a>
 						</div>
 						<div class="clickable">
-							Våre favoritter
-							<a href="index.php?page=favoritter"></a>
+							<a href="index.php?page=favoritter">Våre favoritter</a>
 						</div>
 						<div class="clickable undersideSisteKnapp">
-							Ernæring
-							<a href="index.php?page=ernering"></a>
+							<a href="index.php?page=ernering">Ernæring</a>
 						</div>
 					</div>
 
@@ -81,16 +71,13 @@
 
 					<div id="ptNav" class="undersideNav">
 						<div class="clickable">
-							Personlig Trener
-							<a href="index.php?page=personligtrener"></a>
+							<a href="index.php?page=personligtrener">Personlig Trener</a>
 						</div>
 						<div class="clickable">
-							Intervju
-							<a href="index.php?page=intervju"></a>
+							<a href="index.php?page=intervju">Intervju</a>
 						</div>
 						<div class=" clickable undersideSisteKnapp">
-							Trenerne
-							<a href="index.php?page=trenerne"></a>
+							<a href="index.php?page=trenerne">Trenerne</a>
 						</div>
 					</div>
 
@@ -101,8 +88,7 @@
 
 					<div id="lenkeNav" class="undersideNav">
 						<div class="clickable undersideSisteKnapp">
-							Treningsrelaterte lenker
-							<a href="index.php?page=lenker"></a>
+							<a href="index.php?page=lenker">Treningsrelaterte lenker</a>
 						</div>
 					</div>
 
@@ -114,12 +100,10 @@
 
 					<div id="omNav" class="undersideNav">
 						<div class="clickable">
-							Om oss
-							<a href="index.php?page=omoss"></a>
+							<a href="index.php?page=omoss">Om oss</a>
 						</div>
 						<div class="clickable undersideSisteKnapp">
-							Kontakt oss
-							<a href="index.php?page=kontakt"></a>
+							<a href="index.php?page=kontakt">Kontakt oss</a>
 						</div>
 					</div>
 

@@ -108,6 +108,12 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	box-shadow: 0px 0px 6px #ECEDA2 inset;
 }
 
+#hovednavigering .undersideNav div a{
+	font-size: 16px;
+	color: #ECEDA2;
+	padding-top: 6px;
+}
+
 #hovednavigering .undersideNav div:hover{
 	background: #ECEDA2;
 	color: #9EB728;
