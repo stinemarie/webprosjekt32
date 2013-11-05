@@ -224,3 +224,91 @@ h2{
 	font-family: "Gill Sans", sans-serif;
 	overflow: hidden;
 }
+
+.oppskrift *{
+	padding: 0;
+	margin: 0;
+}
+
+.oppskrift .fargefelt{
+	display: block;
+}
+
+.oppskrift #navliste li{
+	list-style: none;
+	float : left;
+	position: relative;		
+}
+
+.oppskrift .overlay{
+	height: 220px;
+	width: 220px;
+	background-color: rgba(240,240,240,0.5);
+	position: absolute;
+	top:0;
+	right:0;
+	display: none;
+}
+
+.oppskrift .tekst{
+	color: white;
+	font-size: 30px;
+	font-family: "Gill Sans", sans-serif;
+	margin: 20px;
+	overflow: hidden;
+}
+
+/*.kar gir CSS for bildekarusellen på førstesiden*/
+.kar{
+	margin: 88px;
+	position: relative;
+}
+.kar div{
+	position: absolute;
+} 
+.kar *{
+	margin: 0;
+	padding: 0;
+}
+.kar #alpha{
+	background-color: teal;
+}
+.kar #beta{
+	background-color: silver;
+	
+}
+.kar #gamma{
+	background-color: pink;				
+}
+.kar #delta{
+	background-color: gold;
+
+}
+.kar li{
+	display:block;
+	float:left;
+}
+
+.kar #ramme{
+	height: 400px;
+	width: 600px;
+	overflow: hidden;
+}
+.kar #tilbake{
+	background-color: rgba(240,240,240,0.5);
+	position:absolute;
+	height:200px;
+	width:170px;
+	top:20px;
+	left:10px;
+	z-index:3;
+}
+.kar #neste{
+	background-color: rgba(240,240,240,0.5);
+	position:absolute;
+	height:200px;
+	width:170px;
+	top:20px;
+	left:400px;
+	z-index:3;
+}

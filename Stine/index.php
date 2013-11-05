@@ -30,7 +30,7 @@
 							include 'test4.inc.php';
 						}
 					}else{
-						include 'oppskrifter.inc.php';
+						include 'oppskrifter2.inc.php';
 					}
 				}else if($_GET['side'] == 'karusell'){
 					include 'karusell.inc.php';
