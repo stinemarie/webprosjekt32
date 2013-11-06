@@ -15,7 +15,7 @@ body{
 #superhemmelig{
 	width: 40px;
 	height: 60px;
-	position: absolute;
+	position: fixed;
 	top: 30px;
 	left: 25px;
 }
