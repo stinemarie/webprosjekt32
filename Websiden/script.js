@@ -19,7 +19,7 @@ $(document).ready(function() {
 	$("#om").hover(function(){
   		$("#omNav").toggle(10);
 	});
-	
+
 });
 
 /*Kode for bildekarusell på førstesiden*/

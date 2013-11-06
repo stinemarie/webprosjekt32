@@ -106,10 +106,20 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 
 #hovednavigering div:hover{
 	background: #9EB728;
+	color: #ECEDA2;
+
 }
 
 #hovednavigering div a:hover{
 	color: #ECEDA2;
+}
+
+#hovednavigering .undersideNav div:hover{
+	background: #ECEDA2;
+}
+
+#hovednavigering .undersideNav div a:hover{
+	color: #9EB728;
 }
 
 #hovednavigering #pt{
@@ -151,15 +161,6 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 #ptlink{
 	margin-top: -4px;
 	line-height: 20px;
-}
-
-#hovednavigering .undersideNav div:hover{
-	background: #ECEDA2;
-}
-
-#hovednavigering .undersideNav div a:hover{
-	color: #9EB728;
-
 }
 
 #hovednavigering .undersideNav #trenerne{

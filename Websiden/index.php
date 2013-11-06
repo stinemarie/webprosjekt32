@@ -87,10 +87,14 @@
 				</div>
 
 
-				<div id="lenker">Lenker</div>
+				<div id="lenker">
+					<a href="index.php?page=lenker">Lenker</a>
+				</div>
 
 
-				<div id="om">Om oss</div>
+				<div id="om">
+					<a href="index.php?page=omoss">Om oss</a>
+				</div>
 
 			</nav>
 
