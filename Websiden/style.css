@@ -222,6 +222,71 @@ h2{
 	text-align:center;
 }
 
+.kar{
+		position: relative;
+	}
+	.kar div{
+		position: absolute;
+	} 
+	.kar *{
+		margin: 0;
+		padding: 0;
+	}
+	.kar #alpha{
+
+
+	}
+	.kar #beta{
+
+		
+	}
+	.kar #gamma{
+		background-color: pink;				
+	}
+	.kar #delta{
+		background-color: gold;
+
+	}
+	.kar li{
+		display:block;
+		float:left;
+	}
+
+	.kar #ramme{
+		height: 400px;
+		width: 600px;
+		overflow: hidden;
+	}
+	.kar #tilbake{
+		background-color: rgba(240,240,240,0.9);
+		position:absolute;
+		height:200px;
+		width:170px;
+		top:20px;
+		left:10px;
+		z-index:5;
+	}
+	.kar #neste{
+		background-color: rgba(240,240,240,0.9);
+		position:absolute;
+		height:200px;
+		width:170px;
+		top:20px;
+		left:400px;
+		z-index:4;
+	}
+
+	.kar div img,p {
+		position: absolute;
+		top:0;
+		left:0;
+	}
+
+	.kar img{
+		height: 200px;
+		width: 200px;
+	}
+
 .treningssider img, .overlay {
 	height: 200px;
 	width: 200px;
@@ -280,66 +345,7 @@ h2{
 }
 
 /*.kar gir CSS for bildekarusellen på førstesiden*/
-.kar{
-	margin: 88px;
-	position: relative;
-}
-.kar div{
-	position: absolute;
-}
 
-.kar img{
-	position: absolute;
-} 
-.kar *{
-	margin: 0;
-	padding: 0;
-}
-.kar #alpha{
-	background-color: teal;
-}
-.kar #beta img{
-	position: absolute; 
-	height: 100%;
-	width: 100%;
-/*	background-color: silver;*/
-	
-}
-.kar #gamma{
-	background-color: pink;				
-}
-.kar #delta{
-	background-color: gold;
-
-}
-.kar li{
-	display:block;
-	float:left;
-}
-
-.kar #ramme{
-	height: 400px;
-	width: 600px;
-	overflow: hidden;
-}
-.kar #tilbake{
-	background-color: rgba(240,240,240,0.5);
-	position:absolute;
-	height:200px;
-	width:170px;
-	top:20px;
-	left:10px;
-	z-index:3;
-}
-.kar #neste{
-	background-color: rgba(240,240,240,0.5);
-	position:absolute;
-	height:200px;
-	width:170px;
-	top:20px;
-	left:400px;
-	z-index:3;
-}
 
 .oppskrift *{
 	padding: 0;
