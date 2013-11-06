@@ -107,3 +107,14 @@ $(document).ready(function(){
 			$(this).children('.overlay').fadeOut('fast'); 
 		});
 	});
+
+/*script for easter egg*/
+
+$(document).ready(function(){
+	$(superhemmelig).click(function(){
+		// $("div *").fadeOut('slow');
+		$("div #logo").animate({top:'100px'}'slow');		
+		// $("div #logo").fadeOut('slow')
+
+	});
+});
