@@ -109,6 +109,11 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	color: #ECEDA2;
 }
 
+#hovednavigering div a:hover{
+	color: #ECEDA2;
+
+}
+
 #hovednavigering #pt{
 	padding-top: 8px;
 	height: 52px;
@@ -153,6 +158,10 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 
 #hovednavigering .undersideNav div:hover{
 	background: #ECEDA2;
+	color: #9EB728;
+}
+
+#hovednavigering .undersideNav div a:hover{
 	color: #9EB728;
 }
 
