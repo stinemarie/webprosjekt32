@@ -90,6 +90,20 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	cursor: pointer;
 }
 
+#hovednavigering div a{
+	color: #9EB728;
+	font-size: 20px;
+	padding-top: 15px;
+	position:absolute;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	text-decoration:none;
+	z-index:10;
+
+}
+
 #hovednavigering div:hover{
 	background: #9EB728;
 	color: #ECEDA2;
@@ -132,11 +146,19 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	padding-top: 6px;
 }
 
+#ptlink{
+	margin-top: -4px;
+	line-height: 20px;
+}
+
 #hovednavigering .undersideNav div:hover{
 	background: #ECEDA2;
 	color: #9EB728;
 }
 
+#hovednavigering .undersideNav #trenerne{
+	border-right: 2px solid #9EB728;
+}
 
 #hovednavigering .undersideNav .undersideSisteKnapp{
 	border-right: 1px solid #9EB728;
@@ -145,45 +167,19 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 #treningsNav{
 	display: none;
 	left: -2px;
-	top: 21px;
+	top: 45px;
 }
 
 #kostholdsNav{
 	display: none;
 	left: -161px;
-	top: 21px;
+	top: 45px;
 }
 
 #ptNav{
 	display: none;
 	left: -320px;
-	top: 9px;
-}
-
-#hovednavigering #pt #ptNav div{
-	width: 263px;
-}
-
-#lenkeNav{
-	display: none;
-	top: 21px;
-	left: -479px;
-}
-
-#hovednavigering #lenker #lenkeNav div{
-	width: 793px;
-}
-
-#omNav{
-	display: none;
-	top: 21px;
-	left: -638px;
-}
-
-#hovednavigering #om #omNav div{
-	width: 395px;
-	border-right: 1px solid #9EB728;
-
+	top: 52px;
 }
 
 #content{

@@ -22,7 +22,8 @@
 
 			<nav id="hovednavigering">
 				
-				<div id="trening">Trening
+				<div id="trening">
+					<a href="index.php?page=hvorfortrene">Trening</a>
 
 					<div id="treningsNav" class="undersideNav">
 						<div class="clickable">
@@ -44,7 +45,8 @@
 				</div>
 
 
-				<div id="kosthold">Kosthold
+				<div id="kosthold">
+					<a href="index.php?page=kosthold">Kosthold</a>
 
 					<div id="kostholdsNav" class="undersideNav">
 						<div class="clickable">
@@ -67,7 +69,8 @@
 				</div>
 
 
-				<div id="pt">Personlig<br>trener
+				<div id="pt">
+					<a id="ptlink" href="index.php?page=personligtrener">Personlig<br>trener</a>
 
 					<div id="ptNav" class="undersideNav">
 						<div class="clickable">
@@ -76,7 +79,7 @@
 						<div class="clickable">
 							<a href="index.php?page=intervju">Intervju</a>
 						</div>
-						<div class=" clickable undersideSisteKnapp">
+						<div id="trenerne" class="clickable undersideSisteKnapp">
 							<a href="index.php?page=trenerne">Trenerne</a>
 						</div>
 					</div>
@@ -84,30 +87,10 @@
 				</div>
 
 
-				<div id="lenker">Lenker
-
-					<div id="lenkeNav" class="undersideNav">
-						<div class="clickable undersideSisteKnapp">
-							<a href="index.php?page=lenker">Treningsrelaterte lenker</a>
-						</div>
-					</div>
-
-				</div>
+				<div id="lenker">Lenker</div>
 
 
-
-				<div id="om">Om oss
-
-					<div id="omNav" class="undersideNav">
-						<div class="clickable">
-							<a href="index.php?page=omoss">Om oss</a>
-						</div>
-						<div class="clickable undersideSisteKnapp">
-							<a href="index.php?page=kontakt">Kontakt oss</a>
-						</div>
-					</div>
-
-				</div>
+				<div id="om">Om oss</div>
 
 			</nav>
 
