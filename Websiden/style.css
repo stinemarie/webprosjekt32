@@ -15,7 +15,7 @@ body{
 #superhemmelig{
 	width: 40px;
 	height: 60px;
-	position: fixed;
+	position: absolute;
 	top: 30px;
 	left: 25px;
 }
@@ -85,9 +85,9 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	text-align: center;
 	padding-top: 15px;
 	font-size: 20px;
-	text-shadow: 1px 1px 1px black;
 	box-shadow: 0px 0px 12px #9EB728 inset;
 	cursor: pointer;
+	font-family: "Gill Sans";
 }
 
 #hovednavigering div a{
@@ -106,12 +106,10 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 
 #hovednavigering div:hover{
 	background: #9EB728;
-	color: #ECEDA2;
 }
 
 #hovednavigering div a:hover{
 	color: #ECEDA2;
-
 }
 
 #hovednavigering #pt{
@@ -141,7 +139,6 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	padding-top: 6px;
 	background: #9EB728;
 	color: #ECEDA2;
-	text-shadow: 0px 1px 0px black;
 	box-shadow: 0px 0px 6px #ECEDA2 inset;
 }
 
@@ -158,11 +155,11 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 
 #hovednavigering .undersideNav div:hover{
 	background: #ECEDA2;
-	color: #9EB728;
 }
 
 #hovednavigering .undersideNav div a:hover{
 	color: #9EB728;
+
 }
 
 #hovednavigering .undersideNav #trenerne{
