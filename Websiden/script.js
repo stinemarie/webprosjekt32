@@ -110,11 +110,11 @@ $(document).ready(function(){
 
 /*script for easter egg*/
 
-$(document).ready(function(){
-	$(superhemmelig).click(function(){
-		// $("div *").fadeOut('slow');
-		$("div #logo").animate({top:'100px'}'slow');		
-		// $("div #logo").fadeOut('slow')
-
-	});
-});
+// $(document).ready(function(){
+// 	$(superhemmelig).click(function(){
+// 		// $("div *").fadeOut('slow');
+// 		$("#logo").animate({top:'1000px'}'slow');		
+// 		// $("div #logo").fadeOut('slow')
+		
+// 	});
+// });
