@@ -23,7 +23,7 @@ body{
 #frame{
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 40px;
+	margin-top: 80px;
 	margin-bottom: 40px;
 	background: #E3F1FF;
 	width: 796px;
@@ -31,36 +31,25 @@ body{
 }
 
 header{
-	height: 220px;
+	height: 111px;
 }
 
 #logo{
-	position: relative;
+	position: absolute;
 	float: left;
-	left: 40px;
-	top: 34px;
+	left: 370px;
+	top: 5px;
 }
 
-#tittel{
-	position: relative;
-	float: left;
-	margin: 0;
-	top: 50px;
-	left: 100px;
-	font-size: 60px;
-	color: #9EB728;
-	text-shadow: 1px 1px 1px black;
-}
 
 #undertittel{
 	position: relative;
 	float: left;
 	margin: 0;
-	top: 135px;
-	left: -20px;
+	top: 54px;
+	left: 341px;
 	font-size: 30px;
 	color: #9EB728;
-	text-shadow: 1px 1px 1px black;
 }
 
 div .clickable a{ /* Makes the hyperlinks fill the divs*/

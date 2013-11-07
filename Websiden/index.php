@@ -16,7 +16,6 @@
 				<a href="index.php?page=hjem">
 					<img id="logo" src="img/logogul.png" width="260px" alt="Websidens logo">
 				</a>
-				<h1 id="tittel">TTFS</h1>
 				<h2 id="undertittel">-Treningstips for studenter</h2>
 			</header>
 
