@@ -203,7 +203,73 @@ h2{
 	text-align:center;
 }
 
+/* css for karusellen */
 .kar{
+	position: relative;
+}
+.kar div{
+	position: absolute;
+} 
+.kar *{
+	margin: 0;
+	padding: 0;
+}
+.kar #alpha{
+
+
+}
+.kar #beta{
+
+	
+}
+.kar #gamma{
+	background-color: pink;				
+}
+.kar #delta{
+	background-color: gold;
+
+}
+.kar li{
+	display:block;
+	float:left;
+}
+
+.kar #ramme{
+	height: 400px;
+	width: 600px;
+	overflow: hidden;
+}
+.kar #tilbake{
+	background-color: rgba(240,240,240,0.9);
+	position:absolute;
+	height:200px;
+	width:170px;
+	top:20px;
+	left:10px;
+	z-index:5;
+}
+.kar #neste{
+	background-color: rgba(240,240,240,0.9);
+	position:absolute;
+	height:200px;
+	width:170px;
+	top:20px;
+	left:400px;
+	z-index:4;
+}
+
+.kar div img,p {
+	position: absolute;
+	top:0;
+	left:0;
+}
+
+.kar img{
+	height: 200px;
+	width: 200px;
+}
+
+/*.kar{
 		position: relative;
 	}
 	.kar div{
@@ -266,7 +332,7 @@ h2{
 	.kar img{
 		height: 200px;
 		width: 200px;
-	}
+	}*/
 
 .treningssider img, .overlay {
 	height: 200px;
