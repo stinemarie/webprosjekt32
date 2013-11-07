@@ -63,6 +63,12 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	z-index:10;
 }
 
+#hovednavigering{
+	background: #9EB728;
+	width: 796px;
+	height: 63px;
+}
+
 #hovednavigering div{
 	width: 157px;
 	position: relative;
