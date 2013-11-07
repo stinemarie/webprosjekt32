@@ -118,3 +118,26 @@ $(document).ready(function(){
 		
 // 	});
 // });
+
+
+/*Script for BMI Kalkulator*/
+function kalkulerBmi() {
+var vekt = document.bmiKalk.vekt.value
+var høyde = document.bmiKalk.høyde.value
+if(vekt > 0 && høyde > 0){	
+var endeligBmi = vekt/(høyde/100*høyde/100)
+document.bmiKalk.visBmi.value = endeligBmi
+if(endeligBmi < 18.5){
+document.bmiKalk.betydning.value = "Du er klassifisert som undervektig."
+}
+if(endeligBmi > 18.5 && endeligBmi < 25){
+document.bmiKalk.betydning.value = "Du er klassifisert som normalvektig"
+}
+if(endeligBmi > 25){
+document.bmiKalk.betydning.value = "Du er klassifisert som overvektig."
+}
+}
+else{
+alert("Vennligst fyll inn alt korrekt.")
+}
+}

@@ -1,0 +1,37 @@
+<html>
+<head>
+<script type="text/javascript">
+
+function calculate(){
+
+var input = document.input.value;
+var output1 = document.output1.value;
+
+if (input = 1){
+output1 = "x type 1";
+}
+
+else if (input = 2){
+output1 = "y type 1";
+}
+
+else if (input = 3){
+output1 = "y type 2";
+}
+
+if (output1.search("type 1"){
+document.output2.value = "z";
+}
+
+}
+</script>
+</head>
+<body>
+<form>
+Høyde<input type="textbox" name="Høyde"><br>
+Vekt<input type="textbox" name="vekt"><br>
+<input type="button" onclick="calculate()" value="Calculate" /><br>
+<textarea rows="2" name="output1" ></textarea>
+</form>
+</body>
+</html>
