@@ -202,24 +202,40 @@ h2{
 }
 
 /* css for karusellen */
+.kar *{
+	margin: 0;
+	padding: 0;
+}
 .kar{
-
 	position: relative;
 }
 .kar div{
 	position: absolute;
 } 
-.kar *{
-	margin: 0;
-	padding: 0;
+.kar #alpha, #beta, #gamma, #delta{
+	width: 200px;
+	height: 200px;
+	top: 20px;
 }
 .kar #alpha{
+	z-index: 2;
+	left: 10px;
+}
+.kar p{
+	z-index: 20;
 }
 .kar #beta{
+	z-index: 6;
+	left: 175px;
+	top: 10px;
 }
-.kar #gamma{			
+.kar #gamma{
+	z-index: 3;
+	left:370px;
 }
 .kar #delta{
+	z-index: 1;
+	left: 170px;
 }
 .kar li{
 	display:block;
@@ -249,7 +265,7 @@ h2{
 	left:400px;
 	z-index:4;
 }
-.kar div img,p {
+.kar div img, p {
 	position: absolute;
 	top:0;
 	left:0;
@@ -258,7 +274,6 @@ h2{
 	height: 200px;
 	width: 200px;
 }
-
 
 .treningssider img, .overlay {
 	height: 200px;
@@ -309,7 +324,7 @@ h2{
 	display: none;
 }
 
-.oppskrift .tekst{
+.oppskrift .tekst, .kar p{
 	color: white;
 	font-size: 30px;
 	font-family: "Gill Sans", sans-serif;
