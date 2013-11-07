@@ -195,6 +195,10 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	padding-top: 100px;
 }
 
+#content p{
+	position: static;
+}
+
 footer{
 	position: relative;
 	width: 794px;
@@ -381,3 +385,4 @@ margin: 20px;
 overflow: hidden;
 text-shadow: 1px 1px #4C4C4C;
 }
+
