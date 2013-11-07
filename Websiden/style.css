@@ -19,7 +19,6 @@ body{
 	top: 30px;
 	left: 25px;
 }
-
 #frame{
 	margin-left: auto;
 	margin-right: auto;
@@ -29,7 +28,6 @@ body{
 	width: 796px;
 	box-shadow: 3px 3px 10px 0px black;
 }
-
 header{
 	height: 111px;
 	position: relative;
@@ -205,6 +203,7 @@ h2{
 
 /* css for karusellen */
 .kar{
+
 	position: relative;
 }
 .kar div{
@@ -215,32 +214,25 @@ h2{
 	padding: 0;
 }
 .kar #alpha{
-
-
 }
 .kar #beta{
-
-	
 }
-.kar #gamma{
-	background-color: pink;				
+.kar #gamma{			
 }
 .kar #delta{
-	background-color: gold;
-
 }
 .kar li{
 	display:block;
 	float:left;
 }
-
 .kar #ramme{
+	left:88px; /*sentrerer menyen*/
 	height: 400px;
 	width: 600px;
 	overflow: hidden;
 }
 .kar #tilbake{
-	background-color: rgba(240,240,240,0.9);
+	background-color: rgba(240,240,240,0.5);
 	position:absolute;
 	height:200px;
 	width:170px;
@@ -249,7 +241,7 @@ h2{
 	z-index:5;
 }
 .kar #neste{
-	background-color: rgba(240,240,240,0.9);
+	background-color: rgba(240,240,240,0.5);
 	position:absolute;
 	height:200px;
 	width:170px;
@@ -257,82 +249,16 @@ h2{
 	left:400px;
 	z-index:4;
 }
-
 .kar div img,p {
 	position: absolute;
 	top:0;
 	left:0;
 }
-
 .kar img{
 	height: 200px;
 	width: 200px;
 }
 
-/*.kar{
-		position: relative;
-	}
-	.kar div{
-		position: absolute;
-	} 
-	.kar *{
-		margin: 0;
-		padding: 0;
-	}
-	.kar #alpha{
-
-
-	}
-	.kar #beta{
-
-		
-	}
-	.kar #gamma{
-		background-color: pink;				
-	}
-	.kar #delta{
-		background-color: gold;
-
-	}
-	.kar li{
-		display:block;
-		float:left;
-	}
-
-	.kar #ramme{
-		height: 400px;
-		width: 600px;
-		overflow: hidden;
-	}
-	.kar #tilbake{
-		background-color: rgba(240,240,240,0.9);
-		position:absolute;
-		height:200px;
-		width:170px;
-		top:20px;
-		left:10px;
-		z-index:5;
-	}
-	.kar #neste{
-		background-color: rgba(240,240,240,0.9);
-		position:absolute;
-		height:200px;
-		width:170px;
-		top:20px;
-		left:400px;
-		z-index:4;
-	}
-
-	.kar div img,p {
-		position: absolute;
-		top:0;
-		left:0;
-	}
-
-	.kar img{
-		height: 200px;
-		width: 200px;
-	}*/
 
 .treningssider img, .overlay {
 	height: 200px;
@@ -390,9 +316,6 @@ h2{
 	margin: 20px;
 	overflow: hidden;
 }
-
-/*.kar gir CSS for bildekarusellen på førstesiden*/
-
 
 .oppskrift *{
 	padding: 0;

@@ -1,3 +1,5 @@
+
+/*script for meny*/
 $(document).ready(function() {	
 
 	$("#trening").hover(function(){
@@ -155,6 +157,8 @@ $(document).ready(function(){
 	 .css("left","170px")
 	 .css("top","20px")
 	 .addClass('hide');
+	 $( '.midten img').css("width","230px");
+	 $( '.midten img').css("height","230px");
 
 	 $("#neste").click(function(){
 	 	var rrr = $("div").index( $(".right") );
@@ -174,8 +178,8 @@ $(document).ready(function(){
 	 	$( "div" ).eq(hhh).css("z-index","2").animate({left:'10px', top:'20px'},"slow").addClass('left');
 	 	$( 'div' ).eq(hhh).removeClass('hide');	
 
-	 	$( '.midten img').animate({width:'230px', height:'230px'});
-	 	$( '.right img' ).animate({width:'200px', height:'200px'});					 			
+	 	$( '.midten img').delay( 75 ).animate({width:'230px', height:'230px'});
+	 	$( '.right img' ).delay( 75 ).animate({width:'200px', height:'200px'});					 			
 	 });
 	 	$("#tilbake").click(function(){
 	 	var rrr = $("div").index( $(".right") );
@@ -195,8 +199,8 @@ $(document).ready(function(){
 	 	$( "div" ).eq(hhh).css("z-index","1").animate({left:'370px', top:'20px',},"slow").addClass('right');
 	 	$( 'div' ).eq(hhh).removeClass('hide');
 	 	
-	 	$( '.midten img').animate({width:'230px', height:'230px'});
-	 	$( '.left img' ).animate({width:'200px', height:'200px'});		
+	 	$( '.midten img').delay( 75 ).animate({width:'230px', height:'230px'});
+	 	$( '.left img' ).delay( 75 ).animate({width:'200px', height:'200px'});		
 	 });
 
 });
