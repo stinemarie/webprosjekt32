@@ -23,7 +23,7 @@
 			<nav id="hovednavigering">
 				
 				<div id="trening">
-					<a href="index.php?page=hvorfortrene">Trening</a>
+					<a id="treningslink" href="index.php?page=hvorfortrene">Trening</a>
 
 					<div id="treningsNav" class="undersideNav">
 						<div class="clickable">
@@ -46,7 +46,7 @@
 
 
 				<div id="kosthold">
-					<a href="index.php?page=kosthold">Kosthold</a>
+					<a id="kostholdslink" href="index.php?page=kosthold">Kosthold</a>
 
 					<div id="kostholdsNav" class="undersideNav">
 						<div class="clickable">
@@ -88,12 +88,12 @@
 
 
 				<div id="lenker">
-					<a href="index.php?page=lenker">Lenker</a>
+					<a id="lenkerlink" href="index.php?page=lenker">Lenker</a>
 				</div>
 
 
 				<div id="om">
-					<a href="index.php?page=omoss">Om oss</a>
+					<a id="omosslink" href="index.php?page=omoss">Om oss</a>
 				</div>
 
 			</nav>

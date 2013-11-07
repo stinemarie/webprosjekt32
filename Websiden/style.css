@@ -90,35 +90,16 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 }
 
 #hovednavigering div a{
-	color: #83b728;  /* Dette er fargen på de store knappene */
+	color: #9EB728;  /* Dette er fargen på de store knappene */
 	font-size: 20px;
 	padding-top: 15px;
 	position:absolute;
 	width:100%;
-	height:100%;
+	height:44px;
 	top:0;
 	left:0;
 	text-decoration:none;
 	z-index:10;
-
-}
-
-#hovednavigering div:hover{
-	background: #9EB728;
-	color: #ECEDA2;
-
-}
-
-#hovednavigering div a:hover{
-	color: #ECEDA2;
-}
-
-#hovednavigering .undersideNav div:hover{
-	background: #ECEDA2;
-}
-
-#hovednavigering .undersideNav div a:hover{
-	color: #9EB728;
 }
 
 #hovednavigering #pt{
