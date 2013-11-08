@@ -6,7 +6,7 @@
 		<ul>
 			<li>
 				<a class="lenke" href="">
-					<img class="fargefelt" src="../img/fisk1.jpg" alt="oppskrift på fisk">
+					<img class="fargefelt" src="./img/fisk1.jpg" alt="oppskrift på fisk">
 					<div class="overlay">
 						<p class="tekst">trykk her for oppskrift på fisk</p>
 					</div>
@@ -14,7 +14,7 @@
 			</li>
 			<li>
 				<a class="lenke" href="">
-					<img class="fargefelt" src="../img/salat1.jpg" alt="oppskrift på fisk">
+					<img class="fargefelt" src="./img/salat1.jpg" alt="oppskrift på fisk">
 					<div class="overlay">
 						<p class="tekst">trykk her for oppskrift på salat</p>
 					</div>
@@ -22,7 +22,7 @@
 			</li>
 			<li>
 				<a class="lenke" href="">
-					<img class="fargefelt" src="../img/salat2.jpg" alt="oppskrift på fisk">
+					<img class="fargefelt" src="./img/salat2.jpg" alt="oppskrift på fisk">
 					<div class="overlay">
 						<p class="tekst">trykk her for oppskrift på salat</p>
 					</div>
@@ -30,7 +30,7 @@
 			</li>
 			<li>
 				<a class="lenke" href="">
-					<img class="fargefelt" src="../img/smoothie1.jpg" alt="oppskrift på fisk">
+					<img class="fargefelt" src="./img/smoothie1.jpg" alt="oppskrift på fisk">
 					<div class="overlay">
 						<p class="tekst">trykk her for oppskrift på smoothie</p>
 					</div>
@@ -38,15 +38,15 @@
 			</li>
 			<li>
 				<a class="lenke" href="">
-					<img class="fargefelt" src="../img/smoothie2.jpg" alt="oppskrift på fisk">
+					<img class="fargefelt" src="./img/smoothie2.jpg" alt="oppskrift på fisk">
 					<div class="overlay">
 						<p class="tekst">trykk her for oppskrift på smoothie</p>
 					</div>
 				</a>
 			</li>
 			<li>
-				<a class="lenke" href="">
-					<img class="fargefelt" src="../img/terte1.jpg" alt="oppskrift på fisk">
+				<a class="lenke" href="index.php?page=dessert">
+					<img class="fargefelt" src="./img/terte1.jpg" alt="oppskrift på fisk">
 					<div class="overlay">
 						<p class="tekst">trykk her for oppskrift på brinebær terte med vaniljekrem</p>
 					</div>
@@ -54,7 +54,7 @@
 			</li>
 			<li>
 				<a class="lenke" href="">
-					<img class="fargefelt" src="../img/suppe1.jpg" alt="oppskrift på fisk">
+					<img class="fargefelt" src="./img/suppe1.jpg" alt="oppskrift på fisk">
 					<div class="overlay">
 						<p class="tekst">trykk her for oppskrift på suppe</p>
 					</div>

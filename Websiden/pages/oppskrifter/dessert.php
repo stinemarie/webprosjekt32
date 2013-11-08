@@ -5,7 +5,7 @@
  		<li>110 g smør</li>
  		<li>4-8 ss kaldt vann</li>
  		<li>1 kurv friske bringebær</li>
- 		<li>ca 4 dl vaniljekrem (<a href="oppskrifter.html#vaniljekrem">Her kan man lage egen</a> eller kjøpe ferdig)</li>
+ 		<li>ca 4 dl vaniljekrem (<a href="oppskrifter.html#vaniljekrem" target="_blank">Her kan man lage egen</a> eller kjøpe ferdig)</li>
 	 	<li>melisdryss</li>
 	 </ul>
  	<p>Ha hvetemel og sukker i en kjøkkenmaskin og tilsett smøret (i terninger). Kjør til det akkurat er godt blandet, og tilsett 
@@ -20,7 +20,12 @@
  	<p>Stek tertene midt i ovnen (over- og undervarme) ved ca 200 grader i ca 20-25 minutter, til tertebunnen er gyldenbrun. 
  		Jeg stekte mine terter i overkant av 25 minutter. Avkjøl tertene litt på rist. (Dersom du lager en stor terte må du beregne 
  		noe lengre steketid.)</p>
- <img src="img/bringebærterte.jpg" width="500px" alt="terte">
+ 
+ <figure>
+  <img class="matbilde" src="./img/bringebærterte.jpg" alt="bilde av bringebærterte">
+  <figcaption class="kilde">kilde: foto:</figcaption>
+</figure> 
+
  <br>
  <h4 id="vaniljekrem">Vaniljekrem </h4>
  	<ul>
@@ -38,3 +43,7 @@
  		du hele tiden rører i bunnen av kjelen slik at kremen ikke brenner seg. Kremen skal nå begynne å tykne. Hell kremen over 
  		i en bolle, og sett den umiddelbart til avkjøling i et vannbad eller lignende. Når kremen er avkjølt dekkes bollen med plast 
  		og settes i kjøleskapet.</p>
+
+ <p class="kilde">kilde: <a href="oppskrifter.html#vaniljekrem" target="_blank">lenke</a></p>
+
+ <a href="index.php?page=oppskrifter">tilbake</a>

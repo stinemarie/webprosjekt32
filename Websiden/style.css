@@ -19,6 +19,7 @@ body{
 	top: 30px;
 	left: 25px;
 }
+
 #frame{
 	margin-left: auto;
 	margin-right: auto;
@@ -197,6 +198,15 @@ footer{
 	margin-top: 20px;
 }
 
+.matbilde{
+	width: 100%;
+	padding: 10px;
+	border: solid thin black;
+	background-color: #eceda2;
+	float: right;
+	box-shaddow:;
+}
+
 h2{
 	text-align:center;
 }
@@ -299,19 +309,13 @@ h2{
 	overflow: hidden;
 }
 
-.oppskrift *{
-	padding: 0;
-	margin: 0;
+.oppskrift li{
+	margin: 5px;
+	border: thin solid black;
 }
 
 .oppskrift .fargefelt{
 	display: block;
-}
-
-.oppskrift #navliste li{
-	list-style: none;
-	float : left;
-	position: relative;		
 }
 
 .oppskrift .overlay{
@@ -324,45 +328,17 @@ h2{
 	display: none;
 }
 
-.oppskrift .tekst, .kar p{
+.oppskrift ul li{
+	position: relative;	
+	list-style: none;
+	float: left;
+}
+
+.oppskrift .tekst{
 	color: white;
 	font-size: 30px;
 	font-family: "Gill Sans", sans-serif;
 	margin: 20px;
 	overflow: hidden;
+	text-shadow: 1px 1px #4C4C4C;
 }
-
-.oppskrift *{
-	padding: 0;
-	margin: 0;
-}
-
-.oppskrift .fargefelt {
-	display: block
-}
-
-.oppskrift ul li{
-	list-style: none;
-	float: left;
-}
-
-.oppskrift .overlay{
-	height: 220px;
-	width: 220px;
-	background-color: rgba(236, 237, 162, 0.7);
-	position: absolute;
-	top:0;
-	right:0;
-	display: none;
-}
-
-.oppskrift .tekst{
-color: white;
-/*color: #9eb728;*/
-font-size: 30px;
-font-family: "Gill Sans", sans-serif;
-margin: 20px;
-overflow: hidden;
-text-shadow: 1px 1px #4C4C4C;
-}
-

@@ -104,47 +104,45 @@
 			<?php
 			if($_GET["page"] == "hjem")
 				include("./pages/hjem.php");
-			elseif($_GET["page"] == "hvorfortrene")
-				include("./pages/hvorfortrene.php");
-			elseif($_GET["page"] == "ovelser")
-				include("./pages/ovelser.php");
-			elseif($_GET["page"] == "treningsprosjekt")
-				include("./pages/treningsprosjekt.php");
-			elseif($_GET["page"] == "treningstips")
-				include("./pages/treningstips.php");
-			elseif($_GET["page"] == "hvor")
-				include("./pages/hvor.php");
-			elseif($_GET["page"] == "kosthold")
-				include("./pages/kosthold.php");
-			elseif($_GET["page"] == "oppskrifter")
-				include("./pages/oppskrifter.php");
-			elseif($_GET["page"] == "ukesmeny")
-				include("./pages/ukesmeny.php");
-			elseif($_GET["page"] == "favoritter")
-				include("./pages/favoritter.php");
-			elseif($_GET["page"] == "ernering")
-				include("./pages/ernering.php");
-			elseif($_GET["page"] == "personligtrener")
-				include("./pages/personligtrener.php");
-			elseif($_GET["page"] == "intervju")
-				include("./pages/intervju.php");
-			elseif($_GET["page"] == "trenerne")
-				include("./pages/trenerne.php");
-			elseif($_GET["page"] == "lenker")
-				include("./pages/lenker.php");
-			elseif($_GET["page"] == "omoss")
-				include("./pages/omoss.php");
-			elseif($_GET["page"] == "kontakt")
-				include("./pages/kontakt.php");
+				elseif($_GET["page"] == "hvorfortrene")
+					include("./pages/hvorfortrene.php");
+				elseif($_GET["page"] == "ovelser")
+					include("./pages/ovelser.php");
+				elseif($_GET["page"] == "treningsprosjekt")
+					include("./pages/treningsprosjekt.php");
+				elseif($_GET["page"] == "treningstips")
+					include("./pages/treningstips.php");
+				elseif($_GET["page"] == "hvor")
+					include("./pages/hvor.php");
+				elseif($_GET["page"] == "kosthold")
+					include("./pages/kosthold.php");
+				elseif($_GET["page"] == "oppskrifter")
+					include("./pages/oppskrifter.php");
+				elseif($_GET["page"] == "ukesmeny")
+					include("./pages/ukesmeny.php");
+				elseif($_GET["page"] == "favoritter")
+					include("./pages/favoritter.php");
+				elseif($_GET["page"] == "ernering")
+					include("./pages/ernering.php");
+				elseif($_GET["page"] == "personligtrener")
+					include("./pages/personligtrener.php");
+				elseif($_GET["page"] == "intervju")
+					include("./pages/intervju.php");
+				elseif($_GET["page"] == "trenerne")
+					include("./pages/trenerne.php");
+				elseif($_GET["page"] == "lenker")
+					include("./pages/lenker.php");
+				elseif($_GET["page"] == "omoss")
+					include("./pages/omoss.php");
+				elseif($_GET["page"] == "kontakt")
+					include("./pages/kontakt.php");
+				elseif($_GET["page"] == "dessert")
+					include("./pages/oppskrifter/dessert.php");
 			else
 				include("./pages/hjem.php");
 			?>
 
-
 			</div>
-
-
-
 
 			<footer>
 
