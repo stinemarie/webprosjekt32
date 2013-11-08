@@ -166,7 +166,7 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 #content{
 	min-height: 800px;
 	padding: 20px;
-	padding-top: 100px;
+	padding-top: 40px;
 }
 
 #content p{
