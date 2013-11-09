@@ -204,7 +204,7 @@ footer{
 	border: solid thin black;
 	background-color: #eceda2;
 	float: right;
-	box-shaddow:;
+
 }
 
 h2{
@@ -216,47 +216,58 @@ h2{
 	margin: 0;
 	padding: 0;
 }
+
 .kar{
 	position: relative;
 }
+
 .kar div{
 	position: absolute;
 } 
+
 .kar #alpha, #beta, #gamma, #delta{
 	width: 200px;
 	height: 200px;
 	top: 20px;
 }
+
 .kar #alpha{
 	z-index: 2;
 	left: 10px;
 }
+
 .kar p{
 	z-index: 20;
 }
+
 .kar #beta{
 	z-index: 6;
 	left: 175px;
 	top: 10px;
 }
+
 .kar #gamma{
 	z-index: 3;
 	left:370px;
 }
+
 .kar #delta{
 	z-index: 1;
 	left: 170px;
 }
+
 .kar li{
 	display:block;
 	float:left;
 }
+
 .kar #ramme{
 	left:88px; /*sentrerer menyen*/
 	height: 400px;
 	width: 600px;
 	overflow: hidden;
 }
+
 .kar #tilbake{
 	background-color: rgba(240,240,240,0.5);
 	position:absolute;
@@ -266,6 +277,7 @@ h2{
 	left:10px;
 	z-index:5;
 }
+
 .kar #neste{
 	background-color: rgba(240,240,240,0.5);
 	position:absolute;
@@ -275,25 +287,33 @@ h2{
 	left:400px;
 	z-index:4;
 }
+
 .kar div img, p {
 	position: absolute;
 	top:0;
 	left:0;
 }
+
 .kar img{
 	height: 200px;
 	width: 200px;
+}
+
+.treningssider ul{
+	margin: 40px;
 }
 
 .treningssider img, .overlay {
 	height: 200px;
 	width: 200px;
 }
+
 .treningssider li{
 	position:relative;
 	float:left;
 	list-style:none;	
 }
+
 .treningssider .overlay{
 	position:absolute;
 	right:0;
@@ -307,11 +327,6 @@ h2{
 	color: white;
 	font-family: "Gill Sans", sans-serif;
 	overflow: hidden;
-}
-
-.oppskrift li{
-	margin: 5px;
-	border: thin solid black;
 }
 
 .oppskrift .fargefelt{
@@ -328,10 +343,12 @@ h2{
 	display: none;
 }
 
-.oppskrift ul li{
+.oppskrift li{
 	position: relative;	
 	list-style: none;
 	float: left;
+	margin: 5px;
+	border: thin solid black;
 }
 
 .oppskrift .tekst{
