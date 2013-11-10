@@ -18,3 +18,26 @@
 
 <p class="kilde"> Kilde: <a href="http://en.wikipedia.org/wiki/Pomegranate" target="_blank"> Wikipedia</a> og <a href="http://www.bama.no" target="_blank"> bama.no</a> </p>
 
+<h4>Ida sin favorit - Avokodo</h4>
+
+<figure>
+	<img src="./img/avokado.jpg" alt="bilde av avokado">
+	<figcaption class="kilde">kilde: Glad i mat. foto: Ica Norge AS</figcaption>
+</figure> 
+
+<p>Den er rik på kalium, proteiner og B-, E-, K-, A- og C-vitaminer.  I tillegg inneholder frukten kolesterolsenkende stoffer og 
+	antioksidanter som er spesielt bra for nervesystemet. </p>
+<p>Avokado vokser på trær og er en frukt, men siden den verken er søt eller inneholder fruktsyre blir den ofte oppfattet som en grønnsak. 
+	Smaken er mild, nøtteaktig og behagelig. Den høstes umoden, slik at den skal tåle transport og modnes underveis.</p>
+<p>Varianter av avokado:</p>
+<ul>
+	<li>Hass</li>
+	<li>Ettinger</li>
+	<li>Fuerte</li>
+	<li>Bacon</li>
+</ul>
+<p>Jeg personlig elsker å mose/skjære opp avokoadoen å ha den på et grovt knekkebrød, så strø litt havsalt og svart knernet pepper over, og 
+	til slutt strø over ruccula, nam nam! Hvis ikke er det jo super godt å lage en god salat, eller en guacamole med litt for mye chili.</p>
+<p class="kilde"> Kilde: <a href="http://www.frukt.no/leksikon/gronnsaker/avokado/" target="_blank"> Frukt.no</a>, 
+	<a href="http://www.gladimat.no/no/2012/01/smak/Avokado.9UFRHQ1a.ips" target="_blank"> Gladimat.no</a> og 
+	<a href="https://itunes.apple.com/gb/app/z-food-nutrition-facts-lite/id484101503?mt=8" target="_blank"> Apple app: A-Z Food Nutrition Facts lite.</a> </p>
