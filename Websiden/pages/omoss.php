@@ -32,7 +32,7 @@ mollit anim id est laborum:</p>
 		<figcaption>
 			Ida Vikaskag Salvesen
 			<br>
-			<a id="mail" href="mailto:ida@gmail.com">idaida@gmail.com</a>
+			<a id="mail" href="mailto:ida.v.salvesen@gmail.com">ida.v.salvesen@gmail.com</a>
 		</figcaption>
 	</figure>
 

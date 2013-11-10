@@ -16,4 +16,11 @@
 	<p>Bland sammen pasta, rød pesto, kulling og grønnsaker, og bland det hele forsiktig sammen. 
 		Strø gjerne over de friske krydderurtene hvis du har, og server med noen flak parmesan. For en siste finish, 
 		så kan du ha ferskt brød på siden!</p>
-	<img src="../img/pastakylling.jpg" width="500px" alt="Pasta med rød pesto, kylling og paprika">
+	<figure>
+	<img src="../img/pastakylling.jpg" width="500px" alt="Pasta med rød pesto, kylling og paprika">		
+		<figcaption class="kilde">kilde: foto:</figcaption>
+	</figure> 
+
+	<p class="kilde">kilde: <a href="oppskrifter.html#vaniljekrem" target="_blank">Trines matblogg</a></p>
+
+ 	<a href="index.php?page=oppskrifter">tilbake</a>
