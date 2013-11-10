@@ -74,6 +74,132 @@
 					</div>
 				</a>
 			</li>
+			<li>
+				<a class="lenke" href="index.php?page=sommersalat">
+					<div id="trykkher">
+						<p class="tekst">Sommersalat med Jordbær, Eple og Spekeskinke</p>
+					</div>
+					<img class="fargefelt" src="./img/sommersalat.jpg" alt="oppskrift på sommersalat">		
+				
+				</a>
+			</li>		
+			<li>
+				<a class="lenke" href="index.php?page=sitruskylling">
+					<div id="trykkher">
+						<p class="tekst">Sitruskylling med asparges og timian</p>
+					</div>
+					<img class="fargefelt" src="./img/sitruskylling.jpg" alt="oppskrift på sitruskylling">		
+				
+				</a>
+			</li>
+			<li>
+				<a class="lenke" href="index.php?page=AjopachiSmoothie">
+					<div id="trykkher">
+						<p class="tekst">Ajopachi Smoothie</p>
+					</div>
+					<img class="fargefelt" src="./img/ajopachi.jpg" alt="oppskrift på Ajopachismoothie">		
+				
+				</a>
+			</li>
+			<li>
+				<a class="lenke" href="index.php?page=LyserodDromSmoothie">
+					<div id="trykkher">
+						<p class="tekst">Lyserød drøm Smoothie</p>
+					</div>
+					<img class="fargefelt" src="./img/lyserøddrøm.jpg" alt="oppskrift på Lyserød Drøm Smoothie">		
+				
+				</a>
+			</li>
+			<li>
+				<a class="lenke" href="index.php?page=SolskinnSmoothie">
+					<div id="trykkher">
+						<p class="tekst">Solskinn Smoothie</p>
+					</div>
+					<img class="fargefelt" src="./img/solskinn.jpg" alt="oppskrift på Solskinn Smoothie">		
+				
+				</a>
+			</li>
+			<li>
+				<a class="lenke" href="index.php?page=SalatSmoothie">
+					<div id="trykkher">
+						<p class="tekst">Salat Smoothie</p>
+					</div>
+					<img class="fargefelt" src="./img/salatsmoothie.jpg" alt="oppskrift på Salat Smoothie">		
+				
+				</a>
+			</li>
+			<li>
+				<a class="lenke" href="index.php?page=SkippernSmoothie">
+					<div id="trykkher">
+						<p class="tekst">Skippern Smoothie</p>
+					</div>
+					<img class="fargefelt" src="./img/skippern.jpg" alt="oppskrift på Skippern Smoothie">		
+				
+				</a>
+			</li>
+			<li>
+				<a class="lenke" href="index.php?page=DarkBlueSmoothie">
+					<div id="trykkher">
+						<p class="tekst">Dark Blue Heaven Smoothie</p>
+					</div>
+					<img class="fargefelt" src="./img/darkblue.jpg" alt="oppskrift på Dark Blue Heaven Smoothie">		
+				
+				</a>
+			</li>
+			<li>
+				<a class="lenke" href="index.php?page=Squashsalat">
+					<div id="trykkher">
+						<p class="tekst">Squashsalat med kylling, perlespett og basilikum pesto</p>
+					</div>
+					<img class="fargefelt" src="./img/squashsalat.jpg" alt="oppskrift på Squashsalat">		
+				
+				</a>
+			</li>
+			<li>
+				<a class="lenke" href="index.php?page=pastapecorino">
+					<div id="trykkher">
+						<p class="tekst">Pasta med spicy tomatsaus og pecorino</p>
+					</div>
+					<img class="fargefelt" src="./img/pastapecorino.jpg" alt="oppskrift på pastapecorino">		
+				
+				</a>
+			</li>
+						<li>
+				<a class="lenke" href="index.php?page=potetsalat">
+					<div id="trykkher">
+						<p class="tekst">Potet- og spinatsalat med laks</p>
+					</div>
+					<img class="fargefelt" src="./img/potetsalat.jpg" alt="oppskrift på potetsalat">		
+				
+				</a>
+			</li>
+						<li>
+				<a class="lenke" href="index.php?page=tortellini">
+					<div id="trykkher">
+						<p class="tekst">Tortellini med tomater og ruccula</p>
+					</div>
+					<img class="fargefelt" src="./img/tortellini.jpg" alt="oppskrift på tortellini">		
+				
+				</a>
+			</li>
+						<li>
+				<a class="lenke" href="index.php?page=pizza">
+					<div id="trykkher">
+						<p class="tekst">Hjemmelaget pizza</p>
+					</div>
+					<img class="fargefelt" src="./img/pizza.jpg" alt="oppskrift på pizza">		
+				
+				</a>
+			</li>
+			<li>
+				<a class="lenke" href="index.php?page=spaghettispinat">
+					<div id="trykkher">
+						<p class="tekst">Spaghetti med spinat, soltørkede tomater, hvitløkschips og feta</p>
+					</div>
+					<img class="fargefelt" src="./img/spaghettispinat.jpg" alt="oppskrift på spaghettispinat">		
+				
+				</a>
+			</li>
 		</ul>
 	</div>
 </nav>
