@@ -8,9 +8,9 @@
 <img border="0" src="img/martin.png" alt="Martin Antonio" width="100" height="100"></a>
 <a href="http://www.optimaltrening.com/adrian-paul/" target="_blank">
 <img border="0" src="img/adrian.jpg" alt="Adrian Paul" width="100" height="100"></a>
-<a href="http://www.facebook.com" target="_blank">
-<img border="0" src="img/tomas.jpg" alt="Tomas Fjeldberg" width="100" height="100"></a>
 <a href="http://prestasjonstrener.com/tomas-fjeldberg/" target="_blank">
+<img border="0" src="img/tomas.jpg" alt="Tomas Fjeldberg" width="100" height="100"></a>
+<a href="http://www.facebook.com" target="_blank">
 <img border="0" src="img/FB.png" alt="Facebook" width="100" height="100"></a>
 <a href="http://www.facebook.com" target="_blank">
 <img border="0" src="img/FB.png" alt="Facebook" width="100" height="100"></a>
