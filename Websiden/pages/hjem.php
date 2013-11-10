@@ -12,7 +12,7 @@
 				<div id="alpha">
 					<p> les mer om trening</p>
 					<a href="">
-						<img src="./img/fisk1.jpg">
+						<img src="./img/running.jpg" alt="ikon av noen som løper">
 					</a>
 				</div>
 			</li>
@@ -20,7 +20,7 @@
 				<div id="beta">
 					<p>les mer om kosthold</p>
 					<a href="">
-						<img src="./img/suppe1.jpg">
+						<img src="./img/suppe1.jpg" alt="bilde av suppe">
 					</a>
 				</div>
 			</li>

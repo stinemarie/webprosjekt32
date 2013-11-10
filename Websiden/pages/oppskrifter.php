@@ -5,7 +5,7 @@
 	<div>
 		<ul>
 			<li>
-				<a class="lenke" href="">
+				<a class="lenke" href="index.php?page=fisk">
 					<img class="fargefelt" src="./img/fisk1.jpg" alt="oppskrift på fisk">
 					<div class="overlay">
 						<p class="tekst">trykk her for oppskrift på fisk</p>
@@ -13,15 +13,15 @@
 				</a>
 			</li>
 			<li>
-				<a class="lenke" href="">
-					<img class="fargefelt" src="./img/salat1.jpg" alt="oppskrift på fisk">
+				<a class="lenke" href="index.php?page=kylling">
+					<img class="fargefelt" src="./img/salat1.jpg" alt="oppskrift på kylling">
 					<div class="overlay">
 						<p class="tekst">trykk her for oppskrift på salat</p>
 					</div>
 				</a>
 			</li>
 			<li>
-				<a class="lenke" href="">
+				<a class="lenke" href="index.php?page=">
 					<img class="fargefelt" src="./img/salat2.jpg" alt="oppskrift på fisk">
 					<div class="overlay">
 						<p class="tekst">trykk her for oppskrift på salat</p>

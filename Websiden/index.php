@@ -138,6 +138,7 @@
 					include("./pages/kontakt.php");
 				elseif($_GET["page"] == "dessert")
 					include("./pages/oppskrifter/dessert.php");
+				elseif($_GET["page"] == "fisk")
 			else
 				include("./pages/hjem.php");
 			?>
