@@ -22,7 +22,7 @@
 
 <figure>
 	<img src="./img/avokado.jpg" alt="bilde av avokado">
-	<figcaption class="kilde">kilde: Glad i mat. foto: Ica Norge AS</figcaption>
+	<figcaption class="kilde">kilde: kriweb foto: Kristine Weber</figcaption>
 </figure> 
 
 <p>Den er rik på kalium, proteiner og B-, E-, K-, A- og C-vitaminer.  I tillegg inneholder frukten kolesterolsenkende stoffer og 
@@ -39,5 +39,5 @@
 <p>Jeg personlig elsker å mose/skjære opp avokoadoen å ha den på et grovt knekkebrød, så strø litt havsalt og svart knernet pepper over, og 
 	til slutt strø over ruccula, nam nam! Hvis ikke er det jo super godt å lage en god salat, eller en guacamole med litt for mye chili.</p>
 <p class="kilde"> Kilde: <a href="http://www.frukt.no/leksikon/gronnsaker/avokado/" target="_blank"> Frukt.no</a>, 
-	<a href="http://www.gladimat.no/no/2012/01/smak/Avokado.9UFRHQ1a.ips" target="_blank"> Gladimat.no</a> og 
+	<a href="http://www.kriweb.no/2013/02/14/kjottkaker-med-avokado/" target="_blank"> kriweb.no</a> og 
 	<a href="https://itunes.apple.com/gb/app/z-food-nutrition-facts-lite/id484101503?mt=8" target="_blank"> Apple app: A-Z Food Nutrition Facts lite.</a> </p>
