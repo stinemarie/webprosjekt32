@@ -134,17 +134,17 @@
 				elseif($_GET["page"] == "dessert")
 					include("./pages/oppskrifter/dessert.php");
 				elseif($_GET["page"] == "fisk")
-					include("./page/oppskrifter/fisk.php");
+					include("./pages/oppskrifter/fisk.php");
 				elseif($_GET["page"] == "kylling")
-					include("./page/oppskrifter/kylling.php");
+					include("./pages/oppskrifter/kylling.php");
 				elseif($_GET["page"] == "matpakke")
-					include("./page/oppskrifter/matpakke.php");
+					include("./pages/oppskrifter/matpakke.php");
 				elseif($_GET["page"] == "wok")
-					include("./page/oppskrifter/wok.php");
+					include("./pages/oppskrifter/wok.php");
 				elseif($_GET["page"] == "smartsmoothie")
-					include("./page/oppskrifter/smartsmoothie.php");
+					include("./pages/oppskrifter/smartsmoothie.php");
 				elseif($_GET["page"] == "suppe")
-					include("./page/oppskrifter/suppe.php");
+					include("./pages/oppskrifter/suppe.php");
 			else
 				include("./pages/hjem.php");
 			?>
