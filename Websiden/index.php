@@ -34,10 +34,7 @@
 						<div class="clickable">
 							<a href="index.php?page=treningsprosjekt">Før/etter-prosjekt</a>
 						</div>
-						<div class="clickable">
-							<a href="index.php?page=treningstips">Treningstips!</a>
-						</div>
-						<div class=" clickable undersideSisteKnapp">
+						<div id="hvorsiste" class=" clickable undersideSisteKnapp">
 							<a href="index.php?page=hvor">Trene hvor?</a>
 						</div>
 					</div>
@@ -110,8 +107,6 @@
 					include("./pages/ovelser.php");
 				elseif($_GET["page"] == "treningsprosjekt")
 					include("./pages/treningsprosjekt.php");
-				elseif($_GET["page"] == "treningstips")
-					include("./pages/treningstips.php");
 				elseif($_GET["page"] == "hvor")
 					include("./pages/hvor.php");
 				elseif($_GET["page"] == "kosthold")
