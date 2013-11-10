@@ -9,7 +9,7 @@
 <p>Alle har vel også sett filmen "Rocky Balboa" fra 2006, eller kjenner til den kjente scenen, hvor han skal trene seg opp til den største
 og siste kampen, hvor han pusher seg selv for å nå målet, og klarer dette, som vises med en mestrende neve i været på toppen av trappen.</p>
 <figure>
-	<img src="./img/rockybalboa" alt="rocky balboa">
+	<img src="./img/rockybalboa.jpg" alt="rocky balboa">
 		<figcaption class="kilde">kilde: IMDb.com </figcaption>
 </figure>
 <p>Her ser man noen som har nådd målet sitt og kjenner en mestringsfølelse. Er ikke dette noe du også vil kjenne?</p>
