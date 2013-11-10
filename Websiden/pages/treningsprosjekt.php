@@ -133,3 +133,4 @@ fikk gjort to av tre ønskede økter den uken.</p>
 			</table>
 		</td>
 	</tr>
+</table>
