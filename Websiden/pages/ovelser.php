@@ -2,6 +2,12 @@
 
 <nav class="treningssider">
 	<ul>
+		<li>			
+			<img src="./img/trykkher.jpg" alt="ikon">
+			<div id="trykkher">
+				<p>trykk på bilde for å lese om øvelsene</p>
+			</div>
+		</li>
 		<li>
 			<a class="lenke" href="?page=yogaogpilates">
 				<img src="./img/yoga.jpg" alt="Yoga og Pilates">

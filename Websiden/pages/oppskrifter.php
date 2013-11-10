@@ -4,14 +4,11 @@
 <nav class="oppskrift">
 	<div>
 		<ul>
-			<li>
-				<a class="lenke" href="index.php?page=fisk">
-					<div id="trykkher">
-						<p class="tekst">trykk på bilde for å lese oppskriften</p>
-					</div>
-					<img class="fargefelt" src="./img/salat1.jpg" alt="oppskrift på brokkoliwok">		
-				
-				</a>
+			<li>		
+				<div id="trykkher">
+					<p class="tekst">trykk på bilde for å lese oppskriften</p>
+				</div>
+				<img class="fargefelt" src="./img/trykkher.jpg" alt="ikon">		
 			</li>
 			<li>
 				<a class="lenke" href="index.php?page=fisk">
@@ -25,7 +22,7 @@
 				<a class="lenke" href="index.php?page=wok">
 					<img class="fargefelt" src="./img/salat1.jpg" alt="oppskrift på brokkoliwok">
 					<div class="overlay">
-						<p class="tekst">brokkoliwok med spekeskinke, soltørkede tomater og pinjekjerner</p>
+						<p class="tekst">brokkoliwok med spekeskinke, tomat og pinjekjerner</p>
 					</div>
 				</a>
 			</li>
