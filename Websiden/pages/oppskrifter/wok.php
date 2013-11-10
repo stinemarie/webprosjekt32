@@ -14,4 +14,4 @@
 	<p>Når tomatene er  gjennomvarme tilsettes de ristede pinjekjernene og den hakkede persillen. Smak det hele til med nykvernet 
 		pepper, og evt. salt. Server det hele med godt brød, evt foccacia. Om du ikke har kronene til spekeskinken, så kan dette også 
 		være en fin vegetarrett, ved å evt. bare legge til noen ekstra grønnsaker, eller bare ha den som den er!</p>
-	<img src="img/brokkoliwok.jpg" width="500px" alt="Brokkoliwok">
+	<img src="img/brokkoliwokbrokkoliwok.jpg" width="500px" alt="Brokkoliwok">

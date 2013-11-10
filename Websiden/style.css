@@ -334,15 +334,20 @@ h2{
 	display: block;
 }
 
-.oppskrift .overlay{
+.oppskrift .overlay, #trykkher{
 	height: 220px;
 	width: 220px;
 	background-color: rgba(240,240,240,0.5);
 	position: absolute;
 	top:0;
 	right:0;
+
+}
+
+.oppskrift .overlay{
 	display: none;
 }
+
 
 .oppskrift li{
 	position: relative;	
