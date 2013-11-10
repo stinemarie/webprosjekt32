@@ -169,7 +169,7 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 }
 
 #content{
-	min-height: 800px;
+	min-height: 600px;
 	padding: 20px;
 	padding-top: 40px;
 	position: static;
@@ -177,6 +177,8 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 
 #content p{
 	position: static;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 
 footer{
@@ -379,6 +381,8 @@ h2{
 
 #bilderavoss{
 	margin-left: 111px;
+	height: 600px;
+	margin-bottom: 40px;
 }
 
 .omossfigure{
@@ -390,7 +394,7 @@ h2{
 }
 
 .omossfigure figcaption{
-	margin-left: 10px;
+	text-align: center;
 }
 
 .omossfigure figcaption a{
