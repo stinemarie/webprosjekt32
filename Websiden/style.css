@@ -168,6 +168,7 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	min-height: 800px;
 	padding: 20px;
 	padding-top: 40px;
+	position: static;
 }
 
 #content p{
@@ -359,3 +360,33 @@ h2{
 	overflow: hidden;
 	text-shadow: 1px 1px #4C4C4C;
 }
+
+/* Om oss */
+
+#omosstekst{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#bilderavoss{
+	margin-left: 111px;
+}
+
+.omossfigure{
+	float: left;
+	border: 3px solid #9EB728;
+	padding: 8px;
+	margin: 20px;
+	box-shadow: 1px 1px 4px 0px black;
+}
+
+.omossfigure figcaption{
+	margin-left: 10px;
+}
+
+.omossfigure figcaption a{
+	color: #1F850B;
+}
+
+
+/* Om oss */
