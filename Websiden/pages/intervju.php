@@ -24,7 +24,7 @@
 	<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
 	<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>Tren styrke, det holder deg sterk psykisk 
 		og mentalt resten av livet!</li>
-	<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>Ha kontinuitet kndeg du gjør og gjør enkelt.</li>
+	<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>Ha kontinuitet på det du gjør og gjør det enkelt.</li>
 	<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
 	<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>blablablablablablablablabal</li>
 </ul>
@@ -101,7 +101,7 @@
 <ul>
 					
 	<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-	<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>Calisthenics.</li>
+	<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>Calisthenics (kroppsvektstrening).</li>
 	<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>Ski, svømming, fjellturer, 
 		ballidretter hva som helst egentlig. </li>
 	<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
