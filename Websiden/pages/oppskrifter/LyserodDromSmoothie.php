@@ -13,7 +13,7 @@
 		så kjører man blandingen til man får en glatt konsistens.</p>
 
 	<figure>
-		<img class="matbilde" src="../img/lyserøddrøm.jpg" alt="lyserød drøm">
+		<img class="matbilde" src="./img/lyserøddrøm.jpg" alt="lyserød drøm">
 			<figcaption class="kilde">Kilde: Vektklubben. Foto: Vektklubben.</figcaption>
 	</figure> 
 

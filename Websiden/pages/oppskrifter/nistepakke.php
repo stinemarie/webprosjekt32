@@ -12,7 +12,7 @@
 		i matboksen, sammen med for eksempel litt druer og appelsinskiver.</p>
 
 	<figure>
-	<img class="matbilde" src="../img/nistepakke.jpg" alt="nistepakke">
+	<img class="matbilde" src="./img/nistepakke.jpg" alt="nistepakke">
 		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 

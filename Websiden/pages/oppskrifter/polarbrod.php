@@ -24,7 +24,7 @@
 		kan du varme dem ved ca. 175 grader varmluft, i 3-4 minutter.</p>
 
 	<figure>
-		<img class="matbilde" src="../img/polarbrod.jpg" alt="polarbrød">
+		<img class="matbilde" src="./img/polarbrod.jpg" alt="polarbrød">
 			<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 

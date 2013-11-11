@@ -12,7 +12,7 @@
 		først i blenderen, deretter resten av ingrediensene. Kjør blandingen til du får en glatt konsistens.</p>
 
 	<figure>
-		<img class="matbilde" src="../img/skippern.jpg" alt="sitruskylling">
+		<img class="matbilde" src="./img/skippern.jpg" alt="sitruskylling">
 			<figcaption class="kilde">Kilde: Vektklubben. Foto: Vektklubben.</figcaption>
 	</figure> 
 

@@ -11,7 +11,7 @@
 		Kjør blandingen til du får en glatt konsistens. Spe på med mer væske for å få den tynnere, eller mer banan/bær for å få den tykkere om
 		man ønsker det.</p>
 	<figure>
-		<img class="matbilde" src="../img/darkblue.jpg" alt="dark blue heaven">
+		<img class="matbilde" src="./img/darkblue.jpg" alt="dark blue heaven">
 			<figcaption class="kilde">Kilde: Vektklubben. Foto: Vektklubben.</figcaption>
 	</figure> 
 

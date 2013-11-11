@@ -12,7 +12,7 @@
 		man over den salaten man har valgt, vårløken, cherrytomatene, og mangoskivene. Så bretter/ruller man det sammen som en 
 		taco og pakker det inn i plastfolie, så den holder seg fint sammen brettet/rullet til lunchen på skolen.</p>
 	<figure>
-		<img class="matbilde" src="../img/matpakke.png" alt="matpakke">
+		<img class="matbilde" src="./img/matpakke.png" alt="matpakke">
 			<figcaption class="kilde">Kilde: frukt.no Foto: frukt.no</figcaption>
 	</figure> 
 

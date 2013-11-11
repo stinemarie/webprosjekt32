@@ -23,7 +23,7 @@
 		holdbar i ca 1 måned.</p>
 
 	<figure>
-		<img class="matbilde" src="../img/granola.jpg" alt="granola">
+		<img class="matbilde" src="./img/granola.jpg" alt="granola">
 			<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
@@ -33,7 +33,7 @@
 		mat, og ekstra luksus.</p>
 
 	<figure>
-		<img class="matbilde" src="../img/yoghurt.jpg" alt="yoghurt">
+		<img class="matbilde" src="./img/yoghurt.jpg" alt="yoghurt">
 			<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 

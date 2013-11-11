@@ -14,7 +14,7 @@
 		i blenderen. Kjørt alt til du får en lysegrønn farge.</p>
 
 	<figure>
-		<img class="matbilde" src="../img/salatsmoothie.jpg" alt="Salatsmoothie">
+		<img class="matbilde" src="./img/salatsmoothie.jpg" alt="Salatsmoothie">
 			<figcaption class="kilde">Kilde: Vektklubben. Foto: Vektklubben.</figcaption>
 	</figure> 
 

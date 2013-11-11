@@ -21,7 +21,7 @@
 		av sitrussjyen, brød, ris eller annet tilbehør.</p>
 
 	<figure>
-		<img class="matbilde" src="../img/sitruskylling.jpg" alt="sitruskylling">
+		<img class="matbilde" src="./img/sitruskylling.jpg" alt="sitruskylling">
 			<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 

@@ -9,7 +9,7 @@
 		Kjør det hele til du har fått en jevn smoothie blanding.</p>
 
 	<figure>
-		<img class="matbilde" src="../img/smart-smoothie.jpg" alt="smart-smoothie">
+		<img class="matbilde" src="./img/smart-smoothie.jpg" alt="smart-smoothie">
 			<figcaption class="kilde">Kilde: frukt.no Foto: frukt.no</figcaption>
 	</figure> 
 

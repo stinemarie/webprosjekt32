@@ -36,7 +36,7 @@
 	<p>Det hele serveres samlet, med kokt ris eller nudler som tilbehør. Man har da til slutt soyasausen over den ferdige retten, 
 		eller serverer den ved siden av slik at man kan forsyne seg etter smak og behag.</p>
 	<figure>
-		<img class="matbilde" src="../img/laksesalat.jpg" alt="Laks med sesamfrø">
+		<img class="matbilde" src="./img/laksesalat.jpg" alt="Laks med sesamfrø">
 			<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 

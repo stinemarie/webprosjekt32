@@ -23,7 +23,7 @@
 		litt parmesan og server, gjerne med konfiserte tomater og eltefritt speltloff til.</p>
 
 	<figure>
-		<img class="matbilde" src="../img/squashsalat.jpg" alt="squashsalat">
+		<img class="matbilde" src="./img/squashsalat.jpg" alt="squashsalat">
 			<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 

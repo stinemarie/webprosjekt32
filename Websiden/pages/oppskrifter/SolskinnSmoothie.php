@@ -10,7 +10,7 @@
 		deretter paprika, gulrot, mango og isbiter. Kjør den til den er jevn og fin</p>
 
 	<figure>
-		<img src="../img/solskinn.jpg" alt="solskinn">
+		<img src="./img/solskinn.jpg" alt="solskinn">
 			<figcaption class="kilde">Kilde: Vektklubben. Foto: Vektklubben.</figcaption>
 	</figure> 
 

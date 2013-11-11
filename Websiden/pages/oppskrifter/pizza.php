@@ -31,7 +31,7 @@
 		italiensk rødvin til.</p>
 
 	<figure>
-		<img class="matbilde" src="../img/pizza.jpg" alt="pizza">
+		<img class="matbilde" src="./img/pizza.jpg" alt="pizza">
 			<figcaption class="kilde">Kilde: Trines matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
