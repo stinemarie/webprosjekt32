@@ -12,7 +12,7 @@
 				<div id="alpha">
 					<p> les mer om trening</p>
 					<a href="">
-						<img src="./img/running.jpg" alt="ikon av noen som løper">
+						<img src="./img/ikoner/running.jpg" alt="ikon av noen som løper">
 					</a>
 				</div>
 			</li>
@@ -20,7 +20,7 @@
 				<div id="beta">
 					<p>les mer om kosthold</p>
 					<a href="">
-						<img src="./img/suppe1.jpg" alt="bilde av suppe">
+						<img src="./img/ikoner/suppe1.jpg" alt="bilde av suppe">
 					</a>
 				</div>
 			</li>
@@ -28,7 +28,7 @@
 				<div id="gamma">
 					<p>les mer om helse</p>
 					<a href="">
-						<img src="./img/smoothie1.jpg">
+						<img src="./img/ikoner/smoothie1.jpg">
 					</a>
 				</div>
 			</li>
@@ -36,7 +36,7 @@
 				<div id="delta">
 					<p>les mer om personlig trener</p>
 					<a href="">
-						<img src="./img/terte1.jpg">
+						<img src="./img/ikoner/terte1.jpg">
 					</a>
 				</div>
 			</li>
