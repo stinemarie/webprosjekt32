@@ -7,7 +7,7 @@
  		<li>1 kurv friske bringebær</li>
  		<li>ca 4 dl vaniljekrem (<a href="oppskrifter.html#vaniljekrem" target="_blank">Her kan man lage egen</a> eller kjøpe ferdig)</li>
 	 	<li>melisdryss</li>
-	 </ul>
+	</ul>
  	<p>Ha hvetemel og sukker i en kjøkkenmaskin og tilsett smøret (i terninger). Kjør til det akkurat er godt blandet, og tilsett 
  		deretter isvann til deigen samler seg. Ikke kjør deigen mer enn det som er strengt nødvendig. Pakk deigen inn i litt 
  		plastfolie og legg den i kjøleskapet i minst en time (del den gjerne opp i fire biter så blir den klar for utkjevling 
@@ -21,29 +21,29 @@
  		Jeg stekte mine terter i overkant av 25 minutter. Avkjøl tertene litt på rist. (Dersom du lager en stor terte må du beregne 
  		noe lengre steketid.)</p>
  
- <figure>
-  <img class="matbilde" src="../img/bringebærterte.jpg" alt="bilde av bringebærterte">
-  <figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
-</figure> 
+	<figure>
+	  <img class="matbilde" src="../img/bringebærterte.jpg" alt="bilde av bringebærterte">
+	  <figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
+	</figure> 
 
- <br>
- <h4 id="vaniljekrem">Vaniljekrem </h4>
- 	<ul>
- 		<li>1 vaniljestang</li>
- 		<li>2 dl + ½ dl melk</li>
- 		<li>¾ dl kremfløte</li>
- 		<li>55 g sukker</li>
- 		<li>2 små eggeplommer</li>
- 		<li>2 ss maisenna</li>
- 	</ul>
- 	<p>Ha 2 dl melk, fløte og sukker i en kjele. Splitt vaniljestangen, skrap ut frøene og tilsett frøene og stangen i kjelen. 
- 		Kjelen bør ikke være mer enn halvfull. Varm forsiktig opp til kokepunktet.Bland sammen ½ dl melk og maisenna i en stor bolle 
- 		og visp sammen. Visp deretter inn eggeplommene.  Hell ca 2/3 av den varme væsken, litt etter litt, oppi eggeblandingen og rør godt hele tiden med en visp. </p>
- 	<p>Sil deretter blandingen og hell den tilbake i kjelen. Varm forsiktig opp og la blandingen småkoke (skal ikke boblekoke!) mens 
- 		du hele tiden rører i bunnen av kjelen slik at kremen ikke brenner seg. Kremen skal nå begynne å tykne. Hell kremen over 
- 		i en bolle, og sett den umiddelbart til avkjøling i et vannbad eller lignende. Når kremen er avkjølt dekkes bollen med plast 
- 		og settes i kjøleskapet.</p>
+<br>
+<h4 id="vaniljekrem">Vaniljekrem </h4>
+	 <ul>
+	 	<li>1 vaniljestang</li>
+	 	<li>2 dl + ½ dl melk</li>
+	 	<li>¾ dl kremfløte</li>
+	 	<li>55 g sukker</li>
+	 	<li>2 små eggeplommer</li>
+	 	<li>2 ss maisenna</li>
+	 </ul>
+	<p>Ha 2 dl melk, fløte og sukker i en kjele. Splitt vaniljestangen, skrap ut frøene og tilsett frøene og stangen i kjelen. 
+		Kjelen bør ikke være mer enn halvfull. Varm forsiktig opp til kokepunktet.Bland sammen ½ dl melk og maisenna i en stor bolle 
+		og visp sammen. Visp deretter inn eggeplommene.  Hell ca 2/3 av den varme væsken, litt etter litt, oppi eggeblandingen og rør godt hele tiden med en visp. </p>
+	<p>Sil deretter blandingen og hell den tilbake i kjelen. Varm forsiktig opp og la blandingen småkoke (skal ikke boblekoke!) mens 
+		du hele tiden rører i bunnen av kjelen slik at kremen ikke brenner seg. Kremen skal nå begynne å tykne. Hell kremen over 
+		i en bolle, og sett den umiddelbart til avkjøling i et vannbad eller lignende. Når kremen er avkjølt dekkes bollen med plast 
+		og settes i kjøleskapet.</p>
 
- <p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
+	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
 
- <a href="index.php?page=oppskrifter">tilbake</a>
+	<a href="index.php?page=oppskrifter">tilbake</a>
