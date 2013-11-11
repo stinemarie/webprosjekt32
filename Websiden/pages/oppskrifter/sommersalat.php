@@ -13,19 +13,22 @@
 	<li>Salt og pepper</li>
 	<li>Godt brød, for eksempel focaccia</li>
 </ul>
-<p>Rist gresskarkjernene i en tørr panne og sett til side.</p>
-<p>Skyll salaten og kjør den gjerne i en salatslynge, hvis du har. Skjær opp grønnsaker og frukt som angitt ovenfor, 
+<p>
+	Rist gresskarkjernene i en tørr panne og sett til side.</p>
+<p>
+	Skyll salaten og kjør den gjerne i en salatslynge, hvis du har. Skjær opp grønnsaker og frukt som angitt ovenfor, 
 	og ha dem i en stor bolle sammen med salaten og de ristede gresskarkjernene. Drypp over din beste olivenolje og 
 	balsamicoeddik, og krydre med salt og pepper. Vend salaten forsiktig sammen, og smuldre til slutt osten over.</p>
-<p>Serveres umiddelbart, sammen med godt brød til. Sett gjerne frem en lav bolle med olivenolje og balsamicoeddik som man 
+<p>
+	Serveres umiddelbart, sammen med godt brød til. Sett gjerne frem en lav bolle med olivenolje og balsamicoeddik som man 
 	kan dyppe brødet i.</p>
 
 
-	<figure>
-	<img src="img/sommersalat.jpg" width="500px" alt="sommersalat">
-		<figcaption class="kilde">Kilde: Trines Matblogg Foto:</figcaption>
-	</figure> 
+<figure>
+	<img src="img/sommersalat.jpg" alt="sommersalat">
+	<figcaption class="kilde">Kilde: Trines Matblogg Foto:</figcaption>
+</figure> 
 
-	<p class="kilde">Kilde: <a href="www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
+<p class="kilde">Kilde: <a href="www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
 
- 	<a href="index.php?page=oppskrifter">tilbake</a>
+<a href="index.php?page=oppskrifter">tilbake</a>

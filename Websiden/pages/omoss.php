@@ -10,7 +10,7 @@ mollit anim id est laborum:</p>
 
 <div id="bilderavoss">
 	<figure class="omossfigure">
-		<img src="./img/stine.jpg" width="200px" height="200px" alt="Bilde av Stine">
+		<img src="./img/stine.jpg" alt="Bilde av Stine">
 		<figcaption>
 			Stine Marie Aas Grumheden
 			<br>
@@ -19,7 +19,7 @@ mollit anim id est laborum:</p>
 	</figure>
 
 	<figure class="omossfigure">
-		<img src="./img/amund.jpg" width="200px" height="200px" alt="Bilde av Amund">
+		<img src="./img/amund.jpg" alt="Bilde av Amund">
 		<figcaption>
 			Amund Ring
 			<br>
@@ -28,7 +28,7 @@ mollit anim id est laborum:</p>
 	</figure>
 
 	<figure class="omossfigure">
-		<img src="./img/ida.png" width="200px" height="200px" alt="Bilde av Ida">
+		<img src="./img/ida.png" alt="Bilde av Ida">
 		<figcaption>
 			Ida Vikaskag Salvesen
 			<br>
@@ -37,7 +37,7 @@ mollit anim id est laborum:</p>
 	</figure>
 
 	<figure class="omossfigure">
-		<img src="./img/christopher.png" width="200px" height="200px" alt="Bilde av Christopher">
+		<img src="./img/christopher.png" alt="Bilde av Christopher">
 		<figcaption>
 			Christopher Aspel
 			<br>
