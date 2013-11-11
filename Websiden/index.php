@@ -141,8 +141,8 @@
 					include("./pages/oppskrifter/matpakke.php");
 				elseif($_GET["page"] == "wok")
 					include("./pages/oppskrifter/wok.php");
-				elseif($_GET["page"] == "smartsmoothie")
-					include("./pages/oppskrifter/smartsmoothie.php");
+				elseif($_GET["page"] == "smoothie")
+					include("./pages/oppskrifter/smoothie.php");
 				elseif($_GET["page"] == "suppe")
 					include("./pages/oppskrifter/suppe.php");
 			else
