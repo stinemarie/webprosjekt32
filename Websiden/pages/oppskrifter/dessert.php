@@ -22,7 +22,7 @@
  		noe lengre steketid.)</p>
  
 	<figure>
-	  <img class="matbilde" src="../img/bringebærterte.jpg" alt="bilde av bringebærterte">
+	  <img class="matbilde" src="./img/bringebærterte.jpg" alt="bilde av bringebærterte">
 	  <figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
