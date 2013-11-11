@@ -1,4 +1,5 @@
-<h4>Sommersalat med jordbær, eple, kraftkar og tind spekeskinke (3porsjoner)</h4>
+<div class="oppsk">	
+	<h4>Sommersalat med jordbær, eple, kraftkar og tind spekeskinke (3porsjoner)</h4>
 	<ul>
 		<li>1 pakke Tind godt modnet spekeskinke</li>
 		<li>ca. 100 g Blandet salat</li>
@@ -29,3 +30,4 @@
 	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
 
 	<a href="index.php?page=oppskrifter">tilbake</a>
+</div>

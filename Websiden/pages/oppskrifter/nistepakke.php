@@ -1,4 +1,5 @@
-<h4>Nistepakke</h4>
+<div class="oppsk">	
+	<h4>Nistepakke</h4>
 	<ul>
 		<li>Grovbrød</li>
 		<li>Kremost/Philadelphia</li>
@@ -19,3 +20,4 @@
 	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>
+ </div>

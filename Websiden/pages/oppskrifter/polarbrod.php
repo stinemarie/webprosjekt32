@@ -1,4 +1,5 @@
-<h4>Polarbrød (24 brød)</h4>
+<div class="oppsk">	
+	<h4>Polarbrød (24 brød)</h4>
 	<ul>
 		<li>150 g Havregryn, finmalt</li>
 		<li>500 g Fullkornshvetemel (eller annet finmalt grovt mel)</li>
@@ -31,5 +32,6 @@
 	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>
+ </div>
 
 

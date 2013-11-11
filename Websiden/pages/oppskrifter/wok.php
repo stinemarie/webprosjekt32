@@ -1,4 +1,5 @@
-<h4>Brokkoliwok med spekeskinke, soltørkede tomater og pinjekjerner (2porsjoner)</h4>
+<div class="oppsk">	
+	<h4>Brokkoliwok med spekeskinke, soltørkede tomater og pinjekjerner (2porsjoner)</h4>
 	<ul>
 		<li>1 Rødløk, i tynne båter</li>
 		<li>2 Fedd hvitløk, finkakket</li>
@@ -22,3 +23,4 @@
 	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines matblogg</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>
+ </div>

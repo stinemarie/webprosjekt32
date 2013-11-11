@@ -1,4 +1,5 @@
-<h4>Bønne- og linsesuppe med chorizo(3porsjoner+)</h4>
+<div class="oppsk">	
+	<h4>Bønne- og linsesuppe med chorizo(3porsjoner+)</h4>
 	<ul>
 		<li>1 løk, finhakket</li>
 		<li>½ - ¾ rød chili (eller mer/mindre etter ønske), finhakket</li>
@@ -29,3 +30,4 @@
 	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines matblogg</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>
+ </div>

@@ -1,4 +1,5 @@
-<h4>Potet- og spinatsalat med laks (2porsjoner)</h4>
+<div class="oppsk">	
+	<h4>Potet- og spinatsalat med laks (2porsjoner)</h4>
 	<p>Laks og salat:</p>
 	<ul>
 		<li>2 biter Fersk laks</li>
@@ -32,4 +33,5 @@
 	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>
+ </div>
 

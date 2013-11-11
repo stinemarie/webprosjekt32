@@ -141,20 +141,14 @@ $(document).ready(function(){
 	 $( "#neste" ).click(function(){
 	 	neste();
 	 });
-
 // 	 $('#button').click(function(){
 //   if(
 //     $('.wrapper').not(':animated') && $('.wrapper span').is(':visible')
 //   ) {
 //     //do something
 //   }
-// })
-
-
-		
+// })	
 	setInterval(function() {neste()}, 6500);
-
-	
 
 	function neste(){
 	 	var rrr = $(".kar div").index( $(".right") );
@@ -201,9 +195,7 @@ $(document).ready(function(){
 	 	// $( '.left p').fadeOut('fast');	
 	 });
 });
-
 /*Skript for bildegallerier*/
-
 $(document).ready(function(){
 	$('.lenke').hover(function(){
 		$(this).children('.overlay').fadeIn('slow');					
@@ -226,22 +218,22 @@ $(document).ready(function(){
 
 /*Script for BMI Kalkulator*/
 function kalkulerBmi() {
-var vekt = document.bmiKalk.vekt.value
-var høyde = document.bmiKalk.høyde.value
-if(vekt > 0 && høyde > 0){	
-var endeligBmi = vekt/(høyde/100*høyde/100)
-document.bmiKalk.visBmi.value = endeligBmi
-if(endeligBmi < 18.5){
-document.bmiKalk.betydning.value = "Du er klassifisert som undervektig."
-}
-if(endeligBmi > 18.5 && endeligBmi < 25){
-document.bmiKalk.betydning.value = "Du er klassifisert som normalvektig"
-}
-if(endeligBmi > 25){
-document.bmiKalk.betydning.value = "Du er klassifisert som overvektig."
-}
-}
-else{
-alert("Vennligst fyll inn alt korrekt.")
-}
+	var vekt = document.bmiKalk.vekt.value
+	var høyde = document.bmiKalk.høyde.value
+	if(vekt > 0 && høyde > 0){	
+	var endeligBmi = vekt/(høyde/100*høyde/100)
+	document.bmiKalk.visBmi.value = endeligBmi
+	if(endeligBmi < 18.5){
+	document.bmiKalk.betydning.value = "Du er klassifisert som undervektig."
+	}
+	if(endeligBmi > 18.5 && endeligBmi < 25){
+	document.bmiKalk.betydning.value = "Du er klassifisert som normalvektig"
+	}
+	if(endeligBmi > 25){
+	document.bmiKalk.betydning.value = "Du er klassifisert som overvektig."
+	}
+	}
+	else{
+	alert("Vennligst fyll inn alt korrekt.")
+	}
 }

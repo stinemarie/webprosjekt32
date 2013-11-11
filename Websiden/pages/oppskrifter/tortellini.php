@@ -1,4 +1,5 @@
-<h4>Tortellini med tomater og ruccula (2porsjoner+)</h4>
+<div class="oppsk">	
+	<h4>Tortellini med tomater og ruccula (2porsjoner+)</h4>
 	<ul>
 		<li>1 pakke Tortellini med kjøtt- eller skinkefyll</li>
 		<li>1 liten Rødløk, i biter</li>
@@ -27,3 +28,4 @@
 	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
 
 	<a href="index.php?page=oppskrifter">tilbake</a>
+</div>

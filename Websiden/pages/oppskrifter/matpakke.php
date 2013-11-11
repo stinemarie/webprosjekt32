@@ -1,4 +1,5 @@
-<h4>Matpakkeforslag - Mango og skinkewrap</h4>
+<div class="oppsk">	
+	<h4>Matpakkeforslag - Mango og skinkewrap</h4>
  	<ul>
  		<li>Lefse</li>
  		<li>Kjøtt/Skinke av eget valg</li>
@@ -19,4 +20,5 @@
 	<p class="kilde">kilde: <a href="http://www.frukt.no/sitefiles/1/matpakke/mangoogskinkewrap.html" target="_blank">frukt.no</a></p>
 
 	<a href="index.php?page=oppskrifter">tilbake</a>
+</div>
 

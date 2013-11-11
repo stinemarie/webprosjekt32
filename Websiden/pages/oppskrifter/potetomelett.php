@@ -1,4 +1,5 @@
-<h4>Potetomelett med brokkoli og salami (2porsjoner+)</h4>
+<div class="oppsk">	
+	<h4>Potetomelett med brokkoli og salami (2porsjoner+)</h4>
 	<ul>
 		<li>2 Kokte poteter, i skiver</li>
 		<li>1/4 Brokkoli, i små buketter</li>
@@ -26,3 +27,4 @@
 	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>
+ </div>
