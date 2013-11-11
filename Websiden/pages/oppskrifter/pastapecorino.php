@@ -18,13 +18,13 @@
 <p>Kok pastaen etter anvisningen på pakken, til den er al dente. Mer om koking av pasta kan du lese her. Bruk eventuelt fullkornspasta 
 	hvis du ønsker et sunnere alternativ. Ha den ferdigkokte pastaen oppi tomatsausen og vend det hele forsiktig sammen. 
 	Serveres umiddelbart med revet pecorino (eventuelt parmesan) og noen basilkumblader. Server gjerne godt brød som tilbehør.</p>
-<img src="img/pastapecorino.jpg" width="500px" alt="Pastapecorino">
+
 
 	<figure>
-	<img src="img/gulrot-ananassmoothie.jpg" width="500px" alt="gulrot-ananassmoothie">
-		<figcaption class="kilde">Kilde: Trines Matblogg Foto:</figcaption>
+	<img class="matbilde" src="../img/pastapecorino.jpg" width="500px" alt="Pastapecorino">
+		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
-	<p class="kilde">Kilde: <a href="www.trinesmatblogg.no" target="_blank">Trines matblogg</a></p>
+	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines matblogg</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>

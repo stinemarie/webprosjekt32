@@ -19,10 +19,10 @@
 	god salat og godt brød som tilbehør. Eventuelle rester er godt egnet i lunsjboksen dagen etter.</p>
 
 	<figure>
-	<img src="img/potetomelett.jpg" width="500px" alt="potetomelett">
-		<figcaption class="kilde">Kilde: Trines Matblogg Foto:</figcaption>
+	<img class="matbilde" src="../img/potetomelett.jpg" width="500px" alt="potetomelett">
+		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
-	<p class="kilde">Kilde: <a href="www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
+	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>

@@ -32,10 +32,10 @@
 
 
 	<figure>
-	<img src="img/pizza.jpg" width="500px" alt="pizza">
-		<figcaption class="kilde">Kilde: Trines matblogg Foto:</figcaption>
+	<img class="matbilde" src="../img/pizza.jpg" width="500px" alt="pizza">
+		<figcaption class="kilde">Kilde: Trines matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
-	<p class="kilde">Kilde: <a href="www.trinesmatblogg.no" target="_blank">Trines matblogg</a></p>
+	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines matblogg</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>

@@ -12,10 +12,10 @@
 		man over den salaten man har valgt, vårløken, cherrytomatene, og mangoskivene. Så bretter/ruller man det sammen som en 
 		taco og pakker det inn i plastfolie, så den holder seg fint sammen brettet/rullet til lunchen på skolen.</p>
 	<figure>
-	<img src="img/matpakke.png" width="500px" alt="matpakke">
-		<figcaption class="kilde">kilde: foto:</figcaption>
+	<img class="matbilde" src="../img/matpakke.png" width="500px" alt="matpakke">
+		<figcaption class="kilde">Kilde: frukt.no Foto: frukt.no</figcaption>
 	</figure> 
 
-	<p class="kilde">kilde: <a href="oppskrifter.html#vaniljekrem" target="_blank">Trines matblogg</a></p>
+	<p class="kilde">kilde: <a href="http://www.frukt.no/sitefiles/1/matpakke/mangoogskinkewrap.html" target="_blank">frukt.no</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>

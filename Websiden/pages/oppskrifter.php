@@ -93,7 +93,7 @@
 				</a>
 			</li>
 			<li>
-				<a class="lenke" href="index.php?page=AjopachiSmoothie">
+				<a class="lenke" href="index.php?page=ajopachismoothie">
 					<div id="trykkher">
 						<p class="tekst">Ajopachi Smoothie</p>
 					</div>
@@ -102,7 +102,7 @@
 				</a>
 			</li>
 			<li>
-				<a class="lenke" href="index.php?page=LyserodDromSmoothie">
+				<a class="lenke" href="index.php?page=lyseroddromsmoothie">
 					<div id="trykkher">
 						<p class="tekst">Lyserød drøm Smoothie</p>
 					</div>
@@ -111,7 +111,7 @@
 				</a>
 			</li>
 			<li>
-				<a class="lenke" href="index.php?page=SolskinnSmoothie">
+				<a class="lenke" href="index.php?page=solskinnsmoothie">
 					<div id="trykkher">
 						<p class="tekst">Solskinn Smoothie</p>
 					</div>
@@ -120,7 +120,7 @@
 				</a>
 			</li>
 			<li>
-				<a class="lenke" href="index.php?page=SalatSmoothie">
+				<a class="lenke" href="index.php?page=salatsmoothie">
 					<div id="trykkher">
 						<p class="tekst">Salat Smoothie</p>
 					</div>
@@ -129,7 +129,7 @@
 				</a>
 			</li>
 			<li>
-				<a class="lenke" href="index.php?page=SkippernSmoothie">
+				<a class="lenke" href="index.php?page=skippernsmoothie">
 					<div id="trykkher">
 						<p class="tekst">Skippern Smoothie</p>
 					</div>
@@ -138,7 +138,7 @@
 				</a>
 			</li>
 			<li>
-				<a class="lenke" href="index.php?page=DarkBlueSmoothie">
+				<a class="lenke" href="index.php?page=darkbluesmoothie">
 					<div id="trykkher">
 						<p class="tekst">Dark Blue Heaven Smoothie</p>
 					</div>
@@ -147,7 +147,7 @@
 				</a>
 			</li>
 			<li>
-				<a class="lenke" href="index.php?page=Squashsalat">
+				<a class="lenke" href="index.php?page=squashsalat">
 					<div id="trykkher">
 						<p class="tekst">Squashsalat med kylling, perlespett og basilikum pesto</p>
 					</div>

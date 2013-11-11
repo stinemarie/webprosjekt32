@@ -22,8 +22,8 @@
  		noe lengre steketid.)</p>
  
  <figure>
-  <img class="matbilde" src="./img/bringebærterte.jpg" alt="bilde av bringebærterte">
-  <figcaption class="kilde">kilde: foto:</figcaption>
+  <img class="matbilde" src="../img/bringebærterte.jpg" alt="bilde av bringebærterte">
+  <figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 </figure> 
 
  <br>
@@ -44,6 +44,6 @@
  		i en bolle, og sett den umiddelbart til avkjøling i et vannbad eller lignende. Når kremen er avkjølt dekkes bollen med plast 
  		og settes i kjøleskapet.</p>
 
- <p class="kilde">kilde: <a href="oppskrifter.html#vaniljekrem" target="_blank">lenke</a></p>
+ <p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
 
  <a href="index.php?page=oppskrifter">tilbake</a>

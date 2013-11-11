@@ -11,10 +11,10 @@
 	jordbærene. Ha appelsinjuicen i blenderen, deretter resten av ingrediensene. Kjør blandingen til du får en glatt konsistens.</p>
 
 		<figure>
-	<img src="img/ajopachi.jpg" width="500px" alt="ajopachi">
-		<figcaption class="kilde">Kilde: Vektklubben Foto:</figcaption>
+	<img class="matbilde" src="../img/ajopachi.jpg" width="500px" alt="ajopachi">
+		<figcaption class="kilde">Kilde: Vektklubben. Foto: Vektklubben.</figcaption>
 	</figure> 
 
-	<p class="kilde">Kilde: <a href="www.vektklubben.no" target="_blank">Vektklubben</a></p>
+	<p class="kilde">Kilde: <a href="http://www.vektklubben.no" target="_blank">Vektklubben</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>

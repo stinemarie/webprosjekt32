@@ -21,10 +21,10 @@
 	<p>Når suppen er kokt ferdig og har fått litt tykkelse, tilsetter man vårløk og chorizo, og smak deretter til suppen med 
 		salt og pepper. Strø over litt finhakket koriander og server evt med en liten klatt creme fraiche og ferskt brød til.</p>
 	<figure>
-	<img src="img/chorizosuppe.jpg" width="500px" alt="Suppe">
-		<figcaption class="kilde">kilde: foto:</figcaption>
+	<img class="matbilde" src="../img/chorizosuppe.jpg" width="500px" alt="Suppe">
+		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
-	<p class="kilde">kilde: <a href="oppskrifter.html#vaniljekrem" target="_blank">Trines matblogg</a></p>
+	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines matblogg</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>

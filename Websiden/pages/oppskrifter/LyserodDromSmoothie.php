@@ -13,10 +13,10 @@
 	så kjører man blandingen til man får en glatt konsistens.</p>
 
 	<figure>
-	<img src="img/lyserøddrøm.jpg" width="500px" alt="lyserød drøm">
-		<figcaption class="kilde">kilde: Vektklubben foto:</figcaption>
+	<img class="matbilde" src="../img/lyserøddrøm.jpg" width="500px" alt="lyserød drøm">
+		<figcaption class="kilde">Kilde: Vektklubben. Foto: Vektklubben.</figcaption>
 	</figure> 
 
-	<p class="kilde">Kilde: <a href="www.vektklubben.no" target="_blank">Vektklubben</a></p>
+	<p class="kilde">Kilde: <a href="http://www.vektklubben.no" target="_blank">Vektklubben</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>

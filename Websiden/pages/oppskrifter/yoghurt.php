@@ -23,8 +23,8 @@
 	holdbar i ca 1 måned.</p>
 
 	<figure>
-	<img src="img/granola.jpg" width="500px" alt="granola">
-		<figcaption class="kilde">Kilde: Trines Matblogg Foto:</figcaption>
+	<img class="matbilde" src="../img/granola.jpg" width="500px" alt="granola">
+		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
 <p>Så tar man da bare med en liten porsjon av den hjemmelagde granolaen, og en eller to små kopper av den ønskede yoghurten.
@@ -32,11 +32,11 @@
 	mat, og ekstra luksus.</p>
 
 	<figure>
-	<img src="img/yoghurt.jpg" width="500px" alt="yoghurt">
-		<figcaption class="kilde">Kilde: Trines Matblogg Foto:</figcaption>
+	<img class="matbilde" src="../img/yoghurt.jpg" width="500px" alt="yoghurt">
+		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
-	<p class="kilde">Kilde: <a href="www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
+	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>
 

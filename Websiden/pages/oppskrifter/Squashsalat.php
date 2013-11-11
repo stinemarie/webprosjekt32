@@ -24,10 +24,10 @@
 
 
 <figure>
-<img src="img/squashsalat.jpg" width="500px" alt="squashsalat">
-	<figcaption class="kilde">Kilde: Trines Matblogg Foto:</figcaption>
+<img class="matbilde" src="../img/squashsalat.jpg" width="500px" alt="squashsalat">
+	<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 </figure> 
 
-<p class="kilde">Kilde: <a href="www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
+<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
 
  <a href="index.php?page=oppskrifter">tilbake</a>

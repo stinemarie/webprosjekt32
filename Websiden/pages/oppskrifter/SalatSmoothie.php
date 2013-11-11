@@ -14,10 +14,10 @@
 	i blenderen. Kjørt alt til du får en lysegrønn farge.</p>
 
 	<figure>
-	<img src="img/salatsmoothie.jpg" width="500px" alt="Salatsmoothie">
-		<figcaption class="kilde">Kilde: Vektklubben Foto:</figcaption>
+	<img class="matbilde" src="../img/salatsmoothie.jpg" width="500px" alt="Salatsmoothie">
+		<figcaption class="kilde">Kilde: Vektklubben. Foto: Vektklubben.</figcaption>
 	</figure> 
 
-	<p class="kilde">Kilde: <a href="www.vektklubben.no" target="_blank">Vektklubben</a></p>
+	<p class="kilde">Kilde: <a href="http://www.vektklubben.no" target="_blank">Vektklubben</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>

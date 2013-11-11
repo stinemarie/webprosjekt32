@@ -21,10 +21,10 @@
 	deg på tur). Legg toppen oppå, skjær brødet i to, og server – eller pakk de inn i plast og ta de med på tur!</p>
 
 	<figure>
-	<img src="img/fougasse.jpg" width="500px" alt="fougasse">
-		<figcaption class="kilde">Kilde: Trines Matblogg Foto:</figcaption>
+	<img class="matbilde" src="../img/fougasse.jpg" width="500px" alt="fougasse">
+		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
-	<p class="kilde">Kilde: <a href="www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
+	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>	

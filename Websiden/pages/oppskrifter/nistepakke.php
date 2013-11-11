@@ -12,10 +12,10 @@
 	i matboksen, sammen med for eksempel litt druer og appelsinskiver.</p>
 
 	<figure>
-	<img src="img/nistepakke.jpg" width="500px" alt="nistepakke">
-		<figcaption class="kilde">Kilde: Trines Matblogg Foto:</figcaption>
+	<img class="matbilde" src="../img/nistepakke.jpg" width="500px" alt="nistepakke">
+		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
-	<p class="kilde">Kilde: <a href="www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
+	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>
