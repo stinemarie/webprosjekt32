@@ -60,74 +60,98 @@
 				</li>
 				<li>
 					<a class="lenke" href="index.php?page=matpakke">
-						<img class="fargefelt" src="./img/ikon/suppe1.jpg" alt="matpakketips">
 						<div class="overlay">
-							<p class="tekst">trykk her for matpakketips</p>
+							<p class="tekst">trykk her for matpakketips med lefse</p>
 						</div>
+						<img class="fargefelt" src="./img/ikon/trykkher.jpg" alt="matpakketips">
+					</a>
+				</li>
+				<li>
+					<a class="lenke" href="index.php?page=polarbrod">
+						<div class="overlay">
+							<p class="tekst">hjemmelaget polarbrød</p>
+						</div>
+						<img class="fargefelt" src="./img/ikon/trykkher.jpg" alt="matpakketips">
+					</a>
+				</li>
+				<li>
+					<a class="lenke" href="index.php?page=nistepakke">
+						<div class="overlay">
+							<p class="tekst">trykk her for matpakketips med grovbrød </p>
+						</div>
+						<img class="fargefelt" src="./img/ikon/trykkher.jpg" alt="matpakketips">
 					</a>
 				</li>
 				<li>
 					<a class="lenke" href="index.php?page=sommersalat">
-						<div id="trykkher">
+						<div class="overlay">
 							<p class="tekst">Sommersalat med Jordbær, Eple og Spekeskinke</p>
 						</div>
-						<img class="fargefelt" src="./img/ikon/sommersalat.jpg" alt="oppskrift på sommersalat">						
+						<img class="fargefelt" src="./img/ikon/sommersalatikon.jpg" alt="oppskrift på sommersalat">						
 					</a>
 				</li>		
 				<li>
 					<a class="lenke" href="index.php?page=sitruskylling">
-						<div id="trykkher">
+						<div class="overlay">
 							<p class="tekst">Sitruskylling med asparges og timian</p>
 						</div>
-						<img class="fargefelt" src="./img/sitruskylling.jpg" alt="oppskrift på sitruskylling">						
+						<img class="fargefelt" src="./img/ikon/kyllingsitronikon.jpg" alt="oppskrift på sitruskylling">						
 					</a>
 				</li>
 				<li>
 					<a class="lenke" href="index.php?page=squashsalat">
-						<div id="trykkher">
+						<div class="overlay">
 							<p class="tekst">Squashsalat med kylling, perlespett og basilikum pesto</p>
 						</div>
-						<img class="fargefelt" src="./img/ikon/squashsalat.jpg" alt="oppskrift på Squashsalat">						
+						<img class="fargefelt" src="./img/ikon/squashsalatikon.jpg" alt="oppskrift på Squashsalat">						
 					</a>
 				</li>
 				<li>
 					<a class="lenke" href="index.php?page=pastapecorino">
-						<div id="trykkher">
+						<div class="overlay">
 							<p class="tekst">Pasta med spicy tomatsaus og pecorino</p>
 						</div>
-						<img class="fargefelt" src="./img/ikon/pastapecorino.jpg" alt="oppskrift på pastapecorino">		
+						<img class="fargefelt" src="./img/ikon/pastapecorinoikon.jpg" alt="oppskrift på pastapecorino">		
 					</a>
 				</li>
 				<li>
 					<a class="lenke" href="index.php?page=potetsalat">
-						<div id="trykkher">
+						<div class="overlay">
 							<p class="tekst">Potet- og spinatsalat med laks</p>
 						</div>
-						<img class="fargefelt" src="./img/ikon/potetsalat.jpg" alt="oppskrift på potetsalat">						
+						<img class="fargefelt" src="./img/ikon/potetsalatikon.jpg" alt="oppskrift på potetsalat">						
 					</a>
 				</li>
 				<li>
 					<a class="lenke" href="index.php?page=tortellini">
-						<div id="trykkher">
+						<div class="overlay">
 							<p class="tekst">Tortellini med tomater og ruccula</p>
 						</div>
-						<img class="fargefelt" src="./img/ikon/tortellini.jpg" alt="oppskrift på tortellini">						
+						<img class="fargefelt" src="./img/ikon/tortelliniikon.jpg" alt="oppskrift på tortellini">						
 					</a>
 				</li>
 				<li>
 					<a class="lenke" href="index.php?page=pizza">
-						<div id="trykkher">
+						<div class="overlay">
 							<p class="tekst">Hjemmelaget pizza</p>
 						</div>
-						<img class="fargefelt" src="./img/ikon/pizza.jpg" alt="oppskrift på pizza">						
+						<img class="fargefelt" src="./img/ikon/pizzaikon.jpg" alt="oppskrift på pizza">						
 					</a>
 				</li>
 				<li>
 					<a class="lenke" href="index.php?page=spaghettispinat">
-						<div id="trykkher">
-							<p class="tekst">Spaghetti med spinat, soltørkede tomater, hvitløkschips og feta</p>
+						<div class="overlay">
+							<p class="tekst">Spaghetti med spinat, soltørkede tomater og feta</p>
 						</div>
-						<img class="fargefelt" src="./img/ikon/spaghettispinat.jpg" alt="oppskrift på spaghettispinat">						
+						<img class="fargefelt" src="./img/ikon/spaghettispinatikon.jpg" alt="oppskrift på spaghettispinat">						
+					</a>
+				</li>
+				<li>
+					<a class="lenke" href="index.php?page=yoghurt">
+						<div class="overlay">
+							<p class="tekst">Yoghurt med hjemmelaget granola</p>
+						</div>
+						<img class="fargefelt" src="./img/ikon/yoghurtikon.jpg" alt="oppskrift på yoghurt">						
 					</a>
 				</li>
 			</ul>

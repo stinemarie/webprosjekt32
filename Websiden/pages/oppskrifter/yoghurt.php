@@ -1,5 +1,5 @@
 <div class="oppsk">	
-	<h4>Yoghurt med hjemmelaget granola.</h4>
+	<h4>Yoghurt med hjemmelaget granola</h4>
 	<p>Hjemmelaget granola:</p>
 	<ul>
 		<li>250 g Havregryn (økologisk)</li>
@@ -24,9 +24,7 @@
 		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
-	<p>Så tar man da bare med en liten porsjon av den hjemmelagde granolaen, og en eller to små kopper av den ønskede yoghurten. 
-		Man tar da bare å heller ønsket mengde med ganola oppi yoghurten og strør gjerne noen ferske bær på toppen for litt ekstra  
-		mat, og ekstra luksus.</p>
+	<p>Så tar man da bare med en liten porsjon av den hjemmelagde granolaen, og en eller to små kopper av den ønskede yoghurten. Man tar da bare å heller ønsket mengde med ganola oppi yoghurten og strør gjerne noen ferske bær på toppen for litt ekstra mat, og ekstra luksus.</p>
 
 	<figure>
 		<img class="matbilde" src="./img/yoghurt.jpg" alt="yoghurt">

@@ -16,7 +16,7 @@
 		pepper, og evt. salt. Server det hele med godt brød, evt foccacia. Om du ikke har kronene til spekeskinken, så kan dette også 
 		være en fin vegetarrett, ved å evt. bare legge til noen ekstra grønnsaker, eller bare ha den som den er!</p>
 	<figure>
-		<img class="matbilde" src="./img/brokkoliwokbrokkoliwok.jpg" alt="Brokkoliwok">
+		<img class="matbilde" src="./img/brokkoliwok.jpg" alt="Brokkoliwok">
 				<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
