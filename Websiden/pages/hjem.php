@@ -23,22 +23,22 @@
 				</li>
 				<li>
 					<div id="gamma">
-						<p>les mer om helse</p>
-						<a href="">
+						<p>les mer om personlige trenere</p>
+						<a href="index.php?personligtrener">
 							<img src="./img/ikon/smoothie1.jpg">
 						</a>
 					</div>
 				</li>
 				<li>
 					<div id="delta">
-						<p>les mer om personlig trener</p>
+						<p>les mer om oss!</p>
 						<a href="">
 							<img src="./img/ikon/terte1.jpg">
 						</a>
 					</div>
 				</li>
 			</ul>
-					<div id="tilbake"></div><div id="neste"></div>
+			<div id="tilbake"></div><div id="neste"></div>
 		</div><!--  slutt på ramme -->
 	</nav>	
 </div>

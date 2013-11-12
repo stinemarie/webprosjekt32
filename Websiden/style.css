@@ -269,11 +269,11 @@ h2{
 	overflow: hidden;
 }
 
-.kar #tilbake #neste{
+.kar #tilbake, #neste{
 	background-color: rgba(240,240,240,0.5);
-	position:absolute;
+	position: absolute;
 	height:200px;
-	width:170px;
+	width:180px;
 	top:20px;
 }
 
@@ -283,8 +283,8 @@ h2{
 }
 
 .kar #neste{
-	left:400px;
-	z-index:4;
+	left:390px;
+	z-index:5;
 }
 
 .kar div img, p {

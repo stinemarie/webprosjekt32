@@ -141,25 +141,8 @@ $(document).ready(function(){
 	 $( "#neste" ).click(function(){
 	 	neste();
 	 });
-// 	 $('#button').click(function(){
-//   if(
-//     $('.wrapper').not(':animated') && $('.wrapper span').is(':visible')
-//   ) {
-//     //do something
-//   }
-// })
 
-		// $(".kar div").not(":animated");
-		// {
-		// 	setInterval(function() {neste()}, 6500);
-		// };
-
-	// 	var myChildrenBehave =  $(".element").filter(function() {
- //  var filtered = $(this).children().not(":animated");
- //  return filtered;
- // })
-	setInterval(function() {neste()}, 6500);
-
+	// setInterval(function() {neste()}, 6500);
 
 	function neste(){
 	 	var rrr = $(".kar div").index( $(".right") );
