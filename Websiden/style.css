@@ -332,8 +332,13 @@ h2{
 
 .oppskrifter{
 	height: 1800px;
-
 }
+
+.oppskrifter #oppskriftDiv
+{
+	margin-left: 10px;
+}
+
 .oppsk .smoothie{
 	height: 4200px;
 }
