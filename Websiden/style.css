@@ -211,7 +211,6 @@ footer{
 	border: solid thin black;
 	background-color: #eceda2;
 	float: right;
-
 }
 
 h2{
@@ -243,10 +242,6 @@ h2{
 	left: 10px;
 }
 
-.kar p{
-	z-index: 20;
-}
-
 .kar #beta{
 	z-index: 6;
 	left: 175px;
@@ -263,34 +258,38 @@ h2{
 	left: 170px;
 }
 
+.kar #ramme p{
+	z-index: 20;
+	position: relative;
+	display: none;
+}
+
 .kar li{
 	display:block;
 	float:left;
 }
-
+ /*sentrerer menyen*/
 .kar #ramme{
-	left:88px; /*sentrerer menyen*/
+	left:88px;
 	height: 400px;
 	width: 600px;
 	overflow: hidden;
 }
 
-.kar #tilbake{
+.kar #tilbake #neste{
 	background-color: rgba(240,240,240,0.5);
 	position:absolute;
 	height:200px;
 	width:170px;
 	top:20px;
+}
+
+.kar #tilbake{
 	left:10px;
 	z-index:5;
 }
 
 .kar #neste{
-	background-color: rgba(240,240,240,0.5);
-	position:absolute;
-	height:200px;
-	width:170px;
-	top:20px;
 	left:400px;
 	z-index:4;
 }
@@ -305,7 +304,7 @@ h2{
 	height: 200px;
 	width: 200px;
 }
-
+/* css for treningssider*/
 .treningssider ul{
 	margin: 40px;
 }
@@ -353,7 +352,6 @@ h2{
 .oppskrift .overlay{
 	display: none;
 }
-
 
 .oppskrift li{
 	position: relative;	

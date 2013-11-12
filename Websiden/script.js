@@ -147,8 +147,19 @@ $(document).ready(function(){
 //   ) {
 //     //do something
 //   }
-// })	
+// })
+
+		// $(".kar div").not(":animated");
+		// {
+		// 	setInterval(function() {neste()}, 6500);
+		// };
+
+	// 	var myChildrenBehave =  $(".element").filter(function() {
+ //  var filtered = $(this).children().not(":animated");
+ //  return filtered;
+ // })
 	setInterval(function() {neste()}, 6500);
+
 
 	function neste(){
 	 	var rrr = $(".kar div").index( $(".right") );
@@ -163,7 +174,7 @@ $(document).ready(function(){
 	 	$( ".kar div" ).eq(rrr).removeClass('right');
 		$( ".kar div" ).eq(mmm).css("z-index","3").animate({left:'10px', top:'20px'},"slow").addClass('left');
 	 	$( ".kar div" ).eq(mmm).removeClass('midten');
-	 	$( ".kar div" ).eq(lll).css("z-index","2").animate({left:"160px", top:'20px',  width:'200px', height:'200px'}).addClass('hide');
+	 	$( ".kar div" ).eq(lll).css("z-index","2").animate({left:"160px", top:'20px', width:'200px', height:'200px'}).addClass('hide');
 	 	$( '.kar div' ).eq(lll).removeClass('left');
 	 	$( ".kar div" ).eq(hhh).css("z-index","1").animate({left:'370px', top:'20px',},"slow").addClass('right');
 	 	$( '.kar div' ).eq(hhh).removeClass('hide');
@@ -214,7 +225,6 @@ $(document).ready(function(){
 		
 // 	});
 // });
-
 
 /*Script for BMI Kalkulator*/
 function kalkulerBmi() {
