@@ -465,8 +465,17 @@ h2{
 	margin-left: 74px;
 }
 
-
 /* Våre favoritter */
+
+/* Personlig trener */
+
+.personligtrener{
+	margin-left: 20px;
+}
+
+.personligtrener h4{
+	text-align: center;
+}
 
 
 

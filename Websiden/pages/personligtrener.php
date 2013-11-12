@@ -1,7 +1,13 @@
-<div class="intervju">
-	<h2>Intervju med personlige trenere</h2>
+<div class="personligtrener">
+	<h2>Personlige trener</h2>
 
-	<p> Vi har her fått 5 forskjellige PT'er spredd utover Oslo og Akershus til å svare på noen spørsmål knyttet til trening og kosthold. Under vil du finne bilder som fører til info om de forksjellige trenerene og svar på spørsmålene.</p>
+	<p>***En liten tekst om personlige trenere her***</p>
+
+	<hr>
+
+	<h4>Intervju</h4>
+
+	<p>Vi har her fått 5 forskjellige PT'er spredd utover Oslo og Akershus til å svare på noen spørsmål knyttet til trening og kosthold. Under vil du finne bilder som fører til info om de forksjellige trenerene og svar på spørsmålene.</p>
 
 	<!-- Må sette inn bilder og linke til nettsiden til de forkjsellige PT'ene, også endre størresle til å se bra ut. -->
 
@@ -11,10 +17,6 @@
 	<img border="0" src="img/adrian.jpg" alt="Adrian Paul" width="100" height="100"></a>
 	<a href="http://prestasjonstrener.com/tomas-fjeldberg/" target="_blank">
 	<img border="0" src="img/tomas.jpg" alt="Tomas Fjeldberg" width="100" height="100"></a>
-	<a href="http://www.facebook.com" target="_blank">
-	<img border="0" src="img/FB.png" alt="Facebook" width="100" height="100"></a>
-	<a href="http://www.facebook.com" target="_blank">
-	<img border="0" src="img/FB.png" alt="Facebook" width="100" height="100"></a>
 
 	<p><b> Hva er din treningsfilosofi?</b></p>
 
