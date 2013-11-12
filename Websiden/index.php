@@ -67,19 +67,6 @@
 
 				<div id="pt">
 					<a id="ptlink" href="index.php?page=personligtrener">Personlig<br>trener</a>
-
-					<div id="ptNav" class="undersideNav">
-						<div class="clickable">
-							<a href="index.php?page=personligtrener">Personlig Trener</a>
-						</div>
-						<div class="clickable">
-							<a href="index.php?page=intervju">Intervju</a>
-						</div>
-						<div id="trenerne" class="clickable undersideSisteKnapp">
-							<a href="index.php?page=trenerne">Trenerne</a>
-						</div>
-					</div>
-
 				</div>
 
 

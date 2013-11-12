@@ -142,9 +142,6 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	line-height: 20px;
 }
 
-#hovednavigering .undersideNav #trenerne{
-	border-right: 2px solid #9EB728;
-}
 
 #hovednavigering .undersideNav .undersideSisteKnapp{
 	border-right: 1px solid #9EB728;
@@ -160,12 +157,6 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	display: none;
 	left: -161px;
 	top: 45px;
-}
-
-#ptNav{
-	display: none;
-	left: -320px;
-	top: 52px;
 }
 
 #content{
