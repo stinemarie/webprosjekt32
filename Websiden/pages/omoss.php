@@ -41,7 +41,7 @@ mollit anim id est laborum:</p>
 		<figcaption>
 			Christopher Aspel
 			<br>
-			<a id="mail" href="mailto:christopher@gmail.com">christopher@gmail.com</a>
+			<a id="mail" href="mailto:chriasp91@gmail.com">chriasp91@gmail.com</a>
 		</figcaption>
 	</figure>
 </div>
