@@ -1,4 +1,5 @@
-<h4>Bønne- og linsesuppe med chorizo(3porsjoner+)</h4>
+<div class="oppsk">	
+	<h4>Bønne- og linsesuppe med chorizo(3porsjoner+)</h4>
 	<ul>
 		<li>1 løk, finhakket</li>
 		<li>½ - ¾ rød chili (eller mer/mindre etter ønske), finhakket</li>
@@ -20,11 +21,13 @@
 		Smak til med ingefær. La det stå og putre under lokk i ca 10min. I mellomtiden så kan du steke vårløken og chorizoen i litt smør og sette det til side.</p>
 	<p>Når suppen er kokt ferdig og har fått litt tykkelse, tilsetter man vårløk og chorizo, og smak deretter til suppen med 
 		salt og pepper. Strø over litt finhakket koriander og server evt med en liten klatt creme fraiche og ferskt brød til.</p>
+
 	<figure>
-	<img class="matbilde" src="../img/chorizosuppe.jpg" width="500px" alt="Suppe">
-		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
+		<img class="matbilde" src="./img/chorizosuppe.jpg" alt="Suppe">
+			<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
 	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines matblogg</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>
+ </div>

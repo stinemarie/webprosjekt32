@@ -205,14 +205,6 @@ footer{
 	margin-top: 20px;
 }
 
-.matbilde{
-	width: 100%;
-	padding: 10px;
-	border: solid thin black;
-	background-color: #eceda2;
-	float: right;
-
-}
 
 h2{
 	text-align:center;
@@ -243,10 +235,6 @@ h2{
 	left: 10px;
 }
 
-.kar p{
-	z-index: 20;
-}
-
 .kar #beta{
 	z-index: 6;
 	left: 175px;
@@ -263,34 +251,38 @@ h2{
 	left: 170px;
 }
 
+.kar #ramme p{
+	z-index: 20;
+	position: relative;
+	display: none;
+}
+
 .kar li{
 	display:block;
 	float:left;
 }
-
+ /*sentrerer menyen*/
 .kar #ramme{
-	left:88px; /*sentrerer menyen*/
+	left:88px;
 	height: 400px;
 	width: 600px;
 	overflow: hidden;
 }
 
-.kar #tilbake{
+.kar #tilbake #neste{
 	background-color: rgba(240,240,240,0.5);
 	position:absolute;
 	height:200px;
 	width:170px;
 	top:20px;
+}
+
+.kar #tilbake{
 	left:10px;
 	z-index:5;
 }
 
 .kar #neste{
-	background-color: rgba(240,240,240,0.5);
-	position:absolute;
-	height:200px;
-	width:170px;
-	top:20px;
 	left:400px;
 	z-index:4;
 }
@@ -305,7 +297,7 @@ h2{
 	height: 200px;
 	width: 200px;
 }
-
+/* css for treningssider*/
 .treningssider ul{
 	margin: 40px;
 }
@@ -336,6 +328,30 @@ h2{
 	overflow: hidden;
 }
 
+/* Oppskrifter med undersider*/
+
+.oppskrifter{
+	height: 1800px;
+
+}
+.oppsk .smoothie{
+	height: 4200px;
+}
+
+.oppsk ul{
+	list-style: circle;
+}
+
+.smoothie img{
+	width: 400px;
+	clear: both !important;
+/*	float: both !important;*/
+}
+
+.smoothie div{
+	margin-top: 30px;
+}
+
 .oppskrift .fargefelt{
 	display: block;
 }
@@ -347,13 +363,11 @@ h2{
 	position: absolute;
 	top:0;
 	right:0;
-
 }
 
 .oppskrift .overlay{
 	display: none;
 }
-
 
 .oppskrift li{
 	position: relative;	
@@ -370,6 +384,14 @@ h2{
 	margin: 20px;
 	overflow: hidden;
 	text-shadow: 1px 1px #4C4C4C;
+}
+
+.matbilde{
+	width: 100%;
+	padding: 10px;
+	border: solid thin black;
+	background-color: #eceda2;
+	clear: both;
 }
 
 /* Om oss */

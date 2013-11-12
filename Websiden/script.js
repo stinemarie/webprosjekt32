@@ -141,7 +141,6 @@ $(document).ready(function(){
 	 $( "#neste" ).click(function(){
 	 	neste();
 	 });
-
 // 	 $('#button').click(function(){
 //   if(
 //     $('.wrapper').not(':animated') && $('.wrapper span').is(':visible')
@@ -150,11 +149,17 @@ $(document).ready(function(){
 //   }
 // })
 
+		// $(".kar div").not(":animated");
+		// {
+		// 	setInterval(function() {neste()}, 6500);
+		// };
 
-		
+	// 	var myChildrenBehave =  $(".element").filter(function() {
+ //  var filtered = $(this).children().not(":animated");
+ //  return filtered;
+ // })
 	setInterval(function() {neste()}, 6500);
 
-	
 
 	function neste(){
 	 	var rrr = $(".kar div").index( $(".right") );
@@ -169,7 +174,7 @@ $(document).ready(function(){
 	 	$( ".kar div" ).eq(rrr).removeClass('right');
 		$( ".kar div" ).eq(mmm).css("z-index","3").animate({left:'10px', top:'20px'},"slow").addClass('left');
 	 	$( ".kar div" ).eq(mmm).removeClass('midten');
-	 	$( ".kar div" ).eq(lll).css("z-index","2").animate({left:"160px", top:'20px',  width:'200px', height:'200px'}).addClass('hide');
+	 	$( ".kar div" ).eq(lll).css("z-index","2").animate({left:"160px", top:'20px', width:'200px', height:'200px'}).addClass('hide');
 	 	$( '.kar div' ).eq(lll).removeClass('left');
 	 	$( ".kar div" ).eq(hhh).css("z-index","1").animate({left:'370px', top:'20px',},"slow").addClass('right');
 	 	$( '.kar div' ).eq(hhh).removeClass('hide');
@@ -201,9 +206,7 @@ $(document).ready(function(){
 	 	// $( '.left p').fadeOut('fast');	
 	 });
 });
-
 /*Skript for bildegallerier*/
-
 $(document).ready(function(){
 	$('.lenke').hover(function(){
 		$(this).children('.overlay').fadeIn('slow');					
@@ -223,25 +226,24 @@ $(document).ready(function(){
 // 	});
 // });
 
-
 /*Script for BMI Kalkulator*/
 function kalkulerBmi() {
-var vekt = document.bmiKalk.vekt.value
-var høyde = document.bmiKalk.høyde.value
-if(vekt > 0 && høyde > 0){	
-var endeligBmi = vekt/(høyde/100*høyde/100)
-document.bmiKalk.visBmi.value = endeligBmi
-if(endeligBmi < 18.5){
-document.bmiKalk.betydning.value = "Du er klassifisert som undervektig."
-}
-if(endeligBmi > 18.5 && endeligBmi < 25){
-document.bmiKalk.betydning.value = "Du er klassifisert som normalvektig"
-}
-if(endeligBmi > 25){
-document.bmiKalk.betydning.value = "Du er klassifisert som overvektig."
-}
-}
-else{
-alert("Vennligst fyll inn alt korrekt.")
-}
+	var vekt = document.bmiKalk.vekt.value
+	var høyde = document.bmiKalk.høyde.value
+	if(vekt > 0 && høyde > 0){	
+	var endeligBmi = vekt/(høyde/100*høyde/100)
+	document.bmiKalk.visBmi.value = endeligBmi
+	if(endeligBmi < 18.5){
+	document.bmiKalk.betydning.value = "Du er klassifisert som undervektig."
+	}
+	if(endeligBmi > 18.5 && endeligBmi < 25){
+	document.bmiKalk.betydning.value = "Du er klassifisert som normalvektig"
+	}
+	if(endeligBmi > 25){
+	document.bmiKalk.betydning.value = "Du er klassifisert som overvektig."
+	}
+	}
+	else{
+	alert("Vennligst fyll inn alt korrekt.")
+	}
 }
