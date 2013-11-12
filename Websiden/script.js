@@ -205,11 +205,11 @@ $(document).ready(function(){
 
 $(document).ready(function(){
 	$("#superhemmelig").click(function(){
-		//$("div ").fadeOut('slow');
 		$("#logo").delay( 200 ).animate({top:'1000px'},700);		
 		$("#hovednavigering div a").delay( 300 ).animate({top:'1000px'},900);
 		$(".kar div").animate({top:'1000px'},800);
-		$(".oppskrift .overlay, #trykkher").animate({top:'1000px'},800);	
+		$(".oppskrift .overlay, #trykkher").animate({top:'1000px'},800);
+		$("body :not(:#bakgrunn)").delay(1000).fadeOut('900');	
 	});
 });
 
