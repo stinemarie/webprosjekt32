@@ -142,7 +142,7 @@ $(document).ready(function(){
 	 	neste();
 	 });
 
-	// setInterval(function() {neste()}, 6500);
+	setInterval(function() {neste()}, 6500);
 
 	function neste(){
 	 	var rrr = $(".kar div").index( $(".right") );
@@ -164,7 +164,8 @@ $(document).ready(function(){
 
 	 	$( '.midten img').animate({width:'230px', height:'230px'});
 	 	$( '.left img' ).animate({width:'200px', height:'200px'});
-	 	// $( '.left p').fadeOut('fast');					 			
+	 	$( '.left p').fadeOut('fast');
+	 	$( '.midten p').fadeIn('fast');					 			
 	 };
 	 	$("#tilbake").click(function(){
 	 	var rrr = $(".kar div").index( $(".right") );
@@ -186,8 +187,10 @@ $(document).ready(function(){
 			
 	 	$( '.midten img').animate({width:'230px', height:'230px'});
 	 	$( '.right img' ).animate({width:'200px', height:'200px'});	
-	 	// $( '.left p').fadeOut('fast');	
-	 });
+	 	
+	 	$( '.right p').fadeOut('fast');
+	 	$( '.midten p').fadeIn('fast');		
+	});
 });
 /*Skript for bildegallerier*/
 $(document).ready(function(){

@@ -218,6 +218,7 @@ h2{
 
 .kar{
 	position: relative;
+	margin-top: 40px;
 }
 
 .kar div{
@@ -291,6 +292,19 @@ h2{
 	position: absolute;
 	top:0;
 	left:0;
+}
+
+.kar .hvitspiss{
+	z-index: 7;
+}
+
+.kar p{
+	font-family: "Gill Sans", sans-serif;
+	color: #9eb728;
+	font-size: x-large;
+	text-align: right;
+	top: 10px;
+	left: 30px;
 }
 
 .kar img{

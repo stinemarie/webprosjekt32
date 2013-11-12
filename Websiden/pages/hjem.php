@@ -7,33 +7,37 @@
 			<ul>
 				<li>
 					<div id="alpha">
-						<p> les mer om trening</p>
-						<a href="">
+						<p>finn trenings-<br>øvelser</p>
+						<a href="index.php?page=hvorfortrene">
 							<img src="./img/ikon/running.jpg" alt="ikon av noen som løper">
+							<img class="hvitspiss" src="./img/ikon/pointoverlay.png" alt="hvit overtrekksbilde">
 						</a>
 					</div>
 				</li>
 				<li>
 					<div id="beta">
-						<p>les mer om kosthold</p>
-						<a href="">
+						<p>finn<br>oppskrifter</p>
+						<a href="index.php?page=oppskrifter">
+							<img class="hvitspiss" src="./img/ikon/pointoverlay.png" alt="hvit overtrekksbilde">
 							<img src="./img/ikon/suppe1.jpg" alt="bilde av suppe">
 						</a>
 					</div>
 				</li>
 				<li>
 					<div id="gamma">
-						<p>les mer om personlige trenere</p>
-						<a href="index.php?personligtrener">
-							<img src="./img/ikon/smoothie1.jpg">
+						<p>les intervju med personlige trenere</p>
+						<a href="index.php?page=intervju">
+							<img class="hvitspiss" src="./img/ikon/pointoverlay.png" alt="hvit overtrekksbilde">
+							<img src="./img/ikon/yoga.jpg">
 						</a>
 					</div>
 				</li>
 				<li>
 					<div id="delta">
-						<p>les mer om oss!</p>
-						<a href="">
-							<img src="./img/ikon/terte1.jpg">
+						<p>les om<br>oss!</p>
+						<a href="index.php?page=omoss">
+							<img class="hvitspiss" src="./img/ikon/pointoverlay.png" alt="hvit overtrekksbilde">
+							<img src="./img/ikon/trykkher.jpg">
 						</a>
 					</div>
 				</li>
