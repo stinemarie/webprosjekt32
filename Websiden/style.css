@@ -208,6 +208,9 @@ footer{
 
 h2{
 	text-align:center;
+	color: #9EB728;
+	font-size: 30px;
+	text-shadow: 1px 1px 1px black;
 }
 
 /* css for karusellen */
@@ -448,3 +451,32 @@ h2{
 }
 
 /* Om oss */
+
+/* Våre favoritter */
+.favorittBoks{
+	border: 3px solid #9EB728;
+	padding: 8px;
+	margin: 20px;
+	box-shadow: 1px 1px 4px 0px black;
+	width: 650px;
+	margin-left: 40px;
+}
+
+.favorittBoks h4{
+	font-size: 22px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.favoritter img{
+	width: 500px;
+	box-shadow: 2px 2px 8px black;
+	margin-left: 74px;
+}
+
+
+/* Våre favoritter */
+
+
+
+
