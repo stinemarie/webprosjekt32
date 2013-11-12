@@ -3,7 +3,7 @@
 
 
 	<div class="favorittBoks">
-		<h4> Stines Favoritt: Granateple </h4>
+		<h4> Stines Favoritt: Granateple</h4>
 		<img src="./img/pomegranate200x300.jpg" alt="bilde av granateple">
 		<p> Min favoritt er granateple. Den er proppet med antioksidanter. I følge <a href="http://www.bama.no"> bama.no</a>  inneholder den 10 ganger mer antioksidanter enn appelsiner og nesten 40 ganger mer enn epler. Både håndgranater og byen Granada i Spania er oppkalt etter frukten. Den passer bra til å ha i salat. Da gjerne med frisk salat, avokado, feta ost, rødløk og cherrytomater nam nam.<br> PS! super digg å ha i daiquiri også! </p>
 		<p class="kilde"> Kilde: <a href="http://en.wikipedia.org/wiki/Pomegranate" target="_blank"> Wikipedia</a> og <a href="http://www.bama.no" target="_blank"> bama.no</a> </p>
@@ -22,11 +22,18 @@
 			<li>Fuerte</li>
 			<li>Bacon</li>
 		</ul>
-		<p>Jeg personlig elsker å mose/skjære opp avokoadoen å ha den på et grovt knekkebrød, så strø litt havsalt og svart knernet pepper over, og til slutt strø over ruccula, nam nam! Hvis ikke er det jo super godt å lage en god salat, eller en guacamole med litt for mye chili.</p>
+		<p>Jeg personlig elsker å mose/skjære opp avokadoen å ha den på et grovt knekkebrød, så strø litt havsalt og svart knernet pepper over, og til slutt strø over ruccula, nam nam! Hvis ikke er det jo super godt å lage en god salat, eller en guacamole med litt for mye chili.</p>
 		<p class="kilde"> Kilde: <a href="http://www.frukt.no/leksikon/gronnsaker/avokado/" target="_blank"> Frukt.no</a>, 
 		<a href="http://www.kriweb.no/2013/02/14/kjottkaker-med-avokado/" target="_blank"> kriweb.no</a> og 
 		<a href="https://itunes.apple.com/gb/app/z-food-nutrition-facts-lite/id484101503?mt=8" target="_blank"> Apple app: A-Z Food Nutrition Facts lite.</a> </p>
 		<p class="kilde"> Kilde: <a href="http://en.wikipedia.org/wiki/Pomegranate" target="_blank"> Wikipedia</a> og <a href="http://www.bama.no" target="_blank"> bama.no</a> </p>
+	</div>
+
+	<div class="favorittBoks">
+		<h4> Amund sin Favoritt: Brokkoli</h4>
+		<img src="./img/brokkoli.jpg" alt="bilde av brokkoli">
+		<p>Her kommer min brokkoli-tekst</p>
+		<p class="kilde">Her kommer kildene</p>
 	</div>
 
 	
