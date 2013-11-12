@@ -18,6 +18,7 @@ body{
 	position: fixed;
 	top: 30px;
 	left: 25px;
+	z-index: -5;
 }
 
 #frame{

@@ -126,7 +126,7 @@ $(document).ready(function() {
 
 /*Kode for bildekarusell på førstesiden*/
 
-$(document).ready(function(){
+/*$(document).ready(function(){
 	 $("#alpha")
 	  .addClass('left'); 
 	 $("#beta")
@@ -203,14 +203,15 @@ $(document).ready(function(){
 
 /*script for easter egg*/
 
-// $(document).ready(function(){
-// 	$(superhemmelig).click(function(){
-// 		// $("div *").fadeOut('slow');
-// 		$("#logo").animate({top:'1000px'}'slow');		
-// 		// $("div #logo").fadeOut('slow')
-		
-// 	});
-// });
+$(document).ready(function(){
+	$("#superhemmelig").click(function(){
+		//$("div ").fadeOut('slow');
+		$("#logo").delay( 200 ).animate({top:'1000px'},700);		
+		$("#hovednavigering div a").delay( 300 ).animate({top:'1000px'},900);
+		$(".kar div").animate({top:'1000px'},800);
+		$(".oppskrift .overlay, #trykkher").animate({top:'1000px'},800);	
+	});
+});
 
 /*Script for BMI Kalkulator*/
 function kalkulerBmi() {
