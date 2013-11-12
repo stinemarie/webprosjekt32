@@ -34,8 +34,11 @@
 						<div class="clickable">
 							<a href="index.php?page=treningsprosjekt">Før/etter-prosjekt</a>
 						</div>
-						<div id="hvorsiste" class=" clickable undersideSisteKnapp">
+						<div class=" clickable">
 							<a href="index.php?page=hvor">Trene hvor?</a>
+						</div>
+						<div id="hvorsiste" class=" clickable undersideSisteKnapp">
+							<a href="index.php?page=kalkulator">BMI-kalkulator</a>
 						</div>
 					</div>
 				</div>
@@ -158,6 +161,8 @@
 					include("./pages/oppskrifter/tortellini.php");
 				elseif($_GET["page"] == "yoghurt")
 					include("./pages/oppskrifter/yoghurt.php");
+				elseif($_GET["page"] == "kalkulator")
+					include("./pages/kalkulator.php");
 			else
 				include("./pages/hjem.php");
 			?>
