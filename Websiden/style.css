@@ -270,7 +270,7 @@ h2{
 	overflow: hidden;
 }
 
-.kar #tilbake, #neste{
+.kar #tilbake, .kar #neste{
 	background-color: rgba(240,240,240,0.5);
 	position: absolute;
 	height:200px;
@@ -364,7 +364,6 @@ h2{
 .smoothie img{
 	width: 400px;
 	clear: both !important;
-/*	float: both !important;*/
 }
 
 .smoothie div{
@@ -447,7 +446,7 @@ h2{
 	width:200px;
 }
 
-/* Om oss */
+/*slutt på Om oss */
 
 /* Våre favoritter */
 .favorittBoks{
@@ -471,7 +470,7 @@ h2{
 	margin-left: 74px;
 }
 
-/* Våre favoritter */
+/* slutt på Våre favoritter */
 
 /* Personlig trener */
 
@@ -482,9 +481,6 @@ h2{
 .personligtrener h4{
 	text-align: center;
 }
-
-
-
 
 /*Kalkulator*/
 form{
@@ -538,7 +534,7 @@ input{
 	color:#fff;
 }
 
-/* Hvorfor trene */
+/* slutt på Hvorfor trene */
 
 .hvorfortrene{
 	height: 650px;
@@ -568,7 +564,7 @@ input{
 	float: left;
 }
 
-/* Hvorfor trene */
+/* slutt på Hvorfor trene */
 
 /* Hjem */
 
@@ -590,8 +586,32 @@ input{
 .hjem #hrnede{
 	margin-top: 300px;
 }
-/* Hjem */
+/*slutt på Hjem */
 
+/*Easter egg*/
 
+.easteregg{
+	position: relative;
+	width: 55%;
+	height: 539px;
+	margin: 20px auto;
+	display: none;
 
+}
 
+.easteregg #videoframe{
+	width: 100px;
+	top: 10px;
+	left: 55%;	
+ 	margin-left: -55px;		
+}
+
+.easteregg img, .easteregg iframe{
+	position: absolute;
+}
+
+.easteregg iframe{
+	z-index:20;
+	top: 100px;
+	left: 50px;
+}

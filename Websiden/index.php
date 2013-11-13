@@ -8,8 +8,8 @@
 		<script type="text/javascript" src="script.js"></script>
 	</head>
 	<body>
-		<img id="bakgrunn" src="img/bakgrunn.jpg" alt="">
-		<img id="superhemmelig" src="img/superhemmeligkapp.png" alt="">
+		<img id="bakgrunn" src="img/bakgrunn.jpg" alt="bakgrunnsbilde">
+		<img id="superhemmelig" src="img/superhemmeligkapp.png" alt="knapp for å komme inn på en skjult video">
 
 		<div id="frame">
 			<header>
@@ -167,8 +167,6 @@
 				include("./pages/hjem.php");
 			?>
 
-
-
 			</div>
 
 			<footer>
@@ -179,8 +177,11 @@
 
 		</div>
 
-		<div id="video">
-				<iframe width="560" height="315" src="//www.youtube.com/embed/eCRsxWCzWpY" frameborder="0" allowfullscreen></iframe>
+		<div class="easteregg">
+			<div id="videoframe">
+				<img src="img/ramme.png" alt="ramme for video">
+				<iframe width="560" height="330" src="//www.youtube.com/embed/eCRsxWCzWpY" frameborder="0" allowfullscreen></iframe>
+			</div>
 		</div>
 
 	</body>

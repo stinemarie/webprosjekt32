@@ -220,7 +220,11 @@ $(document).ready(function(){
 		$("#hovednavigering div a").delay( 300 ).animate({top:'1000px'},900);
 		$(".kar div").animate({top:'1000px'},800);
 		$(".oppskrift .overlay, #trykkher").animate({top:'1000px'},800);
-		$("body :not(#bakgrunn)").delay(1000).fadeOut(900);	
+		$("body :not(#bakgrunn)").delay(1000).fadeOut(900, function(){		
+				$(".easteregg").fadeIn('slow');
+				$(".easteregg *").fadeIn('slow');});
+				// $(".easteregg").css("display","block");
+				// $(".easteregg *").css("display","block");});
 	});
 });
 
