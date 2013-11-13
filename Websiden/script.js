@@ -126,7 +126,7 @@ $(document).ready(function() {
 
 /*Kode for bildekarusell på førstesiden*/
 
-/*$(document).ready(function(){
+$(document).ready(function(){
 	 $("#alpha")
 	  .addClass('left'); 
 	 $("#beta")
@@ -141,17 +141,25 @@ $(document).ready(function() {
 	 $( "#neste" ).click(function(){
 	 	neste();
 	 });
+	var animates = false;
+	setInterval(function() {
+		if(animates == false) {
+			neste();			
+		}
+	}, 6500);
 
-	setInterval(function() {neste()}, 6500);
 
 	function neste(){
+		animates = true;
 	 	var rrr = $(".kar div").index( $(".right") );
 	 	var mmm = $(".kar div").index( $(".midten") );
 	 	var lll = $(".kar div").index( $(".left") );
 	 	var hhh = $(".kar div").index( $(".hide") );
 
-	 	$( "#tilbake" ).css("display","none").delay( 300 ).fadeIn("4000");
-	 	$( "#neste" ).css("display","none").delay( 300 ).fadeIn("4000");
+	 	$( "#tilbake" ).css("display","none").delay( 300 ).fadeIn('slow');
+	 	$( "#neste" ).css("display","none").delay( 300 ).fadeIn('slow', function(){
+	 		animates = false;
+	 	});
 	 	
 	 	$( ".kar div" ).eq(rrr).css("z-index","6").animate({left:'170px', top:'10px'},"slow").addClass('midten');
 	 	$( ".kar div" ).eq(rrr).removeClass('right');
@@ -168,13 +176,16 @@ $(document).ready(function() {
 	 	$( '.midten p').fadeIn('fast');					 			
 	 };
 	 	$("#tilbake").click(function(){
+	 		animates = true;
 	 	var rrr = $(".kar div").index( $(".right") );
 	 	var mmm = $(".kar div").index( $(".midten") );
 	 	var lll = $(".kar div").index( $(".left") );
 	 	var hhh = $(".kar div").index( $(".hide") );
 
-	 	$( "#tilbake" ).css("display","none").delay( 300 ).fadeIn("4000");
-	 	$( "#neste" ).css("display","none").delay( 300 ).fadeIn("4000");
+	 	$( "#tilbake" ).css("display","none").delay( 300 ).fadeIn('slow');
+	 	$( "#neste" ).css("display","none").delay( 300 ).fadeIn('slow', function(){
+	 		animates = false;
+	 	});
 
 	 	$( ".kar div" ).eq(rrr).css("z-index","1").animate({left:"170px", top:'20px'}).addClass('hide');
 	 	$( ".kar div" ).eq(rrr).removeClass('right');
@@ -209,7 +220,7 @@ $(document).ready(function(){
 		$("#hovednavigering div a").delay( 300 ).animate({top:'1000px'},900);
 		$(".kar div").animate({top:'1000px'},800);
 		$(".oppskrift .overlay, #trykkher").animate({top:'1000px'},800);
-		$("body :not(:#bakgrunn)").delay(1000).fadeOut('900');	
+		$("body :not(#bakgrunn)").delay(1000).fadeOut(900);	
 	});
 });
 
