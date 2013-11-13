@@ -14,3 +14,4 @@ gul: #fff773
 lysere grønn; #9fd35e
 
 font times new roman
+font gill sans
