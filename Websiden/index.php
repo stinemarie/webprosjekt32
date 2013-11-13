@@ -37,7 +37,7 @@
 						<div class=" clickable">
 							<a href="index.php?page=hvor">Trene hvor?</a>
 						</div>
-						<div id="hvorsiste" class=" clickable undersideSisteKnapp">
+						<div class="clickable undersideSisteKnapp">
 							<a href="index.php?page=kalkulator">BMI-kalkulator</a>
 						</div>
 					</div>

@@ -110,15 +110,13 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 
 #hovednavigering .undersideNav{
 
-	visibility: hidden;
+	visibility: visible;
 	width: 796px;
 	border: 0px;
 	padding-top: 0px;
-	height: 10px;
-}
-
-#hovednavigering .undersideNav #hvorsiste{
-	border-right: 2px solid #9EB728;
+	height: 33px;
+	top: 45px;
+	background: #9EB728;
 }
 
 #hovednavigering .undersideNav div{
