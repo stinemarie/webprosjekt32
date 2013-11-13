@@ -1,3 +1,7 @@
+.kilde{
+	font-size: 14px;
+}
+
 body{
 	background: #E0E0E0;
 }
@@ -51,6 +55,7 @@ header{
 	left: 341px;
 	font-size: 30px;
 	color: #9EB728;
+	text-decoration: none;
 }
 
 div .clickable a{ /* Makes the hyperlinks fill the divs*/
@@ -200,7 +205,8 @@ h2{
 	text-align:center;
 	color: #9EB728;
 	font-size: 30px;
-	text-shadow: 1px 1px 1px black;
+	text-decoration: underline;
+	margin-bottom: 35px;
 }
 
 /* css for karusellen */
@@ -530,6 +536,38 @@ input{
 	background:#9EB728;
 	color:#fff;
 }
+
+/* Hvorfor trene */
+
+.hvorfortrene{
+	height: 650px;
+	width: 696px;
+	margin: 0 auto;
+	margin-left: 40px;
+
+}
+
+.hvorfortrene img{
+	width: 250px;
+	box-shadow: 2px 2px 5px black;
+}
+
+.hvorfortrene figure{
+	float: left;
+	width: 250px;
+	margin-left: 30px;
+}
+
+.hvorfortrene figcaption{
+	margin-left: 70px;
+}
+
+.hvorfortrene aside{
+	width: 290px;
+	float: left;
+}
+
+/* Hvorfor trene */
 
 
 
