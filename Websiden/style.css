@@ -164,7 +164,7 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 }
 
 #content{
-	min-height: 600px;
+	min-height: 580px;
 	padding: 20px;
 	padding-top: 40px;
 	position: static;
@@ -255,6 +255,7 @@ h2{
 	z-index: 20;
 	position: relative;
 	display: none;
+	height: 250px;
 }
 
 .kar li{
@@ -568,6 +569,28 @@ input{
 }
 
 /* Hvorfor trene */
+
+/* Hjem */
+
+.hjem #hjemtekst{
+	width: 550px;
+	margin-left: 115px;
+	font-size: 20px;
+}
+
+.hjem hr{
+	margin-top: 43px;
+	width: 457px;
+	margin-bottom: -30px;
+	color: #9EB728;
+	border: 1px solid #9EB728;
+
+}
+
+.hjem #hrnede{
+	margin-top: 300px;
+}
+/* Hjem */
 
 
 
