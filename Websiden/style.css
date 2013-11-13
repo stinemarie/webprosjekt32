@@ -18,6 +18,7 @@ body{
 	position: fixed;
 	top: 30px;
 	left: 25px;
+	z-index: -5;
 }
 
 #frame{
@@ -142,9 +143,6 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	line-height: 20px;
 }
 
-#hovednavigering .undersideNav #trenerne{
-	border-right: 2px solid #9EB728;
-}
 
 #hovednavigering .undersideNav .undersideSisteKnapp{
 	border-right: 1px solid #9EB728;
@@ -160,12 +158,6 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	display: none;
 	left: -161px;
 	top: 45px;
-}
-
-#ptNav{
-	display: none;
-	left: -320px;
-	top: 52px;
 }
 
 #content{
@@ -205,17 +197,12 @@ footer{
 	margin-top: 20px;
 }
 
-.matbilde{
-	width: 100%;
-	padding: 10px;
-	border: solid thin black;
-	background-color: #eceda2;
-	float: right;
-
-}
 
 h2{
 	text-align:center;
+	color: #9EB728;
+	font-size: 30px;
+	text-shadow: 1px 1px 1px black;
 }
 
 /* css for karusellen */
@@ -226,6 +213,7 @@ h2{
 
 .kar{
 	position: relative;
+	margin-top: 40px;
 }
 
 .kar div{
@@ -241,10 +229,6 @@ h2{
 .kar #alpha{
 	z-index: 2;
 	left: 10px;
-}
-
-.kar p{
-	z-index: 20;
 }
 
 .kar #beta{
@@ -263,36 +247,40 @@ h2{
 	left: 170px;
 }
 
+.kar #ramme p{
+	z-index: 20;
+	position: relative;
+	display: none;
+}
+
 .kar li{
 	display:block;
 	float:left;
 }
-
+ /*sentrerer menyen*/
 .kar #ramme{
-	left:88px; /*sentrerer menyen*/
+	left:88px;
 	height: 400px;
 	width: 600px;
 	overflow: hidden;
 }
 
-.kar #tilbake{
+.kar #tilbake, #neste{
 	background-color: rgba(240,240,240,0.5);
-	position:absolute;
+	position: absolute;
 	height:200px;
-	width:170px;
+	width:180px;
 	top:20px;
+}
+
+.kar #tilbake{
 	left:10px;
 	z-index:5;
 }
 
 .kar #neste{
-	background-color: rgba(240,240,240,0.5);
-	position:absolute;
-	height:200px;
-	width:170px;
-	top:20px;
-	left:400px;
-	z-index:4;
+	left:390px;
+	z-index:5;
 }
 
 .kar div img, p {
@@ -301,11 +289,24 @@ h2{
 	left:0;
 }
 
+.kar .hvitspiss{
+	z-index: 7;
+}
+
+.kar p{
+	font-family: "Gill Sans", sans-serif;
+	color: #9eb728;
+	font-size: x-large;
+	text-align: right;
+	top: 10px;
+	left: 30px;
+}
+
 .kar img{
 	height: 200px;
 	width: 200px;
 }
-
+/* css for treningssider*/
 .treningssider ul{
 	margin: 40px;
 }
@@ -336,6 +337,35 @@ h2{
 	overflow: hidden;
 }
 
+/* Oppskrifter med undersider*/
+
+.oppskrifter{
+	height: 1800px;
+}
+
+.oppskrifter #oppskriftDiv
+{
+	margin-left: 10px;
+}
+
+.oppsk .smoothie{
+	height: 4200px;
+}
+
+.oppsk ul{
+	list-style: circle;
+}
+
+.smoothie img{
+	width: 400px;
+	clear: both !important;
+/*	float: both !important;*/
+}
+
+.smoothie div{
+	margin-top: 30px;
+}
+
 .oppskrift .fargefelt{
 	display: block;
 }
@@ -347,13 +377,11 @@ h2{
 	position: absolute;
 	top:0;
 	right:0;
-
 }
 
 .oppskrift .overlay{
 	display: none;
 }
-
 
 .oppskrift li{
 	position: relative;	
@@ -370,6 +398,14 @@ h2{
 	margin: 20px;
 	overflow: hidden;
 	text-shadow: 1px 1px #4C4C4C;
+}
+
+.matbilde{
+	width: 100%;
+	padding: 10px;
+	border: solid thin black;
+	background-color: #eceda2;
+	clear: both;
 }
 
 /* Om oss */
@@ -407,3 +443,96 @@ h2{
 }
 
 /* Om oss */
+
+/* Våre favoritter */
+.favorittBoks{
+	border: 3px solid #9EB728;
+	padding: 8px;
+	margin: 20px;
+	box-shadow: 1px 1px 4px 0px black;
+	width: 650px;
+	margin-left: 40px;
+}
+
+.favorittBoks h4{
+	font-size: 22px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.favoritter img{
+	width: 500px;
+	box-shadow: 1px 1px 3px black;
+	margin-left: 74px;
+}
+
+/* Våre favoritter */
+
+/* Personlig trener */
+
+.personligtrener{
+	margin-left: 20px;
+}
+
+.personligtrener h4{
+	text-align: center;
+}
+
+
+
+
+/*Kalkulator*/
+form    {
+background: #ECEDA2;
+margin:auto;
+position:relative;
+width:400px;
+height:350px;
+font-family: Tahoma, Geneva, sans-serif;
+font-size: 14px;
+font-style: italic;
+line-height: 24px;
+font-weight: bold;
+color:  #9EB728;
+text-decoration: none;
+border-radius: 10px;
+padding:10px;
+border: 1px solid #9EB728;
+border: inset 1px solid#9EB728;
+box-shadow: 0px 0px 8px #9EB728;
+}
+
+input    {
+display:block;
+width:90px;
+border: 1px solid #999;
+height: 20px;
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+#betydning{
+	width: 210px;
+
+}
+
+#reset {
+width:100px;
+position:absolute;
+right:20px;
+bottom:20px;
+background:#9EB728;
+color:#fff;
+}
+
+#button{
+	width: 100px;
+	position: absolute;
+	left: 20px;
+	bottom: 220px;
+	background:#9EB728;
+	color:#fff;
+}
+
+
+
+

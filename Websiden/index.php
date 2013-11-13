@@ -34,8 +34,11 @@
 						<div class="clickable">
 							<a href="index.php?page=treningsprosjekt">Før/etter-prosjekt</a>
 						</div>
-						<div id="hvorsiste" class=" clickable undersideSisteKnapp">
+						<div class=" clickable">
 							<a href="index.php?page=hvor">Trene hvor?</a>
+						</div>
+						<div id="hvorsiste" class=" clickable undersideSisteKnapp">
+							<a href="index.php?page=kalkulator">BMI-kalkulator</a>
 						</div>
 					</div>
 				</div>
@@ -67,19 +70,6 @@
 
 				<div id="pt">
 					<a id="ptlink" href="index.php?page=personligtrener">Personlig<br>trener</a>
-
-					<div id="ptNav" class="undersideNav">
-						<div class="clickable">
-							<a href="index.php?page=personligtrener">Personlig Trener</a>
-						</div>
-						<div class="clickable">
-							<a href="index.php?page=intervju">Intervju</a>
-						</div>
-						<div id="trenerne" class="clickable undersideSisteKnapp">
-							<a href="index.php?page=trenerne">Trenerne</a>
-						</div>
-					</div>
-
 				</div>
 
 
@@ -145,12 +135,8 @@
 					include("./pages/oppskrifter/smoothie.php");
 				elseif($_GET["page"] == "suppe")
 					include("./pages/oppskrifter/suppe.php");
-				elseif($_GET["page"] == "darkbluesmoothie")
-					include("./pages/oppskrifter/darkbluesmoothie.php");
 				elseif($_GET["page"] == "fougasse")
 					include("./pages/oppskrifter/fougasse.php");
-				elseif($_GET["page"] == "lyseroddromsmoothie")
-					include("./pages/oppskrifter/lyseroddromsmoothie.php");
 				elseif($_GET["page"] == "nistepakke")
 					include("./pages/oppskrifter/nistepakke.php");
 				elseif($_GET["page"] == "pastapecorino")
@@ -163,16 +149,8 @@
 					include("./pages/oppskrifter/potetomelett.php");
 				elseif($_GET["page"] == "potetsalat")
 					include("./pages/oppskrifter/potetsalat.php");
-				elseif($_GET["page"] == "salatsmoothie")
-					include("./pages/oppskrifter/salatsmoothie.php");
 				elseif($_GET["page"] == "sitruskylling")
 					include("./pages/oppskrifter/sitruskylling.php");
-				elseif($_GET["page"] == "skippernsmoothie")
-					include("./pages/oppskrifter/skippernsmoothie.php");
-				elseif($_GET["page"] == "smartsmoothie")
-					include("./pages/oppskrifter/smartsmoothie.php");
-				elseif($_GET["page"] == "solskinnsmoothie")
-					include("./pages/oppskrifter/solskinnsmoothie.php");
 				elseif($_GET["page"] == "sommersalat")
 					include("./pages/oppskrifter/sommersalat.php");
 				elseif($_GET["page"] == "spaghettispinat")
@@ -183,6 +161,8 @@
 					include("./pages/oppskrifter/tortellini.php");
 				elseif($_GET["page"] == "yoghurt")
 					include("./pages/oppskrifter/yoghurt.php");
+				elseif($_GET["page"] == "kalkulator")
+					include("./pages/kalkulator.php");
 			else
 				include("./pages/hjem.php");
 			?>

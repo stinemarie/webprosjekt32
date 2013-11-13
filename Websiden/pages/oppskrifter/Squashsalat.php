@@ -1,4 +1,5 @@
-<h4>Squashsalat med kylling, perlespelt og basilikumpesto (2porsjoner)</h4>
+<div class="oppsk">	
+	<h4>Squashsalat med kylling, perlespelt og basilikumpesto (2porsjoner)</h4>
 	<ul>
 		<li>1 dl Perlespelt, tilberedt etter anvisningen på pakken</li>
 		<li>1 Squash</li>
@@ -30,3 +31,4 @@
 	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
 
 	<a href="index.php?page=oppskrifter">tilbake</a>
+</div>

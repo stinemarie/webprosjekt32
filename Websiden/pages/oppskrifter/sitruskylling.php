@@ -1,4 +1,5 @@
-<h4>Sitruskylling med asparges og timian (2porsjoner)</h4>
+<div class="oppsk">	
+	<h4>Sitruskylling med asparges og timian (2porsjoner)</h4>
 	<ul>
 		<li>2 Kyllingfileter</li>
 		<li>Salt og pepper</li>
@@ -28,3 +29,4 @@
 	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines Matblogg</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>
+ </div>

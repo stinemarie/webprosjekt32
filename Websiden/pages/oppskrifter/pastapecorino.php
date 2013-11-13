@@ -1,4 +1,5 @@
-<h4>Pasta med spicy tomatsaus og pecorino</h4>
+<div class="oppsk">	
+	<h4>Pasta med spicy tomatsaus og pecorino</h4>
 	<ul>
 		<li>1 Løk, finhakket</li>
 		<li>2-3 ss Olivenolje</li>
@@ -28,3 +29,4 @@
 	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines matblogg</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>
+ </div>

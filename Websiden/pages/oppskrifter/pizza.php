@@ -1,4 +1,5 @@
-<h4>Hjemmelaget pizza</h4>
+<div class="oppsk">
+	<h4>Hjemmelaget pizza</h4>
 	<p>Pizzabunn:</p>
 	<ul>
 		<li>5,5 dl Mel/Pizzamel</li>
@@ -38,3 +39,4 @@
 	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines matblogg</a></p>
 
  	<a href="index.php?page=oppskrifter">tilbake</a>
+ </div>
