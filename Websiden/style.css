@@ -615,3 +615,55 @@ input{
 	top: 100px;
 	left: 50px;
 }
+
+/*Styling tabeller*/
+.treninghvor table { 
+	border-collapse: collapse;
+	 text-align: left; width: 100%; 
+}
+
+ .treninghvor {
+ 	font: normal 12px/150% Times New Roman, Times, serif; 
+ 	background: #ECEDA2;
+ 	overflow: hidden;
+ 	border: 3px solid #9EB728; 
+ 	-webkit-border-radius: 3px; 
+ 	-moz-border-radius: 3px; 
+ 	border-radius: 3px; 
+}
+
+.treninghvor table td, .treninghvor table th {
+	 padding: 3px 10px; 
+}
+
+.treninghvor table thead th {
+	background-color:#ECEDA2;
+	color:#9EB728; 
+	font-size: 15px; 
+	font-weight: bold; 
+	border-left: 2px solid #9EB728; 
+}
+
+ .treninghvor table thead th:first-child { 
+ 	border: none;
+ }
+
+ .treninghvor table tbody td {
+	 color: #00496B; 
+	 border-left: 2px solid #9EB728;
+	 font-size: 12px;
+	 font-weight: normal; 
+}
+
+.treninghvor table tbody .alt td { 
+	background: #E3F1FF;
+	color: #9EB728; 
+}
+
+.treninghvor table tbody td:first-child {
+	 border-left: none; 
+}
+
+.treninghvor table tbody tr:last-child td {
+	 border-bottom: none; 
+}

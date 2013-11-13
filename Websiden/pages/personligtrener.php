@@ -24,12 +24,11 @@
 
 	<ul>
 						
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>Tren styrke, det holder deg sterk psykisk 
+		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> :   Uansett hva som skal til, uavhengig av tid, penger, venner og bekjente, så er det dette jeg skal gjøre og vil gjøre resten av mitt liv. Jeg elsker å føle meg nedbrutt etter en god treningsøkt.
+		 Treningssmerte er noe av det beste jeg vet.</li>
+		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a> :   Tren styrke, det holder deg sterk psykisk 
 			og mentalt resten av livet!</li>
-		<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>Ha kontinuitet på det du gjør og gjør det enkelt.</li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>blablablablablablablablabal</li>
+		<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a> :   Ha kontinuitet på det du gjør og gjør det enkelt.</li>
 	</ul>
 
 	<p><b> Hva er det som motiverer deg, og har du noen tips til å finne motivasjon på tunge dager?</b></p>
@@ -38,15 +37,16 @@
 
 	<ul>
 						
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>Har man satt seg realistiske mål så er det 
+		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>  Det som motiverer meg med trening er mestringsfølelsen og alle de gode helseaspektene ved trening. Jeg føler med bedre, sover bedre og er så å si alltid i godt humør. 
+		Jeg elsker å utfordre meg selv og er alltid ute etter å pushe grenser og sette nye rekorder. Det er først og fremst meg selv jeg ønsker å slå og er i en konkurranse mot meg selv, ikke andre. <br />
+		Du må ha et sterkt hvorfor: Mitt sterkeste hvorfor er helse og trening. Jeg ønsker å inspirere andre samt hjelpe andre som har slitt med skader, helseproblemer og annet.
+		Jeg har hatt en del problemer med helsa/kroppen grunnet sykdom, og vet hvordan det er å være i gjørma. 
+		Derfor ønsker jeg å gjøre mest mulig for andre ved å vise at det er mulig uansett hva som skjer, samt vise vei og være et forbilde.</li>
+		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>  Har man satt seg realistiske mål så er det 
 			aldri vanskelig å motivere seg!</li>
-		<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>Målet mitt. Ikke fokuser på veien til
+		<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>  Målet mitt. Ikke fokuser på veien til
 			Mål, men lev deg inn i øyeblikket der du er i mål og kjenn på følelsen det vil gi deg og hva det bringer med 
 			seg av positive konsekvenser.</li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>blablablablablablablablabal</li>
-					
 	</ul>
 
 
@@ -56,12 +56,11 @@
 
 	<ul>
 						
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>Kvalitet fremfor kvantitet, holde seg 
+		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>  Det er 3 ting jeg mener er utrolig viktig: kosthold, riktig teknisk utførelse av alle øvelser og nok søvn. 
+		Andre ting er treningsstruktur og at du følger ett opplegg over lengre tid. Det tar tid å få resultater og kontinuitet er det viktigste på de ulike områdene.</li>
+		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>  Kvalitet fremfor kvantitet, holde seg 
 			skadefri ved å trene teknisk korrekt</li>
-		<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>Kvalitet forran kvantitet.</li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>blablablablablablablablabal</li>
+		<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>  Kvalitet forran kvantitet.</li>
 						
 	</ul>
 
@@ -72,11 +71,9 @@
 
 	<ul>
 						
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>Det kommer an på målet ditt.</li>
-		<li><img src="img/tomas.png" alt="Tomas Fjeldberg" width="32" height="32"></a>Tre.</li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>blablablablablablablablabal</li>
+		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>  Jeg anbelaler minimum 3 økter i uken der du går gjennom hele kroppen. </li>
+		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>  Det kommer an på målet ditt.</li>
+		<li><img src="img/tomas.png" alt="Tomas Fjeldberg" width="32" height="32"></a>  Tre.</li>
 					
 	</ul>
 
@@ -87,12 +84,10 @@
 
 	<ul>
 						
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>Markløft, knebøy, benkpress, muscle ups, 
+		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>  Muscle Up, Knebøy, Markløft, Pullups og Benkpress</li>
+		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>  Markløft, knebøy, benkpress, muscle ups, 
 			front lever</li>
-		<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>Støt, knebøy, rykk, markløft og benkpress.</li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>blablablablablablablablabal</li>
+		<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>  Støt, knebøy, rykk, markløft og benkpress.</li>
 		
 	</ul>
 
@@ -103,12 +98,11 @@
 
 	<ul>
 						
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>Calisthenics (kroppsvektstrening).</li>
-		<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>Ski, svømming, fjellturer, 
+		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>  Det viktigste er at du får i deg nok mat og har et godt grunnlag. 
+		En gåtur i skogen er fin trening. Du kan også trene på 40, 60 og 100 meter sprint. Det er også mulig å trene i barnehageparker og andre arenaer kun ved bruk av egen kroppsvekt. </li>
+		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>  Calisthenics (kroppsvektstrening).</li>
+		<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>  Ski, svømming, fjellturer, 
 			ballidretter hva som helst egentlig. </li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>blablablablablablablablabal</li>
 
 	</ul>
 
@@ -119,11 +113,9 @@
 
 	<ul>
 						
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>Proteinpulver.</li>
-		<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>Omega tre og vitamin D.</li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>blablablablablablablablabal</li>
+		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>  Omega 3 tilskudd, multivitamin og mineral tilskudd, Kreatin Monohydrat og protein pulver ( Jeg bruker Vital Greens, Erteprotein) </li>
+		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>  Proteinpulver.</li>
+		<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>  Omega tre og vitamin D.</li>
 						
 	</ul>
 
@@ -134,11 +126,9 @@
 
 	<ul>
 						
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>Ovnstekt salma.</li>
-		<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>Renskåret kjøtt med salat og potet.</li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>blablablablablablablablabal</li>
+		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>  300 gram Marinerte søtpoteter med olivenolje, ingefær, gurkemeie, havsalt, svart pepper, spisskummen, cayenne og rosmaring. Samt 150g bacon og 200g laks</li>
+		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>  Ovnstekt salma.</li>
+		<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>  Renskåret kjøtt med salat og potet.</li>
 						
 	</ul>
 
@@ -149,11 +139,9 @@
 
 	<ul>
 						
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>Intervalltrening.</li>
-		<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>Kombinasjonen er alltid bedre enn, enten eller.</li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a> blablablablablablablablabal</li>
-		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>blablablablablablablablabal</li>
+		<li><img src="img/martin.png" alt="Martin Antonio" width="32" height="32"></a>  Intervalltrening</li>
+		<li><img src="img/adrian.jpg" alt="Adrian Paul" width="32" height="32"></a>  Intervalltrening.</li>
+		<li><img src="img/tomas.jpg" alt="Tomas Fjeldberg" width="32" height="32"></a>  Kombinasjonen er alltid bedre enn, enten eller.</li>
 
 	</ul>
 </div>
