@@ -3,7 +3,6 @@
 		senter som man finner i Oslo, og hva de forskjellige sentrene tilbyr, hvor i Oslo de ligger og hvilke åpningstider de forskjellige 
 		har.</p>
 
-<<<<<<< HEAD
 <h4>Elixia</h4>
 	<p>Gjennomsnittspris:</p>
 	<p>Binding: Tilbyr både med og uten binding. Tillegg om man velger uten binding.</p>
@@ -103,7 +102,7 @@
 		<li></li>
 	</ul>
 	<a href="http://www.fitnessxpress.no">Fitness xpress</a>
-=======
+
 <p> Når det kommer til de forskjellige treningssenterene som ligger plassert rundt om kring er det et stort sprik når det kommer til pris og tilbud. 
 Du vil under her få en liste med forskjellige priser som er beregnet for studenter.</p>
 
@@ -285,18 +284,3 @@ Du vil under her få en liste med forskjellige priser som er beregnet for studen
 
 
 <!-- Vet ikke om jeg skal ha med flere treningsentere, da jeg føler at det blir mye av det samme bare forskjellige navn-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> 9c4e3418296d5e55fc8815600deb488d87b6c858
