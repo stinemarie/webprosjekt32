@@ -5,13 +5,14 @@ flere grønnfarger HEX
 grågrønn 1;  #83b728
 grågrønn 2; #b2bd66
 
-gulish; #83b728
 
 grønn; #5ab728
 
 gul: #fff773
 
 lysere grønn; #9fd35e
+
+gullgul #ddda24
 
 font times new roman
 font gill sans

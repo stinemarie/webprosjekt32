@@ -167,6 +167,8 @@
 				include("./pages/hjem.php");
 			?>
 
+
+
 			</div>
 
 			<footer>
@@ -175,6 +177,10 @@
 
 			</footer>
 
+		</div>
+
+		<div id="video">
+				<iframe width="560" height="315" src="//www.youtube.com/embed/eCRsxWCzWpY" frameborder="0" allowfullscreen></iframe>
 		</div>
 
 	</body>
