@@ -4,7 +4,7 @@
 		har.</p>
 
 <h4>Elixia</h4>
-	<p>Gjennomsnittspris:</p>
+	Gjennomsnitspris:
 	<p>Binding: Tilbyr både med og uten binding. Tillegg om man velger uten binding.</p>
 	<p>Personlig trenere: Ja, i fire forskjellige nivåer</p>
 	<p>Gruppetimer: Ja, stort tilbud</p>
@@ -22,14 +22,50 @@
 		<li>Ullevål</li>
 	</ul>
 	<p>Elixia tilbyr også mange andre sentre i nærhet av Oslo, men vi valgte liste opp disse, da de er de mest sentrale.</p>
-	<a href="http://www.elixia.no">Elixia</a>
+	<a href="http://www.elixia.no">Elixia</a><br />
 
-<h4>SATS</h4>
-	<p>Gjennomsnittspris:</p>
-	<p>Binding:</p>
-	<p>Personlig trenere:</p>
-	<p>Gruppetimer:</p>
-	<p>Åpningstider:</p>
+<a href="https://www.sats.no" target="_blank">
+<img border="0" src="img/satslogo.png" alt="Sats" width="100" height="50"></a>
+
+	<div class="treninghvor">
+	<table>
+	<thead>
+	<th>Medlemskap</th>
+	<th>Ingen bindingstid</th>
+	<th>12 måneders binding</th>
+	<th>12 måneders forhåndsbetalt</th>
+	</thead>
+	<tr class="alt">
+	<td>Sats Club - Double</td>
+	<td>508,-/mnd</td>
+	<td>460,-/mnd</td>
+	<td>5520;-</td>
+	</tr>
+	<tr class="alt">
+	<td>Sats Club City</td>
+	<td>524,-/mnd</td>
+	<td>476,-/mnd</td>
+	<td>5712,-</td>
+	</tr>
+	<tr class="alt">
+	<td>Sats Club Country</td>
+	<td>556,-/mnd</td>
+	<td>508,-/mnd</td>
+	<td>6096,-</td>
+	</tr>
+	</table>
+	</div>
+
+	<p>Personlig trenere: Ja</p> 
+	<p>Gruppetimer: Ja</p>
+	<p>Åpningstider: 
+	<ul>
+	<li>Mandag - Torsdag: 06.00-23.00</li>
+	<li>Fredag: 06.00-21.00.</li>
+	<li>Lørdag: 08.00-18.00</li>
+	<li>Søndag: 09.00-20.00</li>
+	</ul>
+	</p>
 	<p>Lokaler:</p>
 	<ul>
 		<li>Bislett</li>
@@ -45,9 +81,26 @@
 		<li>Vulkan</li>
 	</ul>
 	<p>SATS tilbyr også mange andre sentre i nærhet av Oslo, men vi valgte liste opp disse, da de er de mest sentrale.</p>
-	<a href="http://www.sats.no">SATS</a>
+	
 
-<h4>EVO</h4>
+<a href="https://www.evofitness.no" target="_blank">
+<img border="0" src="img/evofitness.png" alt="EVO Fitness" width="100" height="50"></a>
+
+	<div class="treninghvor">
+	<table>
+	<thead>
+	<th>Medlemskap</th>
+	<th>Ingen bindingstid</th>
+	<th>12 måneders forhåndsbetalt</th>
+	</thead>
+	<tr class="alt">
+	<td>Alle sentere</td>
+	<td>295,-/mnd</td>
+	<td>3540,-</td>
+	</table>
+	</div>
+
+
 	<p>Gjennomsnittspris:</p>
 	<p>Binding:</p>
 	<p>Personlig trenere:</p>
@@ -59,9 +112,29 @@
 		<li></li>
 		<li></li>
 	</ul>
-	<a href="https://www.evofitness.no">EVO</a>
 
-<h4>Fitness 24seven</h4>
+<a href="https://www.fitness24seven.com/no/start" target="_blank">
+<img border="0" src="img/fitness247.png" alt="Fitness 24/7" width="50" height="50"></a>
+	
+	<div class="treninghvor">
+	<table>
+	<thead>
+	<th>Medlemskap</th>
+	<th>Hele døgnet</th>
+	<th>Dagskort</th>
+	<th>Forhåndbetalt "Hele døgnet"</th>
+	<th>Forhåndsbetalt "Dagskort"</th>
+	</thead>
+	<tr class="alt">
+	<td>Alle sentere</td>
+	<td>199,-/mnd</td>
+	<td>99,-/mnd</td>
+	<td>2695,-</td>
+	<td>1495,-</td>
+	</table>
+	</div>
+
+
 	<p>Gjennomsnittspris:</p>
 	<p>Binding:</p>
 	<p>Personlig trenere:</p>
@@ -73,7 +146,6 @@
 		<li></li>
 		<li></li>
 	</ul>
-	<a href="http://www.fitness24seven.com/no/start">Fitness 24seven</a>
 
 <h4>Fresh fitness</h4>
 	<p>Gjennomsnittspris:</p>
@@ -168,101 +240,6 @@ Du vil under her få en liste med forskjellige priser som er beregnet for studen
 </tr>
 </table>
 </div>
-
-
-<h3><a href="http://www.sats.no/">SATS</a></h3>
-
-<div class="treninghvor">
-<table>
-<thead>
-<th>Medlemskap</th>
-<th>Ingen bindingstid</th>
-<th>12 måneders binding</th>
-<th>12 måneders forhåndsbetalt</th>
-</thead>
-<tr class="alt">
-<td>Sats Club - Double</td>
-<td>508,-/mnd</td>
-<td>460,-/mnd</td>
-<td>5520;-</td>
-</tr>
-<tr class="alt">
-<td>Sats Club City</td>
-<td>524,-/mnd</td>
-<td>476,-/mnd</td>
-<td>5712,-</td>
-</tr>
-<tr class="alt">
-<td>Sats Club Country</td>
-<td>556,-/mnd</td>
-<td>508,-/mnd</td>
-<td>6096,-</td>
-</tr>
-</table>
-</div>
-
-<h3><a href="http://www.elixia.no/">Elixia</a></h3>
-<div class="treninghvor">
-<table>
-<thead>
-<th>Medlemskap</th>
-<th>Ingen bindingstid</th>
-<th>12 måneders binding</th>
-<th>12 måneders forhåndsbetalt</th>
-</thead>
-<tr class="alt">
-<td>Sats Club - Double</td>
-<td>508,-/mnd</td>
-<td>460,-/mnd</td>
-<td>5520;-</td>
-</tr>
-<tr class="alt">
-<td>Sats Club City</td>
-<td>524,-/mnd</td>
-<td>476,-/mnd</td>
-<td>5712,-</td>
-</tr>
-<tr class="alt">
-<td>Sats Club Country</td>
-<td>556,-/mnd</td>
-<td>508,-/mnd</td>
-<td>6096,-</td>
-</tr>
-</table>
-</div>
-<!-- Fant ingen prisliste, var veldig krunglete å måtte skrive in personalia hver gang jeg skulle sjekke en pris. Så regner med at Ida kan fylle oss inn her -->
-
-<h3><a href="http://freshfitness.no/">Fresh Fitness</a></h3>
-<div class="treninghvor">
-<table>
-<thead>
-<th>Medlemskap</th>
-<th>Ingen bindingstid</th>
-<th>12 måneders forhåndsbetalt</th>
-</thead>
-<tr class="alt">
-<td>Alle sentere</td>
-<td>199,-/mnd</td>
-<td>2388,-</td>
-</table>
-</div>
-<p>Fresh Fitness tilbyr ingen rabatter til studenter. De har derimot et fast pris på 199,-/mnd uten binding. Dette gir deg tilgang til alle senterene de har tilgjengelig.</p>
-
-<h3><a href="https://evofitness.no/">Evo Fitness</a></h3>
-<div class="treninghvor">
-<table>
-<thead>
-<th>Medlemskap</th>
-<th>Ingen bindingstid</th>
-<th>12 måneders forhåndsbetalt</th>
-</thead>
-<tr class="alt">
-<td>Alle sentere</td>
-<td>295,-/mnd</td>
-<td>3540,-</td>
-</table>
-</div>
-<p> Evo Fitness tilbyr ingen rabatter til studenter.De har derimot en fast pris på 295,-/mnd uten binding. Dette gir tilgalg til alle senterene de har tilgjengelig</p>
 
 
 <h3><a href="www fitnessxpress no">Fitness Xpress</a></h3>
