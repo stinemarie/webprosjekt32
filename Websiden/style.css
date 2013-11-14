@@ -631,12 +631,9 @@ input{
 }
 
  .treninghvor {
- 	font: normal 12px/150% Times New Roman, Times, serif; 
  	background: #ECEDA2;
  	overflow: hidden;
  	border: 3px solid #9EB728; 
- 	-webkit-border-radius: 3px; 
- 	-moz-border-radius: 3px; 
  	border-radius: 3px; 
 }
 
@@ -726,5 +723,19 @@ input{
 .personligtrener #trenerne a img{
 	width: 120px;
 	height: 120px;
+	box-shadow: 1px 1px 4px 0px black;
+}
+
+.personligtrener .question img{
+	float: left;
+	clear: left;
+	width: 40px;
+	margin: 20px;
+	margin-top: 0px;
+}
+
+.personligtrener .question p{
+	min-height: 50px;
+	width: 500px;
 }
 /* Personlig trener */
