@@ -14,7 +14,7 @@
 					<a class="lenke" href="index.php?page=fisk">
 						<img class="fargefelt" src="./img/ikon/fisk1.jpg" alt="oppskrift på fisk">
 						<div class="overlay">
-							<p class="tekst">laks med sesamfrø, soyasaus og lun pak choysalat</p>
+							<p class="tekst">Laks med sesamfrø, soyasaus og lun pak choysalat</p>
 						</div>
 					</a>
 				</li>
@@ -22,7 +22,7 @@
 					<a class="lenke" href="index.php?page=wok">
 						<img class="fargefelt" src="./img/ikon/salat1.jpg" alt="oppskrift på brokkoliwok">
 						<div class="overlay">
-							<p class="tekst">brokkoliwok med spekeskinke, tomat og pinjekjerner</p>
+							<p class="tekst">Brokkoliwok med spekeskinke, tomat og pinjekjerner</p>
 						</div>
 					</a>
 				</li>
@@ -30,7 +30,7 @@
 					<a class="lenke" href="index.php?page=kylling">
 						<img class="fargefelt" src="./img/ikon/salat2.jpg" alt="oppskrift på kyllingpasta">
 						<div class="overlay">
-							<p class="tekst">pasta med rød pesto, kylling og paprika</p>
+							<p class="tekst">Pasta med rød pesto, kylling og paprika</p>
 						</div>
 					</a>
 				</li>
@@ -38,7 +38,7 @@
 					<a class="lenke" href="index.php?page=smoothie">
 						<img class="fargefelt" src="./img/ikon/smoothie2.jpg" alt="oppskrift på smoothie">
 						<div class="overlay">
-							<p class="tekst">smoothier!</p>
+							<p class="tekst">Smoothier!</p>
 						</div>
 					</a>
 				</li>
@@ -46,7 +46,7 @@
 					<a class="lenke" href="index.php?page=dessert">
 						<img class="fargefelt" src="./img/ikon/terte1.jpg" alt="oppskrift på bringebærterte">
 						<div class="overlay">
-							<p class="tekst">brinebær terte med vaniljekrem</p>
+							<p class="tekst">Brinebær terte med vaniljekrem</p>
 						</div>
 					</a>
 				</li>
@@ -61,7 +61,7 @@
 				<li>
 					<a class="lenke" href="index.php?page=matpakke">
 						<div class="overlay">
-							<p class="tekst">trykk her for matpakketips med lefse</p>
+							<p class="tekst">Matpakketips med lefse</p>
 						</div>
 						<img class="fargefelt" src="./img/ikon/trykkher.jpg" alt="matpakketips">
 					</a>
@@ -69,7 +69,7 @@
 				<li>
 					<a class="lenke" href="index.php?page=polarbrod">
 						<div class="overlay">
-							<p class="tekst">hjemmelaget polarbrød</p>
+							<p class="tekst">Hjemmelaget polarbrød</p>
 						</div>
 						<img class="fargefelt" src="./img/ikon/trykkher.jpg" alt="matpakketips">
 					</a>
@@ -77,7 +77,7 @@
 				<li>
 					<a class="lenke" href="index.php?page=nistepakke">
 						<div class="overlay">
-							<p class="tekst">trykk her for matpakketips med grovbrød </p>
+							<p class="tekst">Matpakketips med grovbrød </p>
 						</div>
 						<img class="fargefelt" src="./img/ikon/trykkher.jpg" alt="matpakketips">
 					</a>
