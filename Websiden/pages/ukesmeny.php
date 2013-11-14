@@ -11,8 +11,8 @@
 			<div>
 				<ul>
 					<li>
-						<a class="lenke" href="index.php?page=smoothie#sol">
-							<img class="fargefelt" src="./img/ikon/smoothie2.jpg" alt="oppskrift på smoothie">
+						<a class="lenke" href="index.php?page=smoothie#solsmoothie">
+							<img class="fargefelt" src="./img/ikon/solskinnikon.jpg" alt="oppskrift på smoothie">
 							<div class="overlay">
 								<p class="tekst">Solskinn smoothie</p>
 							</div>
@@ -46,8 +46,8 @@
 			<div>
 				<ul>
 					<li>
-						<a class="lenke" href="index.php?page=smoothie#sol">
-							<img class="fargefelt" src="./img/ikon/smoothie2.jpg" alt="oppskrift på smoothie">
+						<a class="lenke" href="index.php?page=smoothie#lyseroddrom">
+							<img class="fargefelt" src="./img/ikon/trykkher.jpg" alt="oppskrift på smoothie">
 							<div class="overlay">
 								<p class="tekst">Lyserød Drøm Smoothie</p>
 							</div>
@@ -81,8 +81,8 @@
 			<div>
 				<ul>
 					<li>
-						<a class="lenke" href="index.php?page=smoothie#sol">
-							<img class="fargefelt" src="./img/ikon/salatsmoothie.jpg" alt="oppskrift på salatsmoothie">
+						<a class="lenke" href="index.php?page=smoothie#salatsmoothie">
+							<img class="fargefelt" src="./img/ikon/salatsmoothieikon.jpg" alt="oppskrift på salatsmoothie">
 							<div class="overlay">
 								<p class="tekst">Salatsmoothie</p>
 							</div>
@@ -97,7 +97,7 @@
 						</a>
 					</li>
 					<li>
-						<a class="lenke" href="index.php?page=squashsalat">
+						<a class="lenke" href="index.php?page=potetsalat">
 							<div class="overlay">
 								<p class="tekst">Potet- og spinatsalat med laks</p>
 							</div>
@@ -117,8 +117,8 @@
 			<div>
 				<ul>
 					<li>
-						<a class="lenke" href="index.php?page=smoothie#sol">
-							<img class="fargefelt" src="./img/ikon/smoothie2.jpg" alt="oppskrift på smoothie">
+						<a class="lenke" href="index.php?page=smoothie#ajopachismoothie">
+							<img class="fargefelt" src="./img/ikon/trykkher.jpg" alt="oppskrift på smoothie">
 							<div class="overlay">
 								<p class="tekst">Ajopachi Smoothie</p>
 							</div>
@@ -152,8 +152,8 @@
 			<div>
 				<ul>
 					<li>
-						<a class="lenke" href="index.php?page=smoothie#sol">
-							<img class="fargefelt" src="./img/ikon/smoothie2.jpg" alt="oppskrift på smoothie">
+						<a class="lenke" href="index.php?page=smoothie#skippernsmoothie">
+							<img class="fargefelt" src="./img/ikon/skippernikon.jpg" alt="oppskrift på smoothie">
 							<div class="overlay">
 								<p class="tekst">Skippern Smoothie</p>
 							</div>
@@ -164,7 +164,7 @@
 							<div class="overlay">
 								<p class="tekst">Nistepakke</p>
 							</div>
-							<img class="fargefelt" src="./img/ikon/yoghurtikon.jpg" alt="oppskrift på Nistepakke">	
+							<img class="fargefelt" src="./img/ikon/nisteikon.jpg" alt="oppskrift på Nistepakke">	
 						</a>
 					</li>
 					<li>
@@ -187,8 +187,8 @@
 			<div>
 				<ul>
 					<li>
-						<a class="lenke" href="index.php?page=smoothie#sol">
-							<img class="fargefelt" src="./img/ikon/smoothie2.jpg" alt="oppskrift på smoothie">
+						<a class="lenke" href="index.php?page=smoothie#bluesmoothie">
+							<img class="fargefelt" src="./img/ikon/darkblueikon.jpg" alt="oppskrift på smoothie">
 							<div class="overlay">
 								<p class="tekst">Dark Blue Heaven Smoothie</p>
 							</div>
@@ -234,7 +234,7 @@
 							<div class="overlay">
 								<p class="tekst">Fougasse fylt med kylling, bacon, salat, rød pesto og aioli</p>
 							</div>
-							<img class="fargefelt" src="./img/ikon/yoghurtikon.jpg" alt="oppskrift på fougasse">	
+							<img class="fargefelt" src="./img/ikon/fougasseikon.jpg" alt="oppskrift på fougasse">	
 						</a>
 					</li>
 					<li>
