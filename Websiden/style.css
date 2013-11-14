@@ -685,3 +685,14 @@ input{
 }
 
 /* Slutt på trene hvor */
+
+/* Ukesmeny */
+
+.ukesmeny .dag{
+	border: 3px solid #9EB728;
+	margin: 20px;
+	padding: 20px;
+	box-shadow: 1px 1px 4px 0px black;
+}
+
+/* Slutt på ukesmeny */
