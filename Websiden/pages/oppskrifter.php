@@ -151,9 +151,17 @@
 						<div class="overlay">
 							<p class="tekst">Yoghurt med hjemmelaget granola</p>
 						</div>
-						<img class="fargefelt" src="./img/ikon/yoghurtikon.jpg" alt="oppskrift på yoghurt">						
+						<img class="fargefelt" src="./img/ikon/yoghurtikon.jpg" alt="oppskrift på yoghurt">
 					</a>
 				</li>
+				<li>
+					<a class="lenke" href="index.php?page=fougasse">
+						<div class="overlay">
+							<p class="tekst">Oppskrift på fougasseikon</p>
+						</div>
+						<img class="fargefelt" src="./img/ikon/fougasseikon.jpg" alt="oppskrift på fougasseikon">
+					</a>
+				</li>				
 			</ul>
 		</div>
 	</nav>
