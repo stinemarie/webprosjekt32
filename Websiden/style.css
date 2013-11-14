@@ -52,10 +52,11 @@ header{
 	float: left;
 	margin: 0;
 	top: 54px;
-	left: 341px;
+	left: 333px;
 	font-size: 30px;
 	color: #9EB728;
 	text-decoration: none;
+	font-family: "Gill Sans", sans-serif;
 }
 
 div .clickable a{ /* Makes the hyperlinks fill the divs*/
@@ -168,6 +169,7 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	padding: 20px;
 	padding-top: 40px;
 	position: static;
+	font-family: "Gill Sans", sans-serif;
 }
 
 #content p{
@@ -207,6 +209,7 @@ h2{
 	font-size: 30px;
 	text-decoration: underline;
 	margin-bottom: 35px;
+	font-family: "Gill Sans", sans-serif;
 }
 
 /* css for karusellen */
