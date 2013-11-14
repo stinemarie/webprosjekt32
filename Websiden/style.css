@@ -697,3 +697,30 @@ input{
 }
 
 /* Slutt på ukesmeny */
+
+
+/* Personlig trener */
+.personligtrener .question{
+	border: 3px solid #9EB728;
+	margin: 20px;
+	padding: 20px;
+	box-shadow: 1px 1px 4px 0px black;
+	clear: left;
+}
+
+.personligtrener #trenerne{
+	margin-left: 120px;
+}
+
+.personligtrener figure{
+	float: left;
+	height: 150px;
+	margin: 20px;
+	text-align: center;
+}
+
+.personligtrener #trenerne a img{
+	width: 120px;
+	height: 120px;
+}
+/* Personlig trener */
