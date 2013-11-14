@@ -71,7 +71,7 @@
 						<div class="overlay">
 							<p class="tekst">Hjemmelaget polarbrød</p>
 						</div>
-						<img class="fargefelt" src="./img/ikon/trykkher.jpg" alt="matpakketips">
+						<img class="fargefelt" src="./img/ikon/polarbrod.jpg" alt="matpakketips">
 					</a>
 				</li>
 				<li>
@@ -79,7 +79,7 @@
 						<div class="overlay">
 							<p class="tekst">Matpakketips med grovbrød </p>
 						</div>
-						<img class="fargefelt" src="./img/ikon/trykkher.jpg" alt="matpakketips">
+						<img class="fargefelt" src="./img/ikon/nisteikon.jpg" alt="matpakketips">
 					</a>
 				</li>
 				<li>
@@ -157,11 +157,19 @@
 				<li>
 					<a class="lenke" href="index.php?page=fougasse">
 						<div class="overlay">
-							<p class="tekst">Oppskrift på fougasseikon</p>
+							<p class="tekst">Fougasse med kylling, bacon, rød pesto og aioli</p>
 						</div>
 						<img class="fargefelt" src="./img/ikon/fougasseikon.jpg" alt="oppskrift på fougasseikon">
 					</a>
-				</li>				
+				</li>	
+				<li>
+					<a class="lenke" href="index.php?page=potetomelett">
+						<div class="overlay">
+							<p class="tekst">Potetomelett med brokkoli og salami</p>
+						</div>
+						<img class="fargefelt" src="./img/ikon/potetomelett.jpg" alt="oppskrift på potetomelett">
+					</a>
+				</li>
 			</ul>
 		</div>
 	</nav>
