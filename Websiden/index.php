@@ -67,16 +67,13 @@
 
 				</div>
 
-
 				<div id="pt">
 					<a id="ptlink" href="index.php?page=personligtrener">Personlig<br>trener</a>
 				</div>
 
-
 				<div id="lenker">
 					<a id="lenkerlink" href="index.php?page=lenker">Lenker</a>
 				</div>
-
 
 				<div id="om">
 					<a id="omosslink" href="index.php?page=omoss">Om oss</a>
@@ -84,9 +81,7 @@
 
 			</nav>
 
-
 			<div id="content">
-
 					
 			<?php
 			if($_GET["page"] == "hjem")
@@ -182,6 +177,7 @@
 				<img src="img/ramme.png" alt="ramme for video">
 				<iframe width="560" height="330" src="//www.youtube.com/embed/eCRsxWCzWpY" frameborder="0" allowfullscreen></iframe>
 			</div>
+			<p id="tamegtilbake"> ta meg tilbake! </p>
 		</div>
 
 	</body>

@@ -221,10 +221,22 @@ $(document).ready(function(){
 		$(".kar div").animate({top:'1000px'},800);
 		$(".oppskrift .overlay, #trykkher").animate({top:'1000px'},800);
 		$("body :not(#bakgrunn)").delay(1000).fadeOut(900, function(){		
-				$(".easteregg").fadeIn('slow');
-				$(".easteregg *").fadeIn('slow');});
-				// $(".easteregg").css("display","block");
-				// $(".easteregg *").css("display","block");});
+		
+		$(".easteregg").fadeIn('slow');
+		$(".easteregg *").fadeIn('slow');});
+	});
+});
+
+$(document).ready(function(){
+	$("#tamegtilbake").click(function(){
+		$("easteregg").fadeOut('slow');
+		$(".easteregg *").fadeOut('slow', function(){
+			$("body :not(#bakgrunn)").delay(1000).fadeIn(900);
+			$("#logo").delay( 200 ).animate({top:'-75px'},700);		
+			$("#hovednavigering :not(.easteregg) div a ").delay( 300 ).animate({top:'0px'},900);
+			$(".kar div").animate({top:'0px'},800);
+			$(".oppskrift .overlay, #trykkher").animate({top:'0px'},800);			
+		});
 	});
 });
 
