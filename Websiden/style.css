@@ -670,3 +670,15 @@ input{
 .treninghvor table tbody tr:last-child td {
 	 border-bottom: none; 
 }
+
+/* Trene hvor */
+
+.treningsenter{
+	border: 3px solid #9EB728;
+	margin: 20px;
+	box-shadow: 1px 1px 4px 0px black;
+	padding: 20px;
+
+}
+
+/* Slutt på trene hvor */
