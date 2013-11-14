@@ -1,6 +1,6 @@
 <div class="oppsk">
 	<div class="smoothie">
-		<h4>Gulrot- og ananas smoothie (1porsjon)</h4>
+		<h4 id="gasmoothie">Gulrot- og ananas smoothie (1porsjon)</h4>
 		<figure>
 			<img class="matbilde" src="img/gulrotananassmoothie.jpg"alt="gulrot-ananassmoothie">
 			<!-- <figcaption class="kilde">Kilde: frukt.no</figcaption> -->
@@ -19,7 +19,7 @@
 
 	 	<a href="index.php?page=oppskrifter">tilbake</a>
 
-		<h4>Ajopachi</h4>
+		<h4 id="ajopachismoothie">Ajopachi</h4>
 		<ul>
 			<li>1 Rød Paprika</li>
 			<li>1/2 Rød chili</li>
@@ -40,7 +40,7 @@
 
 		<a href="index.php?page=oppskrifter">tilbake</a>
 
-		<h4>Smart Smoothie (1porsjon)</h4>
+		<h4 id="smartsmoothie">Smart Smoothie (1porsjon)</h4>
 		<ul>
 			<li>3dl appelsinjuice</li>
 			<li>½ stk brokkoli</li>
@@ -59,7 +59,7 @@
 
 		<a href="index.php?page=oppskrifter">tilbake</a>
 
-		<h4>Salatsmoothie</h4>
+		<h4 id="salatsmoothie">Salatsmoothie</h4>
 		<ul>
 			<li>3 blader Romanosalat</li>
 			<li>100 g Brokkoli, lett forvellet (dvs et lett oppkok)</li>
@@ -81,7 +81,7 @@
 
 		<a href="index.php?page=oppskrifter">tilbake</a>
 
-		<h4>Solskinn</h4>
+		<h4 id="solsmoothie">Solskinn</h4>
 		<ul>
 			<li>1/2 Gul paprika</li>
 			<li>1 Gulrot</li>
@@ -101,7 +101,7 @@
 
 		<a href="index.php?page=oppskrifter">tilbake</a>
 
-		<h4>Dark blue heaven</h4>
+		<h4 id="bluesmoothie">Dark blue heaven</h4>
 		<ul>
 			<li>100 g Slangeagurk</li>
 			<li>125 g Friske blåbær</li>
@@ -140,7 +140,6 @@
 		<p class="kilde">Kilde: 
 			<a href="www.vektklubben.no" target="_blank">Vektklubben</a>
 		</p>
-
 		<a href="index.php?page=oppskrifter">tilbake</a>
 
 	</div>
