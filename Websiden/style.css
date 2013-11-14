@@ -352,6 +352,10 @@ h2{
 	height: 1800px;
 }
 
+.oppskrifter #navid{
+	margin-left: -10px;
+}
+
 .oppskrifter #oppskriftDiv
 {
 	margin-left: 10px;

@@ -2,7 +2,7 @@
 	<h2>Oppskrifter</h2>
 
 	<nav class="oppskrift">
-		<div>
+		<div id="navid">
 			<ul>
 				<li>		
 					<div id="trykkher">
