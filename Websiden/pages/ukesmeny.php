@@ -1,5 +1,5 @@
 <div class="oppskrifter">
-	<div class="ukesmeny">
+	<div class="ukesmeny" ><!-- sett høyde på denne for ukesmeny ikke endre på oppskrifter sin høyde -->
 		<h2>Ukesmenyoversikt</h2>
 		<p>Her er en oversikt over hvilke rett som hører til hvilke dag:</p>
 
@@ -248,5 +248,5 @@
 				</ul>
 			</div>
 		</nav>
-		</div>
 	</div>
+</div>
