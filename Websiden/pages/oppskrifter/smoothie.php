@@ -120,7 +120,7 @@
 
 		<a href="index.php?page=oppskrifter">tilbake</a>
 
-		<h4>Skippern</h4>
+		<h4 id="skippernsmoothie">Skippern</h4>
 		<ul>
 			<li>1 Liten avokado</li>
 			<li>1 dl Spinat</li>
