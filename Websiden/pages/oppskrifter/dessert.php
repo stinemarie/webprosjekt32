@@ -6,7 +6,7 @@
 		<li>110 g smør</li>
 		<li>4-8 ss kaldt vann</li>
 		<li>1 kurv friske bringebær</li>
-		<li>ca 4 dl vaniljekrem (<a href="dessert.php#vaniljekrem">Her kan man lage egen</a> eller kjøpe ferdig)</li>
+		<li>ca 4 dl vaniljekrem (<a href="#vaniljekrem">Her kan man lage egen</a> eller kjøpe ferdig)</li>
 		<li>melisdryss</li>
 	</ul>
 			
