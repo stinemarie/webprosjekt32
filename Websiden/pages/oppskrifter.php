@@ -63,7 +63,7 @@
 						<div class="overlay">
 							<p class="tekst">Matpakketips med lefse</p>
 						</div>
-						<img class="fargefelt" src="./img/ikon/trykkher.jpg" alt="matpakketips">
+						<img class="fargefelt" src="./img/ikon/matpakkeikon.jpg" alt="matpakketips">
 					</a>
 				</li>
 				<li>

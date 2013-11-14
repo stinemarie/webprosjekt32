@@ -7,7 +7,7 @@
 
 	<h4>Intervju</h4>
 
-	<p>Vi har her fått 5 forskjellige PT'er spredd utover Oslo og Akershus til å svare på noen spørsmål knyttet til trening og kosthold. Under vil du finne bilder som fører til info om de forksjellige trenerene og svar på spørsmålene.</p>
+	<p>Vi har her fått 3 forskjellige PT'er spredd utover Oslo og Akershus til å svare på noen spørsmål knyttet til trening og kosthold. Under vil du finne bilder som fører til info om de forksjellige trenerene og svar på spørsmålene.</p>
 
 	<!-- Må sette inn bilder og linke til nettsiden til de forkjsellige PT'ene, også endre størresle til å se bra ut. -->
 

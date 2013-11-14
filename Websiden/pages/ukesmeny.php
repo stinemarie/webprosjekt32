@@ -47,7 +47,7 @@
 				<ul>
 					<li>
 						<a class="lenke" href="index.php?page=smoothie#lyseroddrom">
-							<img class="fargefelt" src="./img/ikon/trykkher.jpg" alt="oppskrift på smoothie">
+							<img class="fargefelt" src="./img/ikon/lysroddrom.jpg" alt="oppskrift på smoothie">
 							<div class="overlay">
 								<p class="tekst">Lyserød Drøm Smoothie</p>
 							</div>
@@ -118,7 +118,7 @@
 				<ul>
 					<li>
 						<a class="lenke" href="index.php?page=smoothie#ajopachismoothie">
-							<img class="fargefelt" src="./img/ikon/trykkher.jpg" alt="oppskrift på smoothie">
+							<img class="fargefelt" src="./img/ikon/ajopachi.jpg" alt="oppskrift på smoothie">
 							<div class="overlay">
 								<p class="tekst">Ajopachi Smoothie</p>
 							</div>
