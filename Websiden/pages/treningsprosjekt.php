@@ -12,9 +12,11 @@
 	</ul>
 	<p>Nå som vi er ferdig med prosjektet, så kan jeg si at jeg har klart å følge alle mine mål, unntatt den ene uken, da jeg var syk, og kun
 	fikk gjort to av tre ønskede økter den uken.</p>
+	<!--
 	<img class="treningsbilde"src="img/treningimg/ape1.jpg" alt="akrobat1">
 	<img class="treningsbilde"src="img/treningimg/ape2.jpg" alt="akrobat2">
 	<img class="treningsbilde"src="img/treningimg/ape3.jpg" alt="akrobat3">
+	-->
 <h2>Skjema over utførelse</h2>
 
 <div class="treninghvor">
