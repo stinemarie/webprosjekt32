@@ -1,7 +1,10 @@
 <div class="ernæring">
 	<h2>Ernæring</h2>
 	<p>Vi har fått Maiken Walle, som er ernæringsstudent på siste året til å svare på noen spørsmål knyttet til kosthold og trening.</p>
-	<img src="./img/maikenwalle.png" alt="maiken walle">
+	<div class="tobilder">
+		<img src="./img/maikenwalle.png" alt="maiken walle">
+		<img src="./img/6omdagen.jpeg" alt="6 om dagen humor bilde">
+	</div>
 	<p>Maiken Walle har studert på Aleris Medisinske Høgskole</p>
 
 	<p><b>Hva burde en hver middag innehold for å få nok energi og næring fra måltidet?</b></p>
