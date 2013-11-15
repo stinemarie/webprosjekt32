@@ -211,7 +211,20 @@ $(document).ready(function(){
 // });
 
 
-$(document).ready(function(){ if ($(window).width() >= 750){ $('.lenke').hover(function(){ $(this).children('.overlay').fadeIn('slow'); },function(){ $(this).children('.overlay').fadeOut('fast'); }); } });
+$(document).ready(function(){ 
+	if ($(window).width() >= 750){
+		$('.lenke').hover(function(){ 
+			$(this).children('.overlay').fadeIn('slow'); 
+		},function(){ 
+			$(this).children('.overlay').fadeOut('fast'); 
+		}); 
+	} 
+});
+
+/*denne funksjonen refresher siden når den får en ny str*/
+$(window).resize(function() {
+    window.location.href = window.location.href;
+});
 
 /*script for easter egg*/
 
@@ -240,6 +253,8 @@ $(document).ready(function(){
 		});
 	});
 });
+
+
 
 /*Script for BMI Kalkulator*/
 function kalkulerBmi() {
