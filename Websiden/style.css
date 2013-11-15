@@ -549,7 +549,6 @@ input{
 	width: 630px;
 	margin: 0 auto;
 	margin-left: 70px;
-
 }
 
 .hvorfortrene img{
@@ -588,7 +587,6 @@ input{
 	margin-bottom: -30px;
 	color: #9EB728;
 	border: 1px solid #9EB728;
-
 }
 
 .hjem #hrnede{
@@ -695,6 +693,10 @@ input{
 	margin: 20px;
 	padding: 20px;
 	box-shadow: 1px 1px 4px 0px black;
+}
+
+.ukesmeny{
+	height: 2800px;
 }
 
 /* Slutt på ukesmeny */
