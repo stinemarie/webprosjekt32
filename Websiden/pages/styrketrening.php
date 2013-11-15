@@ -69,7 +69,6 @@
 
 	<p>I startposisjonen så sitter man med en rett rygg og beina plassert på platen med en liten bøy i knærne. Man senker skuldrene ned og tilbake. Så plasserer man blikket foran seg og trekker håndtaket kontrollert mot brystet. Man kan tenke at man skal holde en blyant sammen med skulderbladene når man trekker håndtaket mot brystet og skyver armene bakover. Viktig at man ikke hjelper til med nakken her, men nakken skal være i samme posisjon hele tiden. Dette gjør man 12ganger med 3repetisjoner.</p>
 
-
 	<h4>Løft med step</h4>
 	<div class="tobilder">
 		<img class="treningsbilde" src="img/treningimg/loftstep1.jpg" alt="loftstep1">
@@ -103,9 +102,7 @@
 		<img class="treningsbilde"src="img/treningimg/skulderloft2.jpg" alt="Skulderloft2">
 	</div>
 
-	<p>Ha armene helt strake med en vekt i hver hånd. Så skal armene heves strakt ut fra kroppen. Så stopper man når de er på en rett 
-		linje med lik høyde som skuldrene, så holder man i noen sekunder, før man senker armene igjen.
-		Dette gjør man 10ganger med 3 repetisjoner.</p>
+	<p>Ha armene helt strake med en vekt i hver hånd. Så skal armene heves strakt ut fra kroppen. Så stopper man når de er på en rett linje med lik høyde som skuldrene, så holder man i noen sekunder, før man senker armene igjen. Dette gjør man 10 ganger med 3 repetisjoner.</p>
 
 
 	<h4>Liggende benløft</h4>
@@ -114,7 +111,7 @@
 		<img class="treningsbilde"src="img/treningimg/beinloft2.jpg" alt="beinloft2">
 	</div>
 
-	<p>Man ligger rett på gulvet med armene strakt på hver side av kroppen. Så skal man heve og senke beina mens de er strake. Her skal man da bruke magen til å holde igjen når man senker beina ned mot gulvet. Man skal holde igjen når man nesten berører gulvet, og så skal man heve de igjen. Dette gjør man 10ganger med 3repetisjoner</p>
+	<p>Man ligger rett på gulvet med armene strakt på hver side av kroppen. Så skal man heve og senke beina mens de er strake. Her skal man da bruke magen til å holde igjen når man senker beina ned mot gulvet. Man skal holde igjen når man nesten berører gulvet, og så skal man heve de igjen. Dette gjør man 10 ganger med 3 repetisjoner</p>
 
 	<h4>rygghev</h4>
 	<div class="tobilder">
@@ -122,6 +119,5 @@
 		<img class="treningsbilde"src="img/treningimg/rygghev2.jpg" alt="rygghev2">
 	</div>
 
-	<p>Man ligger med strak rygg, så trekker man magen inn og hever brystet mens man krummer ryggen noe.
-	Gjøres 12ganger med 3 repetisjoner.</p>
+	<p>Man ligger med strak rygg, så trekker man magen inn og hever brystet mens man krummer ryggen noe. Gjøres 12 ganger med 3 repetisjoner.</p>
 </div>

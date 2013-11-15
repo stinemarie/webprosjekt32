@@ -1,21 +1,23 @@
-.kilde{
-	font-size: 14px;
-}
-
+/*Css for hele siden*/
 body{
 	background: #E0E0E0;
 }
 
 #bakgrunn{
 	min-height: 100%;
- 	min-width: 1024px;
-	width: 100%;
+ 	min-width: 100%;
 	height: auto;
  	position: fixed;
  	top: 0;
  	left: 0;
  	z-index: -100;
 }
+
+
+.kilde{
+	font-size: 14px;
+}
+
 #superhemmelig{
 	width: 40px;
 	height: 60px;
