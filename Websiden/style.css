@@ -1,53 +1,6 @@
-.kilde{
-	font-size: 14px;
-}
-
-body{
-	background: #E0E0E0;
-}
-
-#bakgrunn{
-	min-height: 100%;
- 	min-width: 1024px;
-	width: 100%;
-	height: auto;
- 	position: fixed;
- 	top: 0;
- 	left: 0;
- 	z-index: -100;
-}
-#superhemmelig{
-	width: 40px;
-	height: 60px;
-	position: fixed;
-	top: 30px;
-	left: 25px;
-	z-index: -5;
-}
-
-#frame{
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 80px;
-	margin-bottom: 40px;
-	background: #E3F1FF;
-	width: 796px;
-	box-shadow: 3px 3px 10px 0px black;
-}
-header{
-	height: 111px;
-	position: relative;
-}
-
-#logo{
-	position: absolute;
-	float: left;
-	left: 45px;
-	top: -75px;
-}
 
 
-#undertittel{
+#undertittel{  
 	position: relative;
 	float: left;
 	margin: 0;

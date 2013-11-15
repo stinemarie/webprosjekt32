@@ -204,11 +204,20 @@ $(document).ready(function(){
 	});
 });
 /*Skript for bildegallerier*/
+// $(window).resize(function(){
+// 	if ($(window).width() <= 800){	
+// 		// do something here
+// 	}	
+// });
+
+
 $(document).ready(function(){
-	$('.lenke').hover(function(){
-		$(this).children('.overlay').fadeIn('slow');					
-		},function(){
-			$(this).children('.overlay').fadeOut('fast'); 
+	if ($(window).width() >= 750){
+		$('.lenke').hover(function(){
+			$(this).children('.overlay').fadeIn('slow');				
+			},function(){
+				$(this).children('.overlay').fadeOut('fast'); 
+			});
 		});
 	});
 

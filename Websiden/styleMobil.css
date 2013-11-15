@@ -1,60 +1,67 @@
 /*ting som ikke er med i mobilløsningen under 480 gjør dette*/
-@media (max-width:480px){
-#superhemmelig{
+@media (max-width:750px){
+
+#superhemmelig, .easteregg, .kar, .treningssider img{
 	display:none;
 }
 
-.easteregg{
-	display:none;
+body, body *{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
 }
 
-.kar{
-	display:none;
-}
-
-#bakgrunn{
-	display:none;
-}
-
-body{
-	margin: 0;
-	padding: 0;
-	border: 0;
+/*REGLER FOR HELE SIDEN under 750px*/
+img{
+	width:100%;
 }
 
 #frame{
 	width: 100%;
-	max-width: 480px;
-	box-shadow: 3px 3px 10px 0px silver;
+	min-width: 128px;
+	margin: auto;
+	margin-top:206px;
+	background: #E3F1FF;
 }
 
 #logo{
-	width: 80%;
-
+	width: 100% !important;
+	max-width: 260px !important;
+	margin-top:-186px;
+	margin-left:10px;
+	padding-bottom: 30px;
+}
+#bakgrunn{
+	height:100%;
+	width:auto;
+	min-height;
+	position:fixed;
+	top: 0;
+ 	left: 0;
+	z-index: -100;
 }
 
-#undertittel{
-	position: relative;
-	float: left;
-	margin: 0;
-	top: 54px;
-	left: 333px;
-	font-size: 30px;
-	color: #9EB728;
-	text-decoration: none;
-	font-family: "Gill Sans", sans-serif;
+footer{
+	width: 100%;
 }
 
+#minilogo{
+	padding-left: 45%;
+	padding-top:10px;
 }
 
-.kilde{
-	font-size: 14px;
+p{
+	margin: 30px;
 }
 
-body{
-	background: #E0E0E0;
-}
+/*REGLER FOR ØVELSES under 750px*/
 
+
+}/*SLUTT FOR @media (max-width:750px)*/
+
+@media (min-width:750px){
+
+/*REGLER FOR HELE SIDEN over 170px*/
 #bakgrunn{
 	min-height: 100%;
  	min-width: 1024px;
@@ -95,17 +102,13 @@ header{
 	top: -75px;
 }
 
-
 #undertittel{
 	position: relative;
+	text-decoration:none;
 	float: left;
 	margin: 0;
 	top: 54px;
 	left: 333px;
-	font-size: 30px;
-	color: #9EB728;
-	text-decoration: none;
-	font-family: "Gill Sans", sans-serif;
 }
 
 div .clickable a{ /* Makes the hyperlinks fill the divs*/
@@ -228,13 +231,7 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 }
 
 footer{
-	position: relative;
 	width: 794px;
-	height: 40px;
-	border: 1px solid #9EB728;
-	background: #ECEDA2;
-	box-shadow: 0px 0px 10px #9EB728 inset;
-
 }
 
 #minilogo{
@@ -788,6 +785,45 @@ input{
 	width: 500px;
 }
 /* Personlig trener */
+}
+
+/* FOR ALLE SKJERMER */
+
+/*REGLER FOR HELE SIDEN*/
+
+#undertittel{
+	font-size: 30px;
+	color: #9EB728;
+	font-family: "Gill Sans", sans-serif;
+	font-weight: normal;
+}
+
+body{
+	font-family: "Gill Sans", sans-serif;
+	font-weight: normal;
+}
+
+.kilde{
+	font-size: 14px;
+}
+
+#logo{
+	width: 260px;
+}
+
+footer{
+	position: relative;
+	height: 40px;
+	border: 1px solid #9EB728;
+	background: #ECEDA2;
+	box-shadow: 0px 0px 10px #9EB728 inset;
+}
+
+footer img{
+	width:40px;
+}
+
+
 
 
 
