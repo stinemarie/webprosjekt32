@@ -10,7 +10,7 @@
 	</figure>
 
 	<p>Fin øvelse for lår foran, rumpe, lårets innside, bakside lår og magemuskelaturen. Det er viktig med rett rygg i denne øvelsen, for å unngå skader. Man står med beina noe spredt, og går sakte ned i knebøy til lårene er parallelt med gulvet. Så går man rolig opp igjen og retter opp kroppen, for å gå tilbake i utgangsposisjonen. Dette gjør man da med 10-15knebøy med 3 repetisjoner. Her er det viktig med nok vekt, da det skal være slitsomt på hver repetisjon.</p>
-tobilder
+
 	<h4>Utfall</h4>
 	<figure class="tobilder">
 		<img class="treningsbilde" src="img/treningimg/utfall1.jpg" alt="utfall1">
