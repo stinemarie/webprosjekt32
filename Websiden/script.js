@@ -93,7 +93,7 @@ $(document).ready(function() {
 		$("#omosslink").css("color","#ECEDA2");
 	});
 
-	$(".undersideNav a").mouseenter(function(){
+	$(".undersideNav a").click(function(){
   		$(this).css("text-decoration","underline");
 	});
 

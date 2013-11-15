@@ -1,4 +1,5 @@
 /*ting som ikke er med i mobilløsningen under 480 gjør dette*/
+@media (max-width:480px){
 #superhemmelig{
 	display:none;
 }
@@ -15,12 +16,13 @@
 	display:none;
 }
 
-#frame{ /*her er det noe felles*/
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 80px;
-	margin-bottom: 40px;
-	background: #E3F1FF;
+body{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+#frame{
 	width: 100%;
 	max-width: 480px;
 	box-shadow: 3px 3px 10px 0px silver;
@@ -28,6 +30,764 @@
 
 #logo{
 	width: 80%;
-	margin: auto;
+
 }
+
+#undertittel{
+	position: relative;
+	float: left;
+	margin: 0;
+	top: 54px;
+	left: 333px;
+	font-size: 30px;
+	color: #9EB728;
+	text-decoration: none;
+	font-family: "Gill Sans", sans-serif;
+}
+
+}
+
+.kilde{
+	font-size: 14px;
+}
+
+body{
+	background: #E0E0E0;
+}
+
+#bakgrunn{
+	min-height: 100%;
+ 	min-width: 1024px;
+	width: 100%;
+	height: auto;
+ 	position: fixed;
+ 	top: 0;
+ 	left: 0;
+ 	z-index: -100;
+}
+#superhemmelig{
+	width: 40px;
+	height: 60px;
+	position: fixed;
+	top: 30px;
+	left: 25px;
+	z-index: -5;
+}
+
+#frame{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 80px;
+	margin-bottom: 40px;
+	background: #E3F1FF;
+	width: 796px;
+	box-shadow: 3px 3px 10px 0px black;
+}
+header{
+	height: 111px;
+	position: relative;
+}
+
+#logo{
+	position: absolute;
+	float: left;
+	left: 45px;
+	top: -75px;
+}
+
+
+#undertittel{
+	position: relative;
+	float: left;
+	margin: 0;
+	top: 54px;
+	left: 333px;
+	font-size: 30px;
+	color: #9EB728;
+	text-decoration: none;
+	font-family: "Gill Sans", sans-serif;
+}
+
+div .clickable a{ /* Makes the hyperlinks fill the divs*/
+	position:absolute;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	text-decoration:none;
+	z-index:10;
+}
+
+#hovednavigering{
+	background: #9EB728;
+	width: 796px;
+	height: 63px;
+}
+
+#hovednavigering div{
+	width: 157px;
+	position: relative;
+	float: left;
+	border: 2px solid #9EB728;
+	border-right: 0;
+	background: #ECEDA2;
+	height: 45px;
+	text-align: center;
+	padding-top: 15px;
+	font-size: 20px;
+	box-shadow: 0px 0px 12px #9EB728 inset;
+	cursor: pointer;
+	font-family: "Gill Sans";
+}
+
+#hovednavigering div a{
+	color: #9EB728;  /* Dette er fargen på de store knappene */
+	font-size: 20px;
+	padding-top: 15px;
+	position:absolute;
+	width:100%;
+	height:44px;
+	top:0;
+	left:0;
+	text-decoration:none;
+	z-index:10;
+}
+
+#hovednavigering #pt{
+	padding-top: 8px;
+	height: 52px;
+	font-size: 18px;
+}
+
+#hovednavigering #om{
+	border-right: 1px solid #9EB728;
+}
+
+#hovednavigering .undersideNav{
+
+	visibility: visible;
+	width: 796px;
+	border: 0px;
+	padding-top: 0px;
+	height: 33px;
+	top: 45px;
+	background: #9EB728;
+}
+
+#hovednavigering .undersideNav div{
+	visibility: visible;
+	margin: 0px;
+	height: 24px;
+	font-size: 16px;
+	padding-top: 6px;
+	background: #9EB728;
+	color: #ECEDA2;
+	box-shadow: 0px 0px 6px #ECEDA2 inset;
+}
+
+#hovednavigering .undersideNav div a{
+	font-size: 16px;
+	color: #ECEDA2;
+	padding-top: 6px;
+}
+
+#ptlink{
+	margin-top: -4px;
+	line-height: 20px;
+}
+
+
+#hovednavigering .undersideNav .undersideSisteKnapp{
+	border-right: 1px solid #9EB728;
+}
+
+#treningsNav{
+	display: none;
+	left: -2px;
+	top: 45px;
+}
+
+#kostholdsNav{
+	display: none;
+	left: -161px;
+	top: 45px;
+}
+
+#content{
+	min-height: 580px;
+	padding: 20px;
+	padding-top: 40px;
+	position: static;
+	font-family: "Gill Sans", sans-serif;
+}
+
+#content p{
+	position: static;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+footer{
+	position: relative;
+	width: 794px;
+	height: 40px;
+	border: 1px solid #9EB728;
+	background: #ECEDA2;
+	box-shadow: 0px 0px 10px #9EB728 inset;
+
+}
+
+#minilogo{
+	display: block;
+	position: relative;
+	top: 11px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.marginSide{
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 20px;
+}
+
+
+h2{
+	text-align:center;
+	color: #9EB728;
+	font-size: 30px;
+	text-decoration: underline;
+	margin-bottom: 35px;
+	font-family: "Gill Sans", sans-serif;
+}
+
+/* css for karusellen */
+.kar *{
+	margin: 0;
+	padding: 0;
+}
+
+.kar{
+	position: relative;
+	margin-top: 40px;
+}
+
+.kar div{
+	position: absolute;
+} 
+
+.kar #alpha, #beta, #gamma, #delta{
+	width: 200px;
+	height: 200px;
+	top: 20px;
+}
+
+.kar #alpha{
+	z-index: 2;
+	left: 10px;
+}
+
+.kar #beta{
+	z-index: 6;
+	left: 175px;
+	top: 10px;
+}
+
+.kar #gamma{
+	z-index: 3;
+	left:370px;
+}
+
+.kar #delta{
+	z-index: 1;
+	left: 170px;
+}
+
+.kar #ramme p{
+	z-index: 20;
+	position: relative;
+	display: none;
+	height: 250px;
+}
+
+.kar li{
+	display:block;
+	float:left;
+}
+ /*sentrerer menyen*/
+.kar #ramme{
+	left:88px;
+	height: 400px;
+	width: 600px;
+	overflow: hidden;
+}
+
+.kar #tilbake, .kar #neste{
+	background-color: rgba(240,240,240,0.5);
+	position: absolute;
+	height:200px;
+	width:180px;
+	top:20px;
+}
+
+.kar #tilbake{
+	left:10px;
+	z-index:5;
+}
+
+.kar #neste{
+	left:390px;
+	z-index:5;
+}
+
+.kar div img, p {
+	position: absolute;
+	top:0;
+	left:0;
+}
+
+.kar .hvitspiss{
+	z-index: 7;
+}
+
+.kar p{
+	font-family: "Gill Sans", sans-serif;
+	color: #9eb728;
+	font-size: x-large;
+	text-align: right;
+	top: 10px;
+	left: 30px;
+}
+
+.kar img{
+	height: 200px;
+	width: 200px;
+}
+
+/* css for treningssider*/
+.treningssider ul{
+	margin: 40px;
+}
+
+.treningssider img, .overlay {
+	height: 200px;
+	width: 200px;
+}
+
+.treningssider li{
+	position:relative;
+	float:left;
+	list-style:none;	
+}
+
+.treningssider .overlay{
+	position:absolute;
+	right:0;
+	top:0;
+	background-color:rgba(220,220,220,0.7);
+	display:none;
+}
+
+.treningssider p{
+	margin: 10px;
+	color: white;
+	font-family: "Gill Sans", sans-serif;
+	overflow: hidden;
+}
+
+/* Oppskrifter med undersider*/
+
+.oppskrifter{
+	height: 1800px;
+}
+
+.oppskrifter #navid{
+	margin-left: -10px;
+}
+
+.oppskrifter #oppskriftDiv
+{
+	margin-left: 10px;
+}
+
+.oppsk .smoothie{
+	height: 4200px;
+}
+
+.oppsk ul{
+	list-style: circle;
+}
+
+.smoothie img{
+	width: 400px;
+	clear: both !important;
+}
+
+.smoothie div{
+	margin-top: 30px;
+}
+
+.oppskrift .fargefelt{
+	display: block;
+}
+
+.oppskrift .overlay, #trykkher{
+	height: 220px;
+	width: 220px;
+	background-color: rgba(158, 183, 40,0.5);
+	position: absolute;
+	top:0;
+	right:0;
+}
+
+.oppskrift .overlay{
+	display: none;
+}
+
+.oppskrift li{
+	position: relative;	
+	list-style: none;
+	float: left;
+	margin: 5px;
+	border: thin solid black;
+}
+
+.oppskrift .tekst{
+	color: white;
+	font-size: 30px;
+	font-family: "Gill Sans", sans-serif;
+	margin: 20px;
+	overflow: hidden;
+	text-shadow: 1px 1px #4C4C4C;
+}
+
+.matbilde{
+	width: 100%;
+	padding: 10px;
+	border: solid thin black;
+	background-color: #eceda2;
+	clear: both;
+}
+
+/* Om oss */
+
+#omosstekst{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#bilderavoss{
+	margin-left: 111px;
+	height: 600px;
+	margin-bottom: 40px;
+}
+
+.omossfigure{
+	float: left;
+	border: 3px solid #9EB728;
+	padding: 8px;
+	margin: 20px;
+	box-shadow: 1px 1px 4px 0px black;
+}
+
+.omossfigure figcaption{
+	text-align: center;
+}
+
+.omossfigure figcaption a{
+	color: #1F850B;
+}
+
+.omossfigure img{
+	height:200px;
+	width:200px;
+}
+
+/*slutt på Om oss */
+
+/* Våre favoritter */
+.favorittBoks{
+	border: 3px solid #9EB728;
+	padding: 8px;
+	margin: 20px;
+	box-shadow: 1px 1px 4px 0px black;
+	width: 650px;
+	margin-left: 40px;
+}
+
+.favorittBoks h4{
+	font-size: 22px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.favoritter img{
+	width: 500px;
+	box-shadow: 1px 1px 3px black;
+	margin-left: 74px;
+}
+
+/* slutt på Våre favoritter */
+
+/* Personlig trener */
+
+.personligtrener{
+	margin-left: 20px;
+}
+
+.personligtrener h4{
+	text-align: center;
+}
+
+/*Kalkulator*/
+form{
+	background: #ECEDA2;
+	margin:auto;
+	position:relative;
+	width:400px;
+	height:350px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 24px;
+	font-weight: bold;
+	color:  #9EB728;
+	text-decoration: none;
+	border-radius: 10px;
+	padding:10px;
+	border: 1px solid #9EB728;
+	border: inset 1px solid#9EB728;
+	box-shadow: 0px 0px 8px #9EB728;
+}
+
+input{
+	display:block;
+	width:90px;
+	border: 1px solid #999;
+	height: 20px;
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+#betydning{
+	width: 210px;
+
+}
+
+#reset{
+	width:100px;
+	position:absolute;
+	right:20px;
+	bottom:20px;
+	background:#9EB728;
+	color:#fff;
+}
+
+#button{
+	width: 100px;
+	position: absolute;
+	left: 20px;
+	bottom: 220px;
+	background:#9EB728;
+	color:#fff;
+}
+
+/* slutt på Hvorfor trene */
+
+.hvorfortrene{
+	height: 650px;
+	width: 630px;
+	margin: 0 auto;
+	margin-left: 70px;
+
+}
+
+.hvorfortrene img{
+	width: 250px;
+	box-shadow: 2px 2px 5px black;
+}
+
+.hvorfortrene figure{
+	float: left;
+	width: 250px;
+	margin-left: 30px;
+}
+
+.hvorfortrene figcaption{
+	margin-left: 70px;
+}
+
+.hvorfortrene aside{
+	width: 290px;
+	float: left;
+}
+
+/* slutt på Hvorfor trene */
+
+/* Hjem */
+
+.hjem #hjemtekst{
+	width: 550px;
+	margin-left: 115px;
+	font-size: 20px;
+}
+
+.hjem hr{
+	margin-top: 43px;
+	width: 457px;
+	margin-bottom: -30px;
+	color: #9EB728;
+	border: 1px solid #9EB728;
+
+}
+
+.hjem #hrnede{
+	margin-top: 300px;
+}
+/*slutt på Hjem */
+
+/*Easter egg*/
+
+.easteregg{
+	position: relative;
+	width: 55%;
+	height: 539px;
+	margin: 20px auto;
+	display: none;
+
+}
+
+.easteregg #videoframe{
+	width: 100px;
+	top: 10px;
+	left: 55%;	
+ 	margin-left: -55px;		
+}
+
+.easteregg img, .easteregg iframe{
+	position: absolute;
+}
+
+.easteregg iframe{
+	z-index:20;
+	top: 100px;
+	left: 50px;
+}
+
+/*Styling tabeller*/
+.treninghvor table { 
+	border-collapse: collapse;
+	 text-align: left; width: 100%; 
+}
+
+ .treninghvor {
+ 	background: #ECEDA2;
+ 	overflow: hidden;
+ 	border: 3px solid #9EB728; 
+ 	border-radius: 3px; 
+}
+
+.treninghvor table td, .treninghvor table th {
+	 padding: 3px 10px; 
+}
+
+.treninghvor table thead th {
+	background-color:#ECEDA2;
+	color:#9EB728; 
+	font-size: 15px; 
+	font-weight: bold; 
+	border-left: 2px solid #9EB728; 
+}
+
+ .treninghvor table thead th:first-child { 
+ 	border: none;
+ }
+
+ .treninghvor table tbody td {
+	 color: #00496B; 
+	 border-left: 2px solid #9EB728;
+	 font-size: 12px;
+	 font-weight: normal; 
+}
+
+.treninghvor table tbody .alt td { 
+	background: #E3F1FF;
+	color: #9EB728; 
+}
+
+.treninghvor table tbody td:first-child {
+	 border-left: none; 
+}
+
+.treninghvor table tbody tr:last-child td {
+	 border-bottom: none; 
+}
+
+/* Trene hvor */
+
+.treningsenter{
+	border: 3px solid #9EB728;
+	margin: 20px;
+	box-shadow: 1px 1px 4px 0px black;
+	padding: 20px;
+}
+
+.treningsenter div{
+	border: 2px solid #9EB728;
+}
+
+/* Slutt på trene hvor */
+
+/* Ukesmeny */
+
+.ukesmeny .dag{
+	border: 3px solid #9EB728;
+	margin: 20px;
+	padding: 20px;
+	box-shadow: 1px 1px 4px 0px black;
+}
+
+/* Slutt på ukesmeny */
+
+
+/* Personlig trener */
+.personligtrener .question{
+	border: 3px solid #9EB728;
+	margin: 20px;
+	padding: 20px;
+	box-shadow: 1px 1px 4px 0px black;
+	clear: left;
+}
+
+.personligtrener #trenerne{
+	margin-left: 120px;
+}
+
+.personligtrener figure{
+	float: left;
+	height: 150px;
+	margin: 20px;
+	text-align: center;
+}
+
+.personligtrener #trenerne a img{
+	width: 120px;
+	height: 120px;
+	box-shadow: 1px 1px 4px 0px black;
+}
+
+.personligtrener .question img{
+	float: left;
+	clear: left;
+	width: 40px;
+	margin: 20px;
+	margin-top: 0px;
+}
+
+.personligtrener .question p{
+	min-height: 50px;
+	width: 500px;
+}
+/* Personlig trener */
+
+
 
