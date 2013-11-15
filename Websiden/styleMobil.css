@@ -1,0 +1,67 @@
+/*ting som ikke er med i mobilløsningen under 480 gjør dette*/
+#superhemmelig{
+	display:none;
+}
+
+.easteregg{
+	display:none;
+}
+
+.kar{
+	display:none;
+}
+
+#bakgrunn{
+	display:none;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+#frame{ /*her er det noe felles*/
+	width: 100%;
+	max-width: 480px;
+	box-shadow: 3px 3px 10px 0px silver;
+}
+
+#logo{
+	width: 80%;
+
+}
+
+#undertittel{
+	position: relative;
+	float: left;
+	margin: 0;
+	top: 54px;
+	left: 333px;
+	font-size: 30px;
+	color: #9EB728;
+	text-decoration: none;
+	font-family: "Gill Sans", sans-serif;
+}
+/*pc  skjermer*/
+#frame{
+	background: #E3F1FF;
+	width: 796px;
+	box-shadow: 3px 3px 10px 0px black;
+}
+
+#logo{
+	position: absolute;
+	float: left;
+	left: 45px;
+	top: -75px;
+}
+/*felles*/
+#frame{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 80px;
+	margin-bottom: 40px;
+
+}
+

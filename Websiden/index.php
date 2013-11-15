@@ -84,86 +84,87 @@
 			<div id="content">
 					
 			<?php
-			if($_GET["page"] == "hjem")
-				include("./pages/hjem.php");
-				elseif($_GET["page"] == "hvorfortrene")
-					include("./pages/hvorfortrene.php");
-				elseif($_GET["page"] == "ovelser")
-					include("./pages/ovelser.php");
-				elseif($_GET["page"] == "treningsprosjekt")
-					include("./pages/treningsprosjekt.php");
-				elseif($_GET["page"] == "hvor")
-					include("./pages/hvor.php");
-				elseif($_GET["page"] == "kosthold")
-					include("./pages/kosthold.php");
-				elseif($_GET["page"] == "oppskrifter")
-					include("./pages/oppskrifter.php");
-				elseif($_GET["page"] == "ukesmeny")
-					include("./pages/ukesmeny.php");
-				elseif($_GET["page"] == "favoritter")
-					include("./pages/favoritter.php");
-				elseif($_GET["page"] == "ernering")
-					include("./pages/ernering.php");
-				elseif($_GET["page"] == "personligtrener")
-					include("./pages/personligtrener.php");
-				elseif($_GET["page"] == "intervju")
-					include("./pages/intervju.php");
-				elseif($_GET["page"] == "trenerne")
-					include("./pages/trenerne.php");
-				elseif($_GET["page"] == "lenker")
-					include("./pages/lenker.php");
-				elseif($_GET["page"] == "omoss")
-					include("./pages/omoss.php");
-				elseif($_GET["page"] == "kontakt")
-					include("./pages/kontakt.php");
-				elseif($_GET["page"] == "dessert")
-					include("./pages/oppskrifter/dessert.php");
-				elseif($_GET["page"] == "fisk")
-					include("./pages/oppskrifter/fisk.php");
-				elseif($_GET["page"] == "kylling")
-					include("./pages/oppskrifter/kylling.php");
-				elseif($_GET["page"] == "matpakke")
-					include("./pages/oppskrifter/matpakke.php");
-				elseif($_GET["page"] == "wok")
-					include("./pages/oppskrifter/wok.php");
-				elseif($_GET["page"] == "smoothie")
-					include("./pages/oppskrifter/smoothie.php");
-				elseif($_GET["page"] == "suppe")
-					include("./pages/oppskrifter/suppe.php");
-				elseif($_GET["page"] == "fougasse")
-					include("./pages/oppskrifter/fougasse.php");
-				elseif($_GET["page"] == "nistepakke")
-					include("./pages/oppskrifter/nistepakke.php");
-				elseif($_GET["page"] == "pastapecorino")
-					include("./pages/oppskrifter/pastapecorino.php");
-				elseif($_GET["page"] == "pizza")
-					include("./pages/oppskrifter/pizza.php");
-				elseif($_GET["page"] == "polarbrod")
-					include("./pages/oppskrifter/polarbrod.php");
-				elseif($_GET["page"] == "potetomelett")
-					include("./pages/oppskrifter/potetomelett.php");
-				elseif($_GET["page"] == "potetsalat")
-					include("./pages/oppskrifter/potetsalat.php");
-				elseif($_GET["page"] == "sitruskylling")
-					include("./pages/oppskrifter/sitruskylling.php");
-				elseif($_GET["page"] == "sommersalat")
-					include("./pages/oppskrifter/sommersalat.php");
-				elseif($_GET["page"] == "spaghettispinat")
-					include("./pages/oppskrifter/spaghettispinat.php");
-				elseif($_GET["page"] == "squashsalat")
-					include("./pages/oppskrifter/squashsalat.php");
-				elseif($_GET["page"] == "tortellini")
-					include("./pages/oppskrifter/tortellini.php");
-				elseif($_GET["page"] == "yoghurt")
-					include("./pages/oppskrifter/yoghurt.php");
-				elseif($_GET["page"] == "kalkulator")
-					include("./pages/kalkulator.php");
-				elseif($_GET["page"] == "kondisjon")
-					include("./pages/kondisjon.php");
-				elseif($_GET["page"] == "styrketrening")
-					include("./pages/styrketrening.php");
-			else
-				include("./pages/hjem.php");
+				if(isset($_GET['page'])){
+					if($_GET["page"] == "hjem")
+						include("./pages/hjem.php");
+					elseif($_GET["page"] == "hvorfortrene")
+						include("./pages/hvorfortrene.php");
+					elseif($_GET["page"] == "ovelser")
+						include("./pages/ovelser.php");
+					elseif($_GET["page"] == "treningsprosjekt")
+						include("./pages/treningsprosjekt.php");
+					elseif($_GET["page"] == "hvor")
+						include("./pages/hvor.php");
+					elseif($_GET["page"] == "kosthold")
+						include("./pages/kosthold.php");
+					elseif($_GET["page"] == "oppskrifter")
+						include("./pages/oppskrifter.php");
+					elseif($_GET["page"] == "ukesmeny")
+						include("./pages/ukesmeny.php");
+					elseif($_GET["page"] == "favoritter")
+						include("./pages/favoritter.php");
+					elseif($_GET["page"] == "ernering")
+						include("./pages/ernering.php");
+					elseif($_GET["page"] == "personligtrener")
+						include("./pages/personligtrener.php");
+					elseif($_GET["page"] == "intervju")
+						include("./pages/intervju.php");
+					elseif($_GET["page"] == "trenerne")
+						include("./pages/trenerne.php");
+					elseif($_GET["page"] == "lenker")
+						include("./pages/lenker.php");
+					elseif($_GET["page"] == "omoss")
+						include("./pages/omoss.php");
+					elseif($_GET["page"] == "kontakt")
+						include("./pages/kontakt.php");
+					elseif($_GET["page"] == "dessert")
+						include("./pages/oppskrifter/dessert.php");
+					elseif($_GET["page"] == "fisk")
+						include("./pages/oppskrifter/fisk.php");
+					elseif($_GET["page"] == "kylling")
+						include("./pages/oppskrifter/kylling.php");
+					elseif($_GET["page"] == "matpakke")
+						include("./pages/oppskrifter/matpakke.php");
+					elseif($_GET["page"] == "wok")
+						include("./pages/oppskrifter/wok.php");
+					elseif($_GET["page"] == "smoothie")
+						include("./pages/oppskrifter/smoothie.php");
+					elseif($_GET["page"] == "suppe")
+						include("./pages/oppskrifter/suppe.php");
+					elseif($_GET["page"] == "fougasse")
+						include("./pages/oppskrifter/fougasse.php");
+					elseif($_GET["page"] == "nistepakke")
+						include("./pages/oppskrifter/nistepakke.php");
+					elseif($_GET["page"] == "pastapecorino")
+						include("./pages/oppskrifter/pastapecorino.php");
+					elseif($_GET["page"] == "pizza")
+						include("./pages/oppskrifter/pizza.php");
+					elseif($_GET["page"] == "polarbrod")
+						include("./pages/oppskrifter/polarbrod.php");
+					elseif($_GET["page"] == "potetomelett")
+						include("./pages/oppskrifter/potetomelett.php");
+					elseif($_GET["page"] == "potetsalat")
+						include("./pages/oppskrifter/potetsalat.php");
+					elseif($_GET["page"] == "sitruskylling")
+						include("./pages/oppskrifter/sitruskylling.php");
+					elseif($_GET["page"] == "sommersalat")
+						include("./pages/oppskrifter/sommersalat.php");
+					elseif($_GET["page"] == "spaghettispinat")
+						include("./pages/oppskrifter/spaghettispinat.php");
+					elseif($_GET["page"] == "squashsalat")
+						include("./pages/oppskrifter/squashsalat.php");
+					elseif($_GET["page"] == "tortellini")
+						include("./pages/oppskrifter/tortellini.php");
+					elseif($_GET["page"] == "yoghurt")
+						include("./pages/oppskrifter/yoghurt.php");
+					elseif($_GET["page"] == "kalkulator")
+						include("./pages/kalkulator.php");
+					elseif($_GET["page"] == "kondisjon")
+						include("./pages/kondisjon.php");
+					elseif($_GET["page"] == "styrketrening")
+						include("./pages/styrketrening.php");
+				}else
+					include("./pages/hjem.php");
 			?>
 
 			</div>
