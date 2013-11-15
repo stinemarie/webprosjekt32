@@ -738,4 +738,19 @@ input{
 	min-height: 50px;
 	width: 500px;
 }
-/* Personlig trener */
+
+/*udersider for treningsøvelser*/
+.styrke img, .styrke figure{
+	margin: -3px !important;
+	padding: 0 !important;
+	border: 0 !important;
+
+}
+.styrke .tobilder{
+	width: 30%;
+}
+.styrke  .trebilder{
+	width: 33.3%;
+}
+
+
