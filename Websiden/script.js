@@ -211,15 +211,7 @@ $(document).ready(function(){
 // });
 
 
-$(document).ready(function(){
-	if ($(window).width() >= 750){
-		$('.lenke').hover(function(){
-			$(this).children('.overlay').fadeIn('slow');				
-			},function(){
-				$(this).children('.overlay').fadeOut('fast'); 
-			});
-		});
-	});
+$(document).ready(function(){ if ($(window).width() >= 750){ $('.lenke').hover(function(){ $(this).children('.overlay').fadeIn('slow'); },function(){ $(this).children('.overlay').fadeOut('fast'); }); } });
 
 /*script for easter egg*/
 
