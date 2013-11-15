@@ -156,6 +156,8 @@ $(document).ready(function(){
 	 	var lll = $(".kar div").index( $(".left") );
 	 	var hhh = $(".kar div").index( $(".hide") );
 
+	 	// $( ".hide, .right, #left" ).click(function( event ) { event.preventDefault() });
+
 	 	$( "#tilbake" ).css("display","none").delay( 300 ).fadeIn('slow');
 	 	$( "#neste" ).css("display","none").delay( 300 ).fadeIn('slow', function(){
 	 		animates = false;
@@ -236,7 +238,6 @@ $(document).ready(function(){
 			$("#hovednavigering #trening").delay( 300 ).animate({top:'0px'},1000);
 			$("#treningsNav").delay( 200 ).animate({top:'0px'},1000);
 			$(".kar>div").animate({top:'0px'},900);
-			$(".")
 			$(".oppskrift .overlay, #trykkher").animate({top:'0px'},900);			
 		});
 	});
