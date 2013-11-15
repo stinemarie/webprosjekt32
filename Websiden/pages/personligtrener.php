@@ -1,7 +1,18 @@
 <div class="personligtrener">
 	<h2>Personlige trener</h2>
 
-	<p>***En liten tekst om personlige trenere her***</p>
+	<p>En personlig trener vil veilede og tilrettelegge treningen din. De jobber som oftest på et treningsenter, men mange har også valgt å starte for seg selv. De tilbyr et tett og individuell oppfølging som kan gjøre det lettere for kunden.
+	Alder og nivå er ingen hindring når det kommer til deres ekspertise. <br />
+
+	En personlig trener er der for deg, dem skal hjelpe deg med motivasjon og inspirer andre til å nå sine mål.<br />
+	Vanlige arbeidsoppgaver kan bestå av: 
+	<ul>
+		<li>Instruere og veilede</li>
+		<li>Gi råd om alt fra kosthold til trening</li>
+		<li>Sette konkrete mål og forventninger</li>
+		<li>Evaluere og gi tilbakemeldinger</li>
+	</ul>
+	</p>
 
 	<hr>
 
