@@ -4,7 +4,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<link charset="UTF-8" rel="stylesheet" title="stilark" type="text/css" href="stilarkGalleri.css">
+		<link charset="UTF-8" rel="stylesheet" title="stilark" type="text/css" href="stilarkGalleriMobil.css">
 		<title>galleri</title>
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<script charset="UTF=8" src="galleri.js"></script>

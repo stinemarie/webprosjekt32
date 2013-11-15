@@ -1,0 +1,32 @@
+.oppskrift *{
+	padding: 0;
+	margin: 0;
+}
+
+.oppskrift .fargefelt{
+	display: block;
+}
+
+.oppskrift ul li{
+	list-style: none;
+	float : left;
+	position: relative;		
+}
+
+.oppskrift .overlay{
+/*	height: 220px;
+	width: 220px;
+	background-color: rgba(240,240,240,0.5);
+	position: absolute;
+	top:0;
+	right:0;
+	display: none;*/
+}
+
+.oppskrift .tekst{
+	color: white;
+	font-size: 30px;
+	font-family: "Gill Sans", sans-serif;
+	margin: 20px;
+	overflow: hidden;
+}

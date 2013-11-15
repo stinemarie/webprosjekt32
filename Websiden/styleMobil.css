@@ -1,0 +1,33 @@
+/*ting som ikke er med i mobilløsningen under 480 gjør dette*/
+#superhemmelig{
+	display:none;
+}
+
+.easteregg{
+	display:none;
+}
+
+.kar{
+	display:none;
+}
+
+#bakgrunn{
+	display:none;
+}
+
+#frame{ /*her er det noe felles*/
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 80px;
+	margin-bottom: 40px;
+	background: #E3F1FF;
+	width: 100%;
+	max-width: 480px;
+	box-shadow: 3px 3px 10px 0px silver;
+}
+
+#logo{
+	width: 80%;
+	margin: auto;
+}
+
