@@ -18,7 +18,7 @@
 				</a>
 			</li>
 			<li>
-				<a class="lenke" href="?page=kondisjonstrening">
+				<a class="lenke" href="index.php?page=kondisjon#kondis">
 					<img src="./img/ikon/interval.jpg" alt="Kondisjonstrening">
 					<div class="overlay"> 
 						<p>les om Kondisjonstrening</p>
@@ -26,7 +26,7 @@
 				</a>
 			</li>
 			<li>
-				<a class="lenke" href="?page=langloping">
+				<a class="lenke" href="index.php?page=kondisjon#langloping">
 					<img src="./img/ikon/running.jpg" alt="Langløping">
 					<div class="overlay">
 						<p>les om Langløping</p>
@@ -34,7 +34,7 @@
 				</a>
 			</li>
 			<li>
-				<a class="lenke" href="?page=spinning">
+				<a class="lenke" href="index.php?page=kondisjon#spinning">
 					<img src="./img/ikon/spinning.jpg" alt="Spinning">
 					<div class="overlay">
 						<p>les om Spinning</p>
@@ -42,7 +42,7 @@
 				</a>
 			</li>
 			<li>
-				<a class="lenke" href="?page=styrketrening">
+				<a class="lenke" href="index.php?page=styrketrening">
 					<img src="./img/ikon/styrke.jpg" alt="Styrketrening">
 					<div class="overlay">
 						<p>les Styrketrening</p>

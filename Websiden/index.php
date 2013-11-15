@@ -158,6 +158,10 @@
 					include("./pages/oppskrifter/yoghurt.php");
 				elseif($_GET["page"] == "kalkulator")
 					include("./pages/kalkulator.php");
+				elseif($_GET["page"] == "kondisjon")
+					include("./pages/kondisjon.php");
+				elseif($_GET["page"] == "styrketrening")
+					include("./pages/styrketrening.php");
 			else
 				include("./pages/hjem.php");
 			?>

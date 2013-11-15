@@ -3,7 +3,6 @@
 		små oppnåelige mål for den korte perioden vi hadde, og så skulle vi se hvilke av disse målene som vi følte at vi klarte oppfylle etter
 		at prosjektperioden var over.</p>
 <h4>Ida</h4>
-	<img src="" alt="Ida Før prosjektet">
 	<p>Jeg følte at for meg var det ikke å oppnå å gå ned så, så mange kilo på den ene måneden som vi skulle ha dette prosjektet. For meg så 	gikk det mer ut på å få gjennomført de øktene som jeg vet skal til for at jeg skal kunne sitte igjen med en god selvfølelse. 
 		Mine mål ble derfor:</p>
 	<ul>
@@ -13,7 +12,9 @@
 	</ul>
 	<p>Nå som vi er ferdig med prosjektet, så kan jeg si at jeg har klart å følge alle mine mål, unntatt den ene uken, da jeg var syk, og kun
 	fikk gjort to av tre ønskede økter den uken.</p>
-		<img src="" alt="Ida Etter prosjektet">
+	<img class="treningsbilde"src="img/treningimg/ape1.jpg" alt="akrobat1">
+	<img class="treningsbilde"src="img/treningimg/ape2.jpg" alt="akrobat2">
+	<img class="treningsbilde"src="img/treningimg/ape3.jpg" alt="akrobat3">
 <h2>Skjema over utførelse</h2>
 
 <div class="treninghvor">
