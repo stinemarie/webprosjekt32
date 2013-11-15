@@ -144,133 +144,144 @@
 			</div>
 
 
-			<p>Gjennomsnittspris:</p>
-			<p>Binding:</p>
-			<p>Personlig trenere:</p>
-			<p>Gruppetimer:</p>
-			<p>Åpningstider:</p>
+			<p>Personlig trenere: Ja</p>
+			<p>Gruppetimer: Nei</p>
+			<p>Åpningstider: Hele døgnet</p>
 			<p>Lokaler:</p>
 			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
+				<li>Bjerke</li>
+				<li>Grünerløkka</li>
+				<li>Ila</li>
+				<li>Storo</li>
+				<li>Stortorvet</li>
 			</ul>
-
-		<h4>Fresh fitness</h4>
-			<p>Gjennomsnittspris:</p>
-			<p>Binding:</p>
-			<p>Personlig trenere:</p>
-			<p>Gruppetimer:</p>
-			<p>Åpningstider:</p>
-			<p>Lokaler:</p>
-			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
-			</ul>
-			<a href="http://www.freshfitness.no">Fresh fitness</a>
 	</div>
 
 	<div class="treningsenter">
-		<h4>Fitness xpress</h4>
-			<p>Gjennomsnittspris:</p>
-			<p>Binding:</p>
-			<p>Personlig trenere:</p>
-			<p>Gruppetimer:</p>
-			<p>Åpningstider:</p>
+		<a href="https://www.freshfitness.no" target="_blank">
+		<img border="0" src="img/freshfitnesslogo.png" alt="Fresh Fitness" width="100" height="50"></a>
+
+			<div class="treninghvor">
+			<table>
+			<thead>
+			<th>Medlemskap</th>
+			<th>Ingen bindingstid</th>
+			<th>12 måneders forhåndsbetalt</th>
+			</thead>
+			<tr class="alt">
+			<td>Alle sentere</td>
+			<td>199,-/mnd</td>
+			<td>2388,-</td>
+			</table>
+			</div>
+
+			<p>Binding: Nei</p>
+			<p>Personlig trenere: Ja</p>
+			<p>Gruppetimer: Ja</p>
+			<p>Åpningstider: 
+			<ul>
+				<li>Mandag-Fredag: 05.00-23.00</li>
+				<li>Lørdag-Søndag: 05.00-20.00</li>
+			</ul>
+			</p>
 			<p>Lokaler:</p>
 			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
+				<li>Carl Berner</li>
+				<li>Majorstuen</li>
+				<li>Ensjø</li>
+				<li>Lambertseter</li>
+				<li>Skedsmokorset</li>
+				<li>Skårer</li>
+				<li>Strømmen</li>
+				<li>Ullevåll</li>
 			</ul>
-			<a href="http://www.fitnessxpress.no">Fitness xpress</a>
-
-		<p> Når det kommer til de forskjellige treningssenterene som ligger plassert rundt om kring er det et stort sprik når det kommer til pris og tilbud. 
-		Du vil under her få en liste med forskjellige priser som er beregnet for studenter.</p>
+	
 	</div>
 
 	<div class="treningsenter">
-		<h3><a href="http://www.sio.no/trening">Athletica</a></h3>
-		<div class="treninghvor">
-		<table>
-		<thead>
-		<th>Medlemskap</th>
-		<th> Semester</th>
-		<th>Per Måned</th>
-		<th> Semester (Man-Fre frem itil kl. 13.)</th>
-		<th>Per måned</th>
-		<th>Enkelbilett/Klippekort</th>
-		</tr>
-		</thead>
-		<tr class="alt">
-		<td>Student UiO, HiOA, NVH, AHO, NMH, KhIO</td>
-		<td>850,-</td>
-		<td>155,-</td>
-		<td>723,-</td>
-		<td>132,-</td>
-		<td>120,-/990,-</td>
-		</tr>
-		<tr class="alt">
-		<td>Student BI, AMH, WH</td>
-		<td>1350,-</td>
-		<td>255,-</td>
-		<td>1148,-</td>
-		<td>209,-</td>
-		<td>120,-/990,-</td>
-		</tr>
-		<tr class="alt">
-		<td>Student andre SiO studenter (se sio.no)</td>
-		<td>1800,-</td>
-		<td>327,-</td>
-		<td>1530,-</td>
-		<td>278,-</td>
-		<td>120,-/990,-</td>
-		</tr>
-		<tr class="alt">
-		<td>Student uten betalt semesteravgift til SiO</td>
-		<td>1900,-</td>
-		<td>345,-</td>
-		<td>1615,-</td>
-		<td>293,-</td>
-		<td>120,-/990,-</td>
-		</tr>
-		<tr class="alt">
-		<td>Student Diakonhjemmet</td>
-		<td>1200,-</td>
-		<td>218,-</td>
-		<td>n/a</td>
-		<td>n/a</td>
-		<td>120,-/990,-</td>
-		</tr>
-		<tr class="alt">
-		<td>Ikke tilknyttet SIO eller student</td>
-		<td>2650,-</td>
-		<td>482,-</td>
-		<td>n/a</td>
-		<td>n/a</td>
-		<td>120,-/990,-</td>
-		</tr>
-		</table>
-		</div>
-	</div>
+		<a href="http://www.sio.no/wps/portal/sio/idrett?reset=true" target="_blank">
+		<img border="0" src="img/sio-logo.png" alt="Fresh Fitness" width="50" height="50"></a>
+			
 
-	<div class="treningsenter">
-		<h3><a href="www.fitnessxpress.no">Fitness Xpress</a></h3>
-		<div class="treninghvor">
-		<table>
-		<thead>
-		<th>Medlemskap</th>
-		<th>Ingen bindingstid</th>
-		<th>12 måneders forhåndsbetalt</th>
-		</thead>
-		<tr class="alt">
-		<td>Alle sentere</td>
-		<td>199,-/mnd</td>
-		<td>2388,-</td>
-		</table>
-		</div>
-		<p>Fresh Xpress tilbyr ingen rabatter til studenter. De har derimot et fast pris på 199,-/mnd uten binding. Dette gir deg tilgang til alle senterene de har tilgjengelig.</p>
-	</div>
+			<div class="treninghvor">
+			<table>
+			<thead>
+			<th>Medlemskap</th>
+			<th> Semester</th>
+			<th>Per Måned</th>
+			<th> Semester (Man-Fre frem itil kl. 13.)</th>
+			<th>Per måned</th>
+			<th>Enkelbilett/Klippekort</th>
+			</tr>
+			</thead>
+			<tr class="alt">
+			<td>Student UiO, HiOA, NVH, AHO, NMH, KhIO</td>
+			<td>850,-</td>
+			<td>155,-</td>
+			<td>723,-</td>
+			<td>132,-</td>
+			<td>120,-/990,-</td>
+			</tr>
+			<tr class="alt">
+			<td>Student BI, AMH, WH</td>
+			<td>1350,-</td>
+			<td>255,-</td>
+			<td>1148,-</td>
+			<td>209,-</td>
+			<td>120,-/990,-</td>
+			</tr>
+			<tr class="alt">
+			<td>Student andre SiO studenter (se sio.no)</td>
+			<td>1800,-</td>
+			<td>327,-</td>
+			<td>1530,-</td>
+			<td>278,-</td>
+			<td>120,-/990,-</td>
+			</tr>
+			<tr class="alt">
+			<td>Student uten betalt semesteravgift til SiO</td>
+			<td>1900,-</td>
+			<td>345,-</td>
+			<td>1615,-</td>
+			<td>293,-</td>
+			<td>120,-/990,-</td>
+			</tr>
+			<tr class="alt">
+			<td>Student Diakonhjemmet</td>
+			<td>1200,-</td>
+			<td>218,-</td>
+			<td>n/a</td>
+			<td>n/a</td>
+			<td>120,-/990,-</td>
+			</tr>
+			<tr class="alt">
+			<td>Ikke tilknyttet SIO eller student</td>
+			<td>2650,-</td>
+			<td>482,-</td>
+			<td>n/a</td>
+			<td>n/a</td>
+			<td>120,-/990,-</td>
+			</tr>
+			</table>
+			</div>
 
+			<p>Binding: Ja, per semester</p>
+			<p>Personlig trenere: Ja</p>
+			<p>Gruppetimer: Ja</p>
+			<p>Åpningstider: 
+			<ul>
+				<li>Mandag-Torsdag: 07.00-22.00</li>
+				<li>Fredag: 07.00-21.00</li>
+				<li>Lørdag: 11.00-18.00</li>
+				<li>Søndag: 12.00-19.00</li>
+			</ul>
+			</p>
+			<p>Lokaler:</p>
+			<ul>
+				<li>Blindern</li>
+				<li>Domus</li>
+				<li>Sentrum</li>
+				<li>Nydalen</li>
+			</ul>
+	</div>
 </div>

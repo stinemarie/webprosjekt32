@@ -39,8 +39,9 @@
 		<div class="favorittBoks">
 		<h4>Christopher sin favoritt: Asparges</h4>
 		<img src="./img/asparges.jpg" alt="bilde av asparges">
-		<p>Her kommer Christopher sin asparges-tekst</p>
-		<p class="kilde">Her kommer kildene</p>
+		<p>Min favoritt-grønnsak er asparges. Mye av grunnen er at det er en næringsrik og llett å tilberede. Asparges et en veldig allsidig grønnsak som passer til de fleste retter. Den kan også spises alene. I sommerhalvåret pleier jeg og grille dem i olivenolje, sitronsaft, salt og pepper. 
+		De kan også kokes, men pass på koketiden da dem ikke skal kokes lengere enn 2-4 min</p>
+		<p class="kilde">Kilde: <a href="http://www.bama.no" target="_blank"> bama.no</a></p>
 	</div>
 
 	
