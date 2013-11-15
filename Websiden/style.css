@@ -740,17 +740,22 @@ input{
 }
 
 /*udersider for treningsøvelser*/
-.styrke img, .styrke figure{
-	margin: -3px !important;
-	padding: 0 !important;
-	border: 0 !important;
+.styrke img, .styrke div{
+	margin-left: -3px;
+	margin-right: 0;
+	padding-left: 0;
+	border: 0;
+
 
 }
-.styrke .tobilder{
-	width: 30%;
+.styrke .tobilder img{
+	width: 50%;
+	float:left;
+
 }
-.styrke  .trebilder{
+.styrke  .trebilder img{
 	width: 33.3%;
+	float: left;
 }
 
 
