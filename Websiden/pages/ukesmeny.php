@@ -1,4 +1,4 @@
-<div class="ukesmeny" >
+<div class="ukesmeny" id="ukesmenyen">
 	<div class="oppskrifter">
 		<h2>Ukesmenyoversikt</h2>
 		<p>Her er en oversikt over hvilke rett som hører til hvilke dag:</p>
