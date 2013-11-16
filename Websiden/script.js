@@ -1,127 +1,126 @@
 
 /*script for meny*/
 $(document).ready(function() {	
-
-	$("#trening").hover(function(){
-  		$("#treningsNav").css("display","inline");
-  		$("#kostholdsNav").css("display","none");
-  		$("#ptNav").css("display","none");
-  		$("#lenkeNav").css("display","none");
-  		$("#omNav").css("display","none");
-  		$("#trening").css("background-color","#9EB728");
-  		$("#kosthold").css("background-color","#ECEDA2");
-  		$("#pt").css("background-color","#ECEDA2");
-  		$("#lenker").css("background-color","#ECEDA2");
-  		$("#om").css("background-color","#ECEDA2");
-		$("#treningslink").css("color","#ECEDA2");
-		$("#kostholdslink").css("color","#9EB728");
-		$("#ptlink").css("color","#9EB728");
-		$("#lenkerlink").css("color","#9EB728");
-		$("#idlink").css("color","#9EB728");
-
-	});
-
-	$("#kosthold").hover(function(){
-  		$("#treningsNav").css("display","none");
-  		$("#kostholdsNav").css("display","inline");
-  		$("#ptNav").css("display","none");
-  		$("#lenkeNav").css("display","none");
-  		$("#omNav").css("display","none");
-  		$("#trening").css("background-color","#ECEDA2");
-  		$("#kosthold").css("background-color","#9EB728");
-  		$("#pt").css("background-color","#ECEDA2");
-  		$("#lenker").css("background-color","#ECEDA2");
-  		$("#om").css("background-color","#ECEDA2");
-		$("#treningslink").css("color","#9EB728");
-		$("#kostholdslink").css("color","#ECEDA2");
-		$("#ptlink").css("color","#9EB728");
-		$("#lenkerlink").css("color","#9EB728");
-		$("#idlink").css("color","#9EB728");
-	});
-
-	$("#pt").hover(function(){
-  		$("#treningsNav").css("display","none");
-  		$("#kostholdsNav").css("display","none");
-  		$("#ptNav").css("display","inline");
-  		$("#lenkeNav").css("display","none");
-  		$("#omNav").css("display","none");
-  		$("#trening").css("background-color","#ECEDA2");
-  		$("#kosthold").css("background-color","#ECEDA2");
-  		$("#pt").css("background-color","#9EB728");
-  		$("#lenker").css("background-color","#ECEDA2");
-  		$("#om").css("background-color","#ECEDA2");
-		$("#treningslink").css("color","#9EB728");
-		$("#kostholdslink").css("color","#9EB728");
-		$("#ptlink").css("color","#ECEDA2");
-		$("#lenkerlink").css("color","#9EB728");
-		$("#idlink").css("color","#9EB728");
-	});
-
-	$("#lenker").hover(function(){
-  		$("#treningsNav").css("display","none");
-  		$("#kostholdsNav").css("display","none");
-  		$("#ptNav").css("display","none");
-  		$("#lenkeNav").css("display","inline");
-  		$("#omNav").css("display","none");
-  		$("#trening").css("background-color","#ECEDA2");
-  		$("#kosthold").css("background-color","#ECEDA2");
-  		$("#pt").css("background-color","#ECEDA2");
-  		$("#lenker").css("background-color","#9EB728");
-  		$("#om").css("background-color","#ECEDA2");
-		$("#treningslink").css("color","#9EB728");
-		$("#kostholdslink").css("color","#9EB728");
-		$("#ptlink").css("color","#9EB728");
-		$("#lenkerlink").css("color","#ECEDA2");
-		$("#omosslink").css("color","#9EB728");
-	});
-
-	$("#om").hover(function(){
-  		$("#treningsNav").css("display","none");
-  		$("#kostholdsNav").css("display","none");
-  		$("#ptNav").css("display","none");
-  		$("#lenkeNav").css("display","none");
-  		$("#omNav").css("display","inlink");
-  		$("#trening").css("background-color","#ECEDA2");
-  		$("#kosthold").css("background-color","#ECEDA2");
-  		$("#pt").css("background-color","#ECEDA2");
-  		$("#lenker").css("background-color","#ECEDA2");
-  		$("#om").css("background-color","#9EB728");
-		$("#treningslink").css("color","#9EB728");
-		$("#kostholdslink").css("color","#9EB728");
-		$("#ptlink").css("color","#9EB728");
-		$("#lenkerlink").css("color","#9EB728");
-		$("#omosslink").css("color","#ECEDA2");
-	});
-
-	$(".undersideNav a").mouseenter(function(){
-  		$(this).css("text-decoration","underline");
-	});
-
-	$(".undersideNav a").mouseleave(function(){
-  		$(this).css("text-decoration","none");
-	});
-
-
-
-	$("#hovednavigering").mouseleave(function(){
-		setTimeout(function() {
-			$("#trening").css("background-color","#ECEDA2");
+	if ($(window).width() >= 750){
+		$("#trening").hover(function(){
+	  		$("#treningsNav").css("display","inline");
+	  		$("#kostholdsNav").css("display","none");
+	  		$("#ptNav").css("display","none");
+	  		$("#lenkeNav").css("display","none");
+	  		$("#omNav").css("display","none");
+	  		$("#trening").css("background-color","#9EB728");
 	  		$("#kosthold").css("background-color","#ECEDA2");
 	  		$("#pt").css("background-color","#ECEDA2");
 	  		$("#lenker").css("background-color","#ECEDA2");
 	  		$("#om").css("background-color","#ECEDA2");
+			$("#treningslink").css("color","#ECEDA2");
+			$("#kostholdslink").css("color","#9EB728");
+			$("#ptlink").css("color","#9EB728");
+			$("#lenkerlink").css("color","#9EB728");
+			$("#idlink").css("color","#9EB728");
+
+		});
+
+		$("#kosthold").hover(function(){
+	  		$("#treningsNav").css("display","none");
+	  		$("#kostholdsNav").css("display","inline");
+	  		$("#ptNav").css("display","none");
+	  		$("#lenkeNav").css("display","none");
+	  		$("#omNav").css("display","none");
+	  		$("#trening").css("background-color","#ECEDA2");
+	  		$("#kosthold").css("background-color","#9EB728");
+	  		$("#pt").css("background-color","#ECEDA2");
+	  		$("#lenker").css("background-color","#ECEDA2");
+	  		$("#om").css("background-color","#ECEDA2");
+			$("#treningslink").css("color","#9EB728");
+			$("#kostholdslink").css("color","#ECEDA2");
+			$("#ptlink").css("color","#9EB728");
+			$("#lenkerlink").css("color","#9EB728");
+			$("#idlink").css("color","#9EB728");
+		});
+
+		$("#pt").hover(function(){
+	  		$("#treningsNav").css("display","none");
+	  		$("#kostholdsNav").css("display","none");
+	  		$("#ptNav").css("display","inline");
+	  		$("#lenkeNav").css("display","none");
+	  		$("#omNav").css("display","none");
+	  		$("#trening").css("background-color","#ECEDA2");
+	  		$("#kosthold").css("background-color","#ECEDA2");
+	  		$("#pt").css("background-color","#9EB728");
+	  		$("#lenker").css("background-color","#ECEDA2");
+	  		$("#om").css("background-color","#ECEDA2");
+			$("#treningslink").css("color","#9EB728");
+			$("#kostholdslink").css("color","#9EB728");
+			$("#ptlink").css("color","#ECEDA2");
+			$("#lenkerlink").css("color","#9EB728");
+			$("#idlink").css("color","#9EB728");
+		});
+
+		$("#lenker").hover(function(){
+	  		$("#treningsNav").css("display","none");
+	  		$("#kostholdsNav").css("display","none");
+	  		$("#ptNav").css("display","none");
+	  		$("#lenkeNav").css("display","inline");
+	  		$("#omNav").css("display","none");
+	  		$("#trening").css("background-color","#ECEDA2");
+	  		$("#kosthold").css("background-color","#ECEDA2");
+	  		$("#pt").css("background-color","#ECEDA2");
+	  		$("#lenker").css("background-color","#9EB728");
+	  		$("#om").css("background-color","#ECEDA2");
+			$("#treningslink").css("color","#9EB728");
+			$("#kostholdslink").css("color","#9EB728");
+			$("#ptlink").css("color","#9EB728");
+			$("#lenkerlink").css("color","#ECEDA2");
+			$("#omosslink").css("color","#9EB728");
+		});
+
+		$("#om").hover(function(){
+	  		$("#treningsNav").css("display","none");
+	  		$("#kostholdsNav").css("display","none");
+	  		$("#ptNav").css("display","none");
+	  		$("#lenkeNav").css("display","none");
+	  		$("#omNav").css("display","inlink");
+	  		$("#trening").css("background-color","#ECEDA2");
+	  		$("#kosthold").css("background-color","#ECEDA2");
+	  		$("#pt").css("background-color","#ECEDA2");
+	  		$("#lenker").css("background-color","#ECEDA2");
+	  		$("#om").css("background-color","#9EB728");
 			$("#treningslink").css("color","#9EB728");
 			$("#kostholdslink").css("color","#9EB728");
 			$("#ptlink").css("color","#9EB728");
 			$("#lenkerlink").css("color","#9EB728");
-			$("#omosslink").css("color","#9EB728");
-			$("#treningsNav").css("display","none");
-			$("#kostholdsNav").css("display","none");
-			$("#ptNav").css("display","none");
-			$("#lenkeNav").css("display","none");
-			$("#omNav").css("display","none");
-		}, 3000);
-	});
+			$("#omosslink").css("color","#ECEDA2");
+		});
+
+		$(".undersideNav a").click(function(){
+	  		$(this).css("text-decoration","underline");
+		});
+
+		$(".undersideNav a").mouseleave(function(){
+	  		$(this).css("text-decoration","none");
+		});
+
+		$("#hovednavigering").mouseleave(function(){
+			setTimeout(function() {
+				$("#trening").css("background-color","#ECEDA2");
+		  		$("#kosthold").css("background-color","#ECEDA2");
+		  		$("#pt").css("background-color","#ECEDA2");
+		  		$("#lenker").css("background-color","#ECEDA2");
+		  		$("#om").css("background-color","#ECEDA2");
+				$("#treningslink").css("color","#9EB728");
+				$("#kostholdslink").css("color","#9EB728");
+				$("#ptlink").css("color","#9EB728");
+				$("#lenkerlink").css("color","#9EB728");
+				$("#omosslink").css("color","#9EB728");
+				$("#treningsNav").css("display","none");
+				$("#kostholdsNav").css("display","none");
+				$("#ptNav").css("display","none");
+				$("#lenkeNav").css("display","none");
+				$("#omNav").css("display","none");
+			}, 3000);
+		});
+	}
 });
 
 /*Kode for bildekarusell på førstesiden*/
@@ -155,8 +154,6 @@ $(document).ready(function(){
 	 	var mmm = $(".kar div").index( $(".midten") );
 	 	var lll = $(".kar div").index( $(".left") );
 	 	var hhh = $(".kar div").index( $(".hide") );
-
-	 	// $( ".hide, .right, #left" ).click(function( event ) { event.preventDefault() });
 
 	 	$( "#tilbake" ).css("display","none").delay( 300 ).fadeIn('slow');
 	 	$( "#neste" ).css("display","none").delay( 300 ).fadeIn('slow', function(){
@@ -206,42 +203,56 @@ $(document).ready(function(){
 	});
 });
 /*Skript for bildegallerier*/
-$(document).ready(function(){
-	$('.lenke').hover(function(){
-		$(this).children('.overlay').fadeIn('slow');					
-		},function(){
+// $(window).resize(function(){
+// 	if ($(window).width() <= 800){	
+// 		// do something here
+// 	}	
+// });
+
+
+$(document).ready(function(){ 
+	if ($(window).width() >= 750){
+		$('.lenke').hover(function(){ 
+			$(this).children('.overlay').fadeIn('slow'); 
+		},function(){ 
 			$(this).children('.overlay').fadeOut('fast'); 
-		});
-	});
+		}); 
+	} 
+});
+
+/*denne funksjonen refresher siden når den får en ny str*/
+$(window).resize(function() {
+    window.location.href = window.location.href;
+});
 
 /*script for easter egg*/
-
 $(document).ready(function(){
 	$("#superhemmelig").click(function(){
 		$("#logo").delay( 200 ).animate({top:'1000px'},700);		
 		$("#hovednavigering div a").delay( 300 ).animate({top:'1000px'},900);
 		$(".kar div").animate({top:'1000px'},800);
 		$(".oppskrift .overlay, #trykkher").animate({top:'1000px'},800);
-		$("body :not(#bakgrunn)").delay(1000).fadeOut(900, function(){				
-			$(".easteregg").fadeIn('slow');
-			$(".easteregg *").fadeIn('slow');
-		});
+		$("body :not(#bakgrunn)").delay(1000).fadeOut(900, function(){		
+		
+		$(".easteregg").fadeIn('slow');
+		$(".easteregg *").fadeIn('slow');});
 	});
 });
 
 $(document).ready(function(){
 	$("#tamegtilbake").click(function(){
-		$(".easteregg").fadeOut('slow').css("display","none");
+		$("easteregg").fadeOut('slow');
 		$(".easteregg *").fadeOut('slow', function(){
-			$("body :not(.easteregg)").delay(800).fadeIn(900);
+			$("body :not(#bakgrunn)").delay(1000).fadeIn(900);
 			$("#logo").delay( 200 ).animate({top:'-75px'},700);		
-			$("#hovednavigering #trening").delay( 300 ).animate({top:'0px'},1000);
-			$("#treningsNav").delay( 200 ).animate({top:'0px'},1000);
-			$(".kar>div").animate({top:'0px'},900);
-			$(".oppskrift .overlay, #trykkher").animate({top:'0px'},900);			
+			$("#hovednavigering :not(.easteregg) div a ").delay( 300 ).animate({top:'0px'},900);
+			$(".kar div").animate({top:'0px'},800);
+			$(".oppskrift .overlay, #trykkher").animate({top:'0px'},800);			
 		});
 	});
 });
+
+/*slutt på script for easteregg*/
 
 /*Script for BMI Kalkulator*/
 function kalkulerBmi() {
