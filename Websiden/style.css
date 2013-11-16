@@ -978,8 +978,53 @@ input{
 	min-height: 50px;
 	width: 500px;
 }
-/* Personlig trener */
+/* Slutt på personlig trener */
 }
+
+/* Lenker */
+
+#lenkerid{
+	height: 1200px;
+}
+
+.lenker .lenkesamling{
+	position: static;
+	width: 350px;
+	float: left;
+	margin-bottom: 70px;
+}
+
+.lenker h4{
+	margin-left: 20px;
+	font-size: 22px;
+	margin-bottom: 10px;
+}
+
+.lenker a{
+	margin-left: 20px;
+	display: block;
+}
+
+.lenker .beskrivelse{
+	margin-left: 40px;
+	margin-bottom: 10px;
+}
+
+
+.lenker img{
+	width: 320px;
+	box-shadow: 2px 2px 5px black;
+}
+
+.lenker figure{
+	width: 320px;
+	float: right;
+	text-align: center;
+}
+
+
+/* Slutt på lenker */
+
 
 /* FOR ALLE SKJERMER */
 
