@@ -1,201 +1,23 @@
-/*REGLER FOR HELE SIDEN*/
-
-#undertittel{
-	font-size: 30px;
-}
-
+/*Css for hele siden*/
 body{
-	font-family: "Gill Sans", sans-serif;
-	font-weight: normal;
+	background: #E0E0E0;
 }
 
-h1, h2, h3, h4{
-	color: #9EB728;
-	font-weight: normal;
-	text-decoration: none;
-}
-
-.kilde{
-	font-size: 14px;
-}
-
-#logo{
-	width: 260px;
-}
-
-footer{
-	position: relative;
-	height: 40px;
-	border: 1px solid #9EB728;
-	background: #ECEDA2;
-	box-shadow: 0px 0px 10px #9EB728 inset;
-}
-
-footer img{
-	width:40px;
-}
-
-.ovelser ul{
-	list-style: none;
-}
-
-.ovelser p{
-	color: white;
-}
-
-/*ting som ikke er med i mobilløsningen under 480 gjør dette*/
-@media (max-width:750px){
-
-#taMegTilToppen{
-	position:fixed;
-	height: 50px;
-	width: 50px;
-	background-color: teal;
-	top: 0;
-	left: 0;
-}
-
-#superhemmelig, .easteregg, .kar, .ovelser #trykk{
-	display:none;
-}
-
-body, body *{
-	margin: 0px;
-	padding: 0px;
-	border: 0px;
-}
-
-/*REGLER FOR HELE SIDEN under 750px*/
-img{
-	width:100%;
-}
-
-#frame{
-	width: 100%;
-	min-width: 128px;
-	margin: auto;
-	margin-top:206px;
-	background: #E3F1FF;
-}
-
-#logo{
-	width: 100% !important;
-	max-width: 260px !important;
-	margin-top:-186px;
-	margin-left:10px;
-	padding-bottom: 30px;
-}
-
-#bakgrunn{
-	height:100%;
-	width:auto;
-	min-height;
-	position:fixed;
-	top: 0;
- 	left: 0;
-	z-index: -100;
-}
-
-footer{
-	width: 100%;
-}
-
-#minilogo{
-	padding-left: 45%;
-	padding-top:10px;
-}
-
-p{
-	margin: 30px;
-}
-
-h1{
-	margin-left:30px;
-	margin-bottom:20px;
-}
-
-h2, h3, h4{
-	margin-left: 30px;
-	margin-top: 30px;
-}
-
-
-/*REGLER FOR NAVIGERING under 750px*/
-#hovednavigering a{
-	text-decoration: none;
-	color: #83b728;
-}
-
-#hovednavigering #trening{
-	background-color: #eceda2;
-
-}
-#hovednavigering #pt{
-	background-color: #eceda2;
-}
-
-#hovednavigering #om{
-	background-color: #eceda2;	
-}
-
-/*REGLER FOR ØVELSER under 750px*/
-
-.ovelser .lenke{
-	position:relative;
-	display: block;
-	width: 100%;
-	height: 400px;
-	margin-left: 8%;
-	margin-right: 8%;
-}
-.ovelser .overlay{
-	position:absolute;
-	top: 0;
-	left: 0;
-}
-
-#treninggikon p{
-	color: #9EB728;
-}
-
-.ovelser img{
-	position:absolute;
-	top: 0;
-	left: 0;
-	max-width: 400px;
-}
-
-.ovelser a{
-	text-decoration: none;
-	font-size: 150%;
-} 
-
-.ovelser li a img{
-	max-width: 400px;
-}
-
-	@media (max-width:400px){
-	.ovelser .lenke{
-		margin-left: 0;
-		margin-right: 0;
-	}
-}
-
-}/*SLUTT FOR @media (max-width:750px)*/
-
-@media (min-width:750px){
-
-/*REGLER FOR HELE SIDEN over 170px*/
 #bakgrunn{
 	min-height: 100%;
- 	min-width: 1024px;
-	width: 100%;
+ 	min-width: 100%;
 	height: auto;
  	position: fixed;
  	top: 0;
  	left: 0;
  	z-index: -100;
 }
+
+
+.kilde{
+	font-size: 14px;
+}
+
 #superhemmelig{
 	width: 40px;
 	height: 60px;
@@ -226,57 +48,18 @@ header{
 	top: -75px;
 }
 
+
 #undertittel{
 	position: relative;
 	float: left;
 	margin: 0;
 	top: 54px;
 	left: 333px;
-}
-
-/* css for treningssider*/
-.treningssider li{
-	margin: 10px;
-}
-
-.treningssider img, .overlay, #treninggikon {
-	height: 200px;
-	width: 200px;
-}
-
-.treningssider li{
-	position:relative;
-	float:left;
-	list-style:none;	
-}
-
-.treningssider #trykkher, .treningssider #trykk {
-	position:absolute;
-}
-
-.treningssider .overlay{
-	position:absolute;
-	right:0;
-	top:0;
-	background-color:rgba(158, 183, 40,0.5);
-	display:none;
-}
-
-.treningssider p{
-	margin: 10px;
+	font-size: 30px;
+	color: #9EB728;
+	text-decoration: none;
 	font-family: "Gill Sans", sans-serif;
-	overflow: hidden;
-	font-size: 150%;
 }
-
-
-
-
-
-
-
-
-
 
 div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	position:absolute;
@@ -398,7 +181,13 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 }
 
 footer{
+	position: relative;
 	width: 794px;
+	height: 40px;
+	border: 1px solid #9EB728;
+	background: #ECEDA2;
+	box-shadow: 0px 0px 10px #9EB728 inset;
+
 }
 
 #minilogo{
@@ -529,11 +318,11 @@ h2{
 }
 
 /* css for treningssider*/
-.treningssider li{
-	margin: 10px;
+.treningssider ul{
+	margin: 40px;
 }
 
-.treningssider img, .overlay, #treninggikon {
+.treningssider img, .overlay {
 	height: 200px;
 	width: 200px;
 }
@@ -544,15 +333,11 @@ h2{
 	list-style:none;	
 }
 
-.treningssider #trykkher, .treningssider #trykk {
-	position:absolute;
-}
-
 .treningssider .overlay{
 	position:absolute;
 	right:0;
 	top:0;
-	background-color:rgba(158, 183, 40,0.5);
+	background-color:rgba(220,220,220,0.7);
 	display:none;
 }
 
@@ -561,7 +346,6 @@ h2{
 	color: white;
 	font-family: "Gill Sans", sans-serif;
 	overflow: hidden;
-	font-size: 150%;
 }
 
 /* Oppskrifter med undersider*/
@@ -600,7 +384,7 @@ h2{
 	display: block;
 }
 
-.oppskrift .overlay, .oppskrift #trykkher{
+.oppskrift .overlay, #trykkher{
 	height: 220px;
 	width: 220px;
 	background-color: rgba(158, 183, 40,0.5);
@@ -767,7 +551,6 @@ input{
 	width: 630px;
 	margin: 0 auto;
 	margin-left: 70px;
-
 }
 
 .hvorfortrene img{
@@ -806,7 +589,6 @@ input{
 	margin-bottom: -30px;
 	color: #9EB728;
 	border: 1px solid #9EB728;
-
 }
 
 .hjem #hrnede{
@@ -915,6 +697,10 @@ input{
 	box-shadow: 1px 1px 4px 0px black;
 }
 
+.ukesmeny{
+	height: 2800px;
+}
+
 /* Slutt på ukesmeny */
 
 
@@ -956,15 +742,24 @@ input{
 	min-height: 50px;
 	width: 500px;
 }
-/* Personlig trener */
+
+/*udersider for treningsøvelser*/
+.styrke img, .styrke div{
+	margin-left: -3px;
+	margin-right: 0;
+	padding-left: 0;
+	border: 0;
+
+
 }
+.styrke .tobilder img{
+	width: 50%;
+	float:left;
 
-/* FOR ALLE SKJERMER */
-
-
-
-
-
-
+}
+.styrke  .trebilder img{
+	width: 33.3%;
+	float: left;
+}
 
 
