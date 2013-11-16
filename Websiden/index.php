@@ -84,6 +84,7 @@
 					<a id="omosslink" href="index.php?page=omoss">Om oss</a>
 				</div>
 			</nav>
+		</div>
 
 			<div id="content">
 					
