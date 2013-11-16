@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title></title>
-		<link rel="stylesheet" type="text/css" href="styleMobil.css">
+		<link rel="stylesheet" type="text/css" href="style.css">
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<script type="text/javascript" src="script.js"></script>
 	</head>
@@ -83,8 +83,8 @@
 				<div id="om">
 					<a id="omosslink" href="index.php?page=omoss">Om oss</a>
 				</div>
+
 			</nav>
-		</div>
 
 			<div id="content">
 					
@@ -175,7 +175,7 @@
 
 			<footer>
 
-				<img id="minilogo" src="img/logogul.png" width="40px" alt="Websidens logo">
+				<img id="minilogo" src="img/logogul.png"  alt="Websidens logo">
 
 			</footer>
 
@@ -187,7 +187,10 @@
 				<iframe width="560" height="330" src="//www.youtube.com/embed/eCRsxWCzWpY" frameborder="0" allowfullscreen></iframe>
 			</div>
 			<p id="tamegtilbake"> ta meg tilbake! </p>
-		</div>
+
+		
+	
+
 
 	</body>
 </html>
