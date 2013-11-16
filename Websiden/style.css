@@ -813,9 +813,11 @@ input{
 /* Hjem */
 
 .hjem #hjemtekst{
-	width: 550px;
-	margin-left: 115px;
-	font-size: 20px;
+	width: 407px;
+	margin-left: 178px;
+	font-size: 24px;
+	text-align: center;
+	color: #9EB728;
 }
 
 .hjem hr{

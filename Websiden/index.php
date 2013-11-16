@@ -21,7 +21,7 @@
 				<a href="index.php?page=hjem">
 				<img id="logo" src="img/logogul.png" alt="Websidens logo">
 				</a>
-				<h1 id="undertittel">-Treningsips for studenter</h1>
+				<h1 id="undertittel">-Treningstips for studenter</h1>
 			</header>
 
 			<nav id="hovednavigering">
