@@ -174,9 +174,9 @@
 			</div>
 
 			<footer>
-
+				<div id="copyright">&copy 2013</div>
 				<img id="minilogo" src="img/logogul.png"  alt="Websidens logo">
-
+				<div id="contentOwners">TTFS</div>
 			</footer>
 
 		</div>

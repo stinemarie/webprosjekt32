@@ -401,12 +401,30 @@ footer{
 	width: 794px;
 }
 
+#copyright{
+	display: block;
+	position: relative;
+	top: 14px;
+	left: 16px;
+	color: #9EB728;
+	font-size: 12px;
+}
+
 #minilogo{
 	display: block;
 	position: relative;
-	top: 11px;
+	top: -3px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#contentOwners{
+	display: block;
+	position: absolute;
+	top: 14px;
+	left: 752px;
+	color: #9EB728;
+	font-size: 12px;
 }
 
 .marginSide{
