@@ -3,20 +3,25 @@
 	<head>
 		<meta charset="utf-8">
 		<title></title>
-		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="stylesheet" type="text/css" href="styleMobil.css">
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<script type="text/javascript" src="script.js"></script>
 	</head>
 	<body>
+		</div> <!-- denne diven er kun synlig under 750px skjerm -->
+		<a href="#frame">
+			<div id="taMegTilToppen">
+			</div>
+		</a>
 		<img id="bakgrunn" src="img/bakgrunn.jpg" alt="bakgrunnsbilde">
 		<img id="superhemmelig" src="img/superhemmeligkapp.png" alt="knapp for å komme inn på en skjult video">
 
 		<div id="frame">
 			<header>
 				<a href="index.php?page=hjem">
-				<img id="logo" src="img/logogul.png" width="260px" alt="Websidens logo">
+				<img id="logo" src="img/logogul.png" alt="Websidens logo">
 				</a>
-				<h2 id="undertittel">-Treningstips for studenter</h2>
+				<h1 id="undertittel">-Treningsips for studenter</h1>
 			</header>
 
 			<nav id="hovednavigering">
@@ -78,7 +83,6 @@
 				<div id="om">
 					<a id="omosslink" href="index.php?page=omoss">Om oss</a>
 				</div>
-
 			</nav>
 
 			<div id="content">
