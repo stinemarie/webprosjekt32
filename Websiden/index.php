@@ -8,6 +8,11 @@
 		<script type="text/javascript" src="script.js"></script>
 	</head>
 	<body>
+		</div> <!-- denne diven er kun synlig under 750px skjerm -->
+		<a href="#frame">
+			<div id="taMegTilToppen">
+			</div>
+		</a>
 		<img id="bakgrunn" src="img/bakgrunn.jpg" alt="bakgrunnsbilde">
 		<img id="superhemmelig" src="img/superhemmeligkapp.png" alt="knapp for å komme inn på en skjult video">
 
@@ -16,7 +21,7 @@
 				<a href="index.php?page=hjem">
 				<img id="logo" src="img/logogul.png" alt="Websidens logo">
 				</a>
-				<h2 id="undertittel">-Treningstips for studenter</h2>
+				<h1 id="undertittel">-Treningsips for studenter</h1>
 			</header>
 
 			<nav id="hovednavigering">
@@ -178,7 +183,10 @@
 				<iframe width="560" height="330" src="//www.youtube.com/embed/eCRsxWCzWpY" frameborder="0" allowfullscreen></iframe>
 			</div>
 			<p id="tamegtilbake"> ta meg tilbake! </p>
-		</div>
+
+		
+	
+
 
 	</body>
 </html>
