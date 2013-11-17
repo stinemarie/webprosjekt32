@@ -40,6 +40,7 @@
 				<li>Ullevål</li>
 			</ul>
 			<p>Elixia tilbyr også mange andre sentre i nærhet av Oslo, men vi valgte liste opp disse, da de er de mest sentrale.</p>
+			Kilde: <a href="https://www.elixia.no" target="_blank">Elixia.no </a>
 	</div>
 
 
@@ -101,6 +102,7 @@
 				<li>Vulkan</li>
 			</ul>
 			<p>SATS tilbyr også mange andre sentre i nærhet av Oslo, men vi valgte liste opp disse, da de er de mest sentrale.</p>
+			Kilde: <a href="https://www.sats.no" target="_blank">Sats.no </a>
 	</div>		
 
 	<div class="treningsenter">
@@ -121,18 +123,28 @@
 			</table>
 			</div>
 
-
-			<p>Gjennomsnittspris:</p>
-			<p>Binding:</p>
-			<p>Personlig trenere:</p>
-			<p>Gruppetimer:</p>
-			<p>Åpningstider:</p>
+			<p>Binding: Nei</p>
+			<p>Personlig trenere: Ja</p>
+			<p>Gruppetimer:Nei</p>
+			<p>Åpningstider: Alle dager: 05.00-24.00</p>
 			<p>Lokaler:</p>
 			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
+				<li>Røa</li>
+				<li>Majorstuen</li>
+				<li>Grünerløkka</li>
+				<li>Nydalen</li>
+				<li>Stabekk</li>
+				<li>Lillestrøm</li>
+				<li>Østerås</li>
+				<li>Nordstrand</li>
+				<li>Sjølyst</li>
+				<li>Vika</li>
+				<li>Oscarsgate</li>
+				<li>Drøbak</li>
 			</ul>
+
+			Kilde: <a href="https://www.evofitness.no" target="_blank">Evofitness.no</a>
+
 	</div>
 
 	<div class="treningsenter">
@@ -169,6 +181,9 @@
 				<li>Storo</li>
 				<li>Stortorvet</li>
 			</ul>
+
+			Kilde: <a href="https://www.fitness24seven.com/no/start" target="_blank">Fitness24seven </a>
+
 	</div>
 
 	<div class="treningsenter">
@@ -209,6 +224,9 @@
 				<li>Strømmen</li>
 				<li>Ullevåll</li>
 			</ul>
+
+			Kilde: <a href="https://www.freshfitness.no" target="_blank">freshfitness.no </a>
+
 	
 	</div>
 
@@ -297,5 +315,8 @@
 				<li>Sentrum</li>
 				<li>Nydalen</li>
 			</ul>
+
+			Kilde: <a href="http://www.sio.no/wps/portal/sio/idrett?reset=true" target="_blank">Sio.no </a>
+
 	</div>
 </div>
