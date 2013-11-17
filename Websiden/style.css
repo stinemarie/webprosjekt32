@@ -1023,9 +1023,27 @@ input{
 	float: right;
 	text-align: center;
 }
-
-
 /* Slutt på lenker */
+
+/* Treningsprosjekt */
+
+.treningsprosjekt .trebilder{
+	margin-left: 27px;
+}
+
+.treningsprosjekt .treningsbilde{
+	width: 220px;
+	margin: 5px;
+	box-shadow: 2px 2px 5px black;
+}
+
+.treningsprosjekt h4{
+	margin-left: 20px;
+	font-size: 22px;
+	margin-bottom: 0px;
+}
+
+/* Slutt på treningsprosjekt */
 
 
 /* FOR ALLE SKJERMER */
