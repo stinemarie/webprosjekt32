@@ -677,6 +677,20 @@ h2{
 	clear: both;
 }
 
+.oppsk h4{
+	margin-left: 20px;
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+.oppsk a{
+	margin-left: 20px;
+}
+
+.oppsk .kilde a{
+	margin-left: 0px;
+}
+
 /* Om oss */
 
 #omosstekst{
@@ -1187,6 +1201,20 @@ input{
 }
 
 /* Slutt på kondisjon*/
+
+/* Ernæring */
+
+	#erneringbilder{
+		margin-left: 100px;
+	}
+
+	#erneringbilder img{
+		height: 400px;
+		box-shadow: 2px 2px 5px black;
+		margin: 10px;
+	}
+
+/* Slutt på ernæring */
 
 
 /* FOR ALLE SKJERMER */
