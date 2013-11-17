@@ -6,9 +6,24 @@
 			har.</p>
 
 	<div class="treningsenter">
-		<h4>Elixia</h4>
-			Gjennomsnitspris:
-			<p>Binding: Tilbyr både med og uten binding. Tillegg om man velger uten binding.</p>
+		<a href="https://www.elixia.no" target="_blank">
+		<img border="0" src="img/elixialogo.png" alt="Sats" width="100" height="50"></a>
+			<div class="treninghvor">
+			<table>
+			<thead>
+			<th>Medlemskap</th>
+			<th>Oslo m/binding</th>
+			<th>12 måneders forhåndsbetalt Oslo</th>
+			</thead>
+			<tr class="alt">
+			<td>Alle sentere</td>
+			<td>519,-/mnd</td>
+			<td>6228,-</td>
+			</table>
+			</div>
+
+
+
 			<p>Personlig trenere: Ja, i fire forskjellige nivåer</p>
 			<p>Gruppetimer: Ja, stort tilbud</p>
 			<p>Åpningstider:</p>
@@ -25,7 +40,6 @@
 				<li>Ullevål</li>
 			</ul>
 			<p>Elixia tilbyr også mange andre sentre i nærhet av Oslo, men vi valgte liste opp disse, da de er de mest sentrale.</p>
-			<a href="http://www.elixia.no">Elixia</a>
 	</div>
 
 
