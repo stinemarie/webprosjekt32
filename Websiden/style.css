@@ -598,7 +598,28 @@ h2{
 }
 
 .oppsk .smoothie{
-	height: 4200px;
+	height: 5500px;
+}
+
+.oppsk .smoothie hr{
+	width: 550px;
+	margin: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #9EB728;
+}
+
+.oppsk .smoothie h4{
+	margin-left: 20px;
+	font-size: 22px;
+}
+
+.oppsk .smoothie a{
+	margin-left: 20px;
+}
+
+.oppsk .smoothie .kilde a{
+	margin-left: 0px;
 }
 
 .oppsk ul{
