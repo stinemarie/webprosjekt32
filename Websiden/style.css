@@ -782,21 +782,20 @@ input{
 
 .hvorfortrene{
 	height: 650px;
-	width: 630px;
 	margin: 0 auto;
-	margin-left: 70px;
+	margin-left: 20px;
 
 }
 
 .hvorfortrene img{
-	width: 250px;
+	width: 220px;
 	box-shadow: 2px 2px 5px black;
 }
 
 .hvorfortrene figure{
 	float: left;
-	width: 250px;
-	margin-left: 30px;
+	width: 220px;
+	margin-left: 50px;
 }
 
 .hvorfortrene figcaption{
@@ -804,7 +803,7 @@ input{
 }
 
 .hvorfortrene aside{
-	width: 290px;
+	width: 370px;
 	float: left;
 }
 
