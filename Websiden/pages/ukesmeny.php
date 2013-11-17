@@ -38,6 +38,7 @@
 			</div>
 			</nav>
 		<br>
+		<hr>
 		<h4>TIRSDAG</h4>
 		<p>Frokost:		Smoothie - Lyserød Drøm</p>
 		<p>Lunch:		Polarbrød med pålegg</p>
@@ -73,6 +74,7 @@
 			</div>
 		</nav>
 		<br>
+		<hr>
 		<h4>ONSDAG</h4>
 		<p>Frokost:		Smoothie - Salatsmoothie</p>
 		<p>Lunch:		Yoghurt med hjemmelaget granola</p>
@@ -108,6 +110,7 @@
 			</div>
 		</nav>
 
+		<hr>
 
 		<h4>TORSDAG</h4>
 		<p>Frokost:		Smoothie - Ajopachi</p>
@@ -144,6 +147,8 @@
 			</div>
 		</nav>
 
+		<hr>
+
 		<h4>FREDAG</h4>
 		<p>Frokost:		Smoothie - Skippern</p>
 		<p>Lunch:		Nistepakke</p>
@@ -179,6 +184,8 @@
 			</div>
 		</nav>
 
+		<hr>
+		
 		<h4>LØRDAG</h4>
 		<p>Frokost:		Smoothie - Dark Blue Heaven</p>
 		<p>Lunch:		Sommersalat med jordbær, eple og spekeskinke</p>
@@ -213,6 +220,8 @@
 				</ul>
 			</div>
 		</nav>
+
+		<hr>
 
 		<h4>SØNDAG</h4>
 		<p>Frokost:		Potetomelett med brokkoli og salami</p>

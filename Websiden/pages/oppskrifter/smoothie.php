@@ -19,6 +19,8 @@
 
 	 	<a href="index.php?page=oppskrifter">tilbake</a>
 
+	 	<hr>
+
 		<h4 id="ajopachismoothie">Ajopachi</h4>
 		<ul>
 			<li>1 Rød Paprika</li>
@@ -40,6 +42,8 @@
 
 		<a href="index.php?page=oppskrifter">tilbake</a>
 
+		<hr>
+
 		<h4 id="lyseroddrom">Lyserød Drøm</h4>
 		<ul>
 			<li>1 Gulrot</li>
@@ -55,7 +59,7 @@
 			så kjører man blandingen til man får en glatt konsistens.</p>
 
 			<figure>
-			<img src="img/lyserøddrøm.jpg" width="500px" alt="lyserød drøm">
+				<img class="matbilde" src="img/lyserøddrøm.jpg" width="500px" alt="lyserød drøm">
 				<figcaption class="kilde">kilde: Vektklubben foto:</figcaption>
 			</figure> 
 
@@ -63,6 +67,7 @@
 
 		 	<a href="index.php?page=oppskrifter">tilbake</a>
 
+		<hr>
 
 		<h4 id="smartsmoothie">Smart Smoothie (1porsjon)</h4>
 		<ul>
@@ -82,6 +87,8 @@
 		</p>
 
 		<a href="index.php?page=oppskrifter">tilbake</a>
+
+		<hr>
 
 		<h4 id="salatsmoothie">Salatsmoothie</h4>
 		<ul>
@@ -105,6 +112,8 @@
 
 		<a href="index.php?page=oppskrifter">tilbake</a>
 
+		<hr>
+
 		<h4 id="solsmoothie">Solskinn</h4>
 		<ul>
 			<li>1/2 Gul paprika</li>
@@ -125,6 +134,8 @@
 
 		<a href="index.php?page=oppskrifter">tilbake</a>
 
+		<hr>
+
 		<h4 id="bluesmoothie">Dark blue heaven</h4>
 		<ul>
 			<li>100 g Slangeagurk</li>
@@ -143,6 +154,8 @@
 		<p class="kilde">Kilde: <a href="www.vektklubben.no" target="_blank">Vektklubben</a></p>
 
 		<a href="index.php?page=oppskrifter">tilbake</a>
+
+		<hr>
 
 		<h4 id="skippernsmoothie">Skippern</h4>
 		<ul>

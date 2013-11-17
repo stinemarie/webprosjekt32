@@ -260,6 +260,7 @@ function kalkulerBmi() {
 	var høyde = document.bmiKalk.høyde.value
 	if(vekt > 0 && høyde > 0){	
 	var endeligBmi = vekt/(høyde/100*høyde/100)
+	endeligBmi = endeligBmi.toFixed(2)
 	document.bmiKalk.visBmi.value = endeligBmi
 	if(endeligBmi < 18.5){
 	document.bmiKalk.betydning.value = "Du er klassifisert som undervektig."

@@ -8,4 +8,9 @@
 		er noe som de fleste studenter sikkert lurer på med kosthold generelt, og i sammenheng med trening. Hun har da gitt oss gode svar, som
 		vi deler med dere, som vi håper dere kan få nytte av.</p>
 	<p>Til slutt så har vi skrevet om hver <a href="index.php?page=favoritter">vår favoritt</a> grønnsak/frukt.</p>
+
+	<figure>
+		<img src="img/laksesalat.jpg" alt="Laksesalat">
+		<figcaption>Deilig laksesalat!</figcaption>
+	</figure>
 </div>

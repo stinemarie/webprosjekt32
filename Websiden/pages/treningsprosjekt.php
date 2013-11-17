@@ -14,7 +14,7 @@
 	</ul>
 
 	<div class="styrke">
-	<div class="trebilder">
+	<div id="apebilder">
 		<img class="treningsbilde" src="img/treningimg/ape1.jpg" alt="akrobat1">
 		<img class="treningsbilde" src="img/treningimg/ape2.jpg" alt="akrobat2">
 		<img class="treningsbilde" src="img/treningimg/ape3.jpg" alt="akrobat3">

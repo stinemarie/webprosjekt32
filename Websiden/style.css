@@ -598,7 +598,28 @@ h2{
 }
 
 .oppsk .smoothie{
-	height: 4200px;
+	height: 5500px;
+}
+
+.oppsk .smoothie hr{
+	width: 550px;
+	margin: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #9EB728;
+}
+
+.oppsk .smoothie h4{
+	margin-left: 20px;
+	font-size: 22px;
+}
+
+.oppsk .smoothie a{
+	margin-left: 20px;
+}
+
+.oppsk .smoothie .kilde a{
+	margin-left: 0px;
 }
 
 .oppsk ul{
@@ -654,6 +675,20 @@ h2{
 	border: solid thin black;
 	background-color: #eceda2;
 	clear: both;
+}
+
+.oppsk h4{
+	margin-left: 20px;
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+.oppsk a{
+	margin-left: 20px;
+}
+
+.oppsk .kilde a{
+	margin-left: 0px;
 }
 
 /* Om oss */
@@ -757,7 +792,15 @@ input{
 
 #betydning{
 	width: 210px;
+	background-color: #ECEDA2;
+	border:none;
+	box-shadow: none;
 
+}
+#visBmi{
+	background-color: #ECEDA2;
+	border: none;
+	box-shadow: none;
 }
 
 #reset{
@@ -768,6 +811,7 @@ input{
 	background:#9EB728;
 	color:#fff;
 }
+
 
 #button{
 	width: 100px;
@@ -782,21 +826,20 @@ input{
 
 .hvorfortrene{
 	height: 650px;
-	width: 630px;
 	margin: 0 auto;
-	margin-left: 70px;
+	margin-left: 20px;
 
 }
 
 .hvorfortrene img{
-	width: 250px;
+	width: 220px;
 	box-shadow: 2px 2px 5px black;
 }
 
 .hvorfortrene figure{
 	float: left;
-	width: 250px;
-	margin-left: 30px;
+	width: 220px;
+	margin-left: 50px;
 }
 
 .hvorfortrene figcaption{
@@ -804,7 +847,7 @@ input{
 }
 
 .hvorfortrene aside{
-	width: 290px;
+	width: 370px;
 	float: left;
 }
 
@@ -929,14 +972,30 @@ input{
 /* Ukesmeny */
 
 #ukesmenyen{
-	height: 2800px;
+	height: 3350px;
 }
 
 .ukesmeny .dag{
-	border: 3px solid #9EB728;
-	margin: 20px;
 	padding: 20px;
 	box-shadow: 1px 1px 4px 0px black;
+}
+
+.ukesmeny hr{
+	clear: left;
+	width: 500px;
+	border: 1px solid #9EB728;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.ukesmeny .oppskrift{
+	height: 231px;
+}
+
+.ukesmeny h4{
+	margin-left: 20px;
+	font-size: 22px;
+	text-decoration: underline;
 }
 
 /* Slutt på ukesmeny */
@@ -1027,8 +1086,8 @@ input{
 
 /* Treningsprosjekt */
 
-.treningsprosjekt .trebilder{
-	margin-left: 27px;
+.treningsprosjekt #apebilder{
+	margin-left: 25px;
 }
 
 .treningsprosjekt .treningsbilde{
@@ -1044,6 +1103,118 @@ input{
 }
 
 /* Slutt på treningsprosjekt */
+
+/* Kosthold */
+
+#kost figure{
+	margin-left: 117px;
+	width: 500px;
+	text-align: center;
+	margin-top: 30px;
+}
+
+#kost img{
+	width: 500px;
+	box-shadow: 2px 2px 5px black;
+}
+
+/* Slutt på kosthold */
+
+
+/* Styrketrening */
+
+.styrke img{
+	box-shadow: 2px 2px 5px black;
+}
+
+.styrke h4{
+	margin-left: 20px;
+	font-size: 22px;
+	text-decoration: underline;
+}
+
+.styrke #squatbilder img{
+	margin: 10px;
+}
+
+.styrke #squatbilder{
+	margin-left: 30px;
+	margin-bottom: 20px;
+}
+
+.styrke #utfallbilder img{
+	margin: 10px;
+}
+
+.styrke #utfallbilder{
+	margin-left: 90px;
+	margin-bottom: 20px;
+}
+
+.styrke #pushupbilder img{
+	margin: 5px;
+	width: 350px;
+}
+
+.styrke #pushupbilder{
+	margin-left: 15px;
+	margin-bottom: 20px;
+}
+
+.styrke #plankebilder img{
+	margin: 5px;
+	width: 350px;
+}
+
+.styrke #plankebilder{
+	margin-left: 15px;
+	margin-bottom: 20px;
+}
+
+.styrke .tobilder img{
+	width: 45%;
+	margin: 5px;
+}
+
+.styrke .tobilder{
+	margin-left: 40px;
+	margin-bottom: 20px;
+}
+
+.styrke .trebilder img{
+	width: 30%;
+	margin: 5px;
+}
+
+.styrke .trebilder{
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+/* Slutt på styrketrening */
+
+/* Kondisjon */
+
+#kondisjon h4{
+	margin-left: 20px;
+	font-size: 20px;
+	margin-bottom: 0px;
+}
+
+/* Slutt på kondisjon*/
+
+/* Ernæring */
+
+	#erneringbilder{
+		margin-left: 100px;
+	}
+
+	#erneringbilder img{
+		height: 400px;
+		box-shadow: 2px 2px 5px black;
+		margin: 10px;
+	}
+
+/* Slutt på ernæring */
 
 
 /* FOR ALLE SKJERMER */
