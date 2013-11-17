@@ -1173,12 +1173,20 @@ input{
 }
 
 .styrke .trebilder{
-	margin-left: 28px;
+	margin: 0 auto;
 	margin-bottom: 20px;
 }
-
-
 /* Slutt på styrketrening */
+
+/* Kondisjon */
+
+#kondisjon h4{
+	margin-left: 20px;
+	font-size: 20px;
+	margin-bottom: 0px;
+}
+
+/* Slutt på kondisjon*/
 
 
 /* FOR ALLE SKJERMER */
