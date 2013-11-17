@@ -26,7 +26,9 @@
 		fikk gjort to av tre ønskede økter den uken.</p>
 
 	<h2>Skjema over utførelse</h2>
-
+	<p>Her er et skjema for prosjektperioden, til hvilke dato Ida har trent, og hvilke øvelser som da ble utført med informasjon om
+		vekt, repetisjoner og serier.</p>
+		
 	<div class="treninghvor">
 		<table>
 			<thead>
