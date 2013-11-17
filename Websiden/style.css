@@ -757,7 +757,15 @@ input{
 
 #betydning{
 	width: 210px;
+	background-color: #ECEDA2;
+	border:none;
+	box-shadow: none;
 
+}
+#visBmi{
+	background-color: #ECEDA2;
+	border: none;
+	box-shadow: none;
 }
 
 #reset{
@@ -768,6 +776,7 @@ input{
 	background:#9EB728;
 	color:#fff;
 }
+
 
 #button{
 	width: 100px;

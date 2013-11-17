@@ -9,8 +9,8 @@ BMI er et veldig grovt mål som ikke tar hensyn til faktorer som alder, kjønn e
 	Din vekt i kilogram: <input id="vekt" type="text" name="vekt" size="10">
 	Din høyde i centimeter: <input id="hoyde" type="text" name="høyde" size="10">
 	<input type="button" id="button" value="Kalkuler BMI" onClick="kalkulerBmi()"><br /><br /><br />
-	Din BMI: <input id="visBMI" type="text" name="visBmi" size="10">
-	Dette betyr: <input id="betydning" type="text" name="betydning" size="35">
+	Din BMI: <input id="visBmi" type="text" name="visBmi" size="10" readonly>
+	Dette betyr: <input id="betydning" type="text" name="betydning" size="35" readonly>
 	<input id="reset" type="reset" value="Tilbakestill" />
 </form>
 </div>
