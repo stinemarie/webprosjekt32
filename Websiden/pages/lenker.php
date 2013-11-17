@@ -30,7 +30,7 @@
 	</div>
 	<figure>
 		<img src="./img/fruktno.jpg" alt="Skjermbilde fra nettsiden">
-		<figcaption>Skjermbilde fra frukt.no</figcaption>
+		<figcaption>Frukt.no</figcaption>
 	</figure>
 
 	<h4>Informasjon</h4>
