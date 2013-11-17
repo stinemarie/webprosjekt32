@@ -1072,8 +1072,8 @@ input{
 
 /* Treningsprosjekt */
 
-.treningsprosjekt .trebilder{
-	margin-left: 27px;
+.treningsprosjekt #apebilder{
+	margin-left: 25px;
 }
 
 .treningsprosjekt .treningsbilde{
