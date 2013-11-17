@@ -3,7 +3,7 @@
 
 	<h4>Squats med vekter</h4>
 
-	<div class="trebilder">
+	<div id="squatbilder">
 		<img class="treningsbilde" src="img/treningimg/squats1.jpg" alt="squats1">
 		<img class="treningsbilde" src="img/treningimg/squats2.jpg" alt="squats2">
 		<img class="treningsbilde" src="img/treningimg/squats3.jpg" alt="squats3">
@@ -30,7 +30,7 @@
 		viktig med nok vekt, da det skal være slitsomt på hver repetisjon.</p>
 
 	<h4>Utfall</h4>
-	<div class="tobilder">
+	<div id="utfallbilder">
 		<img class="treningsbilde" src="img/treningimg/utfall1.jpg" alt="utfall1">
 		<img class="treningsbilde" src="img/treningimg/utfall2.jpg" alt="utfall2">
 	</div>
@@ -59,7 +59,7 @@
 	å skyve kroppen opp igjen til startposisjonen.</p>
 
 	<h4>Push ups</h4>
-	<div class="tobilder">
+	<div id="pushupbilder">
 		<img class="treningsbilde"src="img/treningimg/pushup1.jpg" alt="pushup1">
 		<img class="treningsbilde"src="img/treningimg/pushup2.jpg" alt="pushup2">
 	</div>
@@ -86,7 +86,7 @@
 		Dette gjør man da 12 ganger, med 3 repetisjoner.</p>
 
 	<h4>Planke med ball</h4>
-	<div class="tobilder">
+	<div id="plankebilder">
 		<img class="treningsbilde"src="img/treningimg/plankeball1.jpg" alt="plankeball1">
 		<img class="treningsbilde"src="img/treningimg/plankeball2.jpg" alt="plankeball2">
 	</div>

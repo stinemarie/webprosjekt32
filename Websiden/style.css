@@ -1107,6 +1107,80 @@ input{
 /* Slutt på kosthold */
 
 
+/* Styrketrening */
+
+.styrke img{
+	box-shadow: 2px 2px 5px black;
+}
+
+.styrke h4{
+	margin-left: 20px;
+	font-size: 22px;
+	text-decoration: underline;
+}
+
+.styrke #squatbilder img{
+	margin: 10px;
+}
+
+.styrke #squatbilder{
+	margin-left: 30px;
+	margin-bottom: 20px;
+}
+
+.styrke #utfallbilder img{
+	margin: 10px;
+}
+
+.styrke #utfallbilder{
+	margin-left: 90px;
+	margin-bottom: 20px;
+}
+
+.styrke #pushupbilder img{
+	margin: 5px;
+	width: 350px;
+}
+
+.styrke #pushupbilder{
+	margin-left: 15px;
+	margin-bottom: 20px;
+}
+
+.styrke #plankebilder img{
+	margin: 5px;
+	width: 350px;
+}
+
+.styrke #plankebilder{
+	margin-left: 15px;
+	margin-bottom: 20px;
+}
+
+.styrke .tobilder img{
+	width: 45%;
+	margin: 5px;
+}
+
+.styrke .tobilder{
+	margin-left: 40px;
+	margin-bottom: 20px;
+}
+
+.styrke .trebilder img{
+	width: 30%;
+	margin: 5px;
+}
+
+.styrke .trebilder{
+	margin-left: 28px;
+	margin-bottom: 20px;
+}
+
+
+/* Slutt på styrketrening */
+
+
 /* FOR ALLE SKJERMER */
 
 
