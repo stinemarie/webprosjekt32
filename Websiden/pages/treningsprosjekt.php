@@ -4,7 +4,13 @@
 	<p>Vi har under prosjektperioden gått inn for å ha et Før og Etter prosjekt, som Ida har utført. Her satte hun seg noen
 		små oppnåelige mål for den korte perioden vi hadde, og så skulle vi se hvilke av disse målene som hun følte at hun klarte oppfylle etter
 		at prosjektperioden var over.</p>
-	<h4>Ida:</h4>
+	<div class="styrke">
+		<div id="apebilder">
+			<img class="treningsbilde" src="img/treningimg/ape1.jpg" alt="akrobat1">
+			<img class="treningsbilde" src="img/treningimg/ape2.jpg" alt="akrobat2">
+			<img class="treningsbilde" src="img/treningimg/ape3.jpg" alt="akrobat3">
+		</div>
+	</div>
 	<p>Jeg følte at for meg var det ikke å oppnå å gå ned så, så mange kilo på den ene måneden som vi skulle ha dette prosjektet. For meg så 	gikk det mer ut på å få gjennomført de øktene som jeg vet skal til for at jeg skal kunne sitte igjen med en god selvfølelse. 
 		Mine mål ble derfor:</p>
 	<ul>
@@ -12,16 +18,6 @@
 		<li>I disse øktene skulle jeg ha minimum 2 intervaller og 2 styrkeøkter fordelt</li>
 		<li>Unngå kollektiv transport</li>
 	</ul>
-
-	<div class="styrke">
-	<div id="apebilder">
-		<img class="treningsbilde" src="img/treningimg/ape1.jpg" alt="akrobat1">
-		<img class="treningsbilde" src="img/treningimg/ape2.jpg" alt="akrobat2">
-		<img class="treningsbilde" src="img/treningimg/ape3.jpg" alt="akrobat3">
-	</div>
-	</div>
-
-	<br>
 	<p>Nå som vi er ferdig med prosjektet, så kan jeg si at jeg har klart å følge alle mine mål, unntatt den ene uken, da jeg var syk, og kun
 		fikk gjort to av tre ønskede økter den uken.</p>
 
@@ -232,6 +228,90 @@
 				<td>Liggende beinhev</td>
 				<td>X</td>
 				<td>10</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>14.11.13</td>
+				<td>Intervall 45x15</td>
+				<td>X</td>
+				<td>X</td>
+				<td>30 min</td>
+			</tr>
+			<tr class="alt">
+				<td>14.11.13</td>
+				<td>TRX mage</td>
+				<td>X</td>
+				<td>12</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>14.11.13</td>
+				<td>Sideløft mage</td>
+				<td>10 kg</td>
+				<td>10</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>14.11.13</td>
+				<td>Planke medisin ball</td>
+				<td>X</td>
+				<td>12</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>17.11.13</td>
+				<td>Markløft</td>
+				<td>45 kg</td>
+				<td>10</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>17.11.13</td>
+				<td>Knebøy</td>
+				<td>45 kg</td>
+				<td>10</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>17.11.13</td>
+				<td>Utfall, gående</td>
+				<td>10 kg (hver arm)</td>
+				<td>20</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>17.11.13</td>
+				<td>Roing, kabelmaskin</td>
+				<td>30 kg</td>
+				<td>12</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>17.11.13</td>
+				<td>Planke medisin ball</td>
+				<td>X</td>
+				<td>15</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>17.11.13</td>
+				<td>Push ups</td>
+				<td>X</td>
+				<td>10</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>17.11.13</td>
+				<td>Dips med step</td>
+				<td>5 kg</td>
+				<td>12</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>17.11.13</td>
+				<td>Sving med ball (side mage)</td>
+				<td>10 kg</td>
+				<td>30</td>
 				<td>3</td>
 			</tr>
 		</table>
