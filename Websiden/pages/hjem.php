@@ -30,7 +30,7 @@
 						<p>les intervju med personlige trenere</p>
 						<a href="index.php?page=intervju">
 							<img class="hvitspiss" src="./img/ikon/pointoverlay.png" alt="hvit overtrekksbilde">
-							<img src="./img/ikon/yoga.jpg">
+							<img src="./img/ikon/yoga.jpg" alt="Yoga">
 						</a>
 					</div>
 				</li>
@@ -39,7 +39,7 @@
 						<p>les om<br>oss!</p>
 						<a href="index.php?page=omoss">
 							<img class="hvitspiss" src="./img/ikon/pointoverlay.png" alt="hvit overtrekksbilde">
-							<img src="./img/ikon/trykkher.jpg">
+							<img src="./img/ikon/trykkher.jpg" alt="trykkher">
 						</a>
 					</div>
 				</li>
