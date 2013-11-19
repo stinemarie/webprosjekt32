@@ -16,7 +16,7 @@
 		<h4>Ida sin favoritt: Avokado</h4>
 		<figure>
 			<img src="./img/avokado.jpg" alt="bilde av avokado">
-			<figcaption>Foto: Anton Croos</figcaption>
+			<figcaption></figcaption>
 		</figure>
 		<p>Den er rik på kalsium, proteiner og B-, E-, K-, A- og C-vitaminer.  I tillegg inneholder frukten kolesterolsenkende stoffer og 
 		antioksidanter som er spesielt bra for nervesystemet.</p>
@@ -38,7 +38,7 @@
 		<h4>Amund sin favoritt: Brokkoli</h4>
 		<figure>	
 			<img src="./img/brokkoli.jpg" alt="bilde av brokkoli">
-			<figcaption>Foto: Anton Croos</figcaption>
+			<figcaption></figcaption>
 		</figure>
 		<p>Min favoritt-grønnsak er brokkoli. En av grunnene til at jeg liker denne grønnsaken godt er at den er enkel å tilberede og kan brukes i veldig mange sammenhenger. Brokkoli er en av de mest næringsrike grønnsakene som finnes, og den er full av antioksidanter!
 		Selv liker jeg å kutte opp brokkolien i passe store biter og la de steke i litt olivenolje et par minutter. Den kan også dampes, kokes, stekes i ovn eller rett og slett bare spises som den er!</p>
@@ -49,7 +49,7 @@
 		<h4>Christopher sin favoritt: Asparges</h4>
 		<figure>		
 			<img src="./img/asparges.jpg" alt="bilde av asparges">
-			<figcaption>Foto: Anton Croos</figcaption>
+			<figcaption></figcaption>
 		</figure>
 		<p>Min favoritt-grønnsak er asparges. Mye av grunnen er at det er en næringsrik og llett å tilberede. Asparges et en veldig allsidig grønnsak som passer til de fleste retter. Den kan også spises alene. I sommerhalvåret pleier jeg og grille dem i olivenolje, sitronsaft, salt og pepper. 
 		De kan også kokes, men pass på koketiden da dem ikke skal kokes lengere enn 2-4 min</p>
