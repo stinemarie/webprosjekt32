@@ -12,7 +12,6 @@
 		<li>Sette konkrete mål og forventninger</li>
 		<li>Evaluere og gi tilbakemeldinger</li>
 	</ul>
-	</p>
 
 	<hr>
 
@@ -25,19 +24,19 @@
 	<div id="trenerne">
 		<figure>
 			<a href="https://www.facebook.com/martin.antonio.5648" target="_blank">
-				<img border="0" src="img/martin.jpeg" alt="Martin Antonio">
+				<img src="img/martin.jpeg" alt="Martin Antonio">
 			</a>
 			<figcaption>Martin Antonio</figcaption>
 		</figure>
 		<figure>
 			<a href="http://www.optimaltrening.com/adrian-paul/" target="_blank">
-				<img border="0" src="img/adrian.jpg" alt="Adrian Paul">
+				<img src="img/adrian.jpg" alt="Adrian Paul">
 			</a>
 			<figcaption>Adrian Paul</figcaption>
 		</figure>
 		<figure>
-			<a href="http://prestasjonstrener.com/tomas-fjeldberg/"target="_blank">
-				<img border="0" src="img/tomas.jpg" alt="Tomas Fjeldberg">
+			<a href="http://prestasjonstrener.com/tomas-fjeldberg/" target="_blank">
+				<img src="img/tomas.jpg" alt="Tomas Fjeldberg">
 			</a>
 			<figcaption>Tomas Fjeldberg</figcaption>
 		</figure>
@@ -51,7 +50,8 @@
 		<p>Finn ditt hvorfor ! Har du et sterkt nok hvorfor, så blir hvordan veldig enkelt.</p>
 		<img src="img/adrian.jpg" alt="Adrian Paul">
 		<p>Tren styrke, det holder deg sterk psykisk og mentalt resten av livet!</p>
-		<img src="img/tomas.jpg" alt="Tomas Fjeldberg">Ha kontinuitet på det du gjør og gjør det enkelt.</p>
+		<img src="img/tomas.jpg" alt="Tomas Fjeldberg">
+		<p>Ha kontinuitet på det du gjør og gjør det enkelt.</p>
 	</div>
 
 	<div class="question">
