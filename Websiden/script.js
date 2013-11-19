@@ -262,12 +262,13 @@ $(window).resize(function() {
 			$("#hovednavigering, div a ").delay( 300 ).animate({top:'0px'},900);
 			$(".kar div").animate({top:'0px'},800);
 			$(".oppskrift .overlay, #trykkher").animate({top:'0px'},800, 
-				function(){window.location.href = window.location.href;
-
+				function(){
+					location.reload();
 			});			
 		});
 	});
 });
+
 
 /*slutt på script for easteregg*/
 
