@@ -190,8 +190,8 @@
 				<img src="img/ramme.png" alt="ramme for video">
 				<iframe width="560" height="330" src="//www.youtube.com/embed/eCRsxWCzWpY" allowfullscreen></iframe>
 			</div>
-		</div>
 			<p id="tamegtilbake"> ta meg tilbake! </p>
+		</div>
 
 		
 	
