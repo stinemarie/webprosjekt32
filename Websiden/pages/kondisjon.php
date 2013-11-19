@@ -16,11 +16,11 @@
 	<p>Total tid ca for et slikt intervall er 27-30 minutter.</p>
 		<div class="treninghvor">
 		<table>
-		<thead>
+		<tr>
 			<th>Intervall</th>
 			<th>Tid</th>
 			<th>Hastighet</th>
-		</thead>
+		</tr>
 		<tr class="alt">
 			<td>Oppvarming</td>
 			<td>5 minutter</td>
@@ -121,11 +121,11 @@
 		intensitet kan det føre til for mye melkesyre, som reduserer hjertets fylling, som gir noe dårligere treningseffekt.</p>
 		<div class="treninghvor">
 		<table>
-		<thead>
+		<tr>
 			<th>Intervall</th>
 			<th>Tid</th>
 			<th>Intensitet</th>
-		</thead>
+		</tr>
 		<tr class="alt">
 			<td>Oppvarming</td>
 			<td>6-10 minutter</td>

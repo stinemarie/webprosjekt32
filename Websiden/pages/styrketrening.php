@@ -11,11 +11,11 @@
 
 	<div class="treninghvor">
 	<table>
-	<thead>
+	<tr>
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
-	</thead>
+	</tr>
 	<tr class="alt">
 		<td>Quadriceps, Calves, Glutes, Hamstrings, Lower Back</td>
 		<td>12</td>
@@ -37,11 +37,11 @@
 
 	<div class="treninghvor">
 	<table>
-	<thead>
+	<tr>
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
-	</thead>
+	</tr>
 	<tr class="alt">
 		<td>Quadriceps, Calves, Glutes, Hamstrings</td>
 		<td>20</td>
@@ -63,17 +63,17 @@
 
 	<h4>Push ups</h4>
 	<div id="pushupbilder">
-		<img class="treningsbilde"src="img/treningimg/pushup1.jpg" alt="pushup1">
-		<img class="treningsbilde"src="img/treningimg/pushup2.jpg" alt="pushup2">
+		<img class="treningsbilde" src="img/treningimg/pushup1.jpg" alt="pushup1">
+		<img class="treningsbilde" src="img/treningimg/pushup2.jpg" alt="pushup2">
 	</div>
 
 	<div class="treninghvor">
 	<table>
-	<thead>
+	<tr>
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
-	</thead>
+	</tr>
 	<tr class="alt">
 		<td>Chest, Shoulders, Triceps</td>
 		<td>10</td>
@@ -89,17 +89,17 @@
 
 	<h4>Planke med ball</h4>
 	<div id="plankebilder">
-		<img class="treningsbilde"src="img/treningimg/plankeball1.jpg" alt="plankeball1">
-		<img class="treningsbilde"src="img/treningimg/plankeball2.jpg" alt="plankeball2">
+		<img class="treningsbilde" src="img/treningimg/plankeball1.jpg" alt="plankeball1">
+		<img class="treningsbilde" src="img/treningimg/plankeball2.jpg" alt="plankeball2">
 	</div>
 
 	<div class="treninghvor">
 	<table>
-	<thead>
+	<tr>
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
-	</thead>
+	</tr>
 	<tr class="alt">
 		<td>Abdominals</td>
 		<td>12</td>
@@ -116,17 +116,17 @@
 
 	<h4>Situps med Bosu ball</h4>
 	<div class="tobilder">
-		<img class="treningsbilde"src="img/treningimg/situp1.jpg" alt="situp1">
-		<img class="treningsbilde"src="img/treningimg/situp2.jpg" alt="situp2">
+		<img class="treningsbilde" src="img/treningimg/situp1.jpg" alt="situp1">
+		<img class="treningsbilde" src="img/treningimg/situp2.jpg" alt="situp2">
 	</div>
 
 	<div class="treninghvor">
 	<table>
-	<thead>
+	<tr>
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
-	</thead>
+	</tr>
 	<tr class="alt">
 		<td>Abdominals</td>
 		<td>15</td>
@@ -143,17 +143,17 @@
 
 	<h4>Markløft</h4>
 	<div class="tobilder">
-		<img class="treningsbilde"src="img/treningimg/markloft1.jpg" alt="markloft1">
-		<img class="treningsbilde"src="img/treningimg/markloft2.jpg" alt="markloft2">
+		<img class="treningsbilde" src="img/treningimg/markloft1.jpg" alt="markloft1">
+		<img class="treningsbilde" src="img/treningimg/markloft2.jpg" alt="markloft2">
 	</div>
 
 	<div class="treninghvor">
 	<table>
-	<thead>
+	<tr>
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
-	</thead>
+	</tr>
 	<tr class="alt">
 		<td>Hamstrings, Calves, Glutes, Lower Back</td>
 		<td>12</td>
@@ -173,11 +173,11 @@
 
 	<div class="treninghvor">
 	<table>
-	<thead>
+	<tr>
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
-	</thead>
+	</tr>
 	<tr class="alt">
 		<td></td>
 		<td></td>
@@ -200,11 +200,11 @@
 
 	<div class="treninghvor">
 	<table>
-	<thead>
+	<tr>
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
-	</thead>
+	</tr>
 	<tr class="alt">
 		<td>Middle Back, Biceps, Lats, Shoulders</td>
 		<td>12</td>
@@ -226,11 +226,11 @@
 
 	<div class="treninghvor">
 	<table>
-	<thead>
+	<tr>
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
-	</thead>
+	</tr>
 	<tr class="alt">
 		<td>Triceps, Chest, Shoulders</td>
 		<td>10</td>
@@ -246,18 +246,18 @@
 
 	<h4>Sving med ball (side mage)</h4>
 	<div class="trebilder">
-		<img class="treningsbilde"src="img/treningimg/svingball1.jpg" alt="svingball1">
-		<img class="treningsbilde"src="img/treningimg/svingball2.jpg" alt="svingball2">
-		<img class="treningsbilde"src="img/treningimg/svingball3.jpg" alt="svingball3">
+		<img class="treningsbilde" src="img/treningimg/svingball1.jpg" alt="svingball1">
+		<img class="treningsbilde" src="img/treningimg/svingball2.jpg" alt="svingball2">
+		<img class="treningsbilde" src="img/treningimg/svingball3.jpg" alt="svingball3">
 	</div>
 
 	<div class="treninghvor">
 	<table>
-	<thead>
+	<tr>
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
-	</thead>
+	</tr>
 	<tr class="alt">
 		<td>Abdominals</td>
 		<td>30 (15 hver side)</td>
@@ -273,17 +273,17 @@
 
 	<h4>Armstrekk med vekter</h4> 
 	<div class="tobilder">
-		<img class="treningsbilde"src="img/treningimg/armstrekker1.jpg" alt="armstrekker1">
-		<img class="treningsbilde"src="img/treningimg/armstrekker2.jpg" alt="armstrekker2">
+		<img class="treningsbilde" src="img/treningimg/armstrekker1.jpg" alt="armstrekker1">
+		<img class="treningsbilde" src="img/treningimg/armstrekker2.jpg" alt="armstrekker2">
 	</div>
 
 	<div class="treninghvor">
 	<table>
-	<thead>
+	<tr>
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
-	</thead>
+	</tr>
 	<tr class="alt">
 		<td></td>
 		<td></td>
@@ -298,17 +298,17 @@
 
 	<h4>Sidehev skuldre med vekter</h4>
 	<div class="tobilder">
-		<img class="treningsbilde"src="img/treningimg/skulderloft1.jpg" alt="Skulderloft1">
-		<img class="treningsbilde"src="img/treningimg/skulderloft2.jpg" alt="Skulderloft2">
+		<img class="treningsbilde" src="img/treningimg/skulderloft1.jpg" alt="Skulderloft1">
+		<img class="treningsbilde" src="img/treningimg/skulderloft2.jpg" alt="Skulderloft2">
 	</div>
 
 	<div class="treninghvor">
 	<table>
-	<thead>
+	<tr>
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
-	</thead>
+	</tr>
 	<tr class="alt">
 		<td>Shoulders</td>
 		<td>10</td>
@@ -324,17 +324,17 @@
 
 	<h4>Liggende benløft</h4>
 	<div class="tobilder">
-		<img class="treningsbilde"src="img/treningimg/beinloft1.jpg" alt="beinloft1">
-		<img class="treningsbilde"src="img/treningimg/beinloft2.jpg" alt="beinloft2">
+		<img class="treningsbilde" src="img/treningimg/beinloft1.jpg" alt="beinloft1">
+		<img class="treningsbilde" src="img/treningimg/beinloft2.jpg" alt="beinloft2">
 	</div>
 
 	<div class="treninghvor">
 	<table>
-	<thead>
+	<tr>
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
-	</thead>
+	</tr>
 	<tr class="alt">
 		<td>Abdominals</td>
 		<td>10</td>
@@ -350,17 +350,17 @@
 
 	<h4>Rygghev</h4>
 	<div class="tobilder">
-		<img class="treningsbilde"src="img/treningimg/rygghev1.jpg" alt="rygghev1">
-		<img class="treningsbilde"src="img/treningimg/rygghev2.jpg" alt="rygghev2">
+		<img class="treningsbilde" src="img/treningimg/rygghev1.jpg" alt="rygghev1">
+		<img class="treningsbilde" src="img/treningimg/rygghev2.jpg" alt="rygghev2">
 	</div>
 
 	<div class="treninghvor">
 	<table>
-	<thead>
+	<tr>
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
-	</thead>
+	</tr>
 	<tr class="alt">
 		<td>Lower Back, Glutes, Hamstrings</td>
 		<td>12</td>
@@ -374,16 +374,16 @@
 
 	<h4>TRX mage</h4>
 	<div class="tobilder">
-		<img class="treningsbilde"src="img/treningimg/trxmage1.jpg" alt="trxmage1">
-		<img class="treningsbilde"src="img/treningimg/trxmage2.jpg" alt="trxmage2">
+		<img class="treningsbilde" src="img/treningimg/trxmage1.jpg" alt="trxmage1">
+		<img class="treningsbilde" src="img/treningimg/trxmage2.jpg" alt="trxmage2">
 	</div>
 	<div class="treninghvor">
 	<table>
-	<thead>
+	<tr>
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
-	</thead>
+	</tr>
 	<tr class="alt">
 		<td>Lower Back, Glutes, Hamstrings</td>
 		<td>12</td>

@@ -8,7 +8,7 @@
 			<figcaption>
 				Stine Marie Aas Grumheden
 				<br>
-				<a id="mail" href="mailto:stinemarie86@gmail.com">stinemarie86@gmail.com</a>
+				<a href="mailto:stinemarie86@gmail.com">stinemarie86@gmail.com</a>
 			</figcaption>
 		</figure>
 
@@ -17,7 +17,7 @@
 			<figcaption>
 				Amund Ring
 				<br>
-				<a id="mail" href="mailto:dnuma88@gmail.com">dnuma88@gmail.com</a>
+				<a href="mailto:dnuma88@gmail.com">dnuma88@gmail.com</a>
 			</figcaption>
 		</figure>
 
@@ -26,7 +26,7 @@
 			<figcaption>
 				Ida Vikaskag Salvesen
 				<br>
-				<a id="mail" href="mailto:ida.v.salvesen@gmail.com">ida.v.salvesen@gmail.com</a>
+				<a href="mailto:ida.v.salvesen@gmail.com">ida.v.salvesen@gmail.com</a>
 			</figcaption>
 		</figure>
 
@@ -35,7 +35,7 @@
 			<figcaption>
 				Christopher Aspel
 				<br>
-				<a id="mail" href="mailto:chriasp91@gmail.com">chriasp91@gmail.com</a>
+				<a href="mailto:chriasp91@gmail.com">chriasp91@gmail.com</a>
 			</figcaption>
 		</figure>
 	</div>

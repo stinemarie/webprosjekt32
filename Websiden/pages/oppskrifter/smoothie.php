@@ -2,7 +2,7 @@
 	<div class="smoothie">
 		<h4 id="gasmoothie">Gulrot- og ananas smoothie (1porsjon)</h4>
 		<figure>
-			<img class="matbilde" src="img/gulrotananassmoothie.jpg"alt="gulrot-ananassmoothie">
+			<img class="matbilde" src="img/gulrotananassmoothie.jpg" alt="gulrot-ananassmoothie">
 			<!-- <figcaption class="kilde">Kilde: frukt.no</figcaption> -->
 		</figure> 
 		<ul>
@@ -15,7 +15,7 @@
 		<p>Rens og skjær ananas og gulrot I biter. Ha appelsinjuicen I mikseren først – deretter yoghurt, ananas og gulot. Kjør blandingen til en du har fått en glatt smotthie</p>
 
 
-		<p class="kilde">Kilde: <a href="http://www.frukt.no/oppskrifter/smoothie/oppskrifter3/?searchText=smoothie&articleTypeId=13&searchType=1&sort=createdDate" target="_blank">frukt.no</a></p>
+		<p class="kilde">Kilde: <a href="http://www.frukt.no/oppskrifter/smoothie/oppskrifter3/" target="_blank">frukt.no</a></p>
 
 	 	<a href="index.php?page=oppskrifter">tilbake</a>
 
@@ -60,7 +60,6 @@
 
 			<figure>
 				<img class="matbilde" src="img/lyserøddrøm.jpg" alt="lyserød drøm">
-				<figcaption class="kilde">kilde: Vektklubben</figcaption>
 			</figure> 
 
 			<p class="kilde">Kilde: <a href="www.vektklubben.no" target="_blank">Vektklubben</a></p>
@@ -104,7 +103,7 @@
 		<p>Skyll, tørk og riv salaten i biter. Fjern skall og steiner fra honningmelonen og skjær den i biter. Del avokadoen i to, fjern steinenog skjær i biter. Del agurken i biter, og gi brokkolien et lett oppkok. Hell eplejuicen i blenderen, og deretter ha resten av ingrediensenei blenderen. Kjørt alt til du får en lysegrønn farge.</p>
 
 		<figure>
-			<img class="matbilde"src="img/salatsmoothie.jpg" alt="Salatsmoothie">
+			<img class="matbilde" src="img/salatsmoothie.jpg" alt="Salatsmoothie">
 		<!-- 	<figcaption class="kilde">Kilde: Vektklubben<figcaption> -->
 		</figure> 
 
