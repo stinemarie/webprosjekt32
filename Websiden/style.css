@@ -922,7 +922,7 @@ input{
 	 padding: 3px 10px; 
 }
 
-.treninghvor table thead th {
+.treninghvor table #tablehead th {
 	background-color:#ECEDA2;
 	color:#9EB728; 
 	font-size: 15px; 
@@ -930,7 +930,7 @@ input{
 	border-left: 2px solid #9EB728; 
 }
 
- .treninghvor table thead th:first-child { 
+ .treninghvor table #tablehead th:first-child { 
  	border: none;
  }
 

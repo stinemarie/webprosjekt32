@@ -27,13 +27,13 @@
 		
 	<div class="treninghvor">
 		<table>
-			<thead>
+			<tr id="tablehead">
 				<th>Dato</th>
 				<th>Øvelse</th>
 				<th>Kg</th>
 				<th>Rep</th>
 				<th>Serier</th>
-			</thead>
+			</tr>
 			<tr class="alt">
 				<td>27.10.13</td>
 				<td>Intervall 15x15</td>
