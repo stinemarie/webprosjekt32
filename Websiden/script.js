@@ -2,6 +2,26 @@
 /*script for meny*/
 $(document).ready(function() {	
 	if ($(window).width() >= 750){
+		menyTrigger();
+		karusellmeny();
+		bildeMeny();
+
+	}
+});
+
+$(document).ready(function() {	
+	if ($(window).width() >= 750){
+		easterInn();
+		easterOut();
+	}
+});
+
+/*denne funksjonen refresher siden når den får en ny str*/
+$(window).resize(function() {
+    window.location.href = window.location.href;
+});
+
+		function menyTrigger() {
 		$("#trening").hover(function(){
 	  		$("#treningsNav").css("display","inline");
 	  		$("#kostholdsNav").css("display","none");
@@ -121,11 +141,11 @@ $(document).ready(function() {
 			}, 3000);
 		});
 	}
-});
+
 
 /*Kode for bildekarusell på førstesiden*/
 
-$(document).ready(function(){
+	function karusellMeny(){
 	 $("#alpha")
 	  .addClass('left'); 
 	 $("#beta")
@@ -210,7 +230,7 @@ $(document).ready(function(){
 // });
 
 
-$(document).ready(function(){ 
+	function bildeMeny(){ 
 	if ($(window).width() >= 750){
 		$('.lenke').hover(function(){ 
 			$(this).children('.overlay').fadeIn('slow'); 
@@ -220,13 +240,8 @@ $(document).ready(function(){
 	} 
 });
 
-/*denne funksjonen refresher siden når den får en ny str*/
-$(window).resize(function() {
-    window.location.href = window.location.href;
-});
-
 /*script for easter egg*/
-$(document).ready(function(){
+	function easterInn(){
 	$("#superhemmelig").click(function(){
 		$("#logo").delay( 200 ).animate({top:'1000px'},700);		
 		$("#hovednavigering div a").delay( 300 ).animate({top:'1000px'},900);
@@ -238,15 +253,17 @@ $(document).ready(function(){
 	});
 });
 
-$(document).ready(function(){
+	function easterOut(){
 	$("#tamegtilbake").click(function(){
-		$("easteregg").fadeOut('slow');
+		$(".easteregg").fadeOut('slow');
 		$(".easteregg *").fadeOut('slow', function(){
-			$("body :not(#bakgrunn)").delay(500).fadeIn(900);
+			$("body :not(.easteregg)").delay(500).fadeIn(900);
 			$("#logo").delay( 200 ).animate({top:'-75px'},700);		
-			$("#hovednavigering :not(.easteregg) div a ").delay( 300 ).animate({top:'0px'},900);
+			$("#hovednavigering, div a ").delay( 300 ).animate({top:'0px'},900);
 			$(".kar div").animate({top:'0px'},800);
-			$(".oppskrift .overlay, #trykkher").animate({top:'0px'},800, function(){window.location.href = window.location.href;
+			$(".oppskrift .overlay, #trykkher").animate({top:'0px'},800, 
+				function(){window.location.href = window.location.href;
+
 			});			
 		});
 	});
