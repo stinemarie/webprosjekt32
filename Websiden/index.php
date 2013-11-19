@@ -1,3 +1,5 @@
+<?php  error_reporting(E_ALL) ?>
+
 <!DOCTYPE html>
 <html>
 	<head>
@@ -6,6 +8,7 @@
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<script type="text/javascript" src="script.js"></script>
+		<meta name="viewport" content="width=device-width; initial-scale=1.0">
 	</head>
 	<body>
 		</div> <!-- denne diven er kun synlig under 750px skjerm -->
@@ -75,11 +78,9 @@
 				<div id="pt">
 					<a id="ptlink" href="index.php?page=personligtrener">Personlig<br>trener</a>
 				</div>
-
 				<div id="lenker">
 					<a id="lenkerlink" href="index.php?page=lenker">Lenker</a>
 				</div>
-
 				<div id="om">
 					<a id="omosslink" href="index.php?page=omoss">Om oss</a>
 				</div>
@@ -89,7 +90,8 @@
 			<div id="content">
 					
 			<?php
-			if($_GET["page"] == "hjem")
+			if (isset($_GET['page'])){
+				if($_GET["page"] == "hjem")
 				include("./pages/hjem.php");
 				elseif($_GET["page"] == "hvorfortrene")
 					include("./pages/hvorfortrene.php");
@@ -167,6 +169,9 @@
 					include("./pages/kondisjon.php");
 				elseif($_GET["page"] == "styrketrening")
 					include("./pages/styrketrening.php");
+				elseif($_GET["page"] == "yogaogpilates")
+					include("./pages/yogaogpilates.php");
+			}
 			else
 				include("./pages/hjem.php");
 			?>

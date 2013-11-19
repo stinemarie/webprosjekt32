@@ -44,7 +44,8 @@ footer img{
 }
 
 /*ting som ikke er med i mobilløsningen under 480 gjør dette*/
-@media (max-width:750px){
+@media( max-width:750px){
+/*REGLER FOR HELE SIDEN under 750px*/
 
 #taMegTilToppen{
 	position:fixed;
@@ -65,7 +66,6 @@ body, body *{
 	border: 0px;
 }
 
-/*REGLER FOR HELE SIDEN under 750px*/
 img{
 	width:100%;
 }
@@ -1071,7 +1071,6 @@ input{
 	margin-bottom: 10px;
 }
 
-
 .lenker img{
 	width: 320px;
 	box-shadow: 2px 2px 5px black;
@@ -1151,7 +1150,7 @@ input{
 	margin-bottom: 20px;
 }
 
-.styrke #pushupbilder img{
+.styrke #pushupbilder img, .yogaogpilates img{
 	margin: 5px;
 	width: 350px;
 }
@@ -1204,22 +1203,29 @@ input{
 
 /* Ernæring */
 
-	#erneringbilder{
+#erneringbilder{
 		margin-left: 100px;
 	}
 
-	#erneringbilder img{
+#erneringbilder img{
 		height: 400px;
 		box-shadow: 2px 2px 5px black;
 		margin: 10px;
-	}
+}
+
 
 /* Slutt på ernæring */
+
+/*yoga og pilates*/
+.yogaogpilates img{
+	box-shadow: 2px 2px 5px black;
+	width: 90%;
+}
 
 
 /* FOR ALLE SKJERMER */
 
-
+} /*<-denne hører til en løkke la stå!*/
 
 
 

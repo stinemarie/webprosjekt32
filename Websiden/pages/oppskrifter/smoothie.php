@@ -59,8 +59,8 @@
 			så kjører man blandingen til man får en glatt konsistens.</p>
 
 			<figure>
-				<img class="matbilde" src="img/lyserøddrøm.jpg" width="500px" alt="lyserød drøm">
-				<figcaption class="kilde">kilde: Vektklubben foto:</figcaption>
+				<img class="matbilde" src="img/lyserøddrøm.jpg" alt="lyserød drøm">
+				<figcaption class="kilde">kilde: Vektklubben</figcaption>
 			</figure> 
 
 			<p class="kilde">Kilde: <a href="www.vektklubben.no" target="_blank">Vektklubben</a></p>
@@ -122,8 +122,7 @@
 			<li>2 dl Appelsinjuice</li>
 			<li>6 Isbiter</li>
 		</ul>
-		<p>Del mangoen, fjern steinen og skallet. Skrell og rens paprikaen, så skjær den i biter. Ha appelsinjuicen i blenderen, deretter paprika, gulrot, mango og isbiter. Kjør den til den er jevn og fin
-		</p>
+		<p>Del mangoen, fjern steinen og skallet. Skrell og rens paprikaen, så skjær den i biter. Ha appelsinjuicen i blenderen, deretter paprika, gulrot, mango og isbiter. Kjør den til den er jevn og fin </p>
 
 		<figure>
 			<img class="matbilde" src="img/solskinn.jpg" alt="solskinn">
