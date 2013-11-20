@@ -1,3 +1,6 @@
+$(document).ready(function(){
+
+});
 
 /*script for meny*/
 $(document).ready(function() {	
@@ -18,7 +21,6 @@ $(document).ready(function() {
 			$("#ptlink").css("color","#9EB728");
 			$("#lenkerlink").css("color","#9EB728");
 			$("#idlink").css("color","#9EB728");
-
 		});
 
 		$("#kosthold").hover(function(){
@@ -202,13 +204,6 @@ $(document).ready(function(){
 	 	$( '.midten p').fadeIn('fast');		
 	});
 });
-/*Skript for bildegallerier*/
-// $(window).resize(function(){
-// 	if ($(window).width() <= 800){	
-// 		// do something here
-// 	}	
-// });
-
 
 $(document).ready(function(){ 
 	if ($(window).width() >= 750){
@@ -224,7 +219,6 @@ $(document).ready(function(){
 $(window).resize(function() {
     window.location.href = window.location.href;
 });
-
 /*script for easter egg*/
 $(document).ready(function(){
 	$("#superhemmelig").click(function(){
@@ -234,17 +228,22 @@ $(document).ready(function(){
 		$(".oppskrift .overlay, #trykkher").animate({top:'1000px'},800);
 		$("body :not(#bakgrunn)").delay(1000).fadeOut(900, function(){				
 			$(".easteregg").fadeIn('slow');
-			$(".easteregg *").fadeIn('slow');});
+			$(".easteregg *").fadeIn('slow');
+		});
 	});
 });
 
 $(document).ready(function(){
 	$("#tamegtilbake").click(function(){
-		$("easteregg").fadeOut('slow');
+		$(".easteregg").fadeOut('slow');
 		$(".easteregg *").fadeOut('slow', function(){
-			$("body :not(#bakgrunn)").delay(500).fadeIn(900);
+			$("body :not(.easteregg)").delay(500).fadeIn(900);
 			$("#logo").delay( 200 ).animate({top:'-75px'},700);		
-			$("#hovednavigering :not(.easteregg) div a ").delay( 300 ).animate({top:'0px'},900);
+			$("#treningslink").animate({top: "0px"},500);
+			$("#kostholdslink").delay(200).animate({top: "0px"},500);
+			$("#ptlink").delay(300).animate({top: "0px"},500);
+			$("#lenkerlink").delay(400).animate({top: "0px"},500);
+			$("#omosslink").delay(500).animate({top: "0px"},500);
 			$(".kar div").animate({top:'0px'},800);
 			$(".oppskrift .overlay, #trykkher").animate({top:'0px'},800, function(){window.location.href = window.location.href;
 			});			

@@ -174,17 +174,13 @@
 			else
 				include("./pages/hjem.php");
 			?>
-
 			</div>
-
 			<footer>
 				<div id="copyright">&copy; 2013</div>
 				<img id="minilogo" src="img/logogul.png"  alt="Websidens logo">
 				<div id="contentOwners">TTFS</div>
 			</footer>
-
 		</div>
-
 		<div class="easteregg">
 			<div id="videoframe">
 				<img src="img/ramme.png" alt="ramme for video">
@@ -192,10 +188,5 @@
 			</div>
 			<p id="tamegtilbake"> ta meg tilbake! </p>
 		</div>
-
-		
-	
-
-
 	</body>
 </html>

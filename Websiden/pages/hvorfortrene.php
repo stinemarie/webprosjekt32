@@ -18,7 +18,7 @@
 
 	<figure>
 		<img src="./img/rockybalboa.jpg" alt="rocky balboa">
-		<figcaption class="kilde">Kilde: <a href="www.imdb.com" target="_blank">IMDb.com </a></figcaption>
+		<figcaption class="kilde">Kilde: IMDb.com </figcaption>
 	</figure>
 
 </div>
