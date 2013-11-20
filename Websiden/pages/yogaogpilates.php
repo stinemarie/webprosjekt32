@@ -13,7 +13,7 @@
 <h3>Yoga by Donation</h3>
 <p>i Cort Adelers Gate 33 gate i Vika, Oslo ligger Eight Treasures Yoga.  Her tilbyr de Yoga etter donasjon. Han man ikke råd til å betale vanslig pris, betaler du det du kan den dagen, selv om det er ingenting i det helet tatt. </p>
 
-<a href="http://8treasuresyoga.com/yoga-by-donation/" target_"blank"> Link her </a>
+<a href="http://8treasuresyoga.com/yoga-by-donation/" target="_blank"> Link her </a>
 <!-- 
 
 Les mer om yoga <a href="http://yoga.no/"> her http://yoga.no/<a/> -->

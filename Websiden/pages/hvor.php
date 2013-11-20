@@ -7,14 +7,14 @@
 
 	<div class="treningsenter">
 		<a href="https://www.elixia.no" target="_blank">
-		<img border="0" src="img/elixialogo.png" alt="Sats" width="100" height="50"></a>
+		<img class="logo" src="img/elixialogo.png" alt="Sats" width="100" height="50"></a>
 			<div class="treninghvor">
 			<table>
-			<thead>
+			<tr>
 			<th>Medlemskap</th>
 			<th>Oslo m/binding</th>
 			<th>12 måneders forhåndsbetalt Oslo</th>
-			</thead>
+			</tr>
 			<tr class="alt">
 			<td>Alle sentere</td>
 			<td>519,-/mnd</td>
@@ -46,16 +46,16 @@
 
 	<div class="treningsenter">
 		<a href="https://www.sats.no" target="_blank">
-		<img border="0" src="img/satslogo.png" alt="Sats" width="100" height="50"></a>
+		<img src="img/satslogo.png" alt="Sats" width="100" height="50"></a>
 
 			<div class="treninghvor">
 			<table>
-			<thead>
+			<tr>
 			<th>Medlemskap</th>
 			<th>Ingen bindingstid</th>
 			<th>12 måneders binding</th>
 			<th>12 måneders forhåndsbetalt</th>
-			</thead>
+			</tr>
 			<tr class="alt">
 			<td>Sats Club - Double</td>
 			<td>508,-/mnd</td>
@@ -79,14 +79,14 @@
 
 			<p>Personlig trenere: Ja</p> 
 			<p>Gruppetimer: Ja</p>
-			<p>Åpningstider: 
+			<p>Åpningstider:</p>
 			<ul>
 			<li>Mandag - Torsdag: 06.00-23.00</li>
 			<li>Fredag: 06.00-21.00.</li>
 			<li>Lørdag: 08.00-18.00</li>
 			<li>Søndag: 09.00-20.00</li>
 			</ul>
-			</p>
+
 			<p>Lokaler:</p>
 			<ul>
 				<li>Bislett</li>
@@ -107,15 +107,15 @@
 
 	<div class="treningsenter">
 		<a href="https://www.evofitness.no" target="_blank">
-		<img border="0" src="img/evofitness.png" alt="EVO Fitness" width="100" height="50"></a>
+		<img src="img/evofitness.png" alt="EVO Fitness" width="100" height="50"></a>
 
 			<div class="treninghvor">
 			<table>
-			<thead>
+			<tr>
 			<th>Medlemskap</th>
 			<th>Ingen bindingstid</th>
 			<th>12 måneders forhåndsbetalt</th>
-			</thead>
+			</tr>
 			<tr class="alt">
 			<td>Alle sentere</td>
 			<td>295,-/mnd</td>
@@ -149,17 +149,17 @@
 
 	<div class="treningsenter">
 		<a href="https://www.fitness24seven.com/no/start" target="_blank">
-		<img border="0" src="img/fitness247.png" alt="Fitness 24/7" width="50" height="50"></a>
+		<img src="img/fitness247.png" alt="Fitness 24/7" width="50" height="50"></a>
 			
 			<div class="treninghvor">
 			<table>
-			<thead>
+			<tr>
 			<th>Medlemskap</th>
 			<th>Hele døgnet</th>
 			<th>Dagskort</th>
 			<th>Forhåndbetalt "Hele døgnet"</th>
 			<th>Forhåndsbetalt "Dagskort"</th>
-			</thead>
+			</tr>
 			<tr class="alt">
 			<td>Alle sentere</td>
 			<td>199,-/mnd</td>
@@ -188,15 +188,15 @@
 
 	<div class="treningsenter">
 		<a href="https://www.freshfitness.no" target="_blank">
-		<img border="0" src="img/freshfitnesslogo.png" alt="Fresh Fitness" width="100" height="50"></a>
+		<img src="img/freshfitnesslogo.png" alt="Fresh Fitness" width="100" height="50"></a>
 
 			<div class="treninghvor">
 			<table>
-			<thead>
+			<tr>
 			<th>Medlemskap</th>
 			<th>Ingen bindingstid</th>
 			<th>12 måneders forhåndsbetalt</th>
-			</thead>
+			</tr>
 			<tr class="alt">
 			<td>Alle sentere</td>
 			<td>199,-/mnd</td>
@@ -207,12 +207,11 @@
 			<p>Binding: Nei</p>
 			<p>Personlig trenere: Ja</p>
 			<p>Gruppetimer: Ja</p>
-			<p>Åpningstider: 
+			<p>Åpningstider:</p>
 			<ul>
 				<li>Mandag-Fredag: 05.00-23.00</li>
 				<li>Lørdag-Søndag: 05.00-20.00</li>
 			</ul>
-			</p>
 			<p>Lokaler:</p>
 			<ul>
 				<li>Carl Berner</li>
@@ -232,12 +231,12 @@
 
 	<div class="treningsenter">
 		<a href="http://www.sio.no/wps/portal/sio/idrett?reset=true" target="_blank">
-		<img border="0" src="img/sio-logo.png" alt="Fresh Fitness" width="50" height="50"></a>
+		<img src="img/sio-logo.png" alt="Fresh Fitness" width="50" height="50"></a>
 			
 
 			<div class="treninghvor">
 			<table>
-			<thead>
+			<tr>
 			<th>Medlemskap</th>
 			<th> Semester</th>
 			<th>Per Måned</th>
@@ -245,7 +244,6 @@
 			<th>Per måned</th>
 			<th>Enkelbilett/Klippekort</th>
 			</tr>
-			</thead>
 			<tr class="alt">
 			<td>Student UiO, HiOA, NVH, AHO, NMH, KhIO</td>
 			<td>850,-</td>
@@ -300,14 +298,13 @@
 			<p>Binding: Ja, per semester</p>
 			<p>Personlig trenere: Ja</p>
 			<p>Gruppetimer: Ja</p>
-			<p>Åpningstider: 
+			<p>Åpningstider:</p>
 			<ul>
 				<li>Mandag-Torsdag: 07.00-22.00</li>
 				<li>Fredag: 07.00-21.00</li>
 				<li>Lørdag: 11.00-18.00</li>
 				<li>Søndag: 12.00-19.00</li>
 			</ul>
-			</p>
 			<p>Lokaler:</p>
 			<ul>
 				<li>Blindern</li>

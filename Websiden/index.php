@@ -11,7 +11,6 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
 	<body>
-		</div> <!-- denne diven er kun synlig under 750px skjerm -->
 		<a href="#frame">
 			<div id="taMegTilToppen">
 			</div>
@@ -179,7 +178,7 @@
 			</div>
 
 			<footer>
-				<div id="copyright">&copy 2013</div>
+				<div id="copyright">&copy; 2013</div>
 				<img id="minilogo" src="img/logogul.png"  alt="Websidens logo">
 				<div id="contentOwners">TTFS</div>
 			</footer>
@@ -189,9 +188,10 @@
 		<div class="easteregg">
 			<div id="videoframe">
 				<img src="img/ramme.png" alt="ramme for video">
-				<iframe width="560" height="330" src="//www.youtube.com/embed/eCRsxWCzWpY" frameborder="0" allowfullscreen></iframe>
+				<iframe width="560" height="330" src="//www.youtube.com/embed/eCRsxWCzWpY" allowfullscreen></iframe>
 			</div>
 			<p id="tamegtilbake"> ta meg tilbake! </p>
+		</div>
 
 		
 	

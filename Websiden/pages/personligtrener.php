@@ -12,32 +12,31 @@
 		<li>Sette konkrete mål og forventninger</li>
 		<li>Evaluere og gi tilbakemeldinger</li>
 	</ul>
-	</p>
 
 	<hr>
 
 	<h4>Intervju</h4>
 
-	<p>Vi har her fått 3 forskjellige PT'er spredd utover Oslo og Akershus til å svare på noen spørsmål knyttet til trening og kosthold. Under vil du finne bilder som fører til info om de forksjellige trenerene og svar på spørsmålene.</p>
+	<p> Vi har her fått med oss 2 personlige trenere og en treningsentusiast som er spredd utover Oslo og Akershus. Vi har stilt dem noen generelle spørsmål om trening og kosthold. Under vil du finne bilder som fører til info om de forksjellige trenerene og svar på spørsmålene.</p>
 
 	<!-- Må sette inn bilder og linke til nettsiden til de forkjsellige PT'ene, også endre størresle til å se bra ut. -->
 
 	<div id="trenerne">
 		<figure>
 			<a href="https://www.facebook.com/martin.antonio.5648" target="_blank">
-				<img border="0" src="img/martin.jpeg" alt="Martin Antonio">
+				<img src="img/martin.jpeg" alt="Martin Antonio">
 			</a>
 			<figcaption>Martin Antonio</figcaption>
 		</figure>
 		<figure>
 			<a href="http://www.optimaltrening.com/adrian-paul/" target="_blank">
-				<img border="0" src="img/adrian.jpg" alt="Adrian Paul">
+				<img src="img/adrian.jpg" alt="Adrian Paul">
 			</a>
 			<figcaption>Adrian Paul</figcaption>
 		</figure>
 		<figure>
-			<a href="http://prestasjonstrener.com/tomas-fjeldberg/"target="_blank">
-				<img border="0" src="img/tomas.jpg" alt="Tomas Fjeldberg">
+			<a href="http://prestasjonstrener.com/tomas-fjeldberg/" target="_blank">
+				<img src="img/tomas.jpg" alt="Tomas Fjeldberg">
 			</a>
 			<figcaption>Tomas Fjeldberg</figcaption>
 		</figure>
@@ -48,10 +47,11 @@
 		<p><b> Hva er din treningsfilosofi?</b></p>
 
 		<img src="img/martin.jpeg" alt="Martin Antonio">
-		<p>Uansett hva som skal til, uavhengig av tid, penger, venner og bekjente, så er det dette jeg skal gjøre og vil gjøre resten av mitt liv. Jeg elsker å føle meg nedbrutt etter en god treningsøkt. Treningssmerte er noe av det beste jeg vet.</p>
+		<p>Finn ditt hvorfor ! Har du et sterkt nok hvorfor, så blir hvordan veldig enkelt.</p>
 		<img src="img/adrian.jpg" alt="Adrian Paul">
 		<p>Tren styrke, det holder deg sterk psykisk og mentalt resten av livet!</p>
-		<img src="img/tomas.jpg" alt="Tomas Fjeldberg">Ha kontinuitet på det du gjør og gjør det enkelt.</p>
+		<img src="img/tomas.jpg" alt="Tomas Fjeldberg">
+		<p>Ha kontinuitet på det du gjør og gjør det enkelt.</p>
 	</div>
 
 	<div class="question">
