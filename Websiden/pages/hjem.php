@@ -8,40 +8,41 @@
 		<div id="ramme">
 			<ul>
 				<li>
-					<div id="alpha">
-						<p>finn trenings-<br>øvelser</p>
-						<a href="index.php?page=hvorfortrene">
+					<a href="index.php?page=ovelser">
+						<div id="alpha">
+							<p>finn trenings-<br>øvelser</p>						
 							<img src="./img/ikon/running.jpg" alt="ikon av noen som løper">
-							<img class="hvitspiss" src="./img/ikon/pointoverlay.png" alt="hvit overtrekksbilde">
-						</a>
-					</div>
+							<img class="hvitspiss" src="./img/ikon/pointoverlay.png" alt="hvit overtrekksbilde">		
+						</div>
+					</a>
 				</li>
 				<li>
-					<div id="beta">
-						<p>finn<br>oppskrifter</p>
-						<a href="index.php?page=oppskrifter">
+					<a href="index.php?page=oppskrifter">
+						<div id="beta">
+							<p>finn<br>oppskrifter</p>
 							<img class="hvitspiss" src="./img/ikon/pointoverlay.png" alt="hvit overtrekksbilde">
-							<img src="./img/ikon/suppe1.jpg" alt="bilde av suppe">
-						</a>
-					</div>
+							<img src="./img/ikon/suppe1.jpg" alt="bilde av suppe">						
+						</div>
+					</a>	
 				</li>
 				<li>
-					<div id="gamma">
-						<p>les intervju med personlige trenere</p>
-						<a href="index.php?page=intervju">
+					<a href="index.php?page=intervju">
+						<div id="gamma">
+							<p>les intervju med personlige trenere</p>
 							<img class="hvitspiss" src="./img/ikon/pointoverlay.png" alt="hvit overtrekksbilde">
 							<img src="./img/ikon/yoga.jpg">
-						</a>
-					</div>
+						
+						</div>
+					</a>
 				</li>
 				<li>
-					<div id="delta">
-						<p>les om<br>oss!</p>
-						<a href="index.php?page=omoss">
+					<a href="index.php?page=omoss">
+						<div id="delta">
+							<p>les om<br>oss!</p>
 							<img class="hvitspiss" src="./img/ikon/pointoverlay.png" alt="hvit overtrekksbilde">
-							<img src="./img/ikon/trykkher.jpg">
-						</a>
-					</div>
+							<img src="./img/ikon/trykkher.jpg">	
+						</div>
+					</a>
 				</li>
 			</ul>
 			<div id="tilbake"></div><div id="neste"></div>
