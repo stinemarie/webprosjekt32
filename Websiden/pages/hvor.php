@@ -6,7 +6,7 @@
 			har.</p>
 
 	<div class="treningsenter">
-		<a href="https//www.elixia.no" target="_blank">
+		<a href="http://www.elixia.no" target="_blank">
 		<img class="logo" src="img/elixialogo.png" alt="Sats" width="100" height="50"></a>
 			<div class="treninghvor">
 			<table>
