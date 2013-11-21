@@ -49,6 +49,7 @@ footer img{
 
 /*ting som ikke er med i mobilløsningen under 480 gjør dette*/
 @media( max-width:750px){
+
 /*REGLER FOR HELE SIDEN under 750px*/
 
 #taMegTilToppen{
@@ -122,7 +123,6 @@ h2, h3, h4{
 	margin-left: 30px;
 	margin-top: 30px;
 }
-
 
 /*REGLER FOR NAVIGERING under 750px*/
 #hovednavigering a{
@@ -274,14 +274,6 @@ header{
 }
 
 
-
-
-
-
-
-
-
-
 div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	position:absolute;
 	width:100%;
@@ -369,7 +361,6 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	margin-top: -4px;
 	line-height: 20px;
 }
-
 
 #hovednavigering .undersideNav .undersideSisteKnapp{
 	border-right: 1px solid #9EB728;
@@ -1286,7 +1277,6 @@ input{
 		margin: 10px;
 }
 
-
 /* Slutt på ernæring */
 
 /*yoga og pilates*/
@@ -1295,8 +1285,6 @@ input{
 	width: 90%;
 }
 
-
-/* FOR ALLE SKJERMER */
 
 } /*<-denne hører til en løkke la stå!*/
 
