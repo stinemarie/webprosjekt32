@@ -770,7 +770,7 @@ h2{
 	text-align: center;
 }
 
-/*Kalkulator*/
+/*Styling til BMI kalkulator*/
 form{
 	background: #ECEDA2;
 	margin:auto;
@@ -830,6 +830,70 @@ input{
 	background:#9EB728;
 	color:#fff;
 }
+
+/* Styling av BMR kalkulator*/
+form{
+	background: #ECEDA2;
+	margin:auto;
+	position:relative;
+	width:400px;
+	height:350px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 23px;
+	font-weight: bold;
+	color:  #9EB728;
+	text-decoration: none;
+	border-radius: 10px;
+	padding:10px;
+	border: 1px solid #9EB728;
+	border: inset 1px solid#9EB728;
+	box-shadow: 0px 0px 8px #9EB728;
+}
+input{
+	display:block;
+	width:90px;
+	border: 1px solid #999;
+	height: 20px;
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+#k1{
+	display:inline;
+	border:none;
+	box-shadow: none;
+
+}
+#m1{
+	display: inline;
+	border:none;
+	box-shadow: none;
+}
+
+#resetbmr{
+	width:100px;
+	position:absolute;
+	right:20px;
+	bottom:20px;
+	background:#9EB728;
+	color:#fff;
+}
+
+
+#bmrbutton{
+	width: 100px;
+	position: absolute;
+	left: 20px;
+	bottom: 155px;
+	background:#9EB728;
+	color:#fff;
+}
+#resultat{
+	background-color: #ECEDA2;
+	border: none;
+	box-shadow: none;
+
+/*Slutte på styling av kalkulatorene*/
 
 /* slutt på Hvorfor trene */
 
