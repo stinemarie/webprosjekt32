@@ -26,7 +26,7 @@
 					</a>	
 				</li>
 				<li>
-					<a href="index.php?page=intervju">
+					<a href="index.php?page=personligtrener">
 						<div id="gamma">
 							<p>les intervju med personlige trenere</p>
 							<img class="hvitspiss" src="./img/ikon/pointoverlay.png" alt="hvit overtrekksbilde">

@@ -112,10 +112,6 @@
 					include("./pages/ernering.php");
 				elseif($_GET["page"] == "personligtrener")
 					include("./pages/personligtrener.php");
-				elseif($_GET["page"] == "intervju")
-					include("./pages/intervju.php");
-				elseif($_GET["page"] == "trenerne")
-					include("./pages/trenerne.php");
 				elseif($_GET["page"] == "lenker")
 					include("./pages/lenker.php");
 				elseif($_GET["page"] == "omoss")
