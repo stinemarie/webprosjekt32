@@ -4,7 +4,7 @@
 	<p>BMI er en forkortelse for "Body mass index" og kan bli brukt til å bedømme kroppsvekt.
 	BMI er et veldig grovt mål som ikke tar hensyn til faktorer som alder, kjønn eller muskelmass. Derfor kan en som er meget veltrent få en høyere bmi og bli klassifisert som overvektig. </p>
 
-	<div>
+	<div class="bmikalk">
 	<form name="bmiKalk">
 		Din vekt i kilogram: <input id="vekt" type="text" name="vekt" size="10">
 		Din høyde i centimeter: <input id="hoyde" type="text" name="høyde" size="10">
@@ -18,7 +18,7 @@
 <h2>Basal metabolic rate kalkulator</h2>
 	<p> BMR er en forkortelse for "Basal metabolic rate" som er mengden energi et menneske forbrenner ved hvile. Du kan under her prøve ut vår BMR kalkulator som er basert på formelen du finner på <a href="http://www.bmi-calculator.net/bmr-calculator/bmr-formula.php" target="_blank">denne siden</a>.</p>
 
-	<div>
+	<div class="bmrkalk">
 	<form name="BMRkalk">
 	  	Kvinne <input type="radio" id="k1" name="kjønn" checked >
 	  	Mann <input type="radio" id="m1" name="kjønn" ><br />
