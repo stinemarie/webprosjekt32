@@ -148,7 +148,7 @@
 	</div>
 
 	<div class="treningsenter">
-		<a href="https://www.fitness24seven.com/no/start" target="_blank">
+		<a href="http://www.fitness24seven.com/no/start" target="_blank">
 		<img src="img/fitness247.png" alt="Fitness 24/7" width="50" height="50"></a>
 			
 			<div class="treninghvor">
