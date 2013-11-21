@@ -6,7 +6,7 @@
 			har.</p>
 
 	<div class="treningsenter">
-		<a href="https://www.elixia.no" target="_blank">
+		<a href="https//www.elixia.no" target="_blank">
 		<img class="logo" src="img/elixialogo.png" alt="Sats" width="100" height="50"></a>
 			<div class="treninghvor">
 			<table>
@@ -40,12 +40,12 @@
 				<li>Ullevål</li>
 			</ul>
 			<p>Elixia tilbyr også mange andre sentre i nærhet av Oslo, men vi valgte liste opp disse, da de er de mest sentrale.</p>
-			Kilde: <a href="https://www.elixia.no" target="_blank">Elixia.no </a>
+			Kilde: <a href="http://www.elixia.no" target="_blank">Elixia.no </a>
 	</div>
 
 
 	<div class="treningsenter">
-		<a href="https://www.sats.no" target="_blank">
+		<a href="http://www.sats.no" target="_blank">
 		<img src="img/satslogo.png" alt="Sats" width="100" height="50"></a>
 
 			<div class="treninghvor">
@@ -102,11 +102,11 @@
 				<li>Vulkan</li>
 			</ul>
 			<p>SATS tilbyr også mange andre sentre i nærhet av Oslo, men vi valgte liste opp disse, da de er de mest sentrale.</p>
-			Kilde: <a href="https://www.sats.no" target="_blank">Sats.no </a>
+			Kilde: <a href="http://www.sats.no" target="_blank">Sats.no </a>
 	</div>		
 
 	<div class="treningsenter">
-		<a href="https://www.evofitness.no" target="_blank">
+		<a href="http://www.evofitness.no" target="_blank">
 		<img src="img/evofitness.png" alt="EVO Fitness" width="100" height="50"></a>
 
 			<div class="treninghvor">
@@ -143,7 +143,7 @@
 				<li>Drøbak</li>
 			</ul>
 
-			Kilde: <a href="https://www.evofitness.no" target="_blank">Evofitness.no</a>
+			Kilde: <a href="http://www.evofitness.no" target="_blank">Evofitness.no</a>
 
 	</div>
 
@@ -182,12 +182,12 @@
 				<li>Stortorvet</li>
 			</ul>
 
-			Kilde: <a href="https://www.fitness24seven.com/no/start" target="_blank">Fitness24seven </a>
+			Kilde: <a href="http://www.fitness24seven.com/no/start" target="_blank">Fitness24seven </a>
 
 	</div>
 
 	<div class="treningsenter">
-		<a href="https://www.freshfitness.no" target="_blank">
+		<a href="http://www.freshfitness.no" target="_blank">
 		<img src="img/freshfitnesslogo.png" alt="Fresh Fitness" width="100" height="50"></a>
 
 			<div class="treninghvor">
@@ -224,7 +224,7 @@
 				<li>Ullevåll</li>
 			</ul>
 
-			Kilde: <a href="https://www.freshfitness.no" target="_blank">freshfitness.no </a>
+			Kilde: <a href="http://www.freshfitness.no" target="_blank">freshfitness.no </a>
 
 	
 	</div>
