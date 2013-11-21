@@ -750,7 +750,12 @@ h2{
 .favoritter img{
 	width: 500px;
 	box-shadow: 1px 1px 3px black;
-	margin-left: 74px;
+	margin-left: 34px;
+}
+
+.favorittBoks figcaption{
+	margin-left: 40px;
+	font-size: 14px;
 }
 
 /* slutt på Våre favoritter */
