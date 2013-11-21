@@ -6,7 +6,7 @@
 		<img src="./img/maikenwalle.png" alt="maiken walle">	
 		<img src="./img/6omdagen.jpeg" alt="6 om dagen humor bilde">
 	</div>
-	<p>Kilde til bilde "6 om dagen":<a href="http://www.jessicasky.bloggersdelight.dk"> Jessicasky</a></p>
+	<p>Kilde til bilde "6 om dagen" : <a href="http://www.jessicasky.bloggersdelight.dk">Jessicasky</a></p>
 
 	<p><b>Hva burde en hver middag innehold for å få nok energi og næring fra måltidet?</b></p>
 	<p>Enhver middag burde legges opp etter tallerkenmoddelen, hvor man har:</p> 
