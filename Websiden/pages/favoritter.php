@@ -16,7 +16,7 @@
 		<h4>Ida sin favoritt: Avokado</h4>
 		<figure>
 			<img src="./img/avokado.jpg" alt="bilde av avokado">
-			<figcaption></figcaption>
+			<figcaption>Kilde: <a href="http://www.kriweb.no/2013/02/14/kjottkaker-med-avokado/" target="_blank"> kriweb.no</a></figcaption>
 		</figure>
 		<p>Den er rik på kalsium, proteiner og B-, E-, K-, A- og C-vitaminer.  I tillegg inneholder frukten kolesterolsenkende stoffer og 
 		antioksidanter som er spesielt bra for nervesystemet.</p>
