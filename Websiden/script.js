@@ -7,7 +7,8 @@ $(document).ready(function(){
 		easterEggInn();
 		hovedNavigering();
 	}else{
-		kalkulerBmi(); 
+		kalkulerBmi();
+		kalkulerBmr(); 
 	}
 });
 
@@ -249,10 +250,11 @@ function easterEggUt(){
 			$("#kostholdslink").delay(200).animate({top: "0px"},500);
 			$("#ptlink").delay(300).animate({top: "0px"},500);
 			$("#lenkerlink").delay(400).animate({top: "0px"},500);
-			$("#omosslink").delay(500).animate({top: "0px"},500);
+			$("#omosslink").delay(500).animate({top: "0px"},500,
+				function(){window.location.href = window.location.href;
+			});
 			$(".kar div").animate({top:'0px'},800);
-			$(".oppskrift .overlay, #trykkher").animate({top:'0px'},800, function(){window.location.href = window.location.href;
-			});			
+			$(".oppskrift .overlay, #trykkher").animate({top:'0px'},800);
 		});
 	});
 };
