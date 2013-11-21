@@ -6,7 +6,7 @@
 			<li>			
 				<img src="./img/ikon/trykkher.jpg" alt="ikon">
 				<div id="trykkher">
-					<p>trykk på bilde for å lese om øvelsene</p>
+					<p>trykk på en av bildene for å lese mer om øvelsen</p>
 				</div>
 			</li>
 			<li>

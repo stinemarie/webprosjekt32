@@ -559,6 +559,8 @@ h2{
 
 .treningssider #trykkher, .treningssider #trykk {
 	position:absolute;
+	left:0;
+	top:0;
 }
 
 .treningssider .overlay{
