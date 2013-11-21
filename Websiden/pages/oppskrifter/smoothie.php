@@ -38,7 +38,7 @@
 		</figure>
 
 
-		<p class="kilde">Kilde: <a href="www.vektklubben.no" target="_blank">Vektklubben</a></p>
+		<p class="kilde">Kilde: <a href="http://www.vektklubb.no" target="_blank">Vektklubb</a></p>
 
 		<a href="index.php?page=oppskrifter">tilbake</a>
 
@@ -62,7 +62,7 @@
 				<img class="matbilde" src="img/lyserøddrøm.jpg" alt="lyserød drøm">
 			</figure> 
 
-			<p class="kilde">Kilde: <a href="www.vektklubben.no" target="_blank">Vektklubben</a></p>
+			<p class="kilde">Kilde: <a href="http://www.vektklubb.no" target="_blank">Vektklubb</a></p>
 
 		 	<a href="index.php?page=oppskrifter">tilbake</a>
 
@@ -82,7 +82,7 @@
 		<!-- <figcaption class="kilde">kilde: foto:</figcaption> -->
 		</figure> 
 
-		<p class="kilde">kilde: <a href="oppskrifter.html#vaniljekrem" target="_blank">Trines matblogg</a>
+		<p class="kilde">kilde: <a href="http://www.frukt.no/oppskrifter/smoothie/oppskrifter3/" target="_blank">Frukt.no</a>
 		</p>
 
 		<a href="index.php?page=oppskrifter">tilbake</a>
@@ -107,7 +107,7 @@
 		<!-- 	<figcaption class="kilde">Kilde: Vektklubben<figcaption> -->
 		</figure> 
 
-		<p class="kilde">Kilde: <a href="www.vektklubben.no" target="_blank">Vektklubben</a></p>
+		<p class="kilde">Kilde: <a href="http://www.vektklubb.no" target="_blank">Vektklubb</a></p>
 
 		<a href="index.php?page=oppskrifter">tilbake</a>
 
@@ -128,7 +128,7 @@
 			<!-- <figcaption class="kilde">Kilde: Vektklubben</figcaption> -->
 		</figure> 
 
-		<p class="kilde">Kilde: <a href="www.vektklubben.no" target="_blank">Vektklubben</a></p>
+		<p class="kilde">Kilde: <a href="http://www.vektklubb.no" target="_blank">Vektklubb</a></p>
 
 		<a href="index.php?page=oppskrifter">tilbake</a>
 
@@ -149,7 +149,7 @@
 	<!-- 		<figcaption class="kilde">Kilde: Vektklubben</figcaption> -->
 		</figure> 
 
-		<p class="kilde">Kilde: <a href="www.vektklubben.no" target="_blank">Vektklubben</a></p>
+		<p class="kilde">Kilde: <a href="http://www.vektklubb.no" target="_blank">Vektklubb</a></p>
 
 		<a href="index.php?page=oppskrifter">tilbake</a>
 
@@ -173,7 +173,7 @@
 		</figure> 
 
 		<p class="kilde">Kilde: 
-			<a href="www.vektklubben.no" target="_blank">Vektklubben</a>
+			<a href="http://www.vektklubb.no" target="_blank">Vektklubb</a>
 		</p>
 		<a href="index.php?page=oppskrifter">tilbake</a>
 
