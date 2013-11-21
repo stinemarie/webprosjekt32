@@ -20,7 +20,7 @@
 
 	<div>
 	<form name="BMRkalk">
-	  	Kvinne <input type="radio" id="k1" name="kjønn" >
+	  	Kvinne <input type="radio" id="k1" name="kjønn" checked >
 	  	Mann <input type="radio" id="m1" name="kjønn" ><br />
 	  	Din vekt i kilogram: <input id"bmrvekt" type="text" name="bmrvekt" size="10">
 	  	Din høyde i cm: <input id="bmrhøyde" type="text" name="bmrhøyde" size="10">
