@@ -281,3 +281,27 @@ function kalkulerBmi() {
 	alert("Vennligst fyll inn alt korrekt.")
 	}
 }
+
+/* Script til BMR kalkilator*/
+function kalkulerBmr() {
+  	var vekt = document.BMRkalk.bmrvekt.value
+  	var høyde = document.BMRkalk.bmrhøyde.value
+	var alder = document.BMRkalk.bmralder.value
+	if (vekt > 0 && høyde > 0 && alder >0){
+		var endeligBmrKvinne = 655+(9.6*vekt)+(1.8*høyde)-(4.7*alder);
+		var endeligBmrMann =   66+(13.7*vekt)+(5*høyde)-(6.8*alder);
+		endeligBmrKvinne = endeligBmrKvinne.toFixed(2);
+		endeligBmrMann = endeligBmrMann.toFixed(2);
+  
+
+		if (document.getElementById("k1").checked){
+      			document.BMRkalk.resultat.value = endeligBmrKvinne + " kcal";
+		}
+		else if (document.getElementById("m1").checked){
+      			document.BMRkalk.resultat.value = endeligBmrMann + " kcal";
+		}
+		else {
+      			alert("Vennligst fyll inn alt korrekt.");
+      		}
+ 	}
+ }
