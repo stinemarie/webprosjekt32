@@ -11,7 +11,7 @@
 
 	<div class="treninghvor">
 	<table>
-	<tr>
+	<tr id="tablehead">
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
@@ -24,10 +24,7 @@
 	</table>
 	</div>
 
-	<p>Det er viktig med rett rygg i denne øvelsen, for å unngå skader. Man står med beina noe spredt, og går sakte ned i knebøy til 
-		lårene er parallelt med gulvet. Så går man rolig opp igjen og retter opp kroppen, for å gå tilbake i utgangsposisjonen. Her er 
-		det viktig at man har nok, slik at man blir sliten etter hver repetisjon, og når man er ferdig med alle seriene at man ikke
-		tenker at man ville klart en til.</p>
+	<p>Det er viktig med rett rygg i denne øvelsen, for å unngå skader. Man står med beina noe spredt, og går sakte ned i knebøy til lårene er parallelt med gulvet. Så går man rolig opp igjen og retter opp kroppen, for å gå tilbake i utgangsposisjonen. Her er det viktig at man har nok, slik at man blir sliten etter hver repetisjon, og når man er ferdig med alle seriene at man ikke tenker at man ville klart en til.</p>
 
 	<h4>Utfall</h4>
 	<div id="utfallbilder">
@@ -37,7 +34,7 @@
 
 	<div class="treninghvor">
 	<table>
-	<tr>
+	<tr id="tablehead">
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
@@ -50,16 +47,9 @@
 	</table>
 	</div>
 
-	<p>Her kan man velge mellom enten gående utfall og stillestående utfall. Det er viktig at man holder ryggen rett og kjernemuskelaturen 
-		(mage, skuldre, overkropp) stabil, slik at man unngår tyngde på ryggen. 
-	<p>Gående utfall: Man kan ha vekt i hver hånd, og starter i en rett stilling. Man må passe på at knær og tær peker i samme retning.
-		Så tar man et stort skritt fremover, og bakre kne bøyes ned til en ca 90 graders vinkel, hvor kneet skal være så nær bakken som 
-		mulig, uten å være i kontakt med bakken. Det man må passe på, er at knær ikke går over tær, med at du lener deg for langt frem. I
-		stede for å sparke ifra, slik at du kommer tilbake i utgangsposisjonen, så skal man ta et nytt utfall med det andre benet frem.</p>
-	<p>Stående utfall: Man kan ha vekt i hver hånd, og starter i en rett stilling. Man må passe på at knær og tær peker i samme retning.
-		Så tar man et stort skritt fremover, og bakre kne bøyes ned til en ca 90 graders vinkel, hvor kneet skal være så nær bakken som 
-		mulig, uten å være i kontakt med bakken. Det man må passe på, er at knær ikke går over tær, med at du lener deg for langt frem.
-		Deretter skal man sparke ifra, slik at man kommer opp i utgangsposisjonen.</p>
+	<p>Her kan man velge mellom enten gående utfall og stillestående utfall. Det er viktig at man holder ryggen rett og kjernemuskelaturen (mage, skuldre, overkropp) stabil, slik at man unngår tyngde på ryggen. 
+	<p>Gående utfall: Man kan ha vekt i hver hånd, og starter i en rett stilling. Man må passe på at knær og tær peker i samme retning. Så tar man et stort skritt fremover, og bakre kne bøyes ned til en ca 90 graders vinkel, hvor kneet skal være så nær bakken som mulig, uten å være i kontakt med bakken. Det man må passe på, er at knær ikke går over tær, med at du lener deg for langt frem. I stede for å sparke ifra, slik at du kommer tilbake i utgangsposisjonen, så skal man ta et nytt utfall med det andre benet frem.</p>
+	<p>Stående utfall: Man kan ha vekt i hver hånd, og starter i en rett stilling. Man må passe på at knær og tær peker i samme retning. Så tar man et stort skritt fremover, og bakre kne bøyes ned til en ca 90 graders vinkel, hvor kneet skal være så nær bakken som mulig, uten å være i kontakt med bakken. Det man må passe på, er at knær ikke går over tær, med at du lener deg for langt frem. Deretter skal man sparke ifra, slik at man kommer opp i utgangsposisjonen.</p>
 
 	<h4>Push ups</h4>
 	<div id="pushupbilder">
@@ -69,7 +59,7 @@
 
 	<div class="treninghvor">
 	<table>
-	<tr>
+	<tr id="tablehead">
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
@@ -82,10 +72,7 @@
 	</table>
 	</div>
 
-	<p>Det finnes mange forskjellige varianter med push ups. Her bruker man som regel kun sin egen kroppsvekt, eller så kan man gjøre
-		det tyngre ved å evt legge vekt på ryggen. Man står på tærne, eller så kan man gå ned på knærne for å få det lettere. Så går man i
-		en planke possisjon, og strammer magen og sete. Bøy albuene ut til siden og senk brystet ned til gulvet, og press deg deretter
-		opp igjen til en rett posisjon.</p>
+	<p>Det finnes mange forskjellige varianter med push ups. Her bruker man som regel kun sin egen kroppsvekt, eller så kan man gjøre det tyngre ved å evt legge vekt på ryggen. Man står på tærne, eller så kan man gå ned på knærne for å få det lettere. Så går man i en planke possisjon, og strammer magen og sete. Bøy albuene ut til siden og senk brystet ned til gulvet, og press deg deretter opp igjen til en rett posisjon.</p>
 
 	<h4>Planke med ball</h4>
 	<div id="plankebilder">
@@ -95,7 +82,7 @@
 
 	<div class="treninghvor">
 	<table>
-	<tr>
+	<tr id="tablehead">
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
@@ -108,11 +95,7 @@
 	</table>
 	</div>
 
-	<p>Her skal man tenke at man skal skyte bekkenet noe frem, og så starter man i første posisjon, som på første bilde, og ruller ballen 
-		sakte frem, slik at man ender i en planke stilling. Her er det viktig at man ruller ballen sakte fremover og bruker magemuskelaturen 
-		til å holde igjen. Når man skal opp så ruller man ballen sakte inn mot seg igjen, slik at man ender opp i startposisjonen. Man 
-		skal ikke gå helt opp, men rulle ned igjen med en gang. På den siste repetisjonen på hver serie, så skal man holde plankestilling 
-		frem til man ikke orker mer, før man ruller opp igjen til startposisjonen.</p>
+	<p>Her skal man tenke at man skal skyte bekkenet noe frem, og så starter man i første posisjon, som på første bilde, og ruller ballen sakte frem, slik at man ender i en planke stilling. Her er det viktig at man ruller ballen sakte fremover og bruker magemuskelaturen til å holde igjen. Når man skal opp så ruller man ballen sakte inn mot seg igjen, slik at man ender opp i startposisjonen. Man skal ikke gå helt opp, men rulle ned igjen med en gang. På den siste repetisjonen på hver serie, så skal man holde plankestilling frem til man ikke orker mer, før man ruller opp igjen til startposisjonen.</p>
 
 	<h4>Situps med Bosu ball</h4>
 	<div class="tobilder">
@@ -122,7 +105,7 @@
 
 	<div class="treninghvor">
 	<table>
-	<tr>
+	<tr id="tablehead">
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
@@ -135,11 +118,7 @@
 	</table>
 	</div>
 
-	<p>Man plasserer overkroppen på ballen med støtte for hele ryggen, fra skuldrene til hoften. Så skal man ha en grei vinkel på beina 
-		og føttene godt plassert på gulvet. Så skal man puste ut og dra overkroppen opp mot knærne, men stopper når du har en rett rygg. 
-		Når du går tilbake, så er det viktig at man bruker magemuskelaturen for å holde igjen. Man skal da kjenne at ryggen rulles opp med 
-		ballen og ikke bare løftes helt opp, slik at man får brukt hele muskelaturen. Her man kan gjøre øvelsen tyngre ved å plassere 
-		vekt i armene, med å holde armene strakt opp over overkroppen.</p>
+	<p>Man plasserer overkroppen på ballen med støtte for hele ryggen, fra skuldrene til hoften. Så skal man ha en grei vinkel på beina og føttene godt plassert på gulvet. Så skal man puste ut og dra overkroppen opp mot knærne, men stopper når du har en rett rygg. Når du går tilbake, så er det viktig at man bruker magemuskelaturen for å holde igjen. Man skal da kjenne at ryggen rulles opp med ballen og ikke bare løftes helt opp, slik at man får brukt hele muskelaturen. Her man kan gjøre øvelsen tyngre ved å plassere vekt i armene, med å holde armene strakt opp over overkroppen.</p>
 
 	<h4>Markløft</h4>
 	<div class="tobilder">
@@ -149,7 +128,7 @@
 
 	<div class="treninghvor">
 	<table>
-	<tr>
+	<tr id="tablehead">
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
@@ -162,34 +141,7 @@
 	</table>
 	</div>
 
-	<p>Man skal holde vektstangen med et over- og underhåndsgrep i skulderbreddes avstand. Så står man med føttene litt fra hverandre,
-		strammer magen, og har rett rygg. Man skal holde beina så rett som mulig, uten å låse knærne. Så skal man bevege overkroppen frem
-		og ned mot føttene, mens hoftene og rumpa går tilbake. Stangen skal gli tettest mulig inntil kroppen. Så retter man seg opp til
-		utgangsposisjon. Det er viktig at man passer på å ha rett rygg, stram mage og puster ut på vei opp.</p>
-
-	<h4>Sidehev mage - MANGLER BILDE</h4>
-
-	<img src="" alt="">
-
-	<div class="treninghvor">
-	<table>
-	<tr>
-		<th>Muskelgruppe</th>
-		<th>Repetisjoner</th>
-		<th>Serier</th>
-	</tr>
-	<tr class="alt">
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	</table>
-	</div>
-
-	<p>Man plasserer seg i en sidelangs planke med strake bein. Armen plasseres rett under skulderen, slik at den står stabilt. Man skal 
-		da gjøre et hev og senk med hoftene mens armen og beina står på samme plass. For å få en tyngre øvelse, så kan man ha ekstra vekt 
-		på hoften.</p>
-
+	<p>Man skal holde vektstangen med et over- og underhåndsgrep i skulderbreddes avstand. Så står man med føttene litt fra hverandre, strammer magen, og har rett rygg. Man skal holde beina så rett som mulig, uten å låse knærne. Så skal man bevege overkroppen frem og ned mot føttene, mens hoftene og rumpa går tilbake. Stangen skal gli tettest mulig inntil kroppen. Så retter man seg opp til utgangsposisjon. Det er viktig at man passer på å ha rett rygg, stram mage og puster ut på vei opp.</p>
 
 	<h4>Roing i kabelmaskin</h4> 
 
@@ -200,7 +152,7 @@
 
 	<div class="treninghvor">
 	<table>
-	<tr>
+	<tr id="tablehead">
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
@@ -213,10 +165,7 @@
 	</table>
 	</div>
 
-	<p>I startposisjonen så sitter man med en rett rygg og beina plassert på platen med en liten bøy i knærne. Man senker skuldrene ned 
-		og tilbake. Så plasserer man blikket foran seg og trekker håndtaket kontrollert mot brystet. Man kan tenke at man skal holde en 
-		blyant sammen med skulderbladene når man trekker håndtaket mot brystet og skyver armene bakover. Viktig at man ikke hjelper til 
-		med nakken her, men nakken skal være i samme posisjon hele tiden.</p>
+	<p>I startposisjonen så sitter man med en rett rygg og beina plassert på platen med en liten bøy i knærne. Man senker skuldrene ned og tilbake. Så plasserer man blikket foran seg og trekker håndtaket kontrollert mot brystet. Man kan tenke at man skal holde en blyant sammen med skulderbladene når man trekker håndtaket mot brystet og skyver armene bakover. Viktig at man ikke hjelper til med nakken her, men nakken skal være i samme posisjon hele tiden.</p>
 
 	<h4>Dips med step</h4>
 	<div class="tobilder">
@@ -226,7 +175,7 @@
 
 	<div class="treninghvor">
 	<table>
-	<tr>
+	<tr id="tablehead">
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
@@ -239,9 +188,7 @@
 	</table>
 	</div>
 
-	<p>Sett deg på kanten av benken og passer armene tett inntil lårene. Detter tar du da beina ut forran steppen. Så senker man seg ned
-		til armene er i en 90 graders vinkel, og sånn at rumpa så vidt beører gulvet før man hever kroppen igjen. Man skal ikke ha noe hvile
-		mellom hver repetiosjon, slik at når man kommer opp, skal man rett ned igjen, og omvendt.</p>
+	<p>Sett deg på kanten av benken og passer armene tett inntil lårene. Detter tar du da beina ut forran steppen. Så senker man seg ned til armene er i en 90 graders vinkel, og sånn at rumpa så vidt beører gulvet før man hever kroppen igjen. Man skal ikke ha noe hvile mellom hver repetiosjon, slik at når man kommer opp, skal man rett ned igjen, og omvendt.</p>
 
 
 	<h4>Sving med ball (side mage)</h4>
@@ -253,7 +200,7 @@
 
 	<div class="treninghvor">
 	<table>
-	<tr>
+	<tr id="tablehead">
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
@@ -266,9 +213,7 @@
 	</table>
 	</div>
 	
-	<p>Man skal sitte på rumpen med rett rygg. Her kan man velge om man ønsker å heve beina fra gulvet eller ikke (tyngre å løfte de fra 
-		gulvet). Man holder da en vekt/vektball som man svinger godt fra den ene siden av kroppen til den andre, mens man da holder balansen 
-		og er noe bakoverlent. Viktig at man da strammer magemusklene her og svinger godt til siden.</p>
+	<p>Man skal sitte på rumpen med rett rygg. Her kan man velge om man ønsker å heve beina fra gulvet eller ikke (tyngre å løfte de fra gulvet). Man holder da en vekt/vektball som man svinger godt fra den ene siden av kroppen til den andre, mens man da holder balansen og er noe bakoverlent. Viktig at man da strammer magemusklene her og svinger godt til siden.</p>
 
 
 	<h4>Armstrekk med vekter</h4> 
@@ -279,22 +224,20 @@
 
 	<div class="treninghvor">
 	<table>
-	<tr>
+	<tr id="tablehead">
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
 	</tr>
 	<tr class="alt">
-		<td></td>
-		<td></td>
-		<td></td>
+		<td>Shoulders, Biceps, Lats, Middel Back</td>
+		<td>12 (hver arm)</td>
+		<td>3</td>
 	</tr>
 	</table>
 	</div>
 	
-	<p>Man plasserer den ene foten på gulvet, mens den andre har man på benken. Armen på samme side som beinet på benken plasseres foran 
-		brystet på banken mens den andre armen holdes rett ned under skulderen. Armen trekkes da opp påsiden av brystet med albuen bakover 
-		og opp. Man trekker den helt opp, slik at vekten er parallelt med brystet før man senger den ned igjen.</p>
+	<p>Man plasserer den ene foten på gulvet, mens den andre har man på benken. Armen på samme side som beinet på benken plasseres foran brystet på banken mens den andre armen holdes rett ned under skulderen. Armen trekkes da opp påsiden av brystet med albuen bakover og opp. Man trekker den helt opp, slik at vekten er parallelt med brystet før man senger den ned igjen.</p>
 
 	<h4>Sidehev skuldre med vekter</h4>
 	<div class="tobilder">
@@ -304,7 +247,7 @@
 
 	<div class="treninghvor">
 	<table>
-	<tr>
+	<tr id="tablehead">
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
@@ -317,9 +260,7 @@
 	</table>
 	</div>
 
-	<p>Stå med beina i skulderbreddes avstand, og hold manualene i armene foran kroppen. Med en liten knekk i albueleddet løfter du 
-		armene opp til skulderhøyde, og senter ned. Det er viktig at man her ikke løfter høyere enn skulderhøyden, da dette stresser
-		skulderleddet unødvendig.</p>
+	<p>Stå med beina i skulderbreddes avstand, og hold manualene i armene foran kroppen. Med en liten knekk i albueleddet løfter du armene opp til skulderhøyde, og senter ned. Det er viktig at man her ikke løfter høyere enn skulderhøyden, da dette stresser skulderleddet unødvendig.</p>
 
 
 	<h4>Liggende benløft</h4>
@@ -330,7 +271,7 @@
 
 	<div class="treninghvor">
 	<table>
-	<tr>
+	<tr id="tablehead">
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
@@ -343,10 +284,7 @@
 	</table>
 	</div>
 
-	<p>Man ligger rett på gulvet med armene strakt på hver side av kroppen. Så skal man heve og senke beina mens de er strake. Når man har
-		beina opp i været, skal man til slutt ta et lite løft av rumpa, hvor man bruker kjernemuskelaturen til å gjøre dette. Når man skal 
-		senke beina ned mot gulvet igjen, så er det viktig at man bruker magemuskelene til å holde igjen, til man nesten berører gulvet. Så
-		skal man rett opp igjen uten noe hvile mellom repetisjonene.</p>
+	<p>Man ligger rett på gulvet med armene strakt på hver side av kroppen. Så skal man heve og senke beina mens de er strake. Når man har beina opp i været, skal man til slutt ta et lite løft av rumpa, hvor man bruker kjernemuskelaturen til å gjøre dette. Når man skal senke beina ned mot gulvet igjen, så er det viktig at man bruker magemuskelene til å holde igjen, til man nesten berører gulvet. Så skal man rett opp igjen uten noe hvile mellom repetisjonene.</p>
 
 	<h4>Rygghev</h4>
 	<div class="tobilder">
@@ -356,7 +294,7 @@
 
 	<div class="treninghvor">
 	<table>
-	<tr>
+	<tr id="tablehead">
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
@@ -369,8 +307,7 @@
 	</table>
 	</div>
 
-	<p>Man ligger med strak rygg på magen, så kniper man i sete og strammer magen. Så løfter man overkroppen opp fra gulvet, mens man 
-		krummer ryggen noe. Så senter man seg ned igjen til utgangsposisjon, og fortsetter uten hvile mellom hver repetisjon.</p>
+	<p>Man ligger med strak rygg på magen, så kniper man i sete og strammer magen. Så løfter man overkroppen opp fra gulvet, mens man krummer ryggen noe. Så senter man seg ned igjen til utgangsposisjon, og fortsetter uten hvile mellom hver repetisjon.</p>
 
 	<h4>TRX mage</h4>
 	<div class="tobilder">
@@ -379,7 +316,7 @@
 	</div>
 	<div class="treninghvor">
 	<table>
-	<tr>
+	<tr id="tablehead">
 		<th>Muskelgruppe</th>
 		<th>Repetisjoner</th>
 		<th>Serier</th>
@@ -392,8 +329,5 @@
 	</table>
 	</div>
 
-	<p>TRX løkkene skal henge ca 25 cm over gulvet. Man plasserer én fot i hver løkke, og legger føttene samlet. Man gjør deretter kroppen
-		stiv som en spett, slik at man ligger helt rett, som i en plankepossisjon. Så skyter man rumpa i været og trekker begge knærne
-		opp mot brystet - som når man gjør situps. Så strekker man beina ut igjen, slik at man kommer tilbake til utangsposisjonen. Det
-		skal ikke være noe hvile mellom hver repetisjon.</p>
+	<p>TRX løkkene skal henge ca 25 cm over gulvet. Man plasserer én fot i hver løkke, og legger føttene samlet. Man gjør deretter kroppen stiv som en spett, slik at man ligger helt rett, som i en plankepossisjon. Så skyter man rumpa i været og trekker begge knærne opp mot brystet - som når man gjør situps. Så strekker man beina ut igjen, slik at man kommer tilbake til utangsposisjonen. Det skal ikke være noe hvile mellom hver repetisjon.</p>
 </div>

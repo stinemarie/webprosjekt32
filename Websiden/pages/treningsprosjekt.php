@@ -1,9 +1,7 @@
 <h2>Før/etter med TTFS</h2>
 
 <div class="treningsprosjekt">
-	<p>Vi har under prosjektperioden gått inn for å ha et Før og Etter prosjekt, som Ida har utført. Her satte hun seg noen
-		små oppnåelige mål for den korte perioden vi hadde, og så skulle vi se hvilke av disse målene som hun følte at hun klarte oppfylle etter
-		at prosjektperioden var over.</p>
+	<p>Vi har under prosjektperioden gått inn for å ha et Før og Etter prosjekt, som Ida har utført. Her satte hun seg noen små oppnåelige mål for den korte perioden vi hadde, og så skulle vi se hvilke av disse målene som hun følte at hun klarte oppfylle etter at prosjektperioden var over.</p>
 	<div class="styrke">
 		<div id="apebilder">
 			<img class="treningsbilde" src="img/treningimg/ape1.jpg" alt="akrobat1">
@@ -11,19 +9,16 @@
 			<img class="treningsbilde" src="img/treningimg/ape3.jpg" alt="akrobat3">
 		</div>
 	</div>
-	<p>Jeg følte at for meg var det ikke å oppnå å gå ned så, så mange kilo på den ene måneden som vi skulle ha dette prosjektet. For meg så 	gikk det mer ut på å få gjennomført de øktene som jeg vet skal til for at jeg skal kunne sitte igjen med en god selvfølelse. 
-		Mine mål ble derfor:</p>
+	<p>Jeg følte at for meg var det ikke å oppnå å gå ned så, så mange kilo på den ene måneden som vi skulle ha dette prosjektet. For meg så gikk det mer ut på å få gjennomført de øktene som jeg vet skal til for at jeg skal kunne sitte igjen med en god selvfølelse. Mine mål ble derfor:</p>
 	<ul>
 		<li>Få trent minst 3 ganger hver uke</li>
 		<li>I disse øktene skulle jeg ha minimum 2 intervaller og 2 styrkeøkter fordelt</li>
 		<li>Unngå kollektiv transport</li>
 	</ul>
-	<p>Nå som vi er ferdig med prosjektet, så kan jeg si at jeg har klart å følge alle mine mål, unntatt den ene uken, da jeg var syk, og kun
-		fikk gjort to av tre ønskede økter den uken.</p>
+	<p>Nå som vi er ferdig med prosjektet, så kan jeg si at jeg har klart å følge alle mine mål, unntatt den ene uken, da jeg var syk, og kun fikk gjort to av tre ønskede økter den uken.</p>
 
 	<h2>Skjema over utførelse</h2>
-	<p>Her er et skjema for prosjektperioden, til hvilke dato Ida har trent, og hvilke øvelser som da ble utført med informasjon om
-		vekt, repetisjoner og serier.</p>
+	<p>Her er et skjema for prosjektperioden, til hvilke dato Ida har trent, og hvilke øvelser som da ble utført med informasjon om vekt, repetisjoner og serier.</p>
 		
 	<div class="treninghvor">
 		<table>
