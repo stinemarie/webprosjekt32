@@ -1,6 +1,7 @@
 <div class="hjem">	
 
 	<p id="hjemtekst">På denne websiden kan du lese om trening og kosthold. Du vil blant annet finne gode tips til treningsøvelser og en oversikt over populære treningssentere og hva de har og tilby. Under kostholds-kategorien vil du finne oppskrifter på mange digge og sunne matretter!</p>
+	<p> TRYKK HER FOR ØKT LESELIGHET </p>
 	
 	<hr>
 
@@ -10,7 +11,7 @@
 				<li>
 					<a href="index.php?page=ovelser">
 						<div id="alpha">
-							<p>finn trenings-<br>øvelser</p>						
+							<p>finn trenings-<br>øvelser</p>
 							<img src="./img/ikon/running.jpg" alt="ikon av noen som løper">
 							<img class="hvitspiss" src="./img/ikon/pointoverlay.png" alt="hvit overtrekksbilde">		
 						</div>
@@ -28,7 +29,7 @@
 				<li>
 					<a href="index.php?page=personligtrener">
 						<div id="gamma">
-							<p>les intervju med personlige trenere</p>
+							<p>intervju med personlige trenere</p>
 							<img class="hvitspiss" src="./img/ikon/pointoverlay.png" alt="hvit overtrekksbilde">
 							<img src="./img/ikon/yoga.jpg">
 						
@@ -45,7 +46,8 @@
 					</a>
 				</li>
 			</ul>
-			<div id="tilbake"></div><div id="neste"></div>
+			<div id="tilbake"></div>
+			<div id="neste"></div>
 		</div><!--  slutt på ramme -->
 	</nav>
 

@@ -1,6 +1,6 @@
 /*REGLER FOR HELE SIDEN*/
 
-#undertittel{
+/*#undertittel{
 	font-size: 30px;
 }
 
@@ -45,13 +45,13 @@ footer img{
 
 .ovelser p{
 	color: white;
-}
+}*/
 
 /*ting som ikke er med i mobilløsningen under 480 gjør dette*/
 @media( max-width:750px){
 
 /*REGLER FOR HELE SIDEN under 750px*/
-
+/*
 #taMegTilToppen{
 	position:fixed;
 	height: 50px;
@@ -59,29 +59,29 @@ footer img{
 	background-color: teal;
 	top: 0;
 	left: 0;
-}
+}*/
 
-#superhemmelig, .easteregg, .kar, .ovelser #trykk{
+/*#superhemmelig, .easteregg, .kar, .ovelser #trykk{
 	display:none;
-}
-
+}*/
+/*
 body, body *{
 	margin: 0px;
 	padding: 0px;
 	border: 0px;
-}
+}*/
 
 img{
 	width:100%;
 }
 
-#frame{
+/*#frame{
 	width: 100%;
 	min-width: 128px;
 	margin: auto;
 	margin-top:206px;
 	background: #E3F1FF;
-}
+}*/
 
 #logo{
 	width: 100% !important;
@@ -190,7 +190,7 @@ h2, h3, h4{
 @media (min-width:750px){
 
 /*REGLER FOR HELE SIDEN over 170px*/
-#bakgrunn{
+/*#bakgrunn{
 	min-height: 100%;
  	min-width: 1024px;
 	width: 100%;
@@ -199,17 +199,17 @@ h2, h3, h4{
  	top: 0;
  	left: 0;
  	z-index: -100;
-}
-#superhemmelig{
+}*/
+/*#superhemmelig{
 	width: 40px;
 	height: 60px;
 	position: fixed;
 	top: 30px;
 	left: 25px;
 	z-index: -5;
-}
+}*/
 
-#frame{
+/*#frame{
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 80px;
@@ -217,29 +217,29 @@ h2, h3, h4{
 	background: #E3F1FF;
 	width: 796px;
 	box-shadow: 3px 3px 10px 0px black;
-}
+}*/
 header{
 	height: 111px;
 	position: relative;
 }
 
-#logo{
+/*#logo{
 	position: absolute;
 	float: left;
 	left: 45px;
 	top: -75px;
-}
-
+}*/
+/*
 #undertittel{
 	position: relative;
 	float: left;
 	margin: 0;
 	top: 54px;
 	left: 333px;
-}
+}*/
 
-/* css for treningssider*/
-.treningssider li{
+/*/* css for treningssider*/
+/*.treningssider li{
 	margin: 10px;
 }
 
@@ -275,7 +275,7 @@ header{
 
 
 div .clickable a{ /* Makes the hyperlinks fill the divs*/
-	position:absolute;
+	/*position:absolute;
 	width:100%;
 	height:100%;
 	top:0;
@@ -308,7 +308,7 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 
 #hovednavigering div a{
 	color: #9EB728;  /* Dette er fargen på de store knappene */
-	font-size: 20px;
+/*	font-size: 20px;
 	padding-top: 15px;
 	position:absolute;
 	width:100%;
@@ -323,8 +323,8 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	padding-top: 8px;
 	height: 52px;
 	font-size: 18px;
-}
-
+}*/
+/*
 #hovednavigering #om{
 	border-right: 1px solid #9EB728;
 }
@@ -357,8 +357,8 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	padding-top: 6px;
 }
 
-#ptlink{
-	margin-top: -4px;
+#ptlink{*/
+/*	margin-top: -4px;
 	line-height: 20px;
 }
 
@@ -376,23 +376,23 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	display: none;
 	left: -161px;
 	top: 45px;
-}
+}*/
 
-#content{
+/*#content{
 	min-height: 580px;
 	padding: 20px;
 	padding-top: 40px;
 	position: static;
 	font-family: "Gill Sans", sans-serif;
 }
-
-#content p{
+*/
+/*#content p{
 	position: static;
 	margin-left: 20px;
 	margin-right: 20px;
 }
-
-footer{
+*/
+/*footer{
 	width: 794px;
 }
 
@@ -420,7 +420,7 @@ footer{
 	left: 752px;
 	color: #9EB728;
 	font-size: 12px;
-}
+}*/
 
 .marginSide{
 	margin-left: 50px;
@@ -429,17 +429,17 @@ footer{
 }
 
 
-h2{
+/*h2{
 	text-align:center;
 	color: #9EB728;
 	font-size: 30px;
 	text-decoration: underline;
 	margin-bottom: 35px;
 	font-family: "Gill Sans", sans-serif;
-}
+}*/
 
 /* css for karusellen */
-.kar *{
+/*.kar *{
 	margin: 0;
 	padding: 0;
 }
@@ -492,7 +492,7 @@ h2{
 	float:left;
 }
  /*sentrerer menyen*/
-.kar #ramme{
+/*.kar #ramme{
 	left:88px;
 	height: 400px;
 	width: 600px;
@@ -539,10 +539,10 @@ h2{
 .kar img{
 	height: 200px;
 	width: 200px;
-}
+}*/
 
 /* css for treningssider*/
-.treningssider li{
+/*.treningssider li{
 	margin: 10px;
 }
 
@@ -577,7 +577,7 @@ h2{
 	font-family: "Gill Sans", sans-serif;
 	overflow: hidden;
 	font-size: 150%;
-}
+}*/
 
 /* Oppskrifter med undersider*/
 
