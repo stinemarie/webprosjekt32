@@ -10,7 +10,7 @@
 		<img class="logo" src="img/elixialogo.png" alt="Sats" width="100" height="50"></a>
 			<div class="treninghvor">
 			<table>
-			<tr>
+			<tr id="tablehead">
 			<th>Medlemskap</th>
 			<th>Oslo m/binding</th>
 			<th>12 måneders forhåndsbetalt Oslo</th>
@@ -50,7 +50,7 @@
 
 			<div class="treninghvor">
 			<table>
-			<tr>
+			<tr id="tablehead">
 			<th>Medlemskap</th>
 			<th>Ingen bindingstid</th>
 			<th>12 måneders binding</th>
@@ -111,7 +111,7 @@
 
 			<div class="treninghvor">
 			<table>
-			<tr>
+			<tr id="tablehead">
 			<th>Medlemskap</th>
 			<th>Ingen bindingstid</th>
 			<th>12 måneders forhåndsbetalt</th>
@@ -153,7 +153,7 @@
 			
 			<div class="treninghvor">
 			<table>
-			<tr>
+			<tr id="tablehead">
 			<th>Medlemskap</th>
 			<th>Hele døgnet</th>
 			<th>Dagskort</th>
@@ -192,7 +192,7 @@
 
 			<div class="treninghvor">
 			<table>
-			<tr>
+			<tr id="tablehead">
 			<th>Medlemskap</th>
 			<th>Ingen bindingstid</th>
 			<th>12 måneders forhåndsbetalt</th>
@@ -236,7 +236,7 @@
 
 			<div class="treninghvor">
 			<table>
-			<tr>
+			<tr id="tablehead">
 			<th>Medlemskap</th>
 			<th> Semester</th>
 			<th>Per Måned</th>
