@@ -1,0 +1,46 @@
+.logo{
+	width: 270px;
+	float: left;
+	margin-top: -8px;
+}
+
+body{
+	background-color: grey;
+	font-family: arial;
+}
+
+header{
+	background: white;
+	width: 820px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	box-shadow: 5px 5px 6px 0px black;
+}
+
+.overskrift{
+	width: 500px;
+	margin-left: 310px;
+}
+
+#content{
+	background: white;
+	width: 820px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	margin-bottom: 20px;
+	box-shadow: 5px 5px 6px 0px black;
+
+}
+
+dt{
+	font-weight: bold;
+}
+
+h3{
+	text-decoration: underline;
+	font-size: 16px;
+}
