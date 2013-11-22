@@ -765,7 +765,7 @@ h2{
 
 /*Styling til BMI kalkulator*/
 
-.bmikalk form{
+.kalk form{
 	background: #ECEDA2;
 	margin:auto;
 	position:relative;
@@ -785,7 +785,7 @@ h2{
 	box-shadow: 0px 0px 8px #9EB728;
 }
 
-.bmikalk input{
+.kalk input{
 	display:block;
 	width:90px;
 	border: 1px solid #999;
@@ -823,34 +823,6 @@ h2{
 	bottom: 220px;
 	background:#9EB728;
 	color:#fff;
-}
-
-/* Styling av BMR kalkulator*/
-.bmrkalk form{
-	background: #ECEDA2;
-	margin:auto;
-	position:relative;
-	width:400px;
-	height:350px;
-	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 14px;
-	font-style: italic;
-	line-height: 23px;
-	font-weight: bold;
-	color:  #9EB728;
-	text-decoration: none;
-	border-radius: 10px;
-	padding:10px;
-	border: 1px solid #9EB728;
-	border: inset 1px solid#9EB728;
-	box-shadow: 0px 0px 8px #9EB728;
-}
-.bmrkalk input{
-	display:block;
-	width:90px;
-	border: 1px solid #999;
-	height: 20px;
-	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
 }
 #k1{
 	display:inline;
