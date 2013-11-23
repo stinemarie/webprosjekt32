@@ -1,10 +1,6 @@
 <div class="oppsk">
 	<div class="smoothie">
 		<h4 id="gasmoothie">Gulrot- og ananas smoothie (1porsjon)</h4>
-		<figure>
-			<img class="matbilde" src="img/gulrotananassmoothie.jpg" alt="gulrot-ananassmoothie">
-			<!-- <figcaption class="kilde">Kilde: frukt.no</figcaption> -->
-		</figure> 
 		<ul>
 			<li>2 skiver frisk ananas</li>
 			<li>1 dl appelsinjuice</li>
@@ -14,6 +10,10 @@
 
 		<p>Rens og skjær ananas og gulrot I biter. Ha appelsinjuicen I mikseren først – deretter yoghurt, ananas og gulot. Kjør blandingen til en du har fått en glatt smotthie</p>
 
+		<figure>
+			<img class="fBilde" src="img/gulrotananassmoothie.jpg" alt="gulrot-ananassmoothie">
+			<!-- <figcaption class="kilde">Kilde: frukt.no</figcaption> -->
+		</figure> 
 
 		<p class="kilde">Kilde: <a href="http://www.frukt.no/oppskrifter/smoothie/oppskrifter3/" target="_blank">frukt.no</a></p>
 
@@ -32,8 +32,8 @@
 		</ul>
 		<p>Skjær skallet av appelsinene og del dem i biter. Rens jordbærene. Ha appelsinjuicen i blenderen, deretter resten av ingrediensene. Kjør blandingen til du får en glatt konsistens.</p>
 
-		<figure >
-			<img class="matbilde" src="img/ajopachi.jpg" alt="ajopachi">
+		<figure>
+			<img class="fBilde" src="img/ajopachi.jpg" alt="ajopachi">
 			<!-- <figcaption class="kilde">Kilde: Vektklubben</figcaption> -->
 		</figure>
 
@@ -59,7 +59,7 @@
 			så kjører man blandingen til man får en glatt konsistens.</p>
 
 			<figure>
-				<img class="matbilde" src="img/lyserøddrøm.jpg" alt="lyserød drøm">
+				<img class="fBilde" src="img/lyserøddrøm.jpg" alt="lyserød drøm">
 			</figure> 
 
 			<p class="kilde">Kilde: <a href="http://www.vektklubb.no" target="_blank">Vektklubb</a></p>
@@ -78,7 +78,7 @@
 		<p>Ha appelsinjuicen I en blender. Brekk opp brokkolien og ha den sammen I blenderen med skogsbærblandingen og isbitene. Kjør det hele til du har fått en jevn smoothie blanding.
 		</p>
 		<figure>
-			<img  class="matbilde" src="img/smart-smoothie.jpg" alt="smart-smoothie">
+			<img class="fBilde" src="img/smart-smoothie.jpg" alt="smart-smoothie">
 		<!-- <figcaption class="kilde">kilde: foto:</figcaption> -->
 		</figure> 
 
@@ -103,7 +103,7 @@
 		<p>Skyll, tørk og riv salaten i biter. Fjern skall og steiner fra honningmelonen og skjær den i biter. Del avokadoen i to, fjern steinenog skjær i biter. Del agurken i biter, og gi brokkolien et lett oppkok. Hell eplejuicen i blenderen, og deretter ha resten av ingrediensenei blenderen. Kjørt alt til du får en lysegrønn farge.</p>
 
 		<figure>
-			<img class="matbilde" src="img/salatsmoothie.jpg" alt="Salatsmoothie">
+			<img class="fBilde" src="img/salatsmoothie.jpg" alt="Salatsmoothie">
 		<!-- 	<figcaption class="kilde">Kilde: Vektklubben<figcaption> -->
 		</figure> 
 
@@ -124,7 +124,7 @@
 		<p>Del mangoen, fjern steinen og skallet. Skrell og rens paprikaen, så skjær den i biter. Ha appelsinjuicen i blenderen, deretter paprika, gulrot, mango og isbiter. Kjør den til den er jevn og fin </p>
 
 		<figure>
-			<img class="matbilde" src="img/solskinn.jpg" alt="solskinn">
+			<img class="fBilde" src="img/solskinn.jpg" alt="solskinn">
 			<!-- <figcaption class="kilde">Kilde: Vektklubben</figcaption> -->
 		</figure> 
 
@@ -145,7 +145,7 @@
 		</ul>
 		<p>Skrell bananen og skjør den i biter. Skjær agurken i biter. Ha juicen først i blendere, deretter blåbær, banan og slangeagurken.Kjør blandingen til du får en glatt konsistens. Spe på med mer væske for å få den tynnere, eller mer banan/bær for å få den tykkere omman ønsker det.</p>
 		<figure>
-			<img class="matbilde" src="img/darkblue.jpg" alt="dark blue heaven">
+			<img class="fBilde" src="img/darkblue.jpg" alt="dark blue heaven">
 	<!-- 		<figcaption class="kilde">Kilde: Vektklubben</figcaption> -->
 		</figure> 
 
@@ -168,7 +168,7 @@
 		</p>
 
 		<figure>
-			<img class="matbilde" src="img/skippern.jpg" alt="sitruskylling">
+			<img class="fBilde" src="img/skippern.jpg" alt="sitruskylling">
 			<!-- <figcaption class="kilde">Kilde: Vektklubben</figcaption> -->
 		</figure> 
 
