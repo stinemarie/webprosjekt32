@@ -12,14 +12,6 @@ $(document).ready(function(){
 	}
 });
 
-function kontr() {
-$("a[data-theme]").click(function() {
-    $("head link#theme").attr("href", 
-    $(this).data("theme"));
-});
-};
-
-
 /*script for meny*/
 function hovedNavigering() {	
 	
