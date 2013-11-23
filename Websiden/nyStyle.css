@@ -68,6 +68,7 @@ a{
 
 p{
 	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 /*-----------------------------*/
@@ -724,6 +725,104 @@ p{
 		height:200px;
 		width:200px;
 	}
+
+/*REGLER FOR KALKULATOR*/
+
+
+	.kalk form{
+		background: #ECEDA2;
+		margin:auto;
+		position:relative;
+		width:400px;
+		height:350px;
+		font-family: Tahoma, Geneva, sans-serif;
+		font-size: 14px;
+		font-style: italic;
+		line-height: 24px;
+		font-weight: bold;
+		color:  #9EB728;
+		text-decoration: none;
+		border-radius: 10px;
+		padding:10px;
+		border: 1px solid #9EB728;
+		border: inset 1px solid#9EB728;
+		box-shadow: 0px 0px 8px #9EB728;
+	}
+
+	.kalk input{
+		display:block;
+		width:90px;
+		border: 1px solid #999;
+		height: 20px;
+		box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+	}
+
+	#betydning{
+		width: 210px;
+		background-color: #ECEDA2;
+		border:none;
+		box-shadow: none;
+
+	}
+	#visBmi{
+		background-color: #ECEDA2;
+		border: none;
+		box-shadow: none;
+	}
+
+	#reset{
+		width:100px;
+		position:absolute;
+		right:20px;
+		bottom:20px;
+		background:#9EB728;
+		color:#fff;
+	}
+
+
+	#button{
+		width: 100px;
+		position: absolute;
+		left: 20px;
+		bottom: 220px;
+		background:#9EB728;
+		color:#fff;
+	}
+	#k1{
+		display:inline;
+		border:none;
+		box-shadow: none;
+
+	}
+	#m1{
+		display: inline;
+		border:none;
+		box-shadow: none;
+	}
+
+	#resetbmr{
+		width:100px;
+		position:absolute;
+		right:20px;
+		bottom:20px;
+		background:#9EB728;
+		color:#fff;
+	}
+
+
+	#bmrbutton{
+		width: 100px;
+		position: absolute;
+		left: 20px;
+		bottom: 155px;
+		background:#9EB728;
+		color:#fff;
+	}
+	#resultat{
+		background-color: #ECEDA2;
+		border: none;
+		box-shadow: none;
+	}	
 
 } /*<-denne hører til en løkke la stå!*/
 
