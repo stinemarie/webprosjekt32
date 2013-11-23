@@ -59,14 +59,51 @@ h4{
 h5{
 	margin: 10px;
 	margin-left: 50px;
+	clear: both;
 }
 
 p{
 	margin: 0px;
 	margin-left: 25px;
 	margin-right: 25px;
+	clear: both;
 }
 
 hr{
 	margin: 40px;
+}
+
+figure{
+	text-align: center;
+	font-size: 12px;
+}
+
+figure img{
+	box-shadow: 1px 1px 3px black;
+}
+
+.fullLength{
+	width: 750px;
+}
+
+#lynx{
+	width: 400px;
+}
+
+#logo1{
+	margin-left: 80px;
+}
+
+.logoer{
+	width: 300px;
+	float: left;
+	margin: 20px;
+}
+
+.logoer img{
+	width: 300px;
+}
+
+#fargekart img{
+	width: 400px;
 }
