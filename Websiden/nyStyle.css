@@ -238,9 +238,10 @@ p{
 	.hjem #hjemtekst{
 		width: 407px;
 		margin: auto;
-		margin-top: 50px;
+		margin-top: 20px;
 		font-size: 24px;
 		text-align: center;
+		color: #5F6E18;
 	}
 
 /*   REGLER FOR HOVED NAVIGERING   */
