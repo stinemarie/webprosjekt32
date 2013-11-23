@@ -10,7 +10,7 @@
 	<p>Til slutt så har vi skrevet om hver <a href="index.php?page=favoritter">vår favoritt</a> grønnsak/frukt.</p>
 
 	<figure>
-		<img src="img/laksesalat.jpg" alt="Laksesalat">
-		<figcaption>Deilig laksesalat!</figcaption>
+		<img class="fBilde" src="img/laksesalat.jpg" alt="Laksesalat">
+		<figcaption class="">Deilig laksesalat!</figcaption>
 	</figure>
 </div>
