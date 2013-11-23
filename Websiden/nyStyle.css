@@ -46,9 +46,7 @@ footer img{
 	width:40px;
 }
 
-.ovelser p{
-	color: white;
-}
+
 
 .easteregg{
 	display:none;
@@ -492,6 +490,11 @@ p{
 		overflow: hidden;
 		font-size: 150%;
 	}
+
+	.ovelser p{
+		color: white;
+	}
+	
 /*REGLER FOR HVORFOR TRENE*/
 	.hvorfortrene figure{
 		float: right;
@@ -616,6 +619,7 @@ p{
 		overflow: hidden;
 		text-shadow: 1px 1px #4C4C4C;
 	}
+
 
 /*REGLER FOR INTERVJU MED PERSONLIGETRENERE*/
 	.personligtrener #trenerne{

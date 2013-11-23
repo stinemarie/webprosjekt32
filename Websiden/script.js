@@ -6,9 +6,12 @@ $(document).ready(function(){
 		easterEggUt();
 		easterEggInn();
 		hovedNavigering();
+		leselighet()
 	}else{
 		kalkulerBmi();
-		kalkulerBmr(); 
+		kalkulerBmr();
+
+
 	}
 });
 
@@ -134,6 +137,8 @@ function hovedNavigering() {
 	});	
 };
 
+
+
 /*Kode for bildekarusell på førstesiden*/
 
  function karusellMeny(){
@@ -214,6 +219,12 @@ function hovedNavigering() {
 	});
 };
 
+function leselighet(){
+	$("#leselighet").click(function(){	
+		$("h1").css("color", "black");
+	});
+};
+
 function bildeMeny(){ 
 	$('.lenke').hover(function(){ 
 		$(this).children('.overlay').fadeIn('slow'); 
@@ -226,6 +237,7 @@ function bildeMeny(){
 $(window).resize(function() {
     window.location.href = window.location.href;
 });
+
 /*Script for easter egg*/
 function easterEggInn(){
 	$("#superhemmelig").click(function(){
@@ -283,6 +295,8 @@ function kalkulerBmi() {
 			alert("Vennligst fyll inn alt korrekt.");
 	}
 }
+
+
 
 /* Script til BMR kalkilator*/
 function kalkulerBmr() {

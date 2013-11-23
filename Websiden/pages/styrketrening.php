@@ -24,7 +24,9 @@
 		</table>
 	</div>
 
-	<p>Det er viktig med rett rygg i denne øvelsen, for å unngå skader. Man står med beina noe spredt, og går sakte ned i knebøy til lårene er parallelt med gulvet. Så går man rolig opp igjen og retter opp kroppen, for å gå tilbake i utgangsposisjonen. Her er det viktig at man har nok, slik at man blir sliten etter hver repetisjon, og når man er ferdig med alle seriene at man ikke tenker at man ville klart en til.</p>
+	<p>Det er viktig med rett rygg i denne øvelsen, for å unngå skader. Man står med beina noe spredt, og går sakte ned i knebøy til lårene er parallelt med gulvet. Så går man rolig opp igjen og retter opp kroppen, for å gå tilbake i utgangsposisjonen. Her er det viktig at man har nok, slik at man blir sliten etter hver repetisjon, og når man er ferdig med alle seriene at man ikke tenker at man ville klart en til.
+	</p>
+	<p id="leselighet">trykk her for økt leselighet</p>
 
 	<a href="index.php?page=ovelser">tilbake</a>
 
