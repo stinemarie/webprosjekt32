@@ -11,6 +11,6 @@
 
 	<figure>
 		<img class="fBilde" src="img/laksesalat.jpg" alt="Laksesalat">
-		<figcaption class="">Deilig laksesalat!</figcaption>
+		<figcaption class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines matblogg</a></figcaption>
 	</figure>
 </div>
