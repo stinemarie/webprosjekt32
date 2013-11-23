@@ -3,10 +3,10 @@
 <div class="treningsprosjekt">
 	<p>Under prosjektperioden gikk vi inn for å ha et Før og Etter prosjekt, som Ida har utført. Her satte hun seg noen små oppnåelige mål for den korte perioden vi hadde. Hun skulle til slutt skrive en evaluering av hvordan hun følte at hun klarte oppfylle sine mål etter at prosjektperioden var over.</p>
 	<div class="styrke">
-		<div id="apebilder">
-			<img class="treningsbilde" src="img/treningimg/ape1.jpg" alt="akrobat1">
-			<img class="treningsbilde" src="img/treningimg/ape2.jpg" alt="akrobat2">
-			<img class="treningsbilde" src="img/treningimg/ape3.jpg" alt="akrobat3">
+		<div class="treBilder">
+			<img class="sBilde" src="img/treningimg/ape1.jpg" alt="akrobat1">
+			<img class="sBilde" src="img/treningimg/ape2.jpg" alt="akrobat2">
+			<img class="sBilde" src="img/treningimg/ape3.jpg" alt="akrobat3">
 		</div>
 	</div>
 	<p><b>Ida sine mål</b></p>
@@ -328,32 +328,102 @@
 				<td>3</td>
 			</tr>
 			<tr class="alt">
-				<td>20.11.13</td>
+				<td>18.11.13</td>
 				<td>Spinning intervall</td>
 				<td>X</td>
 				<td>X</td>
 				<td>45 min</td>
 			</tr>
 			<tr class="alt">
-				<td>20.11.13</td>
+				<td>18.11.13</td>
 				<td>Markløft</td>
 				<td>45 kg</td>
 				<td>12</td>
 				<td>3</td>
 			</tr>
 			<tr class="alt">
-				<td>20.11.13</td>
+				<td>18.11.13</td>
 				<td>Knebøy</td>
 				<td>45 kg</td>
 				<td>10</td>
 				<td>3</td>
 			</tr>
 			<tr class="alt">
-				<td>20.11.13</td>
+				<td>18.11.13</td>
 				<td>Utfall, gående</td>
 				<td>8 kg (hver arm)</td>
 				<td>20</td>
 				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>20.11.13</td>
+				<td>Sving med ball (side mage)</td>
+				<td>10 kg</td>
+				<td>30</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>20.11.13</td>
+				<td>TRX mage</td>
+				<td>X</td>
+				<td>12</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>20.11.13</td>
+				<td>Situps med bosu ball</td>
+				<td>5 kg</td>
+				<td>15</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>20.11.13</td>
+				<td>Dips med step</td>
+				<td>5 kg</td>
+				<td>12</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>20.11.13</td>
+				<td>Armstrekker med vekter</td>
+				<td>8 kg</td>
+				<td>15 (hver arm)</td>
+				<td>3 (hver arm)</td>
+			</tr>
+			<tr class="alt">
+				<td>20.11.13</td>
+				<td>Sidehev skuldre med vekter</td>
+				<td>4 kg</td>
+				<td>10</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>23.11.13</td>
+				<td>Liggende benløft</td>
+				<td>X</td>
+				<td>12</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>23.11.13</td>
+				<td>Roing i kabelmaskin</td>
+				<td>35 kg</td>
+				<td>12</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>23.11.13</td>
+				<td>Rygghev</td>
+				<td>X</td>
+				<td>15</td>
+				<td>3</td>
+			</tr>
+			<tr class="alt">
+				<td>23.11.13</td>
+				<td>Intervall 45x15</td>
+				<td>X</td>
+				<td>X</td>
+				<td>30 min</td>
 			</tr>
 		</table>
 	</div>
