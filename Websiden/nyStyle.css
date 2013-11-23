@@ -162,10 +162,16 @@ a{
 
 	.fBilde{
 		width: 80%;
-		margin: 10%;
+		margin-left: 10%;
+		margin-right: 10%;
 		padding: 10px;
 		border: solid thin black;
 		background-color: #eceda2;
+	}
+
+	.fBilde + .kilde{
+		margin-left: 10%;
+
 	}
 	
 	.sBilde{
@@ -592,6 +598,10 @@ a{
 		margin: 20px;
 		overflow: hidden;
 		text-shadow: 1px 1px #4C4C4C;
+	}
+/*REGLER FOR FAVORITTER*/
+	.favoritter p{
+		margin-top: 20px;
 	}
 
 /*REGLER OM ERNÆRING*/

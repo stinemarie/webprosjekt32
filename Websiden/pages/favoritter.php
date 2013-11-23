@@ -6,7 +6,7 @@
 		<h4>Stines favoritt: Granateple</h4>
 		<figure>
 			<img class="fBilde" src="./img/pomegranate200x300.jpg" alt="bilde av granateple">
-			<figcaption>Foto: Anton Croos</figcaption>
+			<figcaption class="kilde">Foto: Anton Croos</figcaption>
 		</figure>
 		<p> Min favoritt er granateple. Den er proppet med antioksidanter. I følge <a href="http://www.bama.no"> bama.no</a>  inneholder den 10 ganger mer antioksidanter enn appelsiner og nesten 40 ganger mer enn epler. Både håndgranater og byen Granada i Spania er oppkalt etter frukten. Den passer bra til å ha i salat. Da gjerne med frisk salat, avokado, feta ost, rødløk og cherrytomater. Nam nam!<br> PS! Superdigg å ha i daiquiri også! </p>
 		<p class="kilde">Kilde: <a href="http://en.wikipedia.org/wiki/Pomegranate" target="_blank"> Wikipedia</a> og <a href="http://www.bama.no" target="_blank"> bama.no</a> </p>
@@ -16,7 +16,7 @@
 		<h4>Ida sin favoritt: Avokado</h4>
 		<figure>
 			<img class="fBilde"  src="./img/avokado.jpg" alt="bilde av avokado">
-			<figcaption>Kilde: <a href="http://www.kriweb.no/2013/02/14/kjottkaker-med-avokado/" target="_blank"> kriweb.no</a></figcaption>
+			<figcaption class="kilde">Kilde: <a href="http://www.kriweb.no/2013/02/14/kjottkaker-med-avokado/" target="_blank"> kriweb.no</a></figcaption>
 		</figure>
 		<p>Den er rik på kalsium, proteiner og B-, E-, K-, A- og C-vitaminer.  I tillegg inneholder frukten kolesterolsenkende stoffer og 
 		antioksidanter som er spesielt bra for nervesystemet.</p>
@@ -51,8 +51,7 @@
 			<img class="fBilde" src="./img/asparges.jpg" alt="bilde av asparges">
 			<figcaption></figcaption>
 		</figure>
-		<p>Min favoritt-grønnsak er asparges. Mye av grunnen er at det er en næringsrik og llett å tilberede. Asparges et en veldig allsidig grønnsak som passer til de fleste retter. Den kan også spises alene. I sommerhalvåret pleier jeg og grille dem i olivenolje, sitronsaft, salt og pepper. 
-		De kan også kokes, men pass på koketiden da dem ikke skal kokes lengere enn 2-4 min</p>
+		<p>Min favoritt-grønnsak er asparges. Mye av grunnen er at det er en næringsrik og llett å tilberede. Asparges et en veldig allsidig grønnsak som passer til de fleste retter. Den kan også spises alene. I sommerhalvåret pleier jeg og grille dem i olivenolje, sitronsaft, salt og pepper. De kan også kokes, men pass på koketiden da dem ikke skal kokes lengere enn 2-4 min</p>
 		<p class="kilde">Kilde: <a href="http://www.bama.no" target="_blank"> bama.no</a></p>
 	</div>
 
