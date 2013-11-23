@@ -1,21 +1,12 @@
 <h2>Før/etter med TTFS</h2>
 
 <div class="treningsprosjekt">
-<<<<<<< HEAD
 	<p>Under prosjektperioden gikk vi inn for å ha et Før og Etter prosjekt, som Ida har utført. Her satte hun seg noen små oppnåelige mål for den korte perioden vi hadde. Hun skulle til slutt skrive en evaluering av hvordan hun følte at hun klarte oppfylle sine mål etter at prosjektperioden var over.</p>
 	<div class="styrke">
 		<div id="apebilder">
 			<img class="treningsbilde" src="img/treningimg/ape1.jpg" alt="akrobat1">
 			<img class="treningsbilde" src="img/treningimg/ape2.jpg" alt="akrobat2">
 			<img class="treningsbilde" src="img/treningimg/ape3.jpg" alt="akrobat3">
-=======
-	<p>Vi har under prosjektperioden gått inn for å ha et Før og Etter prosjekt, som Ida har utført. Her satte hun seg noen små oppnåelige mål for den korte perioden vi hadde, og så skulle vi se hvilke av disse målene som hun følte at hun klarte oppfylle etter at prosjektperioden var over.</p>
-	<div >
-		<div class="treBilder">
-			<img class="sBilde" src="img/treningimg/ape1.jpg" alt="akrobat1">
-			<img class="sBilde" src="img/treningimg/ape2.jpg" alt="akrobat2">
-			<img class="sBilde" src="img/treningimg/ape3.jpg" alt="akrobat3">
->>>>>>> 1a1a24b64163b274dfd2d6b8fbbc9e962fcb998e
 		</div>
 	</div>
 	<p><b>Ida sine mål</b></p>
