@@ -608,6 +608,7 @@ p{
 		float: left;
 		border: thin solid black;
 		margin: 5px;
+		margin-bottom: 50px;
 	}
 
 	.oppskrift .tekst{
@@ -616,6 +617,15 @@ p{
 		margin: 20px;
 		overflow: hidden;
 		text-shadow: 1px 1px #4C4C4C;
+	}
+
+	hr{
+		margin: 40px;
+		clear: both;
+	}
+
+	#ukesmenyen{
+		height: 3400px;
 	}
 
 /*REGLER FOR INTERVJU MED PERSONLIGETRENERE*/
