@@ -5,8 +5,8 @@
 	<head>
 		<meta charset="utf-8">
 		<title>TTFS</title>
-		<link rel="stylesheet" type="text/css" href="style.css">
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="nyStyle.css">
+		<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 		<script type="text/javascript" src="script.js"></script>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>

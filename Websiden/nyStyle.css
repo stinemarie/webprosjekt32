@@ -1,0 +1,742 @@
+/*-----------------------------*/
+/*    REGLER FOR HELE SIDEN    */
+/*-----------------------------*/
+* {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+body{
+	font-family: "Gill Sans", sans-serif;
+}
+
+h1, h2, h3, h4{
+	color: #9EB728;
+	font-weight: normal;
+}
+
+h2, h3, h4{
+	font-size: x-large;
+
+	margin-bottom: 20px;
+}
+
+h4{
+	margin-top: 20px;
+}
+
+.kilde{
+	font-size: 14px;
+}
+
+#logo{
+	width: 260px;
+}
+
+footer{
+	position: relative;
+	height: 40px;
+	border: 1px solid #9EB728;
+	background: #ECEDA2;
+	box-shadow: 0px 0px 10px #9EB728 inset;
+}
+
+footer img{
+	width:40px;
+}
+
+.ovelser p{
+	color: white;
+}
+
+.easteregg{
+	display:none;
+}
+
+ul{
+	list-style:none;
+}
+
+a{
+	color: black;
+}
+
+#hovednavigering a {
+	text-decoration: none;
+}
+
+/*sentrerer alle bilder på siden*/
+.bilde figure{
+	width: 80%;
+	margin: 10%;
+}
+
+.bilde img{
+	width: 100%;
+}
+
+/*-----------------------------*/
+/*      FOR  PC SKJERMER       */
+/*-----------------------------*/
+
+@media( min-width:750px){
+
+	#frame{
+		margin: auto;
+		background: #E3F1FF;
+		width: 796px;
+		box-shadow: 3px 3px 10px 0px black;
+		margin-top: 100px;
+		margin-bottom: 100px;
+	}
+
+	#content{
+		padding: 50px;
+		min-height: 580px;
+	}
+
+	#bakgrunn{
+		min-height: 100%;
+		min-width: 100%;
+		max-height: 100%;
+		height: auto;
+	 	position: fixed;
+	 	top: 0;
+	 	left: 0;
+	 	z-index: -100;
+	}
+
+	#superhemmelig{
+		width: 40px;
+		height: 60px;
+		position: fixed;
+		top: 30px;
+		left: 25px;
+		z-index: -5;
+	}
+
+	#logo{
+		position: absolute;
+		float: left;
+		left: 45px;
+		top: -72px;
+	}
+
+	#undertittel{
+		position: relative;
+		float: left;
+		margin: 0;
+		top: 54px;
+		left: 333px;
+	}
+
+	header{
+		height: 111px;
+		position: relative;
+	}
+	h2, h3, h4{
+		text-align:center;
+	}
+	
+	.kilde{
+		font-style:italic
+	}
+
+	hr{
+		margin-top: 30px;
+		margin-bottom: 30px;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+		color: #9EB728;
+		border: 1px solid #9EB728;
+	}
+
+	.hjem #hrnede{
+		margin-top: 320px;
+	}
+
+
+/* REGLER FOR BILDER*/
+
+	.fBilde{
+		width: 80%;
+		margin: 10%;
+		padding: 10px;
+		border: solid thin black;
+		background-color: #eceda2;
+	}
+	
+	.sBilde{
+		box-shadow: 2px 2px 5px black;
+	}
+
+	.treBilder img{
+		width: 30%;
+		margin: 1.5px;
+	}
+
+	.toBilder img{
+		width: 48%;
+		margin: 1.5px;
+	}
+
+/* REGLER FOR FOOTER */
+
+	#copyright{
+		display: block;
+		position: relative;
+		top: 14px;
+		left: 16px;
+		color: #9EB728;
+		font-size: 12px;
+	}
+
+	#minilogo{
+		display: block;
+		position: relative;
+		top: -3px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	#contentOwners{
+		display: block;
+		position: absolute;
+		top: 14px;
+		left: 752px;
+		color: #9EB728;
+		font-size: 12px;
+	}
+
+	.hjem #hjemtekst{
+		width: 407px;
+		margin: auto;
+		margin-top: 50px;
+		font-size: 24px;
+		text-align: center;
+	}
+
+/*   REGLER FOR HOVED NAVIGERING   */
+
+	#hovednavigering{
+		background: #9EB728;
+		width: 796px;
+		height: 63px;
+		text-decoration: none;
+	}
+
+	#hovednavigering div{
+		width: 157px;
+		position: relative;
+		float: left;
+		border: 2px solid #9EB728;
+		border-right: 0;
+		background: #ECEDA2;
+		height: 45px;
+		text-align: center;
+		padding-top: 15px;
+		font-size: 20px;
+		box-shadow: 0px 0px 12px #9EB728 inset;
+		cursor: pointer;
+	}
+
+	#hovednavigering div a{
+		color: #9EB728; 
+		font-size: 20px;
+		padding-top: 15px;
+		position:absolute;
+		width:100%;
+		height:44px;
+		top:0;
+		left:0;
+		z-index:10;
+	}
+
+	#hovednavigering #pt{
+		padding-top: 8px;
+		height: 52px;
+		font-size: 18px;
+	}
+
+	#hovednavigering #om{
+		border-right: 1px solid #9EB728;
+	}
+
+	#hovednavigering .undersideNav{
+
+		visibility: visible;
+		width: 796px;
+		border: 0px;
+		padding-top: 0px;
+		height: 33px;
+		top: 45px;
+		background: #9EB728;
+	}
+
+	#hovednavigering .undersideNav div{
+		visibility: visible;
+		margin: 0px;
+		height: 24px;
+		font-size: 16px;
+		padding-top: 6px;
+		background: #9EB728;
+		color: #ECEDA2;
+		box-shadow: 0px 0px 6px #ECEDA2 inset;
+	}
+
+	#hovednavigering .undersideNav div a{
+		font-size: 16px;
+		color: #ECEDA2;
+		padding-top: 6px;
+	}
+
+	#ptlink{
+		margin-top: -4px;
+		line-height: 20px;
+	}
+
+	#hovednavigering .undersideNav .undersideSisteKnapp{
+		border-right: 1px solid #9EB728;
+	}
+
+	#treningsNav{
+		display: none;
+		left: -2px;
+		top: 45px;
+	}
+
+	#kostholdsNav{
+		display: none;
+		left: -161px;
+		top: 45px;
+	}
+
+/*REGLER FOR EASTEREGG*/
+	.easteregg{
+		position: absolute;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+		height: 539px;	
+		display: none;
+	}
+
+	.easteregg #videoframe{
+		position: relative;
+		top: 10px;
+	}
+
+	.easteregg img{
+		position: absolute;
+	}
+
+	.easteregg iframe{
+		position: absolute;
+		z-index:20;
+		top: 100px;
+		left: 105px;
+	}
+
+	#tamegtilbake{
+		margin-top: 600px;
+	}
+
+/*REGLER FOR HOVEDSIDEN*/
+
+	.kar{
+		position: relative;
+		margin-left: 58px;
+		margin-top: 40px;
+	}
+
+	.kar div{
+		position: absolute;
+	} 
+
+	.kar #alpha, #beta, #gamma, #delta{
+		width: 200px;
+		height: 200px;
+		top: 20px;
+	}
+
+	.kar #alpha{
+		z-index: 2;
+		left: 10px;
+	}
+
+	.kar #beta{
+		z-index: 6;
+		left: 175px;
+		top: 10px;
+	}
+
+	.kar #gamma{
+		z-index: 3;
+		left:370px;
+	}
+
+	.kar #delta{
+		z-index: 1;
+		left: 170px;
+	}
+
+	.kar p{
+		display: none;
+		z-index: 20;
+		position: absolute;
+		top:0;
+		left:0;
+		font-size: xx-large;
+		color: #9eb728;
+		text-align: right;
+		height: 200px;
+		width: 220px;
+		overflow: hidden;
+	}
+
+	.kar li{
+		display:block;
+		float:left;
+	}
+
+	.kar #tilbake, .kar #neste{
+		background-color: rgba(240,240,240,0.5);
+		position: absolute;
+		height:200px;
+		width:180px;
+		top:20px;
+		z-index:5;
+	}
+
+	.kar #tilbake{
+		left:10px;
+	}
+
+	.kar #neste{
+		left:390px;
+	}
+
+	.kar img{
+		position: absolute;
+		top:0;
+		left:0;
+		height: 200px;
+		width: 200px;
+	}
+
+	.kar .hvitspiss{
+		z-index: 7;
+	}
+
+/*REGLER FOR TRENINGSSIDER*/
+
+	.treningssider li{
+		margin: 15px;
+	}
+
+	.treningssider img, .overlay, #treninggikon {
+		height: 200px;
+		width: 200px;
+	}
+
+	.treningssider li{
+		position:relative;
+		float:left;
+		list-style:none;	
+	}
+
+	.treningssider #trykkher, .treningssider #trykk {
+		position:absolute;
+		left:0;
+		top:0;
+	}
+
+	.treningssider .overlay{
+		position:absolute;
+		right:0;
+		top:0;
+		background-color:rgba(158, 183, 40,0.5);
+		display:none;
+	}
+
+	.treningssider p{
+		margin: 10px;
+		color: white;
+		overflow: hidden;
+		font-size: 150%;
+	}
+/*REGLER FOR HVORFOR TRENE*/
+	.hvorfortrene figure{
+		float: right;
+		width: 220px;
+		margin-right: 50px;
+		margin-top: 20px;
+
+	}
+
+	.hvorfortrene img{
+		width: 220px;
+		box-shadow: 2px 2px 5px black;
+	}
+
+	.hvorfortrene aside{
+		width: 370px;
+		float: left;
+	}
+
+	.hvorfortrene p{
+		margin-top: 40px;
+	}
+/*REGLER FOR ØVELSESSIDER*/
+/*REGLER FOR TABELLER*/
+	.treninghvor table { 
+		border-collapse: collapse;
+		 text-align: left; width: 100%; 
+	}
+
+	 .treninghvor {
+	 	background: #ECEDA2;
+	 	overflow: hidden;
+	 	border: 3px solid #9EB728; 
+	 	border-radius: 3px; 
+	}
+
+	.treninghvor table td, .treninghvor table th {
+		 padding: 3px 10px; 
+	}
+
+	.treninghvor table #tablehead th {
+		background-color:#ECEDA2;
+		color:#9EB728; 
+		font-size: 15px; 
+		font-weight: bold; 
+		border-left: 2px solid #9EB728; 
+	}
+
+	.treninghvor table #tablehead th:first-child { 
+	 	border: none;
+	}
+
+	 .treninghvor table tbody td {
+		 color: #00496B; 
+		 border-left: 2px solid #9EB728;
+		 font-size: 12px;
+		 font-weight: normal; 
+	}
+
+	.treninghvor table tbody .alt td { 
+		background: #E3F1FF;
+		color: #9EB728; 
+	}
+
+	.treninghvor table tbody td:first-child {
+		 border-left: none; 
+	}
+
+	.treninghvor table tbody tr:last-child td {
+		 border-bottom: none; 
+	}
+
+/*TRENE HVOR*/
+
+	.treningsenter{
+		border: 3px solid #9EB728;
+		margin-top: 30px;
+		box-shadow: 1px 1px 4px 0px black;
+		padding: 20px;
+	}
+
+	.treningsenter div{
+		border: 2px solid #9EB728;
+	}
+
+/*REGLER FOR OPPSKRIFTSIDE OG UKESMENY*/
+
+	.oppskrift .overlay, .oppskrift #trykkher{
+		height: 220px;
+		width: 220px;
+		background-color: rgba(158, 183, 40,0.5);
+		position: absolute;
+		top:0;
+		right:0;
+	}
+
+	.oppskrifter{
+		height: 1650px;
+	}
+
+	.ukesmeny{
+		height: 2680px;
+	}
+
+	.oppskrift .fargefelt{
+		display: block;
+	}
+
+	.oppskrift .overlay{
+		display: none;
+	}
+
+	.oppskrift li{
+		position: relative;	
+		float: left;
+		border: thin solid black;
+		margin: 5px;
+	}
+
+	.oppskrift .tekst{
+		color: white;
+		font-size: 30px;
+		margin: 20px;
+		overflow: hidden;
+		text-shadow: 1px 1px #4C4C4C;
+	}
+
+/*REGLER OM ERNÆRING*/
+
+	.ernæring p{
+		margin-top: 40px;
+	}
+
+/*REGLER FOR INTERVJU*/
+	
+/*REGLER FOR LENKER*/
+
+	.lenker{
+		height: 1000px;
+	}
+
+	.lenker .lenkesamling{
+		position: static;
+		width: 350px;
+		float: left;
+		margin-bottom: 70px;
+	}
+
+	.lenker a{
+		margin-left: 20px;
+		display: block;
+	}
+
+	.lenker .beskrivelse{
+		margin-left: 40px;
+		margin-bottom: 10px;
+	}
+
+	.lenker img{
+		width: 320px;
+		box-shadow: 2px 2px 5px black;
+	}
+
+	.lenker figure{
+		width: 320px;
+		float: right;
+		text-align: center;
+	}
+
+	.lenker h4{
+		text-align: left;
+	}
+
+/* REGLER OM OSS*/
+
+/*	#omosstekst{
+		margin-left: 20px;
+		margin-right: 20px;
+	}*/
+	.omoss{
+		height: 700px;
+	}
+
+	#bilderavoss{
+		width:524px;
+		margin: auto;
+	}
+
+	.omossfigure{
+		float: left;
+		border: 3px solid #9EB728;
+		padding: 8px;
+		margin: 20px;
+		box-shadow: 1px 1px 4px 0px black;
+	}
+
+	.omossfigure figcaption{
+		text-align: center;
+	}
+
+/*	.omossfigure figcaption a{
+		color: #1F850B;
+	}*/
+
+	.omossfigure img{
+		height:200px;
+		width:200px;
+	}
+
+} /*<-denne hører til en løkke la stå!*/
+
+/*-----------------------------*/
+/*     FOR  MOBIL SKJERMER     */
+/*-----------------------------*/
+
+@media( max-width:750px){
+
+	#superhemmelig, .easteregg, .kar, #trykk{
+		display:none;
+	}
+
+	p{
+		margin-top: 30px;
+		margin-bottom: 30px;
+		margin-left: 15px;
+	}
+
+	#content img{
+		width: 70%;
+		margin-top: 40px;
+		margin-bottom: 40px;
+	}
+
+	#frame{
+		width: 100%;
+		min-width: 120px;
+		margin-top:206px;
+		background: #E3F1FF;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+	#bakgrunn{
+	 	position: fixed;
+	 	top: 0;
+	 	left: 0;
+	 	z-index: -100;
+	}
+
+	#logo{
+		width: 100% !important;
+		max-width: 260px !important;
+		margin-top:-186px;
+		margin-left:10px;
+		padding-bottom: 30px;
+	}
+
+	#minilogo{
+		padding-left: 45%;
+		margin-top:-8px;
+	}
+
+	/*denne tar deg tilbake til toppen i mobil*/
+	#taMegTilToppen{
+		position:fixed;
+		height: 50px;
+		width: 50px;
+		background-color: teal;
+		top: 0;
+		left: 0;
+	}
+
+} /*<-denne hører til en løkke la stå!*/

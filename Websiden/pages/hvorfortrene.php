@@ -1,11 +1,8 @@
 <h2>Hvorfor trene?</h2>
 
 <div class="hvorfortrene">
-	<p>En av de viktigste årsakene til å trene gjenvlig er at man får en økt livskvalitet og blir sterkere, som gjør at man blir
-		bedre rustet for de eldre årene.</p>
-	<p>Trening vil også ikke bare bedre den fysiske delen, men også den psykiske delen og den indre delen av kroppen. Du får bedre 
-		humør, er energi og god selvfølelse ved litt fysisk aktivitet. Du reduserer også sjansene for ting som blodpropp, høyt blodtrykk, 
-		og gir en bedret lungekapasitet.</p>
+	<p>En av de viktigste årsakene til å trene gjenvlig er at man får en økt livskvalitet og blir sterkere, som gjør at man blir bedre rustet for de eldre årene.</p>
+	<p>Trening vil også ikke bare bedre den fysiske delen, men også den psykiske delen og den indre delen av kroppen. Du får bedre humør, er energi og god selvfølelse ved litt fysisk aktivitet. Du reduserer også sjansene for ting som blodpropp, høyt blodtrykk, og gir en bedret lungekapasitet.</p>
 
 	<aside>
 		<p>Alle har vel også sett filmen "Rocky Balboa" fra 2006, eller kjenner til den kjente scenen, hvor han skal trene seg opp til den største
@@ -17,7 +14,7 @@
 	</aside>
 
 	<figure>
-		<img src="./img/rockybalboa.jpg" alt="rocky balboa">
+		<img class="sbilde" src="./img/rockybalboa.jpg" alt="rocky balboa">
 		<figcaption class="kilde">Kilde: IMDb.com </figcaption>
 	</figure>
 
