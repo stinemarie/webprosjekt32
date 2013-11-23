@@ -513,7 +513,7 @@ p{
 	.hvorfortrene p{
 		margin-top: 40px;
 	}
-/*REGLER FOR ØVELSESSIDER*/
+
 /*REGLER FOR TABELLER*/
 	.treninghvor table { 
 		border-collapse: collapse;
@@ -564,7 +564,6 @@ p{
 	}
 
 /*TRENE HVOR*/
-
 	.treningsenter{
 		border: 3px solid #9EB728;
 		margin-top: 30px;
@@ -577,7 +576,6 @@ p{
 	}
 
 /*REGLER FOR OPPSKRIFTSIDE OG UKESMENY*/
-
 	.oppskrift .overlay, .oppskrift #trykkher{
 		height: 220px;
 		width: 220px;
@@ -617,7 +615,50 @@ p{
 		overflow: hidden;
 		text-shadow: 1px 1px #4C4C4C;
 	}
-/*REGLER FOR INTERVJU*/
+
+/*REGLER FOR INTERVJU MED PERSONLIGETRENERE*/
+	.personligtrener #trenerne{
+		margin-left: 120px;
+	}
+
+	.personligtrener .question{
+		border: 3px solid #9EB728;
+		margin: 20px;
+		padding: 20px;
+		box-shadow: 1px 1px 4px 0px black;
+		clear: left;
+	}
+
+	.personligtrener #trenerne{
+		margin-left: 120px;
+	}
+
+	.personligtrener figure{
+		float: left;
+		height: 150px;
+		margin: 20px;
+		text-align: center;
+	}
+
+	.personligtrener #trenerne a img{
+		width: 120px;
+		height: 120px;
+		box-shadow: 1px 1px 4px 0px black;
+	}
+
+	.personligtrener .question img{
+		float: left;
+		clear: left;
+		width: 40px;
+		margin: 20px;
+		margin-top: 0px;
+	}
+
+	.personligtrener .question p{
+		min-height: 50px;
+		width: 500px;
+	}
+
 	
 /*REGLER FOR LENKER*/
 

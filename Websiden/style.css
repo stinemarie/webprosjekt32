@@ -639,7 +639,7 @@ h2{
 .oppskrift .overlay, .oppskrift #trykkher{
 	height: 220px;
 	width: 220px;
-	background-color: rgba(158, 183, 40,0.5);
+	background-color: rgba(158, 183, 40, 0.5);
 	position: absolute;
 	top:0;
 	right:0;
@@ -1042,17 +1042,17 @@ h2{
 
 
 /* Personlig trener */
-.personligtrener .question{
+/*.personligtrener .question{
 	border: 3px solid #9EB728;
 	margin: 20px;
 	padding: 20px;
 	box-shadow: 1px 1px 4px 0px black;
 	clear: left;
-}
+}*/
 
-.personligtrener #trenerne{
+/*.personligtrener #trenerne{
 	margin-left: 120px;
-}
+}*/
 
 .personligtrener figure{
 	float: left;
