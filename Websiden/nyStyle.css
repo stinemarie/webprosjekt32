@@ -66,14 +66,8 @@ a{
 	text-decoration: none;
 }
 
-/*sentrerer alle bilder på siden*/
-.bilde figure{
-	width: 80%;
-	margin: 10%;
-}
-
-.bilde img{
-	width: 100%;
+p{
+	margin-top: 20px;
 }
 
 /*-----------------------------*/
@@ -179,14 +173,24 @@ a{
 	}
 
 	.treBilder img{
-		width: 30%;
-		margin: 1.5px;
+		width: 31.3333%;
+		margin-bottom: 20px;
+	}
+
+	.treBilder img:nth-child(2){
+		margin-left: 2%;
+		margin-right: 2%;
 	}
 
 	.toBilder img{
 		width: 48%;
-		margin: 1.5px;
+		margin-bottom: 20px;
 	}
+
+	.toBilder img:first-child{
+		margin-right: 3%;
+	}
+
 
 /* REGLER FOR FOOTER */
 
@@ -599,17 +603,6 @@ a{
 		overflow: hidden;
 		text-shadow: 1px 1px #4C4C4C;
 	}
-/*REGLER FOR FAVORITTER*/
-	.favoritter p{
-		margin-top: 20px;
-	}
-
-/*REGLER OM ERNÆRING*/
-
-	.ernæring p{
-		margin-top: 40px;
-	}
-
 /*REGLER FOR INTERVJU*/
 	
 /*REGLER FOR LENKER*/
