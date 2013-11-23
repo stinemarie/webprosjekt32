@@ -2,11 +2,11 @@
 
 <div class="treningsprosjekt">
 	<p>Vi har under prosjektperioden gått inn for å ha et Før og Etter prosjekt, som Ida har utført. Her satte hun seg noen små oppnåelige mål for den korte perioden vi hadde, og så skulle vi se hvilke av disse målene som hun følte at hun klarte oppfylle etter at prosjektperioden var over.</p>
-	<div class="styrke">
-		<div id="apebilder">
-			<img class="treningsbilde" src="img/treningimg/ape1.jpg" alt="akrobat1">
-			<img class="treningsbilde" src="img/treningimg/ape2.jpg" alt="akrobat2">
-			<img class="treningsbilde" src="img/treningimg/ape3.jpg" alt="akrobat3">
+	<div >
+		<div class="treBilder">
+			<img class="sBilde" src="img/treningimg/ape1.jpg" alt="akrobat1">
+			<img class="sBilde" src="img/treningimg/ape2.jpg" alt="akrobat2">
+			<img class="sBilde" src="img/treningimg/ape3.jpg" alt="akrobat3">
 		</div>
 	</div>
 	<p>Jeg følte at for meg var det ikke å oppnå å gå ned så, så mange kilo på den ene måneden som vi skulle ha dette prosjektet. For meg så gikk det mer ut på å få gjennomført de øktene som jeg vet skal til for at jeg skal kunne sitte igjen med en god selvfølelse. Mine mål ble derfor:</p>
