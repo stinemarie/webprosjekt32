@@ -22,7 +22,7 @@
 			</div>
 		</a>
 
-		 <a onclick="swapStyleSheet('stil2.css')"> TRYKK HER FOR ØKT KONTRAST</a>
+		 <a id="kontrast" onclick="swapStyleSheet('stil2.css')"> <p>TRYKK HER FOR ØKT KONTRAST</p></a>
 
 		<img id="bakgrunn" src="img/bakgrunn.jpg" alt="bakgrunnsbilde">
 		<img id="superhemmelig" src="img/superhemmeligkapp.png" alt="knapp for å komme inn på en skjult video">
@@ -183,6 +183,7 @@
 			</div>
 			<footer>
 				<div id="copyright">&copy; 2013</div>
+				<div id="mobilcopy">TTF &copy; 2013</div>
 				<img id="minilogo" src="img/logogul.png"  alt="Websidens logo">
 				<div id="contentOwners">TTFS</div>
 			</footer>

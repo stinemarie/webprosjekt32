@@ -17,12 +17,13 @@ h1, h2, h3, h4{
 }
 
 h2, h3, h4{
-	font-size: medium;
 
 	margin-bottom: 20px;
 }
 
 h4{
+	font-size: x-large;
+	font-weight: lighter;
 	margin-top: 20px;
 }
 
@@ -45,8 +46,6 @@ footer{
 footer img{
 	width:40px;
 }
-
-
 
 .easteregg{
 	display:none;
@@ -74,6 +73,11 @@ p{
 /*-----------------------------*/
 
 @media( min-width:750px){
+
+	#kontrast p{
+		text-align: center;
+	}
+
 
 	#frame{
 		margin: auto;
@@ -214,6 +218,10 @@ p{
 		left: 16px;
 		color: #9EB728;
 		font-size: 12px;
+	}
+
+	#mobilcopy{
+		display: none;
 	}
 
 	#minilogo{
@@ -830,7 +838,9 @@ p{
 		background-color: #ECEDA2;
 		border: none;
 		box-shadow: none;
-	}	
+	}
+
+
 
 } /*<-denne hører til en løkke la stå!*/
 
@@ -840,8 +850,22 @@ p{
 
 @media( max-width:750px){
 
-	#superhemmelig, .easteregg, .kar, #trykk{
+	#superhemmelig, .easteregg, .kar, #trykk, #kontrast, #copyright, #contentOwners{
 		display:none;
+	}
+
+	#mobilcopy{
+		padding-top: 5px;
+		padding-left: 5px;
+	}
+
+
+	.ovelser img{
+		margin-bottom: -15px;
+	}
+
+	.ovelser p{
+		margin-top: -15px;
 	}
 
 	p{

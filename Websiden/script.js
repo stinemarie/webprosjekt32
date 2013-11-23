@@ -153,12 +153,7 @@ function hovedNavigering() {
 	 $( "#neste" ).click(function(){
 	 	neste();
 	 });
-	var animates = false;
-	setInterval(function() {
-		if(animates == false) {
-			neste();			
-		}
-	}, 6500);
+
 
 
 	function neste(){
@@ -215,6 +210,14 @@ function hovedNavigering() {
 	 	$( '.midten p').fadeIn('fast');		
 	});
 };
+
+	var animates = false;
+	setInterval(function() {
+		if(animates == false) {
+			neste();			
+		}
+	}, 6500);
+
 
 
 function bildeMeny(){ 

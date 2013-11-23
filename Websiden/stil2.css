@@ -67,8 +67,6 @@ a{
 	text-decoration: none;
 }
 
-
-
 p{
 	margin-top: 20px;
 	margin-bottom: 20px;
@@ -85,6 +83,10 @@ li{
 /*-----------------------------*/
 
 @media( min-width:750px){
+
+	#kontrast p{
+		text-align: center;
+	}
 
 	#frame{
 		margin: auto;
@@ -425,7 +427,7 @@ li{
 		top:0;
 		left:0;
 		font-size: xx-large;
-		color: #9eb728;
+		color: black;
 		text-align: right;
 		height: 200px;
 		width: 220px;
