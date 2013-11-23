@@ -219,11 +219,6 @@ function hovedNavigering() {
 	});
 };
 
-function leselighet(){
-	$("#leselighet").click(function(){	
-		$("h1").css("color", "black");
-	});
-};
 
 function bildeMeny(){ 
 	$('.lenke').hover(function(){ 
