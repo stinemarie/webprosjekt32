@@ -103,6 +103,7 @@
 
 					<h5><a href="#5.6.1">5.6.1 Mobil-løsning</a></h5>
 					<h5><a href="#5.6.2">5.6.2 CSS-arket</a></h5>
+					<h5><a href="5.6.3">5.6.3 WECAG</a></h5>
 
 			<h3><a href="#6">6. Konklusjon</a></h3>
 
@@ -256,18 +257,12 @@
 
 					<h5 id="2.4.3">2.4.3 Konklusjoner fra alpha-test</h5>
 
-<<<<<<< HEAD
 					<p>Fra Alpha-testen 06.november Vi var enige i at fonten burde være lik over hele siden og at dette ville gi bedre flyt. Vi satte også i gang med å sette padding og marginer på elementene på siden for å få en overenstemmelse. Vi var uenige innad i gruppen hvorvidt vi skulle ha en mobilløsning. På den ene siden var det svært tidkrevende. Siden ville komme opp på nettleseren på en mobil, men innholdet ville være svært lite og det ville vært vanskelig å få en oversikt på siden med mindre skjerm. Feilen i navigerings menyen ble rettet opp.</p>
-=======
-					<p>Fra Alpha-testen 06.11.12 Vi var enige i at fonten burde være lik over hele siden og at dette ville gi bedre flyt. Vi satte også i gang med å sette padding og marginer på elementene på siden for å få en overenstemmelse. Vi var uenige innad i gruppen hvorvidt vi skulle ha en mobilløsning. På den ene siden var det svært tidkrevende og siden ville jo komme opp på nettleseren på en mobil, men innholdet ville være svært lite og det ville vært vanskelig å få en oversikt på siden med mindre skjerm. Feilen i navigerings-menyen ble rettet opp.</p>
->>>>>>> 5984a733a1355452f0ad954bc75652eba6ba6463
 
 					<p>Fra Alpha-testen 21.november Vi sa oss enige i at overskriftene så ut som lenker. At karusellen skulle stoppe å rotere når man hold musepeker over var en god idé. Dette skulle vi se mer på dersom det var tid. Vi prøvde på andre nettlesere for å se om vi kunne finne den samme feilen med at bilder ikke kom opp, men fant den ikke. Vi var enige i at kontrasten var for lav på flere steder på siden og bestemte oss får å lage en funksjon i JQuery for å øke leselighet. Gruppen påpekte også at man ikke kan navigere på siden uten JQuery. Vi diskuterte dette og besluttet at det var for sent i prosessen og gjøre store endringer. Dessuten er siden godt leselig i tekstbasere nettlesere som lynx.</p>
 
-
-
 			<h3 id="3">3. Universell utforming</h3>
-			<p>Under utformingen av websiden har vi lagt vekt på at informasjonen som finnes skal være tilgjengelig for alle brukergrupper. Måten vi har gjort dette på er blant annet ved å sørge for å alltid brukte riktig type tagger i HTML-koden, alltid inkludere en alternativ tekst til bilder, bruke gode lenkenavn og sørge for at siden ser bra ut i en Lynx-leser.</p>
+			<p>Under utformingen av websiden har vi lagt vekt på at informasjonen som finnes skal være tilgjengelig for alle brukergrupper. Måten vi har gjort dette på er blant annet ved å sørge for å alltid brukte riktig type tagger i HTML-koden, alltid inkludere en alternativ tekst til bilder, bruke gode lenkenavn og sørge for at siden ser bra ut i en Lynx-leser. Et alternativt stilark har økt kontrast og større skrifttype. Vi bruke verktøyet Vi brukte verktøyet Colour Contrast Analyzer for å sørge for at kontrasten var høy nok. Kontrastene validerer på nivå AAA.</p>
 
 				<h4 id="3.1">3.1 WCAG-standarden </h4>
 					<p>Det er et krav at alle nye nettsider skal følge WCAG-standarden på niva A og AA. WCAG er en teknisk spesifikasjon som ble vedtatt i 2008 og som ble formelt godkjent som internasjonal standard i 2012. WCAG 2.0 er bygd opp av fire hovedprinsipper, som understøttes av 12 retningslinjer og 61 testbare suksesskriterier.</p>
@@ -428,13 +423,17 @@
 					</ul>
 
 				<h4 id="5.6">5.6 Forbedringer</h4>
-					<p>Hadde tiden strukket til så ville vi gjort noen forbedringer på det vi har i sluttresultatet vårt:</p>
+					<p>Etterhvert som vi har jobbet har vi lært mye om teknologiene vi har jobbet med. Mye var nytt og mange ting hadde vi ikke tenkt på. Her er en liste med forbedringer og ting vi ville ha gjor anneredes gitt mere tid.</p>
 
 					<h5 id="5.6.1">5.6.1 Mobil-løsning</h5>
-					<p>Hadde vi hatt lengre tid, ville vi ha gjort forbedringer på vår mobilløsning. Vi ville ha laget en bedre menyløsning for navigeringen enn hva vi har i sluttresultatet. Vi ville nok også gjort noe med oppskriftsmenyen, slik at teksten stod fast over bildet, slik at man ikke behøver å la musepekeren hvile på bildet for å se hvilken oppskrift bildet hører til.</p>
+					<p>Hadde vi hatt lengre tid, ville vi ha gjort forbedringer på vår mobilløsning. Vi ville ha laget en bedre menyløsning. Navigeringen mellom undersidene generelt ville blitt gjort annerledes og vi ville ha lagt til en scroller i venstre side av skjermen</p>
 
 					<h5 id="5.6.2">5.6.2 CSS-Arket</h5>
-					<p>Vi gjorde en rask beslutning i sammenheng med da vi begynte på sluttrapporten vår, at vi følte CSS-arket vårt innehold for mange enkelt regler, som kunne bli generalisert. Stine valgte å skrive om CSS-arket å skrive mer generelle regler på det vi alt hadde. Men hadde vi hatt mer tid, ville vi nok jobbet enda mer med dette. Vi ville nok ha gjort slik at siden kunne vært mer brukervennlig ut ifra WCAG med kontraster på farger og font.</p>
+					<p>Etter tilbakemeldingene i alpha testen gjorde vi en rask beslutning om å rydde opp i CSS-arket. Det inneholdt for mange spesifike regler som kunne bli generalisert. Arket bærer fortsatt preg av at flere personer har skrevet kodet. I perspektiv skulle vi ha satt opp "regler" for CSS'en. Foreksempel bruk av klasser, id og kommentering.</p>
+
+					<5 id="5.6.3">5.6.3 WCAG</h5>
+					<p>Vi syntes WECAG standarden er viktig og bra å følge. Vi ønsker at alle skal ha tilgang til innholdet vi legger ut på nettet. Dessverre var det noen av standardene vi ikke klarte å følge. Slik som tab funksjonen. Det er dessverre ikke mulig å tabbe gjennom menyen. Dette er noe vi kommer til å gjøre annerledes i fremtiden.</p>
+
 
 			<h3 id="6">6. Konklusjon</h3>
 			<p>Under prosjektperioden så har vi vært flinke med fordeling av oppgaver, slik at vi har gjort noenlunde like mye arbeid. Noen har jobbet litt mer med den tekniske delen av opggaven, noen med design og noen med innholdet for siden. Dette har fungert bra for gruppen, da vi selv har valgt hva vi skulle gjøre.</p>
