@@ -63,7 +63,7 @@ h5{
 }
 
 p{
-	margin: 0px;
+	margin: 5px;
 	margin-left: 25px;
 	margin-right: 25px;
 	clear: both;
@@ -106,4 +106,8 @@ figure img{
 
 #fargekart img{
 	width: 400px;
+}
+
+p a{
+	text-decoration: underline;
 }
