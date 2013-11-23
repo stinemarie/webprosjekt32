@@ -13,7 +13,8 @@
 		<strong>You did it!</strong></p>
 	</aside>
 
-	<figure class="treBilder"
+
+	<figure class="treBilder">
 		<img class="sBilde" src="./img/rockybalboa.jpg" alt="rocky balboa">
 		<figcaption class="kilde">Kilde: IMDb.com </figcaption>
 	</figure>

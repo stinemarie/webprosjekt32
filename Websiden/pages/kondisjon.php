@@ -11,7 +11,7 @@
 	<p>Total tid ca for et slikt intervall er 27-30 minutter.</p>
 		<div class="treninghvor">
 			<table>
-				<tr>
+				<tr id="tablehead">
 					<th>Intervall</th>
 					<th>Tid</th>
 					<th>Hastighet</th>
@@ -112,7 +112,7 @@
 	<p>Oppvarming i 6-10 minutter, deretter kjører man en 4x4 minutters intervaller, hvor man har en maksimal hjertefrekvens på ca 85-95%. Mellom hvert intervall, så har man en hvileperiode på 3 minutter med lavere intensitet (snakkefart) som tilsvarer en maksimal hjertefrekvens på ca 70%. For å finne evt riktig intensitet på hvert interfall er å ta tommelfingerregelen, som er "Jeg kunne fortsatt i denne farten i ett minutt til", og ved avslutning på selve økten "Jeg kunne ha gjennomført ett intervall til". For om man har for høy intensitet kan det føre til for mye melkesyre, som reduserer hjertets fylling, som gir noe dårligere treningseffekt.</p>
 		<div class="treninghvor">
 		<table>
-			<tr>
+			<tr id="tablehead">
 				<th>Intervall</th>
 				<th>Tid</th>
 				<th>Intensitet</th>
