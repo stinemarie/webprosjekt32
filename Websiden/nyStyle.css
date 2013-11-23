@@ -642,10 +642,6 @@ a{
 
 /* REGLER OM OSS*/
 
-/*	#omosstekst{
-		margin-left: 20px;
-		margin-right: 20px;
-	}*/
 	.omoss{
 		height: 700px;
 	}
@@ -666,10 +662,6 @@ a{
 	.omossfigure figcaption{
 		text-align: center;
 	}
-
-/*	.omossfigure figcaption a{
-		color: #1F850B;
-	}*/
 
 	.omossfigure img{
 		height:200px;

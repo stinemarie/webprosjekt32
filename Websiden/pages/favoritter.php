@@ -5,7 +5,7 @@
 	<div class="favorittBoks">
 		<h4>Stines favoritt: Granateple</h4>
 		<figure>
-			<img class="fbilde" src="./img/pomegranate200x300.jpg" alt="bilde av granateple">
+			<img class="fBilde" src="./img/pomegranate200x300.jpg" alt="bilde av granateple">
 			<figcaption>Foto: Anton Croos</figcaption>
 		</figure>
 		<p> Min favoritt er granateple. Den er proppet med antioksidanter. I følge <a href="http://www.bama.no"> bama.no</a>  inneholder den 10 ganger mer antioksidanter enn appelsiner og nesten 40 ganger mer enn epler. Både håndgranater og byen Granada i Spania er oppkalt etter frukten. Den passer bra til å ha i salat. Da gjerne med frisk salat, avokado, feta ost, rødløk og cherrytomater. Nam nam!<br> PS! Superdigg å ha i daiquiri også! </p>
@@ -15,7 +15,7 @@
 	<div class="favorittBoks">
 		<h4>Ida sin favoritt: Avokado</h4>
 		<figure>
-			<img class="fbilde"  src="./img/avokado.jpg" alt="bilde av avokado">
+			<img class="fBilde"  src="./img/avokado.jpg" alt="bilde av avokado">
 			<figcaption>Kilde: <a href="http://www.kriweb.no/2013/02/14/kjottkaker-med-avokado/" target="_blank"> kriweb.no</a></figcaption>
 		</figure>
 		<p>Den er rik på kalsium, proteiner og B-, E-, K-, A- og C-vitaminer.  I tillegg inneholder frukten kolesterolsenkende stoffer og 
@@ -37,7 +37,7 @@
 	<div class="favorittBoks">
 		<h4>Amund sin favoritt: Brokkoli</h4>
 		<figure>	
-			<img class="fbilde" src="./img/brokkoli.jpg" alt="bilde av brokkoli">
+			<img class="fBilde" src="./img/brokkoli.jpg" alt="bilde av brokkoli">
 			<figcaption></figcaption>
 		</figure>
 		<p>Min favoritt-grønnsak er brokkoli. En av grunnene til at jeg liker denne grønnsaken godt er at den er enkel å tilberede og kan brukes i veldig mange sammenhenger. Brokkoli er en av de mest næringsrike grønnsakene som finnes, og den er full av antioksidanter!
@@ -48,7 +48,7 @@
 		<div class="favorittBoks">
 		<h4>Christopher sin favoritt: Asparges</h4>
 		<figure>		
-			<img class="fbilde" src="./img/asparges.jpg" alt="bilde av asparges">
+			<img class="fBilde" src="./img/asparges.jpg" alt="bilde av asparges">
 			<figcaption></figcaption>
 		</figure>
 		<p>Min favoritt-grønnsak er asparges. Mye av grunnen er at det er en næringsrik og llett å tilberede. Asparges et en veldig allsidig grønnsak som passer til de fleste retter. Den kan også spises alene. I sommerhalvåret pleier jeg og grille dem i olivenolje, sitronsaft, salt og pepper. 
