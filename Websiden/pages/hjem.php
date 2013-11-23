@@ -2,8 +2,6 @@
 
 	<p id="hjemtekst">På denne websiden kan du lese om trening og kosthold. Du vil blant annet finne gode tips til treningsøvelser og en oversikt over populære treningssentere og hva de har og tilby. Under kostholds-kategorien vil du finne oppskrifter på mange digge og sunne matretter!</p>
 	
-	<p id="leselighet">trykk her for økt leselighet</p>
-	
 	<hr>
 
 	<nav class="kar">

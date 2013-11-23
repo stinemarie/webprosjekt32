@@ -6,12 +6,9 @@ $(document).ready(function(){
 		easterEggUt();
 		easterEggInn();
 		hovedNavigering();
-		leselighet()
 	}else{
 		kalkulerBmi();
 		kalkulerBmr();
-
-
 	}
 });
 

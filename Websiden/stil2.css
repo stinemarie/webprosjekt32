@@ -60,6 +60,7 @@ ul{
 
 a{
 	color: black;
+	font-size:  large;
 }
 
 #hovednavigering a {
@@ -492,7 +493,7 @@ li{
 		position:absolute;
 		right:0;
 		top:0;
-		background-color:rgba(158, 183, 40,0.5);
+		background-color:white;
 		display:none;
 	}
 
@@ -504,8 +505,11 @@ li{
 	}
 
 	.ovelser p{
-		color: white;
+		color: black;
+		margin: 0;
 	}
+
+
 	
 /*REGLER FOR HVORFOR TRENE*/
 	.hvorfortrene figure{
@@ -530,6 +534,10 @@ li{
 		margin-top: 40px;
 	}
 
+	.hvorfortrene{
+		height: 1000px;
+	}
+
 /*REGLER FOR TABELLER*/
 	.treninghvor table { 
 		border-collapse: collapse;
@@ -537,8 +545,8 @@ li{
 	}
 
 	 .treninghvor {
-	 	background: #ECEDA2;
-	 	overflow: hidden;
+	 	background: white;
+
 	 	border: 3px solid #9EB728; 
 	 	border-radius: 3px; 
 	}
@@ -548,10 +556,9 @@ li{
 	}
 
 	.treninghvor table #tablehead th {
-		background-color:#ECEDA2;
-		color:#9EB728; 
-		font-size: 15px; 
-		font-weight: bold; 
+		background-color: white;
+		color:black; 
+		font-size: 20px; 
 		border-left: 2px solid #9EB728; 
 	}
 
@@ -560,15 +567,15 @@ li{
 	}
 
 	 .treninghvor table tbody td {
-		 color: #00496B; 
+		 color: black; 
 		 border-left: 2px solid #9EB728;
-		 font-size: 12px;
+		 font-size: 15px;
 		 font-weight: normal; 
 	}
 
 	.treninghvor table tbody .alt td { 
 		background: #E3F1FF;
-		color: #9EB728; 
+		color: black; 
 	}
 
 	.treninghvor table tbody td:first-child {
@@ -600,6 +607,8 @@ li{
 		top:0;
 		right:0;
 	}
+
+
 
 	.oppskrifter{
 		height: 1650px;
