@@ -26,7 +26,7 @@
 		og vend salaten forsiktig sammen.</p>
 
 	<figure>
-		<img class="matbilde" src="./img/potetsalat.jpg" alt="potetsalat">
+		<img class="fBilde" src="./img/potetsalat.jpg" alt="potetsalat">
 			<figcaption class="kilde">kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 

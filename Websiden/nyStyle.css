@@ -158,6 +158,7 @@ p{
 		width: 80%;
 		margin-left: 10%;
 		margin-right: 10%;
+		margin-top: 10%;
 		padding: 10px;
 		border: solid thin black;
 		background-color: #eceda2;
@@ -165,11 +166,24 @@ p{
 
 	.fBilde + .kilde{
 		margin-left: 10%;
-
 	}
 	
 	.sBilde{
 		box-shadow: 2px 2px 5px black;
+	}
+
+	.eBilde img{
+		width: 80%;
+		margin: 10%;
+	}
+
+	.eBilde + .kilde{
+		margin-left: 10%;
+	}
+
+	.eBilde img + .kilde{
+		margin-left: 10%;
+		margin-top: -10%;
 	}
 
 	.treBilder img{

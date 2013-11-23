@@ -23,7 +23,7 @@
 
 
 	<figure>
-		<img class="matbilde" src="./img/sommersalat.jpg" alt="sommersalat">
+		<img class="fBilde" src="./img/sommersalat.jpg" alt="sommersalat">
 			<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 

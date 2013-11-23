@@ -32,12 +32,11 @@
 	nøytral olje og deretter en ss smør når laksen har fått stekeskorpe på begge sidene. Mot slutten av steketiden strør du 
 	litt sesamfrø på laksen. Laksen er ferdigstekt, når den så vidt faller fra hverandre. La laksen hvile i noen minutter før 
 	den serveres.</p>
-	<p>Skjær opp grønnsakene som angitt ovenfor og wok dem raskt i en stekepanne, i en nøytral olje. Grønnsakene er ferdige når 
-	de er nesten møre og fortsatt har litt ”spenst” igjen. Om man ikke får tak i pak choy, kan man evt heller benytte spinat.</p>
+	<p>Skjær opp grønnsakene som angitt ovenfor og wok dem raskt i en stekepanne, i en nøytral olje. Grønnsakene er ferdige når de er nesten møre og fortsatt har litt ”spenst” igjen. Om man ikke får tak i pak choy, kan man evt heller benytte spinat.</p>
 	<p>Det hele serveres samlet, med kokt ris eller nudler som tilbehør. Man har da til slutt soyasausen over den ferdige retten, 
 	eller serverer den ved siden av slik at man kan forsyne seg etter smak og behag.</p>
 	<figure>
-	<img class="matbilde" src="./img/laksesalat.jpg" alt="Laks med sesamfrø">
+		<img class="fBilde" src="./img/laksesalat.jpg" alt="Laks med sesamfrø">
 		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 

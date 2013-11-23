@@ -18,7 +18,7 @@
 	<p>Smuldre fetaost over retten og server umiddelbart, gjerne med godt brød til.</p>
 
 	<figure>
-		<img class="matbilde" src="./img/spaghettispinat.jpg" alt="spaghettispinat">
+		<img class="fBilde" src="./img/spaghettispinat.jpg" alt="spaghettispinat">
 		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 

@@ -20,14 +20,14 @@
 	<p>La blandingen avkjøles, tilsett tørkede eplebiter, og hell deretter blandingen på et stort glass eller i en boks. Granolaen er holdbar i ca 1 måned.</p>
 
 	<figure>
-		<img class="matbilde" src="./img/granola.jpg" alt="granola">
+		<img class="fBilde" src="./img/granola.jpg" alt="granola">
 		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
 	<p>Så tar man da bare med en liten porsjon av den hjemmelagde granolaen, og en eller to små kopper av den ønskede yoghurten. Man tar da bare å heller ønsket mengde med ganola oppi yoghurten og strør gjerne noen ferske bær på toppen for litt ekstra mat, og ekstra luksus.</p>
 
 	<figure>
-		<img class="matbilde" src="./img/yoghurt.jpg" alt="yoghurt">
+		<img class="fBilde" src="./img/yoghurt.jpg" alt="yoghurt">
 		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 

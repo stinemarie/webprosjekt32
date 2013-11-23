@@ -9,12 +9,9 @@
 		<li>En klype sukker</li>
 		<li>1 ss Olivenolje</li>
 	</ul>
-	<p>Ha mel, salt, sukker, gjær, olivenolje og mesteparten av vannet i bakebollen. Kjør blandingen i kjøkkenmaskin med eltekroker 
-		på lav til middels hastighet i ca 10 minutter. Spe eventuelt med mere vann dersom deigen blir tørr.</p>
-	<p>Dekk bakebollen med lokk eller plast og la deigen etterheve til ca dobbel størrelse. Det tar en times tid, men du kan gjerne 
-		la den stå enda lengre om du har tid.</p>
-	<p>Har du ikke kjøkkenmaskin rører du ut gjæren i litt av vannet og rører deretter de øvrige ingrediensene sammen. Elt deretter 
-		så mye du synes du har tid og ork til, og sett til heving. </p>
+	<p>Ha mel, salt, sukker, gjær, olivenolje og mesteparten av vannet i bakebollen. Kjør blandingen i kjøkkenmaskin med eltekroker på lav til middels hastighet i ca 10 minutter. Spe eventuelt med mere vann dersom deigen blir tørr.</p>
+	<p>Dekk bakebollen med lokk eller plast og la deigen etterheve til ca dobbel størrelse. Det tar en times tid, men du kan gjerne la den stå enda lengre om du har tid.</p>
+	<p>Har du ikke kjøkkenmaskin rører du ut gjæren i litt av vannet og rører deretter de øvrige ingrediensene sammen. Elt deretter så mye du synes du har tid og ork til, og sett til heving. </p>
 	<p>Selve pizzaen:</p>
 	<ul>
 		<li>Pizzabunn</li>
@@ -32,8 +29,8 @@
 		italiensk rødvin til.</p>
 
 	<figure>
-		<img class="matbilde" src="./img/pizza.jpg" alt="pizza">
-			<figcaption class="kilde">Kilde: Trines matblogg. Foto: Trine Sandberg.</figcaption>
+		<img class="fBilde" src="./img/pizza.jpg" alt="pizza">
+		<figcaption class="kilde">Kilde: Trines matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
 	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines matblogg</a></p>

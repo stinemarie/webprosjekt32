@@ -21,7 +21,7 @@
 	sort pepper over og ringle eventuelt over litt god olivenolje (eller vent med det til den skal serveres, om du skal ha den med 
 	deg på tur). Legg toppen oppå, skjær brødet i to, og server – eller pakk de inn i plast og ta de med på tur!</p>
 	<figure>
-	<img class="matbilde" src="./img/fougasse.jpg" alt="fougasse">
+	<img class="fBilde" src="./img/fougasse.jpg" alt="fougasse">
 		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 

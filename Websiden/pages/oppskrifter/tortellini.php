@@ -21,7 +21,7 @@
 
 
 	<figure>
-		<img class="matbilde" src="./img/tortellini.jpg" alt="tortellini">
+		<img class="fBilde" src="./img/tortellini.jpg" alt="tortellini">
 			<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 

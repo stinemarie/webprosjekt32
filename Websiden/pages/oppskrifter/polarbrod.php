@@ -16,7 +16,7 @@
 	<p>Når brødene er helt avkjølt bør de pakkes i plast og legges i fryseren. Ta opp ønsket antall brød og la dem tine i romtemperatur (tiner på ca 30 minutter) eller i kjøleskapet (over natten, hvis du skal ha dem tidlig på morgenen). Ønsker du lunkne polarbrød kan du varme dem ved ca. 175 grader varmluft, i 3-4 minutter.</p>
 
 	<figure>
-		<img class="matbilde" src="./img/polarbrod.jpg" alt="polarbrød">
+		<img class="fBilde" src="./img/polarbrod.jpg" alt="polarbrød">
 		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 

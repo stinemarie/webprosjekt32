@@ -18,7 +18,7 @@
 	Strø gjerne over de friske krydderurtene hvis du har, og server med noen flak parmesan. For en siste finish, 
 	så kan du ha ferskt brød på siden!</p>
 	<figure>
-		<img class="matbilde" src="./img/pastakylling.jpg" alt="Pasta med rød pesto, kylling og paprika">		
+		<img class="fBilde" src="./img/pastakylling.jpg" alt="Pasta med rød pesto, kylling og paprika">		
 		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trines Sandberg.</figcaption>
 	</figure> 
 

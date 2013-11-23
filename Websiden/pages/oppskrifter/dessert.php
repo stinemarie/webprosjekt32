@@ -15,7 +15,7 @@
 	<p>Stek tertene midt i ovnen (over- og undervarme) ved ca 200 grader i ca 20-25 minutter, til tertebunnen er gyldenbrun. Jeg stekte mine terter i overkant av 25 minutter. Avkjøl tertene litt på rist. (Dersom du lager en stor terte må du beregne noe lengre steketid.)</p>
 	 
 	<figure>
-	  <img class="matbilde" src="./img/bringebærterte.jpg" alt="bilde av bringebærterte">
+	  <img class="fBilde" src="./img/bringebærterte.jpg" alt="bilde av bringebærterte">
 	  <figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 

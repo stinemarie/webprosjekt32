@@ -22,8 +22,8 @@
 
 
 	<figure>
-		<img class="matbilde" src="./img/pastapecorino.jpg" alt="Pastapecorino">
-			<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
+		<img class="fBilde" src="./img/pastapecorino.jpg" alt="Pastapecorino">
+		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
 	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines matblogg</a></p>

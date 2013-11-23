@@ -23,8 +23,8 @@
 		salt og pepper. Strø over litt finhakket koriander og server evt med en liten klatt creme fraiche og ferskt brød til.</p>
 
 	<figure>
-		<img class="matbilde" src="./img/chorizosuppe.jpg" alt="Suppe">
-			<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
+		<img class="fBilde" src="./img/chorizosuppe.jpg" alt="Suppe">
+		<figcaption class="kilde">Kilde: Trines Matblogg. Foto: Trine Sandberg.</figcaption>
 	</figure> 
 
 	<p class="kilde">Kilde: <a href="http://www.trinesmatblogg.no" target="_blank">Trines matblogg</a></p>
