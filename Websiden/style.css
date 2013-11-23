@@ -83,15 +83,15 @@ img{
 	background: #E3F1FF;
 }*/
 
-#logo{
+/*#logo{
 	width: 100% !important;
 	max-width: 260px !important;
 	margin-top:-186px;
 	margin-left:10px;
 	padding-bottom: 30px;
 }
-
-#bakgrunn{
+*/
+/*#bakgrunn{
 	height:100%;
 	width:auto;
 	min-height;
@@ -99,17 +99,17 @@ img{
 	top: 0;
  	left: 0;
 	z-index: -100;
-}
+}*/
 
-footer{
+/*footer{
 	width: 100%;
-}
+}*/
 
-#minilogo{
+/*#minilogo{
 	padding-left: 45%;
 	padding-top:10px;
 }
-
+*/
 p{
 	margin: 30px;
 }
@@ -580,11 +580,11 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 }*/
 
 /* Oppskrifter med undersider*/
-
+/*
 .oppskrifter{
 	height: 1800px;
 }
-
+*/
 .oppskrifter #navid{
 	margin-left: -10px;
 }
@@ -631,7 +631,7 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 .smoothie div{
 	margin-top: 30px;
 }
-
+/*
 .oppskrift .fargefelt{
 	display: block;
 }
@@ -664,16 +664,16 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	margin: 20px;
 	overflow: hidden;
 	text-shadow: 1px 1px #4C4C4C;
-}
+}*/
 
-.matbilde{
+/*.matbilde{
 	width: 100%;
 	padding: 10px;
 	border: solid thin black;
 	background-color: #eceda2;
 	clear: both;
-}
-
+}*/
+/*
 .oppsk h4{
 	margin-left: 20px;
 	font-size: 20px;
@@ -686,7 +686,7 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 
 .oppsk .kilde a{
 	margin-left: 0px;
-}
+}*/
 
 /* Om oss */
 
@@ -891,12 +891,11 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 /*Slutte på styling av kalkulatorene*/
 
 /* slutt på Hvorfor trene */
-
+/*
 .hvorfortrene{
 	height: 650px;
 	margin: 0 auto;
 	margin-left: 20px;
-
 }
 
 .hvorfortrene img{
@@ -917,13 +916,13 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 .hvorfortrene aside{
 	width: 370px;
 	float: left;
-}
+}*/
 
 /* slutt på Hvorfor trene */
 
 /* Hjem */
 
-.hjem #hjemtekst{
+/*.hjem #hjemtekst{
 	width: 407px;
 	margin-left: 178px;
 	font-size: 24px;
@@ -942,12 +941,12 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 
 .hjem #hrnede{
 	margin-top: 300px;
-}
+}*/
 /*slutt på Hjem */
 
 /*Easter egg*/
 
-.easteregg{
+/*.easteregg{
 	position: relative;
 	width: 55%;
 	height: 539px;
@@ -972,7 +971,7 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	top: 100px;
 	left: 50px;
 }
-
+*/
 /*Styling tabeller*/
 .treninghvor table { 
 	border-collapse: collapse;
@@ -1024,7 +1023,7 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 
 /* Trene hvor */
 
-.treningsenter{
+/*.treningsenter{
 	border: 3px solid #9EB728;
 	margin: 20px;
 	box-shadow: 1px 1px 4px 0px black;
@@ -1033,7 +1032,7 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 
 .treningsenter div{
 	border: 2px solid #9EB728;
-}
+}*/
 
 /* Slutt på trene hvor */
 
@@ -1112,16 +1111,16 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 
 /* Lenker */
 
-#lenkerid{
+/*#lenkerid{
 	height: 1000px;
-}
+}*/
 
-.lenker .lenkesamling{
+/*.lenker .lenkesamling{
 	position: static;
 	width: 350px;
 	float: left;
 	margin-bottom: 70px;
-}
+}*/
 
 .lenker h4{
 	margin-left: 20px;
@@ -1129,7 +1128,7 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	margin-bottom: 10px;
 }
 
-.lenker a{
+/*.lenker a{
 	margin-left: 20px;
 	display: block;
 }
@@ -1137,9 +1136,9 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 .lenker .beskrivelse{
 	margin-left: 40px;
 	margin-bottom: 10px;
-}
+}*/
 
-.lenker img{
+/*.lenker img{
 	width: 320px;
 	box-shadow: 2px 2px 5px black;
 }
@@ -1148,7 +1147,7 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 	width: 320px;
 	float: right;
 	text-align: center;
-}
+}*/
 /* Slutt på lenker */
 
 /* Treningsprosjekt */
@@ -1269,8 +1268,7 @@ div .clickable a{ /* Makes the hyperlinks fill the divs*/
 
 /* Slutt på kondisjon*/
 
-/* Ernæring */
-
+/* Ernæring om 
 #erneringbilder{
 		margin-left: 100px;
 	}
