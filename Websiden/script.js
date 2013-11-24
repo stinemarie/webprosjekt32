@@ -153,7 +153,7 @@ function hovedNavigering() {
 	 $( "#neste" ).click(function(){
 	 	neste();
 	 });
-
+	 
 	var animates = false;
 	setInterval(function() {
 		if(animates == false) {

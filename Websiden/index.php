@@ -20,6 +20,7 @@
 	<body>
 		<a href="#frame">
 			<div id="taMegTilToppen">
+				<img src="img/tilbakeknapp.png" alt="tilbakeknapp">
 			</div>
 		</a>
 

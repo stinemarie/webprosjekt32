@@ -1,10 +1,15 @@
-/*-----------------------------*/
-/*    REGLER FOR HELE SIDEN    */
-/*-----------------------------*/
+/*-----------------------------------*/
+/*    STILARK FOR BEDRE LESELIGHET   */
+/*-----------------------------------*/
+
 * {
 	margin:0;
 	padding:0;
 	border:0;
+}
+
+#taMegTilToppen{
+	display: none;
 }
 
 #mobilcopy{
@@ -13,11 +18,6 @@
 
 body{
 	font-family: "Gill Sans", sans-serif;
-}
-
-#kontrast{
-	margin-left: 620px;
-	font-size: small;
 }
 
 h1, h2, h3, h4{
@@ -82,11 +82,14 @@ p{
 
 li{
 	font-size: x-large;
-
 }
 
 #kontrast p{
 	text-align: center;
+	font-size: large;
+	background-color: white;
+	border-bottom: thin solid black;
+	margin-top: 0;
 }
 
 #frame{
@@ -118,7 +121,7 @@ li{
 	width: 40px;
 	height: 60px;
 	position: fixed;
-	top: 30px;
+	top: 35px;
 	left: 25px;
 	z-index: -5;
 }
@@ -512,6 +515,9 @@ hr{
 	margin: 0;
 }
 
+#otrykk{
+	visibility: hidden;
+}
 
 
 /*REGLER FOR HVORFOR TRENE*/
@@ -611,14 +617,12 @@ hr{
 	right:0;
 }
 
-
-
 .oppskrifter{
 	height: 1650px;
 }
 
 .ukesmeny{
-	height: 2680px;
+	height: 3300px;
 }
 
 .oppskrift .fargefelt{
@@ -729,7 +733,7 @@ hr{
 /* REGLER OM OSS*/
 
 .omoss{
-	height: 700px;
+	height: 750px;
 }
 
 #bilderavoss{

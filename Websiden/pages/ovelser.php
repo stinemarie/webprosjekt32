@@ -13,7 +13,7 @@
 				<a class="lenke" href="?page=yogaogpilates">
 					<img src="./img/ikon/yoga.jpg" alt="Yoga og Pilates">
 					<div class="overlay">
-						<p>les om yoga og pilates</p>
+						<p>les om Yoga og Pilates</p>
 					</div>
 				</a>
 			</li>
