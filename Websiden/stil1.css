@@ -12,8 +12,10 @@ body{
 }
 
 #kontrast{
-	margin-left: 620px;
-	margin-top: 200px;
+	margin-left: 620px;}
+
+#kontrast p{
+	margin-top: 0px;
 }
 
 
