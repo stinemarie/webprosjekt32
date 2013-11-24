@@ -12,14 +12,6 @@ $(document).ready(function(){
 	}
 });
 
-function kontr() {
-$("a[data-theme]").click(function() {
-    $("head link#theme").attr("href", 
-    $(this).data("theme"));
-});
-};
-
-
 /*script for meny*/
 function hovedNavigering() {	
 	
@@ -161,12 +153,7 @@ function hovedNavigering() {
 	 $( "#neste" ).click(function(){
 	 	neste();
 	 });
-	var animates = false;
-	setInterval(function() {
-		if(animates == false) {
-			neste();			
-		}
-	}, 6500);
+
 
 
 	function neste(){
@@ -223,6 +210,14 @@ function hovedNavigering() {
 	 	$( '.midten p').fadeIn('fast');		
 	});
 };
+
+	var animates = false;
+	setInterval(function() {
+		if(animates == false) {
+			neste();			
+		}
+	}, 6500);
+
 
 
 function bildeMeny(){ 
