@@ -154,7 +154,12 @@ function hovedNavigering() {
 	 	neste();
 	 });
 
-
+	var animates = false;
+	setInterval(function() {
+		if(animates == false) {
+			neste();			
+		}
+	}, 6500);
 
 	function neste(){
 		animates = true;
