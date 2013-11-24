@@ -873,7 +873,7 @@ p{
 
 @media( max-width:750px){
 
-	#superhemmelig, .easteregg, .kar, #trykk, #kontrast, #copyright, #contentOwners{
+	#superhemmelig, .easteregg, .kar, #trykk, #kontrast, #copyright, #contentOwners, #otrykk{
 		display:none;
 	}
 

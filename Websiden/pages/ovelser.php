@@ -4,7 +4,7 @@
 	<nav class="treningssider">
 		<ul>
 			<li>			
-				<img id="trykk" src="./img/ikon/trykkher.jpg" alt="ikon">
+				<img id="otrykk" src="./img/ikon/trykkher.jpg" alt="ikon">
 				<div id="trykkher">
 					<p>trykk på en av bildene for å lese mer om øvelsen</p>
 				</div>
