@@ -433,6 +433,7 @@ p{
 		left:0;
 		font-size: xx-large;
 		color: #9eb728;
+		text-shadow: black 1px 1px 2px;
 		text-align: right;
 		height: 200px;
 		width: 220px;
@@ -641,7 +642,7 @@ p{
 		position: relative;	
 		float: left;
 		border: thin solid black;
-		margin: 5px;
+		margin: 4px;
 	}
 
 	.oppskrift .tekst{
@@ -791,7 +792,7 @@ p{
 		border-radius: 10px;
 		padding:10px;
 		border: 1px solid #9EB728;
-		border: inset 1px solid#9EB728;
+		/*border: inset 1px solid#9EB728;*/
 		box-shadow: 0px 0px 8px #9EB728;
 	}
 
