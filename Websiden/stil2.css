@@ -11,6 +11,10 @@ body{
 	font-family: "Gill Sans", sans-serif;
 }
 
+#kontrast{
+	margin-left: 620px;
+}
+
 h1, h2, h3, h4{
 	color: #9EB728;
 	font-weight: normal;

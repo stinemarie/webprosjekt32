@@ -12,11 +12,10 @@ body{
 }
 
 #kontrast{
-	margin-left: 620px;
-	margin-top: 200px;
+	position: fixed;
+	margin-left: 200px;
+	text-decoration: underline;
 }
-
-
 
 h1, h2, h3, h4{
 	color: #9EB728;
@@ -24,7 +23,7 @@ h1, h2, h3, h4{
 }
 
 h2, h3, h4{
-	font-size: medium;
+	font-size: x-large;
 
 	margin-bottom: 20px;
 }
@@ -84,7 +83,7 @@ p{
 
 	#frame{
 		margin: auto;
-		background: #E6EFFF;
+		background: #E3F1FF;
 		width: 796px;
 		box-shadow: 3px 3px 10px 0px black;
 		margin-top: 100px;
@@ -824,6 +823,7 @@ p{
 		background:#9EB728;
 		color:#fff;
 	}
+
 
 	#bmrbutton{
 		width: 100px;

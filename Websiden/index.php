@@ -22,7 +22,7 @@
 			</div>
 		</a>
 
-		 <a onclick="swapStyleSheet('stil2.css')"> TRYKK HER FOR ØKT KONTRAST</a>
+		 <a id="kontrast" onclick="swapStyleSheet('stil2.css')"> TRYKK HER FOR ØKT KONTRAST</a>
 
 		<img id="bakgrunn" src="img/bakgrunn.jpg" alt="bakgrunnsbilde">
 		<img id="superhemmelig" src="img/superhemmeligkapp.png" alt="knapp for å komme inn på en skjult video">
