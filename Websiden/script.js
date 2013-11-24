@@ -211,15 +211,6 @@ function hovedNavigering() {
 	});
 };
 
-	var animates = false;
-	setInterval(function() {
-		if(animates == false) {
-			neste();			
-		}
-	}, 6500);
-
-
-
 function bildeMeny(){ 
 	$('.lenke').hover(function(){ 
 		$(this).children('.overlay').fadeIn('slow'); 
