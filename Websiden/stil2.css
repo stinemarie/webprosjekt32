@@ -274,7 +274,7 @@ hr{
 	float: left;
 	border: 2px solid #9EB728;
 	border-right: 0;
-	background: white;
+	background: white !important;
 	height: 45px;
 	text-align: center;
 	padding-top: 15px;
@@ -284,7 +284,7 @@ hr{
 }
 
 #hovednavigering div a{
-	color: black; 
+	color: black !important; 
 	font-size: 20px;
 	padding-top: 15px;
 	position:absolute;
@@ -648,7 +648,6 @@ hr{
 
 }
 
-
 /*REGLER FOR INTERVJU MED PERSONLIGETRENERE*/
 .personligtrener #trenerne{
 	margin-left: 120px;
@@ -695,12 +694,15 @@ hr{
 /*REGLER FOR LENKER*/
 
 .lenker{
-	height: 1000px;
+	height: 1300px;
+}
+
+.lenker figure{
+	display: none;
 }
 
 .lenker .lenkesamling{
-	position: static;
-	width: 350px;
+	width: 100%;
 	float: left;
 	margin-bottom: 70px;
 }
