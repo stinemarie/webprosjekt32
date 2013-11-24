@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<link rel="shortcut icon" href="img/ikon/favicon.ico">
 		<meta charset="utf-8">
 		<title>TTFS</title>
 		<link id="pagestyle" rel="stylesheet" type="text/css" href="stil1.css">
