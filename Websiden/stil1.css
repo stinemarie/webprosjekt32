@@ -698,7 +698,7 @@ p{
 /*REGLER FOR LENKER*/
 
 	.lenker{
-		height: 1000px;
+		height: 1100px;
 	}
 
 	.lenker .lenkesamling{
@@ -711,6 +711,11 @@ p{
 	.lenker a{
 		margin-left: 20px;
 		display: block;
+	}
+
+	.lenker p{
+		margin: 0px;
+		margin-top: 5px;
 	}
 
 	.lenker .beskrivelse{
