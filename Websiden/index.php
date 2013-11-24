@@ -22,19 +22,7 @@
 			</div>
 		</a>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-		 <a id="kontrast" onclick="swapStyleSheet('stil2.css')"> TRYKK HER FOR ØKT KONTRAST</a>
-=======
 		 <a id="kontrast" onclick="swapStyleSheet('stil2.css')"> <p>TRYKK HER FOR ØKT KONTRAST</p></a>
->>>>>>> 5a777a70a5d22e373ab346433e3d703111d4b4ac
-=======
-		 <a id="kontrast" onclick="swapStyleSheet('stil2.css')"> <p>TRYKK HER FOR ØKT KONTRAST</p></a>
->>>>>>> 5a777a70a5d22e373ab346433e3d703111d4b4ac
-=======
-		 <a id="kontrast" onclick="swapStyleSheet('stil2.css')"> <p>TRYKK HER FOR ØKT KONTRAST</p></a>
->>>>>>> 5a777a70a5d22e373ab346433e3d703111d4b4ac
 
 		<img id="bakgrunn" src="img/bakgrunn.jpg" alt="bakgrunnsbilde">
 		<img id="superhemmelig" src="img/superhemmeligkapp.png" alt="knapp for å komme inn på en skjult video">
