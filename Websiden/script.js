@@ -247,7 +247,7 @@ function easterEggUt(){
 	$("#tamegtilbake").click(function(){
 		$(".easteregg").fadeOut('slow');
 		$(".easteregg *").fadeOut('slow', function(){
-			$("body :not(.easteregg)").delay(500).fadeIn(900);
+			$("body :not(.easteregg, #taMegTilToppen").delay(500).fadeIn(900);
 			$("#logo").delay( 200 ).animate({top:'-75px'},700);		
 			$("#treningslink").animate({top: "0px"},500);
 			$("#kostholdslink").delay(200).animate({top: "0px"},500);

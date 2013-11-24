@@ -121,7 +121,7 @@ p{
 		position: fixed;
 		top: 35px;
 		left: 25px;
-		z-index: -5;
+		z-index: 20;
 	}
 
 	#logo{
