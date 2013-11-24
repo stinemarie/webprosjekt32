@@ -30,7 +30,7 @@
 						<div id="gamma">
 							<p>les intervju med personlige trenere</p>
 							<img class="hvitspiss" src="./img/ikon/pointoverlay.png" alt="hvit overtrekksbilde">
-							<img src="./img/ikon/yoga.jpg">
+							<img src="./img/ikon/yoga.jpg" alt="yoga">
 						
 						</div>
 					</a>
@@ -40,7 +40,7 @@
 						<div id="delta">
 							<p>les om<br>oss!</p>
 							<img class="hvitspiss" src="./img/ikon/pointoverlay.png" alt="hvit overtrekksbilde">
-							<img src="./img/ikon/trykkher.jpg">	
+							<img src="./img/ikon/trykkher.jpg" alt="trykk her">	
 						</div>
 					</a>
 				</li>
